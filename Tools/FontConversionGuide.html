@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<link type="text/css" href="../theme.css" rel="stylesheet">
+<head>
+	<title>Font Conversion Guide - StepMania Tool Archive</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script> let CurrentPage = 'Tools'; </script>
+</head>
+<link rel="shortcut icon" type="image/png" href="../../Builds/VersionIcon/SM40.png"/>
+<body>
+<div id="container">
+	<div id="menu-box">
+		<div id="site-logo"></div>
+		<div class="top-menu" id="top-menu"></div>
+	</div>
+	<div class="content-container wide-container">
+		<div class="content">
+			<h1>Font Conversion Guide</h1>
+			<center>
+				A tutorial on how to convert fonts generated with the Texture Font Generator to older StepMania versions.
+				<br>
+				<strong>Keep in mind: This is meant for older versions like anything below StepMania 4.</strong>
+				<hr>
+			
+				<div style="display: flex; padding: 20px 0px; width: 70%; align-items: center;">
+					<p style="flex-grow: 1;">To begin, you'll need to have a ini file already exported of the font you want to convert.</p>
+					<img style="flex-grow: 1; max-width: 200px;" src="FCG/FilesList.png">
+				</div>
+				<div style="display: flex; padding: 20px 0px; width: 70%; align-items: center;">
+					<div style="flex-grow: 1; display: flex; flex-direction: column; align-items: center;">
+						<p>Open that file with the text editor of your choice, and head down to the segment, where <text style="color:orange">Line NN</text> can be found.</p>
+						<i><p>You could just, load the font directly on StepMania, and just use it. Right?</p></i>
+						<p>Well, no. Older StepMania's did not have a way to appropiate Row Intergers in font files. So, because of the spacing of the first 10 lines, it will cause a crash.</p>
+					</div>
+					<img style="flex-grow: 3; max-width: 200px;" src="FCG/BeforeCode.png">
+				</div>
+				<div style="display: flex; width: 70%; align-items: center;">
+					<p style="flex-grow: 1;">The way to fix this, is by simply deleting a space on those first 10 lines, like so.</p>
+					<img style="flex-grow: 1; max-width: 200px;" src="FCG/AfterCode.png">
+				</div>
+				<p>And with that, the font is ready to go for older versions of StepMania!</p>
+			</center>
+		</div>
+	</div>
+	<div class="footer" id="Footer"></div>
+</div>
+</body>
+<script src="../functions.js"></script>
+<script src="../TopMenu.js"></script>
+<script>GenerateTopMenu()</script>
+</html>

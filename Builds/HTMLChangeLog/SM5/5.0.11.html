@@ -1,0 +1,74 @@
+<meta charset="UTF-8">
+<p>StepMania 5.0.11; release notes compiled and Markdown formatted by <a href="https://github.com/kyzentun">@kyzentun</a>:</p>
+<h3 id="this-is-divided-into-two-sections-">This is divided into two sections:</h3>
+<ul>
+<li>Player visible changes: Bug fixes and a couple new preferences.</li>
+<li>Themer visible changes: Bug fixes, new lua functions, new metrics.</li>
+</ul>
+<p>Items are roughly grouped into the general part of StepMania they fit into.</p>
+<h1 id="player-visible-changes-">Player visible changes:</h1>
+<h3 id="edit-mode-">Edit Mode:</h3>
+<ul>
+<li>Beat bars are drawn properly when M-mods are used.</li>
+<li>Added &quot;Clear timing in region&quot; to timing menu.</li>
+<li>Fixed crash that occurs when &quot;Paste timing data&quot; is used after copying a<br>region of timing data that only contains stops.</li>
+</ul>
+<h3 id="gameplay-">Gameplay:</h3>
+<ul>
+<li>Added a pause menu to the default theme. This menu can be brought up by<br>pressing Select or Back twice, or by pressing MenuLeft and MenuRight at the<br>same time. The pause menu allows exiting from the middle of the song or<br>restarting the song or continuing.</li>
+<li>In an Endless course, songs will only be repeated after all songs<br>in the group have been played.</li>
+</ul>
+<h3 id="language-">Language:</h3>
+<ul>
+<li>Bahasa Indonesian translation added to default theme.</li>
+</ul>
+<h3 id="minimaid-">Minimaid:</h3>
+<p>Minimaid driver added for Linux. This is practically identical to the<br>Windows minimaid driver that pkgingo wrote.</p>
+<h3 id="preferences-">Preferences:</h3>
+<p>Added DisableUploadDir preference to skip saving a score entry to Save/Upload<br>every time a song is played. Generating the unique filename can take several<br>seconds when there are years of scores accumulated. This preference defaults<br>to false.</p>
+<h3 id="bug-fixes-">Bug Fixes:</h3>
+<ul>
+<li>Fixed No Fakes mod to remove fakes inside warps.</li>
+<li>Colon key should be mappable.</li>
+<li>BG Brightness is no longer forced to 100% on songs that only have a<br>beginner chart.</li>
+<li>Graphics/Sound options screen should not crash or hang on load anymore.<br>The list of resolutions was being fetched in an inefficient and buggy way.</li>
+<li>Linux event devices now start at JOY10 instead of JOY1. Without this<br>change, if one dance pad is a joystick device, and the other is an event<br>device, they will both be JOY1, and stepmania will think they are the same<br>dance pad. If you use Linux, assume that you have to remap your dance pad.</li>
+<li>Stepmania will force disconnection from the SMO server when entering the<br>jukebox or sync calibration screens to avoid crash.</li>
+</ul>
+<h1 id="themer-visible-changes-">Themer visible changes:</h1>
+<h2 id="bug-fixes-and-new-functions-">Bug fixes and new functions:</h2>
+<ul>
+<li>Bug fixes are marked with [B].</li>
+<li>Functions are marked with [F].</li>
+<li>Metrics added are marked with [M].</li>
+</ul>
+<h3 id="actor-">Actor:</h3>
+<ul>
+<li>[F] get_tween_uses_effect_delta and set_tween_uses_effect_delta added.</li>
+</ul>
+<h3 id="global-">Global:</h3>
+<ul>
+<li>[F] get_sound_driver_list added.</li>
+</ul>
+<h3 id="ragefilemanager-">RageFileManager:</h3>
+<ul>
+<li>[B] OS X special files should be ignored in general.</li>
+<li>[B] Lua functions for RageFile should now emit an error when the file was<br>not opened correctly instead of crashing.</li>
+</ul>
+<h3 id="player-">Player:</h3>
+<ul>
+<li>[F] ChangeLife and SetLife added.</li>
+</ul>
+<h3 id="popn-">Popn:</h3>
+<ul>
+<li>[B] Judgment levels in popn game mode now use W1 to W5.</li>
+</ul>
+<h3 id="screenmanager-">ScreenManager:</h3>
+<ul>
+<li>[F] get_input_redirected and set_input_redirected added.</li>
+</ul>
+<h3 id="selectmusic-">SelectMusic:</h3>
+<ul>
+<li>Using lua music files for the section music and similar things works now.</li>
+<li>[F] Added CanOpenOptionsList. OpenOptionsList will do nothing if<br>CanOpenOptionsList returns false.</li>
+</ul>

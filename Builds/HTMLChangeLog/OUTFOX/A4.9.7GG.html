@@ -1,0 +1,37 @@
+<meta charset="UTF-8">
+<h1 id="outfox-5-3-0-alpha-4-9-7gg-build-23rd-february-2021-good-game-well-played-">OutFox 5.3.0-alpha.4.9.7GG Build - 23rd February 2021 &quot;Good Game, Well Played...&quot;</h1>
+<p><img src="https://user-images.githubusercontent.com/11047768/108900402-7e467380-7611-11eb-9cb8-fa743f1037ff.png" alt="image">
+ SDL is SUS</p>
+<h1 id="-please-take-a-moment-to-understand-that-there-is-a-lot-in-this-alpha-release-so-please-take-a-moment-to-read-over-the-changes-"><strong>Please take a moment to understand that there is a lot in this Alpha Release, so please take a moment to read over the changes!</strong></h1>
+<h1 id="-linux-users-if-you-have-a-black-screen-on-loading-due-to-nouveau-ati-drivers-go-into-your-preference-ini-and-set-highres_textures-to-auto-"><strong>LINUX USERS! IF YOU HAVE A BLACK SCREEN ON LOADING DUE TO NOUVEAU/ATI DRIVERS, GO INTO YOUR PREFERENCE.INI AND SET HIGHRES_TEXTURES TO AUTO!!!!</strong></h1>
+<p><code>HighResolutionTextures=ForceOn</code> needs to be <code>HighResolutionTextures=Auto</code>
+However, some machines may need it to be <code>HighResolutionTextures=ForceOff</code>
+You may also need to set your <code>MaxTextureResolution=2048</code> to <code>MaxTextureResolution=1024</code> as well.</p>
+<h2 id="gg-hotfix-patch">GG HotFix patch</h2>
+<p>Thanks to several upstream issues, we&#39;ve taken the decision to move the underlying version of the SDL engine back to how it was on 4.9.6, and we&#39;ll monitor and troubleshoot the issues some of you guys faced in 4.9.7. We apologise for those on Linux for the issues, and we have now forked our own SDL branch to doublecheck for issues in the future.</p>
+<p><strong>4.9.7GG Specific Fixes</strong></p>
+<ul>
+<li>❕✅📝 Fixed Crash when entering Extended/Course Mode [Dance] when entering options #29 (Thanks Jubo!)</li>
+<li>❕✅📝 Fixed System Lockup on certain nouveau drivers when launching the game #209 (Thanks Din!)</li>
+<li>❕✅📝 Fixed Segfault on game launch with older ATI cards on linux #208 (Thanks Din!)</li>
+<li>❕✅📝 Fixed Crash on Twister OS on the RPi #216 (Thanks snil4!)</li>
+<li>❕✅📝 Fixed Smoothlines Issue #164 (thanks natano!)</li>
+<li>❕✅📝 Fixed Crash after load screen on RPi 4 64bit #211 (Thanks eudes!)</li>
+<li>❕✅📝 Fixed Crash on Calibrate Audio Sync on pump #210 (Thanks Shrmp0, Kaede573!)</li>
+<li>❕✅ Fixed Performance Drop due to renderer present context</li>
+<li>❕✅ Removed nvidia driver debug code causing some issues</li>
+<li>❕✅ Tweaked GLEW to not cause a race condition</li>
+<li>❕✅ Fixed bug where window was presenting a GL version not supported by the system</li>
+<li>❕✅ Fixed one of my oopsies by leaving in a forced Nvidia GL debug option</li>
+<li>❕✅ Force High Res Textures to auto since we&#39;re now as size 2048</li>
+<li>❕✅ Force High Res Textures to auto to fix crash on mesa on ARM32 based boards</li>
+<li>❕✅ Fixed Crash on Pinebook/RockPi4 due to bad opengl initialisation</li>
+<li>❕✅ Downgraded SDL back to OutFox 2.0.13modded</li>
+<li>❕✅ Fixed font size and life bar on pump mode</li>
+<li>❕✅ Fixed icon sizing on the application itself</li>
+<li>❕✅ Add missing visuals for pump mode</li>
+<li>❕✅ Fix GLAD being wrongly selected on some systems, causing a crash</li>
+<li>❕✅ Added 41 new tween system for further use in the future</li>
+<li>❕✅📝 Moved profile size to 20MB #215 (Thanks Kellykato!)</li>
+<li>❕✅ Updated docker build system to support new changes</li>
+</ul>

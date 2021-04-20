@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<link type="text/css" href="../theme.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="../Builds/VersionIcon/SM40.png"/>
+<head> <meta charset="UTF-8">
+    <title>StepMania Archive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="StepMania Archive">
+    <meta name="description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
+</head>
+<script> let CurrentPage = 'About'; </script>
+<body>
+    <div id="container">
+        <div id="menu-box">
+            <div id="site-logo"></div>
+            <div class="top-menu" id="top-menu"></div>
+        </div>
+        <div class="content-container wide-container">
+            <div class="content">
+                <h1>About</h1>
+                <center>
+                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
+                </center>
+                <p>
+                        The StepMania archive is a side project created by <a href="../../">Jose_Varela</a> to collect and preserve almost everything from StepMania, and the contents made by the community itself.
+                        Everything done in the project and subsequent sites are all handled by himself. No use of automation or anything like that.
+                </p>
+                <p>
+                        It started back in 2017 with the Build Archive, which initially was to keep handy older builds due to testing with simfiles and themes.
+                        But eventually, it kept growing exponentially to the point that the entire archive had to do 3 reallocations due to storage limitations.<br>
+                        Originally, the archive was only linked at the UKSRT server, but at mid 2018, it started to gain attention from the community at large.
+                        They were really interested on a archive like site for the engine.
+                </p>
+                <p>
+                        Currently, the StepMania Archive is expanding to more areas aside from themes, such as NoteSkins and Characters. Eventually there might be more content.
+                </p>
+                
+                <p id="archivesize">
+                    As of ${date}, the Archive is curently hosting ${size} of data.
+                </p>
+                <div id ="ThanksArea"></div>
+                <h2>Submission requests</h2>
+                <p>
+                        Everything posted and submitted to the archive is done voluntarily by the community. If you're an author of any content in this archive, and see some work that is violating some kind of distribution right set
+                        on the theme's original release, you can request a takedown* by contacting Jose_Varela via Email with the buttons below.<br>
+
+                        
+                        <small>*You may be asked if at least theme information/overview/history/screenshots can remain on the archive upon a takedown request, you may choose to deny this as well.</small>
+
+                        <center>
+                            <a href="mailto:josevarela@tutanota.com?subject=Submission Request" target="_top">Request a submission</a> | <a href="mailto:josevarela@tutanota.com?subject=Submission Takedown Request" target="_top">Request a takedown</a>
+                        </center>
+                </p>
+            </div>
+            <div class="footer" id="Footer"></div>
+        </div>
+    </div>
+</body>
+<script src="../functions.js"></script>
+<script src="../TopMenu.js"></script>
+<script>
+    GenerateTopMenu();
+    LastUpdate.UpdateArchiveData()
+    LastUpdate.GenerateThanks()
+</script>
+</html>

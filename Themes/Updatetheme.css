@@ -1,0 +1,114 @@
+/* Color BG 003364 */
+body{
+	margin:20px;
+	background-color: #222;
+	font-family: 'Prompt', sans-serif;
+	color: #fff;
+}
+
+a{
+	color:#CDDC39;
+}
+
+a:visited{
+	color:#BDBDBD;
+}
+
+#header{
+	position: fixed;
+	/* padding-top:0.25em;
+	padding-bottom:0.25em;
+	padding-left: 0.75em; */
+	background-color: #000;
+	width: 96%;
+	margin: 0 auto;
+
+	font-size:1.05em;
+	font-size-adjust: absolute;
+	font-family: 'Cabin', sans-serif;
+	color:#cef;
+	text-shadow:0px 0px 4px rgba(0,0,0,1);
+	margin-top: -30px;
+}
+
+#header a:visited{
+	color:#cef;
+}
+
+#content{
+	margin-top: 30px;
+	width:98%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#607D8B;
+	color: #FFFFFF;
+	/* padding:0.5em; */
+}
+/* 
+#footer{
+	background-color:#000;
+	font-size:90%;
+	text-align:center;
+	font-family: 'Cabin', sans-serif;
+	color:#cef;
+	padding-top:0.05em;
+	padding-bottom:0.05em;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+#footer p{
+	line-height:0.5em;
+	padding-top:0;
+	padding-bottom:0;
+}
+ */
+
+#tagline{
+	font-size:1.25em;
+	font-style:italic;
+	font-family:serif;
+}
+
+/* table styles */
+table{
+	border-collapse:collapse;
+	border-color: #fff;
+
+	background-color: #000;
+	margin: 0px;
+    font-size: 16px;
+    /* 100 = view port width, as 1vw = 1/100th of that
+       So if the container is 50% of view port (as here)
+       then factor that into how you want it to size.
+       Let's say you like 5vw if it were the whole width,
+       then for this container, size it at 2.5vw (5 * .5 [i.e. 50%])
+    */
+    font-size: 80% | 100% | 0;
+}
+
+th{
+	border-color: #555;
+	background-color: #000;
+}
+
+td{
+	margin: 4px;
+}
+
+tr:nth-child(odd){
+	border-color: #555;
+	background-color: #000;
+}
+tr:nth-child(even){
+	border-color: #555;
+	background-color: #444;
+}
+
+tr a{
+	color:#2F0;
+}
+
+tr a:visited{
+	color:#0ff;
+}

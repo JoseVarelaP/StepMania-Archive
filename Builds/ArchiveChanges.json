@@ -1,0 +1,1163 @@
+[
+	{
+		"Date": "20/Apr/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20080103-src.tar.gz'>Added source package for StepMania 4 CVS 20080103</a>. Thanks to HeySora."
+				]
+			},
+			{
+				"Icon": "SMSSC.png",
+				"Name": "SM-SSC",
+				"List": [
+					"<strike>A restructure of the category's files is currently in progress, so most files in this section might not be downloadable during this.</strike>",
+					"Process has finished. Most files are now packaged as tar.gz packages from the original repositories."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/Apr/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Characters Archive",
+				"List": [
+					"Fixed download link for Harp Note."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Fixed discrepancies with some themes being on the wrong categories."
+				]
+			}
+		]
+	},
+	{
+		"Date": "5/Apr/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"Fixed drop down selection of builds given that having the list being on the first option by default prevented the download of that build given it was already selected."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Fixed linux build links for Alpha 4, 4.1."
+				]
+			}
+		]
+	},
+	{
+		"Date": "29-30/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added more screenshots for SM5 themes. Thanks to JustMoneko for the images.",
+					"Currently in the works of a list type row for obtaining older versions of themes, speaking of which...",
+					"Older versions of themes are also going to be archived, which will take use of this system.",
+					"Some examples of this new system are: <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=CS8S'>CyberiaStyle 8 -solid-</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SimplyLove'>Simply Love</a>.",
+					"Added all versions of Simply Love (SM5) ever released on its main repository.",
+					"Fixed release date for <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=TDRMix'>TDR-Mix -Original Edition-</a>. Thanks to Dedy Gunawan for pointing this out."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"A similar system added on the Theme Archive has been added here as well. Just click on a drop menu, select your desired option and it will automatically download that version.",
+					"Wording on some of the download options have been changed to emphasize different choices."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Fixed source package for StepMania-3.9-rc2aX1."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added version 0.71.0."
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Mar/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"More CSS fixes for mobile.",
+					"Added the rest of the changelogs from the older version of the archive."
+				]
+			}
+		]
+	},
+	{
+		"Date": "21/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.0",
+				"List": [
+					"Added source code packages for the following builds:<ul>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz'>StepMania 3.0 Beta 4</a>.",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz'>StepMania 3.0 Beta 5</a>.",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz'>StepMania 3.0 Final</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "19/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.0",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-06-03%20ITG1%20Arcade%20Beta.7z'>In The Groove (June 3rd Beta)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z'>In The Groove (March 4th Beta)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z'>In The Groove (January 7th Beta)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z'>In The Groove (July 23rd Alpha)</a>.",
+					"Added the <a href='BuildChangeLogs.php?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
+				]
+			}
+		]
+	},
+	{
+		"Date": "9/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Site Wide",
+				"List": [
+					"Fixes on a couple of elements on the Changelog previewer for dark mode.",
+					"Fixed favicons being missing on some categories.",
+					"The changelog now dynamically changes title to reflect on the current build you're looking at."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List" : [
+					"Fixed the <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
+				]
+			}
+		]
+	},
+	{
+		"Date": "5/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Site Wide",
+				"List": [
+					"More CSS improvements to make the site more responsive on weird displays.",
+					"Initial testing of of the site's Dark Mode! <a href='mailto:josevarela@tutanota.com?subject=StepMania Archive Dark Mode Feedback' target='_top'>Feedback on this mode would be highly appreciated.</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "4/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip'>Step Prime Beta 0.94</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "3/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip'>v12</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip'>v13</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "2/Mar/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"Fixed translator list on upstream StepMania credits.",
+					"Optimized html files for most sections.",
+					"Added link to the <a href='https://discord.gg/uMkVUrr'>discord server</a> (I'm not even sure why didn't I put this before, but it is there now)."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added Font Conversion Guide for older StepMania versions."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "NoteSkin Archive",
+				"List": [
+					"NoteSkin archive work has started, site is not public yet."
+				]
+			}
+		]
+	},
+	{
+		"Date": "28/Feb/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"Now there's dropdown menus that can be added to the categories. This will allow for many other subsections later on."
+				]
+			}
+		]
+	},
+	{
+		"Date": "28/Feb/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"General CSS / JavaScript layout fixes.",
+					"Transfered over CSS changelog changes to the main CSS, so no more need to manually set style for each html item on the build changelog."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added entries for the following tools:",
+					"<a href='../Tools/index.html#TranslationToolkit'>Translation-Toolkit</a>",
+					"<a href='../Tools/index.html#Stepmania-TranslatorViewMaker'>Stepmania-TranslatorViewMaker</a>",
+					"<a href='../Tools/index.html#Tiny-Webini'>Tiny-Webini</a>"
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added changelog pages for the following builds:",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.0'>StepMania OutFox Alpha 4.8.0</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.1'>StepMania OutFox Alpha 4.8.1</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.2'>StepMania OutFox Alpha 4.8.2</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.5'>StepMania OutFox Alpha 4.8.5</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.0HF'>StepMania OutFox Alpha 4.9.0</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.1'>StepMania OutFox Alpha 4.9.1</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.5'>StepMania OutFox Alpha 4.9.5</a>"
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added/Fixed changelog pages for the following builds:",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.8'>StepMania 5.0.8</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.9'>StepMania 5.0.9</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.10'>StepMania 5.0.10</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1.0A'>StepMania 5.1.0 Alpha</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.11'>StepMania 5.0.11</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1.0A2'>StepMania 5.1.0 Alpha 2</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.12RC'>StepMania 5.0.12RC</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.0.12'>StepMania 5.0.12</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "27/Feb/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"Thanks to Moru, some elements of the website have changed to (hopefully) provide a better experience.",
+					"Headers for categories are now clickable, allowing you to toggle them, giving more flexibility on what you actually want to see.",
+					"Elements are also hoverable, giving color to emphasize that hey, you're on there."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Changelogs for some OutFox versions have been added, complete with images and links! <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>(like this!)</a>",
+					null,
+					"Added changelog pages for the following builds:",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.6 '>StepMania OutFox Alpha 4.9.6</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a>",
+					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>StepMania OutFox Alpha 4.9.7GG</a>"
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added changelog pages for the following builds: <ul>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "24/Feb/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.7GG."
+				]
+			}
+		]
+	},
+	{
+		"Date": "20/Feb/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.7."
+				]
+			}
+		]
+	},
+	{
+		"Date": "9/Jan/21",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added OpenITG Beta 1 and 2 to the listing, turns out they didn't transfer over, so that's fixed."
+				]
+			}
+		]
+	},
+	{
+		"Date": "8/Jan/21",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added Sushi Violation 2018 V2 (Original hosting link will be removed on February 1st).",
+					"Added StepPrime Betas 0.90, 0.91 and 0.93. These do not include songs.",
+					"Added Rave It Out: The Infusion. This does not include songs."
+				]
+			}
+		]
+	},
+	{
+		"Date": "4/Jan/21",
+		"Changes": [
+			{
+				"Name": "",
+				"List": [
+					"Hope you had a nice new years eve. Mine was way calmer than past ones, and I liked that."
+				]
+			},
+			{
+				"Icon": "SM164.png",
+				"Name": "DDR PC Edition",
+				"List": [
+					"Added DDR PC Edition. Just the listing however, cause this file is completely lost to time."
+				]
+			}
+		]
+	},
+	{
+		"Date": "22/Dec/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.6."
+				]
+			}
+		]
+	},
+	{
+		"Date": "3/Dec/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.5."
+				]
+			}
+		]
+	},
+	{
+		"Date": "22/Nov/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Updated theme listing for OpenITG."
+				]
+			}
+		]
+	},
+	{
+		"Date": "20/Nov/20",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Readded category, thanks to Mr.ThatKid for pointing it out."
+				]
+			}
+		]
+	},
+	{
+		"Date": "7/Nov/20",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Items have been categorized. Likely I'll make them dropdown menus eventually."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Site Wide",
+				"List": [
+					"Migration has been finalized. Welcome to the new version of the StepMania Archive!",
+					"Added option for request submissions or takedowns via email in the About page."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added a few more DDReamStudio builds, but a lot are missing, specially the last ones. Please check out the DDReam section for more information."
+				]
+			}
+		]
+	},
+	{
+		"Date": "6/Nov/20",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added anyMania. It's uh, a tool, I guess."
+				]
+			}
+		]
+	},
+	{
+		"Date": "5/Nov/20",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added Club Fantastic: Synthetic Dance 2020."
+				]
+			}
+		]
+	},
+	{
+		"Date": "2/Nov/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Updated dates and added 4.8.0 as it turns out it was not there."
+				]
+			}
+		]
+	},
+	{
+		"Date": "31/Oct/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.1."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added SM Ridiculous Timing."
+				]
+			}
+		]
+	},
+	{
+		"Date": "28/Oct/20",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Version 0.31 of Texture-Font-Generator-2020-Squirrel has been added."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Announcers Archive",
+				"List": [
+					"This section now has a database so should be ok now in SeaMonkey.",
+					"The following have been added: Caddicarus, Call Me Kevin, Ashens, Funhaus, Jacksfilms, which are part of KStep's announcer pack.",
+					"Preview audios for DDR related announcers are being worked on."
+				]
+			}
+		]
+	},
+	{
+		"Date": "14-18/Oct/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"The entire archive has been updated to now use JavaScript!",
+					"Redesigned website to look more alike StepMania's 2007 look.",
+					"A lot of the build dates have been fact checked and updated.",
+					"Transfer of changelogs are in progress, they will take a bit.",
+					"Footage and Build Archives are now available! Footage shows videos of StepMania seen in tv/internet/events, and others; while the tools archive can store utilities that you may need when it comes to StepMania."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added XSoft's ITG2."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added 'In The Groove System Image' series. It's 12 versions, and they are meant for installing to a dedicab.",
+					"Added StepMania Event, a 4 player version of StepMania 5 made by electromuis."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Uploading the rest of the source files."
+				]
+			}
+		]
+	},
+	{
+		"Date": "24/May/20",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "5.3 OutFox",
+				"List": [
+					"Added versions 4.5, 4.5.6",
+					"Updated links for version 4.3."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Started migration of GitHub links to the archive."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Listing updated up to 0.69.1"
+				]
+			}
+		]
+	},
+	{
+		"Date": "14/Jan/19",
+		"Changes": [
+			{
+				"Icon": "NITG4.png",
+				"Name": "NotITG",
+				"List": [
+					"Added versions 4.5, 4.5.6",
+					"Updated links for version 4.3."
+				]
+			}
+		]
+	},
+	{
+		"Date": "7/Sep/19",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [ "SM 5 Beta 1a has been updated with its installer." ]
+			}
+		]
+	},
+	{
+		"Date": "7/Sep/19",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [ "SM 5 Beta 1a has been updated with its installer." ]
+			},
+			{
+				"Icon": "SMSSC.png",
+				"Name": "SM-SSC",
+				"List": [ "Release Candidate 1 has been updated with its installer." ]
+			},
+			{
+				"Icon": "NITG3.ico",
+				"Name": "OpenITG",
+				"List": [ "NotITG 3.1 has been added." ]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [ "Some links have been updated with SMArchive server archived versions." ]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Beware's Extreme 3 now links to the SMArchive backup.",
+					"Beware's Extreme 2's gameplay patch is now available.",
+					"Massive source code update. around 60% of builds have been listed with their source code."
+				]
+			}
+		]
+	},
+	{
+		"Date": "30/Jun/19",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"ITGPro has been added. Please refer to the note at the end of the SM3.95 table for more information about this particular build.",
+					"In The Groove's PC version has been added. (This is not a cracked version of the game. This is straight up an image from the CD. You will *need* a key to access the game.)"
+				]
+			}
+		]
+	},
+	{
+		"Date": "17/Apr/19",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [ "XSoft's In The Groove 2 has been added." ]
+			}
+		]
+	},
+	{
+		"Date": "24/Mar/19",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [ "XSoft's DDR X has been added." ]
+			}
+		]
+	},
+	{
+		"Date": "19/Mar/19",
+		"Changes": [
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [ "Initial set of Etterna builds are now being listed." ]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [ "StepMania 4 Alpha 5 has been added." ]
+			}
+		]
+	},
+	{
+		"Date": "10/Feb/19",
+		"Changes": [
+			{
+				"Icon": "SM164.png",
+				"Name": "StepMania 1.6x",
+				"List": [ "More builds have been listed, most of them I do not know their release dates." ]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"StepF2 Icon was added.",
+					"1.61.1 Update package will come eventually."
+				]
+			}
+		]
+	},
+	{
+		"Date": "31/Jan/19",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"The server file transfer continues, and now there's a new addition to the site: Source Code! Keep in mind: they're being added slowly, not all releases had source code released, and some will not be uploaded due to agreements with some build developers.",
+					"You can download the source code for a specific build by clicking the S at the end of the table."
+				]
+			}
+		]
+	},
+	{
+		"Date": "28/Jan/19",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [ "StepMania 4.0 Beta 10 has finally been restored and it's back up for download." ]
+			},
+			{
+				"Icon": "SM30.png",
+				"Name": "StepMania 3.9",
+				"List": [ "Added Touch Input demonstration video for StepMania AMX Beta 5.9.2." ]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"The site is getting a new file hosting server! Huge thanks to Conbicubated for making this happen!<br>This transfer will happen slowly as I'm copying all of the current files from the archive to this server.<br>The GDrive contents will remain as a fail-safe measure in case some files in the server break, so I can fix them."
+				]
+			}
+		]
+	},
+	{
+		"Date": "22/Sep/18",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"StepF2 V1.15 has been added. If anyone has older versions, please let me know.",
+					"ZettMania 0.2.4a has finally been found and has been added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Jul/18",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"StepMania 5.1 Beta 2 has been added, alongside its changelog, too."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"A lot of people have been asking me where are the Etterna builds.<br>One of the points I bring most of the time, is because there is no point on playing old versions because scores are not valid anymore due to the wife calculator updating on (almost) every new release.<br>However, I could still list them here for historical reasons, and also, the Etterna Online server will convert your scores into the calculator's new data."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/Jul/18",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Sushi Violation has been re-added with the new Re-Packaged version for the Archive.<br>Main difference being the size improvement, from 3.3GB to 1.2GB."
+				]
+			}
+		]
+	},
+	{
+		"Date": "7/Jul/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Beat-Up Mania was added.",
+					"NITG NeonFM: Dance Radio was added.",
+					"NITG StepMania 3.9+ Redux was added."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Sushi Violation - Due to a discovery on a exccesive ammount of unused files found on Sushi Violation's Demo, including ridiculously huge uncompressed video files that severely eat up the space available for the archive, I'm currenly working on a version that reduces the file size drastically."
+				]
+			}
+		]
+	},
+	{
+		"Date": "1/Jul/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"FUCK-STEPMANIA (Ancestor of NITG) has been added."
+				]
+			},
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"SplatMania Version 0.3.3.0 has been added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Jun/18",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Sushi Violation (Demo Version) has been added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "19/Jun/18",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"NotITG V3 has been added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "21/May/18",
+		"Changes": [
+			{
+				"Icon": "SMSSC.png",
+				"Name": "General StepMania-SSC Era",
+				"List": [
+					"Texture Font Generators have been added!<br><br>There's 3 currently, the original english version, as well as Japanese and Korean versions."
+				]
+			}
+		]
+	},
+	{
+		"Date": "28/Apr/18",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Beta 2 now has Mac and linux builds!",
+					"Beta 1 has been added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "27/Apr/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Fixed link for StepMania 3.9 Alpha 1"
+				]
+			},
+			{
+				"Icon": "ZETMANIA.png",
+				"Name": "ZettMania",
+				"List": [
+					"ZettMania Link was fixed. Some versions of this build are lost because Jousway deleted the repo. If someone has more builds, please let me know."
+				]
+			}
+		]
+	},
+	{
+		"Date": "14/Apr/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Fixes for some links."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Windows version of Beta 2 has been added! I need to find the build date for it though!"
+				]
+			}
+		]
+	},
+	{
+		"Date": "10/Mar/18",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"OpenGroove has been added, still need to check what build number this is. And its date too.",
+					"All builds from this section have their links fixed."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Link repairing has started.",
+					"More changelogs have been added!"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"More builds have been added!"
+				]
+			}
+		]
+	},
+	{
+		"Date": "2/Mar/18",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"So, i need to mention this. The hosting of files are going to move to Google Drive.<br>You're probably wondering why, and its because i never let Sora know about this, at all. So, i'm moving everything to my personal GDrive storage to host everything.<br>Now, i'm only updating a few of the links right now, as i'm about to go to a trip (Again) and won't be returning until Sunday evening.",
+					"So, in the meantime, the downloads will still be from the server itself until tuesday, where everything will be Google Drive hosted. "
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Feb/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Started uploading the builds to the server, links with uploaded version will replace the old ones."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Turns out the there was only linux builds uploaded to the server! I'm in the process of reuploading them.",
+					"The Alpha 5 build is on its way :)"
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"<b>IMPORTANT</b> : Currently SourceForge is under a DDoS attack. They're working on it to restore their servers back to normal. In the meantime, most 3.9 builds are going to be unavailable because of this. Please wait patienly while this is being resolved. "
+				]
+			}
+		]
+	},
+	{
+		"Date": "22/Feb/18",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"StepManiaX builds are now being added!"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Links have been fixed. I'm super sorry. Thanks to Nhan for pointing it out.",
+					"StepManiaX builds are now being added!"
+				]
+			},
+			{
+				"Icon": "ITG1.png",
+				"Name": "In The Groove",
+				"List": [
+					"Currently adding build info and stuff, still unsure if i should host it."
+				]
+			},
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Windows Build of Beta 1 has been added! Thanks to Nhan!"
+				]
+			}
+		]
+	},
+	{
+		"Date": "19/Feb/18",
+		"Changes": [
+			{
+				"Icon": "KEY6IX.png",
+				"Name": "Keys-6ix",
+				"List": [
+					"All builds are available."
+				]
+			},
+			{
+				"Icon": "MUN3.png",
+				"Name": "Mungyodance 2",
+				"List": [
+					"Mungyodance 2 is up for download!"
+				]
+			},
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Versions of NotITG are now being cataloged and shown.",
+					"do not was added."
+				]
+			}
+		]
+	},
+	{
+		"Date": "16/Feb/18",
+		"Changes": [
+			{
+				"Icon": "KEY6IX.png",
+				"Name": "Keys-6ix",
+				"List": [
+					"Two builds are available."
+				]
+			},
+			{
+				"Icon": "MUN3.png",
+				"Name": "Mungyodance 1 & 2",
+				"List": [
+					"Mungyodance 1 is up for download!",
+					"The 2 Mungyodance 2 Addons are up for download!"
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"Credits - Find out who made your favorite fork."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/Feb/18",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"Added quite a few of new things.",
+					null,
+					"Club PARASTAR",
+					"Pulsen (The Steam Page)",
+					null,
+					"In the Process of upload/cataloging",
+					"Keys-6ix",
+					"MungyoDance 2 & 3"
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Jan/18",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"Found A LOT of CVS builds. They're not on the site yet, as i'm going to organize them, and it will take time."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/Jan/18",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"Added info about SM5 Tournament Edition.",
+					"Added beware's DDR Extreme build, which is based in 3.9",
+					"Added info about old Mac builds, that only use PowerPC architecture."
+				]
+			}
+		]
+	},
+	{
+		"Date": "31/Dec/17 - 2/Jan/18",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Site Wide",
+				"List": [
+					"I know it's almost new year, but i don't socialize a lot, which is bad for my life, i know, but i have to update this though.",
+					null,
+					"Added some more StepMania 3.9 builds",
+					"Found and applied build dates for each SM-SSC build",
+					"Also found the build dates for the earlier SM5 builds, but one is still missing. (This one being SM5 Alpha 1a)",
+					"Added StepMana 5 Tournament Edition to the list. I actually asked Freem about the project a while ago, but he told me that he pretty much abandoned it, without informing it. I believe the forum post is still available in the StepMania forums."
+				]
+			}
+		]
+	}
+]

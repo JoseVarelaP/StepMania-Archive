@@ -1,0 +1,55 @@
+<meta charset="UTF-8">
+<p>StepMania 5.1.0 Alpha 2; release notes compiled and Markdown formatted by <a href="https://github.com/kyzentun">@kyzentun</a>:</p>
+<h1 id="compiling-">Compiling:</h1>
+<p>Check the section on Compiling in the release notes for the previous 5.1.0 alpha release. Those instructions still apply.</p>
+<h1 id="linux-fullscreen-">Linux Fullscreen:</h1>
+<p>The backend for fullscreen mode on linux has been rewritten to allow control<br>over which display is used and whether stepmania uses exclusive mode.</p>
+<h1 id="newfield-changes-">NewField changes:</h1>
+<p>All themes use the NewField in gameplay now. The old NoteField actor does<br>not exist on gameplay anymore.</p>
+<h2 id="compatibility-mode-">Compatibility mode:</h2>
+<p>NewField has a special mode to make it use the old PlayerOptions mods instead<br>of the mods that are built into it. Anything that touches the old<br>PlayerOptions mods will trigger the auto detection to put the field into<br>defective mode for that player.</p>
+<h2 id="edit-mode-">Edit Mode:</h2>
+<p>If the beat bars are misaligned and the receptors are shaking when htting play in edit mode, something is triggering the defective mode detection in the NewField. Look for things that touch PlayerOptions and remove them if you&#39;re a themer.</p>
+<h2 id="newskin-changes-">NewSkin changes:</h2>
+<h3 id="noteskin-parameters">Noteskin parameters</h3>
+<p>This is a system for allowing a noteskin to provide choices to the player<br>that change the behavior of the noteskin. The noteskin creates some<br>variables and decides what to do with them, the theme provides a menu, and<br>the engine saves the parameters in the player&#39;s profile.</p>
+<h3 id="other-changes">Other changes</h3>
+<ul>
+<li>Added support for 3D noteskins.</li>
+<li>Added anim_time and anim_uses_beats for controlling how fast taps are<br>animated.</li>
+<li>Added quantum_time for controlling how many beats the quantizations are<br>spread over. This should make is possible to make a noteskin where half<br>notes look different from 4th notes.</li>
+<li>Added edgy, EasyV2 and ExactV2 noteskins, which support dance, pump, and<br>solo.</li>
+<li>Removed rotations table from the column data. Set the rotation of the taps<br>with InitCommand instead.</li>
+<li>layers_above_notes and layers_below_notes fields merged into a single<br>layers field. Each layer must set its draw order so the NewField knows<br>when to render it. Each layer should also set its fade type and transform<br>type so that the NewField knows which mods to apply to it.</li>
+</ul>
+<h2 id="lifts-">Lifts:</h2>
+<p>Lifts are rendered with a hold body preceding them to give the player some<br>warning time. The length of the hold body defaults to .25 seconds or .25<br>beats, whichever puts it further away from the note. The hold body is purely<br>visual, it is not judged with a hold judgment.</p>
+<h2 id="other-newfield-changes-">Other NewField changes:</h2>
+<ul>
+<li>reverse_percent changed to reverse_scale to simplify reverse code.</li>
+<li>Themers should reread Docs/Themerdocs/5.1_incompatibilities/NewField.md.</li>
+</ul>
+<h1 id="player-options-">Player Options:</h1>
+<p>The default theme has a new Player Options screen designed to allow setting<br>all the NewField related options.</p>
+<h1 id="other-bug-fixes-">Other bug fixes:</h1>
+<ul>
+<li>Fixed bug that broke charts that had scroll segments but not other timing<br>segments.</li>
+</ul>
+<h1 id="themer-visible-changes-">Themer visible changes:</h1>
+<h2 id="customspeedmods-">CustomSpeedMods:</h2>
+<p>The CustomSpeedMods system that reads SpeedMods.txt from the profile is<br>deprecated and its load function is no longer called. Using CustomSpeedMods<br>or ArbitrarySpeedMods will trigger the defective mode auto detection.</p>
+<h2 id="gamestate-">GameState:</h2>
+<p>The ApplyGameCommand function has been removed. Everything that it did has<br>been possible through other functions for a year, so it&#39;s obsolete.</p>
+<h2 id="item-scroller-">Item Scroller:</h2>
+<p>A lua based alternative to ActorScroller. Docs/Themerdocs/item_scroller.md.</p>
+<h2 id="judgment-combo-">Judgment/Combo:</h2>
+<p>The JudgmentUnderField and ComboUnderField metrics are no longer used. The<br>judgment and combo must set their draw order to control whether they are<br>under notes or not. The draw order for the judgment and combo works the same<br>as for a layer in the NewField. This allows players to choose different<br>settings for judge and combo placement.</p>
+<h2 id="lua-config-system-">Lua config system:</h2>
+<p>A lua based system for per-profile settings. Designed to save arbitrary lua<br>tables. Read Docs/Themerdocs/lua_config_system.md.</p>
+<h2 id="notefield-board-">Notefield board:</h2>
+<p>Graphics/Notefield board is not loaded by NewField. Create<br>Graphics/Notefield layers instead, which returns a table of actors that are<br>rendered by draw order.</p>
+<p>Graphics/NoteColumn layers is loaded by each column in the NewField and also<br>drawn in order of draw order.</p>
+<h2 id="playerstate-">PlayerState:</h2>
+<ul>
+<li>[F] get_read_bpm added.</li>
+</ul>

@@ -1,0 +1,440 @@
+{
+    "Stepmania": [
+        {
+            "title": "the spinal shark collective (project lead)",
+            "members": [
+                "AJ Kelly as freem", 
+                "Jonathan Payne (Midiman)", 
+                "Colby Klein (shakesoda)"
+            ]
+        },
+        {
+            "title": "sm-ssc Team",
+            "members": [
+                "Jason Felds (wolfman2000) - Timing Segments, Split Timing, optimization",
+                "Thai Pangsakulyanont (theDtTvB) - BMS, Split Timing, optimization",
+                "Alberto Ramos (Daisuke Master)",
+                "Jack Walstrom (FSX)"
+            ]
+        },
+        {
+            "title": "StepMania Team",
+            "members": [
+                "Chris Danford",
+                "Glenn Maynard",
+                "Steve Checkoway",
+                "and various other contributors"
+            ]
+        },
+        {
+            "title": "OpenITG Team",
+            "members": [
+                "infamouspat",
+                "Mark Cannon (vyhd)"
+            ]
+        },
+        {
+            "title": "Translators (Pre-5.0.5)",
+            "members": [
+                "John Reactor (Polish)", 
+                "DHalens (Spanish)", 
+                "@Niler_jp (Japanese)", 
+                "Deamon007 (Dutch)"]
+        },
+        {
+            "title": "Translators (5.0.5 update)",
+            "members": [
+                "Kevin O. (Thumbsy) (Dutch)",
+                "Grégory Doche (French)",
+                "Jarosław Pietras (Polish)",
+                "Alejandro G. de la Muñoza (Spanish)",
+                "Raymund Zacharias (German)"
+            ]
+        },
+        {
+            "title": "Translators (5.0.10 update)",
+            "members": [
+                "Milène Gauthier-Sabourin (Arvaneth) (French)"
+            ]
+        },
+        {
+            "title": "Translators (5.0.11 update)",
+            "members": [
+                "Joel Robert Justiawan (JOELwindows7) (Indonesian)"
+            ]
+        },
+        {
+            "title": "Other Contributors",
+            "members": [
+                "<strong>Aldo Fregoso (Aldo_MX)</strong> -- delays and much more. StepMania AMX creator",
+                "<strong>Alfred Sorenson</strong> -- new lua bindings",
+                "<strong>A.C/@waiei</strong> -- custom scoring fixes + Hybrid scoring",
+                "<strong>cerbo</strong> -- lua bindings and other fun stuff",
+                "<strong>cesarmades</strong> -- pump/cmd* noteskins",
+                "<strong>Chris Eldridge (kurisu)</strong> -- dance-threepanel stepstype support",
+                "<strong>Christophe Goulet-LeBlanc (Kommisar)</strong> -- songs",
+                "<strong>corec</strong> -- various fixes",
+                "<strong>cybik</strong> -- Android port",
+                "<strong>dbk2</strong> -- mac builds, a couple actor behavior fixes, new lua bindings",
+                "<strong>djpohly</strong> -- piuio kernel module, XML compatibility, other useful stuff",
+                "<strong>galopin</strong> -- piu PlayStation2 usb mat support",
+                "<strong>gholms</strong> -- automake 1.11 support",
+                "<strong>hanubeki (@803832)</strong> -- beginner helper fix, among various other things",
+                "<strong>juanelote</strong> -- SongManager:GetSongGroupByIndex, JumpToNext/PrevGroup logic mods",
+                "<strong>Kaox</strong> -- pump/default noteskin",
+                "<strong>Kyzentun</strong> -- new lua bindings, theme documentation",
+                "<strong>Lirodon</strong> -- Lambda default theme on 5.1",
+                "<strong>Mad Matt</strong> -- new lua bindings",
+                "<strong>Matt McCutchen</strong> -- minor fix for some dance pads on linux",
+                "<strong>MrThatKid</strong> -- nitg modifiers",
+                "<strong>NitroX72</strong> -- pump/frame noteskin",
+                "<strong>nixtrix</strong> -- various BMS features and other fixes",
+                "<strong>Petriform</strong> -- default theme music",
+                "<strong>Prcuvu</strong> -- various VS2015 related fixes",
+                "<strong>psmay</strong> -- SextetStream driver and related things",
+                "<strong>桜為小鳩/Sakurana-Kobato (@sakuraponila)</strong> -- custom scoring fixes",
+                "<strong>Samuel Kim (1a2a3a2a1a)</strong> -- various beat mode fixes",
+                "<strong>tuxdude</strong> -- minor changes to service menu layout",
+                "<strong>v1toko</strong> -- x-mode from StepNXA",
+                "<strong>Wallacoloo</strong> -- delete songs, other fixes"
+            ]
+        },
+        {
+            "title": "Special Thanks",
+            "members": [
+                "<strong>A Pseudonymous Coder</strong> -- support",
+                "<strong>Bill Shillito (DM Ashura)</strong> -- Music (not yet though)",
+                "<strong>cpubasic13</strong> -- testing (a lot)",
+                "Dreamwoods",
+                "Jason Bolt (LightningXCE)",
+                "<strong>Jousway</strong> -- Noteskins",
+                "<strong>Luizsan</strong> -- creator of Delta theme",
+                "<strong>Matt1360</strong> -- Automake magic + oitg bro",
+                "Renard",
+                "Ryan McKanna (Plaguefox)",
+                "<strong>Sta Kousin</strong> --help with Japanese bug reports"
+            ]
+        },
+        {
+            "title": "Shoutouts",
+            "members": [
+                "The Lua team",
+                "Mojang AB",
+                "Wolfire Games",
+                "NAKET Coder",
+                "Ciera Boyd",
+                "#KBO",
+                "Celestia Radio",
+                "Perkedel Corporation"
+            ]
+        }
+    ],
+    "Pulsen": [
+        {
+            "title": "Mr. Pulsen",
+            "members": [
+                "Kevin Ghadyani"
+            ]
+        },
+        {
+            "title": "Senior Developer",
+            "members": [
+                "James P Daniello"
+            ]
+        },
+        {
+            "title": "Game Design & Marketing",
+            "members": [
+                "John Velgus"
+            ]
+        },
+        {
+            "title": "Lead Chart Designer",
+            "members": [
+                "John Tran"
+            ]
+        },
+        {
+            "title": "Chart Designers",
+            "members": [
+                "Alan James",
+                "Alex Kim",
+                "Anthony Fernandez",
+                "Jason Felds",
+                "Justin Berkowitz",
+                "Kévin Dendayne",
+                "Kevin Sánchez",
+                "Kris Pearman",
+                "Nick Navaroli",
+                "Phil Lee",
+                "Sta Kousin",
+                "Steve Nera",
+                "Terrence Chan"
+            ]
+        },
+        {
+            "title": "Graphics",
+            "members": [
+                "César Ruiz González"
+            ]
+        },
+        {
+            "title": "Cartoons",
+            "members": [
+                "Alishka Jolitz",
+                "Ariel Phyliky-Lay",
+                "Johan Elebrink",
+                "Stephanie Halpin"
+            ]
+        },
+        {
+            "title": "3D Models",
+            "members": [
+                "Colby Klein",
+                "Roger Svanlund"
+            ]
+        },
+        {
+            "title": "Translations",
+            "members": [
+                "Spanish - Jose Varela",
+                "Japanese - Sta Kousin"
+            ]
+        },
+        {
+            "title": "Special Thanks",
+            "members": [
+                "Nick Jansen",
+                "Magnus Pålsson",
+                "Nick Hemler",
+                "Jared McComb",
+                "Phil Lee",
+                "Greg Cotton",
+                "Jack Walstrom"
+            ]
+        }
+    ],
+    "Mung1": [
+        {
+            "title": "Producer",
+            "members": [
+                "Renard"
+            ]
+        },
+        {
+            "title": "Programming",
+            "members": [
+                "Based on the Stepmania engine, at www.stepmania.com, by the Stepmania Team",
+                "AJ Kelly",
+                "Renard"
+            ]
+        },
+        {
+            "title": "Lead Composer",
+            "members": [
+                "Renard <i><small>(aka Sonitus Vir, Emoticon, Lollipop, Hecate, Kitsune², MGD Assault Force, MGD-Crew, and half of Plusfuchs)</small></i>"
+            ]
+        },
+        {
+            "title": "Interface Graphics",
+            "members": [
+                "Renard"
+            ]
+        },
+        {
+            "title": "Song Graphics",
+            "members": [
+                "Renard",
+                "Aja Williams (Kamicheetah)",
+                "BlueChaos",
+                "Yvie Schroeder",
+                "Evana Love",
+                "Rick Vo (Nekokawai)",
+                "Kimberly Petrie",
+                "Soulwynd",
+                "Cathie (Foenix)",
+                "Jinxie",
+                "AtomicStoney",
+                "RadicalJ",
+                "Chalosan",
+                "Jieyi M",
+                "Jax",
+                "Xylael",
+                "Amy Sollers",
+                "Oscar Navarro",
+                "J. Axer",
+                "Skifi",
+                "Zed",
+                "Cynic",
+                "Tailsrulz",
+                "Hyouden",
+                "Strider_Orion",
+                "Lunajile",
+                "Jasmine Wyrick",
+                "Herisheft",
+                "Leland Radburn",
+                "Adam Wan",
+                "Andrew Osmond"
+            ]
+        },
+        {
+            "title": "Stepcharts",
+            "members": [
+                "Renard",
+                "BlueChaos",
+                "Alezay",
+                "Ryvard",
+                "Jinxie",
+                "Pyroko",
+                "Devil`ize",
+                "DeeEckzWhy",
+                "DarkCulex"
+            ]
+        },
+        {
+            "title": "Audio Editing",
+            "members": [
+                "Renard"
+            ]
+        },
+        {
+            "title": "Menu Music and Sound Effects",
+            "members": [
+                "Renard"
+            ]
+        },
+        {
+            "title": "Background Videos",
+            "members": [
+                "Renard",
+                "feat. art by Aja Williams"
+            ]
+        },
+        {
+            "title": "Announcers",
+            "members": [
+                "Vanilla Patrick (Mr Paco)",
+                "Slick Jim (James Reid)"
+            ]
+        },
+        {
+            "title": "Special Thanks",
+            "members": [
+                "Everybody and anybody that's helped me along the way with Mungyodance. There are far too many people who have emotionally and physically pushed me to be the best I can be and create this monster of a thing. Thanks to all of you. I'm not going to list you all because I'm afraid I'd forget somebody --- you know who you are, people. :)"
+            ]
+        },
+        {
+            "title": "Extra Special Thanks",
+            "members": [
+                "You, the person that spent the time downloading this game and playing it. Thanks for checking out my work. I hope you enjoy it. :)"
+            ]
+        },
+        {
+            "title": "Dedicated To",
+            "members": [
+                "Cathie <3"
+            ]
+        }
+    ],
+    "Mung3": [
+        {
+            "title": "to do",
+            "members": []
+        }
+    ],
+    "Keys6": [
+        {
+            "title": "Ported by the spinal shark collective",
+            "members": [
+                "AJ 187",
+                "Midiman",
+                "shakesoda"
+            ]
+        },
+        {
+            "title": "--Original Version--",
+            "members": []
+        },
+        {
+            "title": "Main Support",
+            "members": [
+                "AJ 187 - Code & Support",
+                "shakesoda - Graphics & Support",
+                "KeithD - Music, Sound Effects & Support"
+            ]
+        },
+        {
+            "title": "Additional Support",
+            "members": [
+                "Azure - Logo Graphics & Support"
+            ]
+        },
+        {
+            "title": "Thanks to ... ",
+            "members": [
+                "#shakesoda",
+                "Spinal Shark Collective",
+                "StepMania Team"
+            ]
+        }
+    ],
+    "OpenITG": [
+        {
+            "title": "Lead Developers:",
+            "members": [
+                " Vyhd",
+                " infamouspat"
+            ]
+        },
+        {
+            "title": "Assistant Developer:",
+            "members": [
+                " Matt1360"
+            ]
+        },
+        {
+            "title": "Network Manager / Webmasters:",
+            "members": [
+                " Matt1360",
+                " Zero",
+                " sherl0k",
+                " Lightning"
+            ]
+        },
+        {
+            "title": "Testers:",
+            "members": [
+                " GRIM.657",
+                " mDaWg",
+                " Darklink",
+                " Wanny",
+                " Kung",
+                " JJSz / Beaver Valley Mall",
+                " Boxorroxors.net",
+                " Rhythmatic.net/ITGFreak.com",
+                " Sigma"
+            ]
+        },
+        {
+            "title": "Special Thanks:",
+            "members": [
+                " KholdFuzion",
+                " bacon",
+                " Spectere and friends at Spectere.net",
+                " StepMania team for making an awesome framework",
+                " StepMania.com",
+                " Sourceforge.net"
+            ]
+        },
+        {
+            "title": "Contributions:",
+            "members": [
+                " GRIM.657 (ScreenExitCommand)",
+                " cyt0plas & Spectere (LUA 5.1 patches)",
+                " dawnwolf (x64/GCC 4.3 compatibility patch)",
+                " Lightning (OpenITG logo & title screen theme stuff)",
+                " xjen0vax (theme metrics, Long/Marathon notifiers, beta 2 installer icon)"
+            ]
+        }
+    ]
+}

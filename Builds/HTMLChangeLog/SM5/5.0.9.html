@@ -1,0 +1,50 @@
+<meta charset="UTF-8">
+<p>StepMania 5.0.9; release notes compiled and Markdown formatted by <a href="https://github.com/kyzentun">@kyzentun</a>:</p>
+<h3 id="this-is-divided-into-two-sections-">This is divided into two sections:</h3>
+<ul>
+<li>Player visible changes: New configuration options players should try out,</li>
+<li>Themer visible changes: New (optional) screens that themes can support, new metrics or lua functions, or fixes for existing functions.</li>
+</ul>
+<p>Items are roughly grouped into the general part of StepMania they fit into.</p>
+<h1 id="compiling-">Compiling:</h1>
+<p>Cmake is now required for compiling Stepmania. Read Build/README.md for instructions.<br>The thread in the release forum has been updated with instructions for compiling on Linux.</p>
+<h1 id="player-visible-changes-">Player visible changes:</h1>
+<h3 id="bms-">BMS:</h3>
+<ul>
+<li>.lua files defined in the #BMP tags now work as BG animations.</li>
+<li>The #difficulty tag is now supported. The difficulty numbers 1-6 map to<br>StepMania&#39;s difficulties from Novice to Edit.</li>
+</ul>
+<h3 id="bug-fixes-">Bug fixes:</h3>
+<ul>
+<li>Autokeysounds are no longer twice as loud when playing keysounded charts<br>with two players.</li>
+<li>1 pixel seam in hold cap rendering fixed.</li>
+<li>Noteskin animation fixed.</li>
+</ul>
+<h3 id="screenoverscanconfig-">ScreenOverscanConfig:</h3>
+<p>There is a new screen for interactively adjusting the variables that already<br>existed in the preferences for dealing with overscan problems. This allows<br>editing the CenterImage* preferences without restarting StepMania to set them<br>so that the whole image appears on screen.<br>This currently handles the aspect ratio wrong, so it&#39;s not a perfect overscan<br>solution.</p>
+<h1 id="themer-visible-changes-">Themer visible changes:</h1>
+<h2 id="bug-fixes-and-new-functions-">Bug fixes and new functions:</h2>
+<ul>
+<li>Attributes added are marked with [A].</li>
+<li>Bug fixes are marked with [B].</li>
+<li>Functions are marked with [F].</li>
+</ul>
+<h3 id="actor-">Actor:</h3>
+<ul>
+<li>[B] bounce and bob effects no longer round pixel coords.<br>When an actor had a slow tween moving it in a direction and a slow bounce<br>effect, the bounce would round the resulting position and cause jitter. That<br>jitter is gone now.</li>
+<li>[B] BlendMode_Subtract no longer crashes on the d3d renderer. It does not<br>do proper subtraction blending, this is just a bandaid to prevent crashing.</li>
+</ul>
+<h3 id="global-">Global:</h3>
+<ul>
+<li>[F] get_music_file_length</li>
+<li>[F] multiapproach function now takes an optional 4th argument to multiply<br>the speeds by.</li>
+<li>[F] update_centering</li>
+</ul>
+<h3 id="optionslist-">OptionsList:</h3>
+<p>The OptionsListQuickChange, OptionsListLeft, and OptionsListRight messages<br>now have a Selection parameter that has the id of the selection the player<br>moved to.</p>
+<h3 id="ragefile-">RageFile:</h3>
+<ul>
+<li>[F] Flush</li>
+</ul>
+<h3 id="screeninitialscreenisinvalid-">ScreenInitialScreenIsInvalid:</h3>
+<p>If you see this screen come up, you need to fix the InitialScreen metric in<br>your theme.</p>

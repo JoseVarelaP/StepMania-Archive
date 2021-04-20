@@ -1,0 +1,74 @@
+<meta charset="UTF-8">
+<p>StepMania 5.1.0 Alpha; release notes compiled and Markdown formatted by <a href="https://github.com/kyzentun">@kyzentun</a>:</p>
+<h1 id="keep-scrolling-down-for-5-0-10-stable-release">Keep scrolling down for 5.0.10 stable release</h1>
+<p>This alpha release is primarily for noteskin authors and theme authors who<br>are interested in creating noteskins or using the new features.<br>If you are not a noteskin author or theme author, you probably do not want to<br>use this 5.1.0 Alpha release.</p>
+<h1 id="compiling-">Compiling:</h1>
+<p>The 5_1_0 branch uses submodules for some external dependencies like ffmpeg,<br>so they are not bundled. As a side effect, if you click the &quot;Download ZIP&quot;<br>button on github to get a source zip, you will not be able to build that zip.</p>
+<p>If you are not compiling from source, you can ignore this section. The linux tar.gz attached to this release was built for amd64 debian.</p>
+<p>To get around this problem, these are the steps for fetching the 5_1_0 branch source:</p>
+<pre><code>git clone --depth=<span class="hljs-number">1</span> -<span class="hljs-keyword">b</span> <span class="hljs-number">5</span>_1_0 http<span class="hljs-variable">s:</span>//github.<span class="hljs-keyword">com</span>/stepmania/stepmania.git
+<span class="hljs-keyword">cd</span> stepmania
+git submodule init
+git submodule <span class="hljs-keyword">update</span>
+</code></pre><p>(if someone wants to submit instructions for doing the same with a gui,<br>gui instructions can be added.)<br>The <code>--recursive</code> flag is not used in the clone command given above<br>because some submodules like cppformat have their own submodules that are not<br>needed for building or running stepmania.</p>
+<p>After the submodules have been updated, compiling can be done in the same way<br>as on the master branch of stepmania.</p>
+<h1 id="new-systems-">New systems:</h1>
+<p>The new systems in this alpha release are not in their final form. They will<br>be extended and modified based on feedback from noteskin and theme authors<br>who create new content. Keeping the systems simple and allowing new people<br>to learn them gradually is one of the goals.</p>
+<h2 id="rollingnumbers-">RollingNumbers:</h2>
+<p>This is the simplest one, so it is explained first. The changes to<br>RollingNumbers were more of an attempt to improve it than a serious rewrite<br>like the other new systems. Changes to RollingNumbers are fully documented<br>in Docs/Themerdocs/5.1_incompatibilities/RollingNumbers.md.</p>
+<h3>Feature Overview:</h3>
+<ul>
+<li>More lua control: Various things that could only be set through metrics<br>can now be set by calling lua functions.</li>
+<li>Attributes: The attribute system from BitmapText is used, giving more<br>freedom than the multiply color metric.</li>
+<li>Configurable leading glyph: Any glyph can be used as the leading character<br>for the number. This is for people that don&#39;t want zeroes in front.</li>
+</ul>
+<h2 id="newskins-">NewSkins:</h2>
+<p>A new noteskin system has been created. The goals of the new system are to<br>provide a solid base for future development, clear out cruft, remove metrics<br>from noteskins, and provide more advanced features.<br>The new noteskin system is fully documented in NewSkins/default, which is an<br>example noteskin explaining all the features and demonstrating some of them.</p>
+<h3>Feature Overview:</h3>
+<ul>
+<li>Pure lua: The metrics system is outdated and tends to obstruct advanced<br>authors trying to handle varied cases. The NewSkin system does not use<br>metrics at all. Everything is done in lua.</li>
+<li>Not tied to game types: A NewSkin can be used in any game type, as long as<br>it supports the buttons used by the current chart.</li>
+<li>Adjustable column width: The NewSkin controls how wide each column is and<br>the padding on the sides of each column. The hardcoded values from the<br>Style are ignored, and will be removed in a future version.</li>
+<li>Quantizable holds: Hold bodies can be quantized the same way taps are, if<br>the noteskin author uses the feature.</li>
+<li>Superior quantization: Quantizations are not forced to fit the traditional<br>categories of 4th, 8th, 12th, 16th, 24th, 32nd, 48th, 64th. Instead, notes<br>are quantized using a system based on how many times a quantization occurs<br>each beat. The simfile format and internal note data structures are still<br>limited, but the noteskin system is not.</li>
+<li>Receptor warnings: The receptors are told when the next arrow is coming,<br>even if it&#39;s off the bottom of the screen, so the receptor can warn of<br>upcoming notes by changing color or something.</li>
+<li>Superior multiplayer support: The NewSkin system does not force a hard<br>limit of 2 players, and noteskin authors are encouraged to support as many<br>players as feasible. Edit mode and gameplay will need upgrades before<br>more than 2 players is really possible, but the NewSkin system is prepared.</li>
+</ul>
+<h2 id="newfield-">NewField:</h2>
+<p>NewField is a completely new notefield system. It gives the theme more<br>control over every aspect, and is self contained.<br>Initial documentation is in<br>Docs/Themerdocs/5.1_incompatibilities/NewField.md.</p>
+<h3>Feature Overview:</h3>
+<ul>
+<li>Columns are actors: Each column is its own actor, with extra features.</li>
+<li>More info for Notefield board: The Notefield board file in Graphics should<br>be a lua file now. It is passed more info to make using it for a screen<br>filter easier. Using the notefield board for a screen filter makes<br>positioning logic much simpler because the themer doesn&#39;t have to worry<br>about the current style or how many players there are.</li>
+<li>Better multiplayer support: The NewField does not pull anything from a<br>global player state. Instead, all behavior is set by whatever creates the<br>NewField, or by the theme. It will not be an obstacle to having more than<br>2 players. Many other parts of the engine still stand in the way of<br>multiplayer, but the NewField is prepared.</li>
+</ul>
+<h2 id="modvalue-">ModValue:</h2>
+<p>The new notefield system also has a completely new modifier system. This is<br>extensible, predictable, and documented. Figuring out exactly what a<br>modifier does no longer requires digging through ArrowEffects.cpp. Detailed<br>control over exactly what the arrows do is possible.<br>Full docs in Docs/Themerdocs/5.1_incompatibilities/NewField_mod_system.md.</p>
+<h3>Feature Overview:</h3>
+<ul>
+<li>Field mods separate from Column mods: The field and the columns have<br>different mods, for doing different things.</li>
+<li>Per-column mods: Each column can have its own mods.</li>
+<li>Mods for more things: FOV, vanish point, field transform, column<br>transform, note transform, note/explosion/receptor glow/alpha, time offset,<br>quantization, reverse offset, reverse, center.</li>
+<li>Separate glow and alpha: Glow and alpha are controlled by different mods<br>because the white flash that hidden/sudden force in the old system bothers<br>some people.</li>
+<li>No hidden quirk interactions: In the old mod system, C600 + Boost plays<br>differently from M600 + Boost. That&#39;s just weird and wrong, so the new<br>system does not do that.</li>
+<li>Splines are mods: The spline mod system added last Christmas was not well<br>integrated with the old mod system because the old mod system didn&#39;t have<br>a place for it. So there were weird interactions between the two that made<br>splines awkward to use. Splines are part of the design of the new system,<br>so they are much easier to use now.</li>
+<li>Mods are equations: At its simplest, a mod is an equation that takes one<br>aspect of a note as input (say, y offset) and sets an attribute based on<br>that aspect (say, x position). Possible equations range from simple<br>numbers to wave functions and splines.</li>
+<li>Detailed control: Building on the idea of using equations for mods, there<br>are many minor variables that can be set when creating a mod to customize<br>exactly how it affects the notes.</li>
+<li>Built in timed mods: The columns and field have managers built in that can<br>be told when a mod should start and end. The manager efficiently handles<br>turning mods on and off at the right times.</li>
+<li>Rate adjusted mods: Mods are tied to the current time of the field, so<br>when the music rate changes, mods play out at exactly the same beat. This<br>relieves the burden of writing lua code to find the current music rate and<br>try to adjust tween times, or forcing people to only play on 1x rate.</li>
+</ul>
+<h3 id="options-screen-">Options screen:</h3>
+<p>Because the modifier system does not use PlayerOptions, large parts of the<br>options screen do nothing. Mods that change the steps in a chart like<br>Shuffle work the same, but mods that change the appearance of notes like<br>Dizzy do nothing. This is because the system was not designed with OptionRow<br>in mind (I hate OptionRow, it can&#39;t do anything I want to do, I don&#39;t use<br>it).<br>Instead, the NewField relies on the theme to set mods through lua<br>function calls when ScreenGameplay starts. To assist themers, _fallback<br>provides functions for setting speed, tilt (distant), mini, and reverse by<br>reading them from PlayerOptions. There are also functions for setting hidden<br>and sudden mods (with control over exactly where the line is, and only<br>affecting note alpha. So no white flash), but they do not read from<br>PlayerOptions and must be called directly.<br>A future version will probably use lua option rows and a global lua variable<br>to store the mod choices from the options screen before applying them on<br>gameplay.</p>
+<h1 id="todo-">Todo:</h1>
+<ul>
+<li>Adapt the new mod system so that it can be used on any actor, not just on<br>the notefield and notes.</li>
+<li>Create lua option rows to assist themers putting newfield mods on the<br>options screen.</li>
+<li>Address the problem that prevents using the spin effect on mine notes. The<br>notes need some efficient way for the effect clock to be tied to the time<br>passing in the notefield, instead of being tied to PLAYER_1 or PLAYER_2.</li>
+<li>Add stuff that edit mode needs, like drawing beat bars and timing segment<br>info.</li>
+<li>Write proper entries in Lua.xml for all the new functions. The<br>documentation in Docs/Themerdocs should be a supplement to Lua.xml.</li>
+</ul>
+<h1 id="things-on-the-way-out-">Things on the way out:</h1>
+<h2 id="old-notefield-related-stuff-">Old NoteField related stuff:</h2>
+<p>NoteField, NoteDisplay, ArrowEffects, NoteSkinManager, and (most of)<br>PlayerOptions will probably be removed in the next release.</p>
+<h2 id="styles">Styles</h2>
+<p>It would be nice if both players were not forced to the same style.<br>Everybody tries to skip past style select quickly, so it seems obstructive.<br>If player&#39;s aren&#39;t forced to the same style, and the noteskin controls column<br>widths, what point does the style have? Changing between styles on music<br>select is already possible in more advanced themes. This will cement that,<br>and allow more freedom when picking what to play next.</p>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<link type="text/css" href="../theme.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="../Builds/VersionIcon/SM40.png"/>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>StepMania Footage Archive</title>
+</head>
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+<script> let CurrentPage = 'Footage'; </script>
+<body>
+    <div id="container">
+        <div id="menu-box">
+            <div id="site-logo"></div>
+            <div class="top-menu" id="top-menu"></div>
+        </div>
+        <div class="content-container wide-container">
+            <div class="content" id="BuildListing">
+                <h1 id="VideoTitle"></h1>
+                <img class="VideoIcon" src="../static/news_icon_movie.png" style="position: absolute;">
+                <div class="Video-InfoBoard">
+                    <h3>Information</h3>
+                    <hr>
+                    <p id="Info-Recorded"> Recorded: ??-??-???? </p>
+                    <p id="Info-Location"> Location: ? </p>
+                    <p id="Info-Game"> Game: ? </p>
+                    <p id="Info-Source"> Source: <a id="Info-Source-Link"></a> </p>
+                </div>
+
+                <p class="video-desc-container" id="VideoDescription"></p>
+                <table id="MatchInfo"></table>
+
+                <center>
+                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
+                </center>
+
+                <div class="VideoFrame">
+                    <video id="VideoActor" autoplay controls>
+                        <source id="VideoSource" type="video/mp4" >
+                    </video>
+                </div>
+            </div>
+            <div class="footer" id="Footer"></div>
+        </div>
+    </div>
+</body>
+<script src="../TopMenu.js"></script>
+<script src="../functions.js"></script>
+<script src="script.js"></script>
+<script>
+    GenerateFootageLookup()
+</script>
+</html>

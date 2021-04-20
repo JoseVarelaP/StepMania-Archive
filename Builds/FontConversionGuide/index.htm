@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>StepMania Build Archive - Font Conversion Guide</title>
+<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
+
+	<meta property="og:image" content="https://jose.heysora.net/SMBuilds/VersionIcon/SM40.png" />
+    <meta property="og:site_name" content="Jose_Varela" />
+    <meta property="og:title" content="StepMania Build Archive" />
+    <meta name="og:description" content="A tutorial on how to convert fonts generated with the Texture Font Generator to older StepMania's."/>
+    <meta property="og:type" content="article" />
+    <meta name="description" content="A tutorial on how to convert fonts generated with the Texture Font Generator to older StepMania's."/>
+    <meta property="og:url" content="https://jose.heysora.net/SMBuilds" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="author" content="Jose_Varela" />
+    <meta name="theme-color" content="#f0d01f" />
+
+<link type="text/css" href="../theme.css?ver=<?php echo rand(111,999)?>" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cabin|Righteous|Prompt" rel="stylesheet">
+</head>
+<body>
+
+<div id="header">
+	<a href="../index.htm">
+		<img src="../../Headers/Builds.png" style="width: 300px; margin-bottom: -15px; margin-top: -10px; margin-left: -60px">
+	</a>
+</div>
+
+<div id="content">
+
+<strong><a href="../index.htm"><< Return to site</a></strong>
+<br><br><br>
+<center><h2>Font Conversion Guide</h2>
+	<small>A tutorial on how to convert fonts generated with the Texture Font Generator to older StepMania's.</small>
+
+	<hr>
+
+	<p>To begin, you'll need to have a ini file already exported of the font you want to convert.</p>
+	<img src="FilesList.png">
+	<p>Open that file with the text editor of your choice, and head down to the segment, where <text style="color:orange">Lines</text> can be found.</p>
+	<img src="BeforeCode.png">
+	<i><p>You could just, load the font directly on StepMania, and just use it. Right?</p></i>
+	<p>Well, no. Older StepMania's did not have a way to appropiate Row Intergers in font files. So, because of the spacing of the first 10 lines, it will cause a crash.</p>
+	<p>The way to fix this, is by simply deleting a space on those first 10 lines, like so.</p>
+	<img src="AfterCode.png">
+	<p>And with that, the font is ready to go for older versions of StepMania!</p>
+
+</center>
+
+<center>
+	
+
+</center>
+</center>
+</div>
+<center><div id="footer">
+<p>Jose_Varela - 2017-2019</p>
+<p>
+</div></center>
+
+</body></html>

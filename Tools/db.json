@@ -1,0 +1,334 @@
+{
+    "ArrowVortex" : {
+        "Name": "ArrowVortex",
+        "Description": "ArrowVortex can be used to create or edit stepfiles for various rhythm games, such as DDR, ITG, PIU, Stepmania, and Osu. It started out as a hobby project by Fietsemaker, aiming to create a modern stepfile editor inspired by the designs of both DDReamStudio and the Stepmania editor.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/ArrowVortex/screenshot-02.png",
+        "Listing": [
+            { "Name": "ArrowVortex (Feb 2017)", "Date" : "02-25-2017", "Windows": "ArrowVortex-2017-02-25.rar" }
+        ]
+    },
+    "stependous" : {
+        "Name": "Stependous",
+        "Description": "Stependous is a utility which facilitates the creation of <abbr title='Dance With Intensity'>DWI</abbr> files for use in your <abbr title='Dance Dance Revolution'>DDR</abbr> simulator. Its goal is to be an all-in-one solution for creating step files that is easy for anyone to use.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/stependous/stependous.gif",
+        "Listing": [
+            { "Name": "Stependous 0.80", "Date" : "08-09-2005", "Windows": "stependous_0.80.zip", "Src": "stependous_0.80_src.zip" },
+            { "Name": "Stependous 0.81", "Date" : "08-11-2005", "Windows": "stependous_0.81.zip", "Src": "stependous_0.81_src.zip" },
+            { "Name": "Stependous 0.82", "Date" : "08-12-2005", "Windows": "stependous_0.82.zip", "Src": "stependous_0.82_src.zip" }
+        ]
+    },
+    "anyMania" : {
+        "Name": "anyMania",
+        "Description": "anyMania is a... 'tool'? It's more a auto step generator/player that detects from songs, similar to StepMania's Autogen. Probably one of the only tools to have a paid version. At least it was rated 5 cows on tucows.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/anyMania/snap1.gif",
+        "Listing": [
+            { "Name": "anyMania 0.1", "Date": "05-01-2005", "Windows": "anyMania-0.1.zip" },
+            { "Name": "anyMania 0.11", "Date": "05-12-2005", "Windows": "anyMania-0.11.zip" },
+            { "Name": "anyMania 0.12", "Date": "05-26-2005", "Windows": "anyMania-0.12.zip" },
+            { "Name": "anyMania 0.13", "Date": "07-07-2005", "Windows": "anyMania-0.13.exe" },
+            { "Name": "anyMania 0.13 (0708)", "Date": "07-08-2005", "Windows": "anyMania-0.13%280708%29.exe" },
+            { "Name": "anyMania 0.14", "Date": "09-08-2005", "Windows": "anyMania-0.14.exe" },
+            { "Name": "anyMania 0.15", "Date": "03-25-2006", "Windows": "anyMania-0.15.exe" },
+            { "Name": "anyMania 1.0", "Date": "12-25-2007", "Windows": "anyMania-1.0.exe" },
+            { "Name": "anyMania 1.5", "Date": "08-08-2013", "Windows": "anyMania-1.5_inst.exe" }
+        ]
+    },
+    "DDreamS" : {
+        "Name": "DDreamStudio",
+        "Description": "DDreamStudio is a stepfile creation tool by Jyris1, free79asia and Jussi Kujala, which had its development from 2004 to 2009. A lot of later versions of this program are missing, so if you happen to have any of the ones listed here without a download link, please contact me on the <a href='../About/index.html'>'About'</a> page.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/DDreamS/ds70.jpg",
+        "Listing": [
+            { "Name": "DDreamStudio 0.24", "Date": "11-??-2004", "Windows": "ds24.zip" },
+            { "Name": "DDreamStudio 0.28 Beta 2", "Date": "07-02-2006", "Windows": "ds28_b2_win32.zip" },
+            { "Name": "DDreamStudio 0.50 Beta 1", "Date": "08-10-2006", "Windows": "ds_050_b1_win32.zip" },
+            { "Name": "DDreamStudio 0.55 Alpha 4", "Date": "08-13-2006", "Windows": "ds_055_a4_win32.zip" },
+            { "Name": "DDreamStudio 0.56 Alpha 1", "Date": "08-18-2006", "Windows": "ds_056_a1_win32.zip" },
+            { "Name": "DDreamStudio 0.58 Beta 2", "Date": "08-20-2006", "Windows": "ds058_b2_win32.zip" },
+            { "Name": "DDreamStudio 0.60", "Date": "09-10-2006", "Windows": "ds_060_win32.zip" },
+            { "Name": "DDreamStudio 0.70", "Date": "10-07-2006", "Windows": "ds70.zip" },
+            { "Name": "DDreamStudio 0.71 Beta 2", "Date": "10-14-2006", "Windows": "ds71b.zip" },
+            { "Name": "DDreamStudio 0.73", "Date": "10-26-2006" },
+            { "Name": "DDreamStudio 0.74", "Date": "10-28-2006" },
+            { "Name": "DDreamStudio 0.80", "Date": "11-23-2006" },
+            { "Name": "DDreamStudio 0.81", "Date": "12-16-2006" },
+            { "Name": "DDreamStudio 0.85", "Date": "02-18-2007", "Windows": "ds85.zip" },
+            { "Name": "DDreamStudio 0.88", "Date": "03-31-2007" },
+            { "Name": "DDreamStudio 0.90", "Date": "04-22-2007" },
+            { "Name": "DDreamStudio 0.90u", "Date": "04-24-2007" },
+            { "Name": "DDreamStudio 0.95", "Date": "05-12-2007" },
+            { "Name": "DDreamStudio 0.98", "Date": "06-19-2007" },
+            { "Name": "DDreamStudio 1.00", "Date": "07-15-2007" },
+            { "Name": "DDreamStudio 1.01", "Date": "07-16-2007" },
+            { "Name": "DDreamStudio 1.05", "Date": "08-06-2007" },
+            { "Name": "DDreamStudio 1.07", "Date": "12-16-2007" },
+            { "Name": "DDreamStudio 1.10", "Date": "01-05-2008" },
+            { "Name": "DDreamStudio 1.11", "Date": "06-01-2008" },
+            { "Name": "DDreamStudio 1.12 Beta 1", "Date": "06-09-2008" },
+            { "Name": "DDreamStudio 1.20 BETA", "Date": "07-04-2008" },
+            { "Name": "DDreamStudio 1.20 BETA 2", "Date": "07-17-2008" },
+            { "Name": "DDreamStudio 1.20 BETA 3", "Date": "08-03-2008" },
+            { "Name": "DDreamStudio 1.20 BETA 4", "Date": "08-16-2008" },
+            { "Name": "DDreamStudio 1.20 FINAL", "Date": "09-04-2008" },
+            { "Name": "DDreamStudio 1.30 BETA 1", "Date": "09-07-2008" },
+            { "Name": "DDreamStudio 1.30 BETA 2", "Date": "09-20-2008" },
+            { "Name": "DDreamStudio 1.30 BETA 3", "Date": "09-28-2008" },
+            { "Name": "DDreamStudio 1.30 BETA 4", "Date": "10-11-2008" },
+            { "Name": "DDreamStudio 1.30 FINAL", "Date": "11-10-2008" },
+            { "Name": "DDreamStudio 1.40 BETA 1", "Date": "11-17-2008" },
+            { "Name": "DDreamStudio 1.40 FINAL", "Date": "02-26-2009" },
+            { "Name": "DDreamStudio 1.50 BETA 1", "Date": "03-06-2009" },
+            { "Name": "DDreamStudio 1.50 BETA 2", "Date": "03-10-2009" },
+            { "Name": "DDreamStudio 1.50 BETA 4", "Date": "03-21-2009" },
+            { "Name": "DDreamStudio 1.50 BETA 5", "Date": "03-26-2009" },
+            { "Name": "DDreamStudio 1.50 BETA 6", "Date": "03-28-2009" },
+            { "Name": "DDreamStudio 1.50 FINAL", "Date": "03-28-2009" },
+            { "Name": "DDreamStudio 2.00 Beta 2", "Date": "05-16-2009" },
+            { "Name": "DDreamStudio 2.00 Beta 3", "Date": "05-18-2009" },
+            { "Name": "DDreamStudio 2.00 Beta 4", "Date": "05-22-2009" },
+            { "Name": "DDreamStudio 2.00 Beta 5", "Date": "05-25-2009", "Windows": "ds200BETA5.zip" },
+            { "Name": "DDreamStudio 2.00 Beta 6", "Date": "08-02-2009", "Windows": "ds200BETA6.zip" }
+        ]
+    },
+    "smhelper" : {
+        "Name": "StepManiaHelper",
+        "Description": "A song library management utility that can help with toggling/hidding songs from your StepMania directory.",
+        "Picture": "https://i.imgur.com/OCwXTJi.png",
+        "Listing": [
+            { "Name": "StepManiaHelperV1.02.01 Alpha", "Date": "10-12-2020", "Windows": "StepManiaHelperV010201.exe" }
+        ]
+    },
+    "yifcodec" : {
+        "Name": "YIFCodec",
+        "Description": "Tools to encrypt and decrypt Mungyodance 3 .YIF archives.",
+        "Listing": [
+            { "Name": "ToolSet", "Date": "12-15-2014",
+                "Windows": [
+                    { "Name": "Decoder", "Link": "patchdec.exe" }
+                ],
+                "Src": "YIFCodec.zip"
+            }
+        ]
+    },
+    "Texture-Font-Generator-2020-Squirrel" : {
+        "Name": "Texture Font Generator 2020",
+        "Description": "A rework of the texture font generator from <abbr title='Spinal Shark Colective'>SSC</abbr> by Squirrel to support the new font mappings provided by StepMania OutFox. Starting in v0.3, it adds support for legacy font mappings for earlier versions of StepMania.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/Texture-Font-Generator-2020-Squirrel/picturepreview.gif",
+        "Listing": [
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.1",
+                "Date" : "09-24-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.1/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.1/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Korean", "Link": "v0.1/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.1/Texture_Font_Generator-Chn.7z" }
+                ],
+                "Src": "v0.1/Texture-Font-Generator-2020-Squirrel-buildv0.1.tar.gz"
+            },
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.2",
+                "Date" : "09-27-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.2/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.2/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.2/Texture_Font_Generator-Jpn-supp.7z" },
+                    { "Name": "Korean", "Link": "v0.2/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.2/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.2/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.2/Texture-Font-Generator-2020-Squirrel-buildv0.2.tar.gz"
+            },
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.3",
+                "Date" : "10-07-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.3/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.3/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.3/Texture_Font_Generator-Jpn-supp.7z" },
+                    { "Name": "Korean", "Link": "v0.3/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.3/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.3/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.3/Texture-Font-Generator-2020-Squirrel-buildv0.3.tar.gz"
+            },
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.31",
+                "Date" : "10-27-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.31/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.31/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.31/Texture_Font_Generator-Jpn-supp.7z" },
+                    { "Name": "Korean", "Link": "v0.31/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.31/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.31/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.31/Texture-Font-Generator-2020-Squirrel-buildv0.31.tar.gz"
+            },
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.32",
+                "Date" : "10-30-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.32/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.32/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.32/Texture_Font_Generator-Jpn_Hojo.7z" },
+                    { "Name": "Korean", "Link": "v0.32/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.32/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.32/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.32/Texture-Font-Generator-2020-Squirrel-buildv0.32.tar.gz"
+            },
+            {
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.33",
+                "Date" : "11-13-2020",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.33/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.33/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.33/Texture_Font_Generator-Jpn_Hojo.7z" },
+                    { "Name": "Korean", "Link": "v0.33/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.33/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.33/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.33/Texture-Font-Generator-2020-Squirrel-buildv0.33.tar.gz"
+            }
+        ]
+    },
+    "DancingGorilla" : {
+        "Name": "Dancing Monkeys / Gorilla",
+        "Description": "A command-line/graphical tool that generates steps based on the audio. It analyzes the music it is given to determine when and where to place arrows.",
+        "Listing": [
+            { "Name": "Dancing Monkeys 1.0", "Date": "10-01-2003", "Windows": "Dancing%20Monkeys%201.0.zip" },
+            { "Name": "Dancing Monkeys 1.01", "Date": "11-03-2003", "Windows": "Dancing%20Monkeys%201.01.zip" },
+            { "Name": "Dancing Monkeys 1.03", "Date": "07-25-2006", "Windows": "Dancing%20Monkeys%201.03.zip" },
+            { "Name": "Dancing Monkeys 1.04", "Date": "08-17-2006", "Windows": "Dancing%20Monkeys%201.04.zip" },
+            { "Name": "DancingGorilla-1.0.1-1.06", "Date": "10-05-2006", "Windows": "DancingGorilla-1.0.1-1.06.zip" },
+            { "Name": "DancingGorilla-1.0.2-1.06", "Date": "01-12-2007", "Windows": "DancingGorilla-1.0.2-1.06.zip" },
+            { "Name": "DancingGorilla-1.1.3-1.06", "Date": "02-25-2007", "Windows": "DancingGorilla-1.1.3-1.06.zip" },
+            { "Name": "DancingGorilla-1.1.4-1.06", "Date": "04-03-2007", "Windows": "DancingGorilla-1.1.4-1.06.zip" }
+        ]
+    },
+
+    "TranslationToolkit" : {
+        "Name": "Translation-Toolkit",
+        "Description": "This project is intended as a small application to automate some tasks for translators. It is able to parse, analyze and fix the StepMania translation files.",
+        "Listing" : [
+            { 
+                "Name": "Translation-Toolkit-0.1",
+                "Date": "09-07-2020",
+                "Src": "Translation-Toolkit-0.1.tar",
+                "Mac": "Translation-Toolkit-0.1-Mac.7z",
+                "Linux": "Translation-Toolkit-0.1-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.1.1",
+                "Date": "09-08-2020",
+                "Src": "Translation-Toolkit-0.1.1.tar",
+                "Windows": "Translation-Toolkit-0.1.1-Win.7z",
+                "Mac": "Translation-Toolkit-0.1.1-Mac.7z",
+                "Linux": "Translation-Toolkit-0.1.1-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.5",
+                "Date": "12-19-2020",
+                "Src": "Translation-Toolkit-0.5.tar",
+                "Windows": "Translation-Toolkit-0.5-Win.7z",
+                "Mac": "Translation-Toolkit-0.5-Mac.7z",
+                "Linux": "Translation-Toolkit-0.5-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.5.1",
+                "Date": "12-19-2020",
+                "Src": "Translation-Toolkit-0.5.1.tar",
+                "Windows": "Translation-Toolkit-0.5.1-Win.7z",
+                "Mac": "Translation-Toolkit-0.5.1-Mac.7z",
+                "Linux": "Translation-Toolkit-0.5.1-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.6",
+                "Date": "12-19-2020",
+                "Src": "Translation-Toolkit-0.6.tar",
+                "Windows": "Translation-Toolkit-0.6-Win.7z",
+                "Mac": "Translation-Toolkit-0.6-Mac.7z",
+                "Linux": "Translation-Toolkit-0.6-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.6.1",
+                "Date": "12-19-2020",
+                "Src": "Translation-Toolkit-0.6.1.tar",
+                "Windows": "Translation-Toolkit-0.6.1-Win.7z",
+                "Mac": "Translation-Toolkit-0.6.1-Mac.7z",
+                "Linux": "Translation-Toolkit-0.6.1-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.6.2",
+                "Date": "12-19-2020",
+                "Src": "Translation-Toolkit-0.6.2.tar",
+                "Windows": "Translation-Toolkit-0.6.2-Win.7z",
+                "Mac": "Translation-Toolkit-0.6.2-Mac.7z",
+                "Linux": "Translation-Toolkit-0.6.2-Linux.7z"
+            },
+            { 
+                "Name": "Translation-Toolkit-0.6.3",
+                "Date": "12-24-2020",
+                "Src": "Translation-Toolkit-0.6.3.tar",
+                "Windows": "Translation-Toolkit-0.6.3-Win.7z",
+                "Mac": "Translation-Toolkit-0.6.3-Mac.7z",
+                "Linux": "Translation-Toolkit-0.6.3-Linux.7z"
+            }
+        ]
+    },
+    "Stepmania-TranslatorViewMaker": {
+        "Name": "Stepmania-TranslatorViewMaker",
+        "Description": "Have you ever tried to translate a program like Stepmania and wondered <i>\"Hmmmmm, now where can I find that line in the .ini?\"</i> Now there's no need to wonder! This program will make a translator view file for your translation .ini and make you translation job easier.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/Stepmania-TranslatorViewMaker/toolmaker.jpg",
+        "Listing": []
+    },
+    "Tiny-Webini": {
+        "Name": "Tiny-Webini",
+        "Description": "Translate Project Moondance with the same style StepMania uses for its translations.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/Tiny-Webini/tinywebini.png",
+        "Listing": [
+            {
+                "Name": "Tiny-Webini-0.1",
+                "Date": "12-02-2020",
+                "Src": "Tiny-Webini-0.1-alpha.tar",
+                "Windows": "Tiny-Webini-0.1.rar"
+            },
+            {
+                "Name": "Tiny-Webini-0.2",
+                "Date": "12-18-2020",
+                "Src": "Tiny-Webini-0.2-alpha.tar",
+                "Windows": "Tiny-Webini-0.2.rar"
+            },
+            {
+                "Name": "Tiny-Webini-0.3",
+                "Date": "12-19-2020",
+                "Src": "Tiny-Webini-0.3-alpha.tar",
+                "Windows": "Tiny-Webini-0.3.rar"
+            },
+            {
+                "Name": "Tiny-Webini-1.0",
+                "Date": "01-09-2021",
+                "Src": "Tiny-Webini-1.0-beta.tar",
+                "Windows": "Tiny-Webini-1.0-bin.rar"
+            },
+            {
+                "Name": "Tiny-Webini-1.1",
+                "Date": "01-12-2021",
+                "Src": "Tiny-Webini-1.1-beta.tar",
+                "Windows": "Tiny-Webini-1.1-bin.rar"
+            },
+            {
+                "Name": "Tiny-Webini-1.2",
+                "Date": "01-16-2021",
+                "Src": "Tiny-Webini-1.2-beta.tar",
+                "Windows": "Tiny-Webini-1.2-bin.rar"
+            },
+            {
+                "Name": "Tiny-Webini-1.3",
+                "Date": "03-05-2021",
+                "Src": "Tiny-Webini-1.3-beta.tar",
+                "Windows": "Tiny-Webini-1.3-bin.rar"
+            }
+        ]
+    }
+}

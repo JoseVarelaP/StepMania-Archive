@@ -1,0 +1,637 @@
+{
+    "InTheGroove1" : {
+        "Name" : "In The Groove",
+        "Collections" : {
+            "ITGVP1" : {
+                "Name" : "In the Groove - Video Pack #1",
+                "Game": "In The Groove 1",
+                "RecordDate": "08-06-2004",
+                "Location": "Illusionz Magical Entertainment Center, Issaquah, WA",
+                "Container" : "In%20The%20Groove/ITGVideoPack1",
+
+                "AHybrid" : {
+                    "Name": "Antonio WBR - Hybrid (Expert)",
+                    "Description": "Antonio plays Hybrid on Expert.",
+                    "VideoLink": "Antonio%20WBR%20-%20Hybrid%20-%20Expert.mp4",
+                    "Src": {
+                        "Name": "In the Groove - Video Pack #1"
+                    }
+                },
+                "CFarEast" : {
+                    "Name": "Chef - Marathon Course - Far East",
+                    "Description": "Chef plays Far East.",
+                    "VideoLink": "Chef%20-%20Marathon%20Course%20-%20Far%20East.mp4",
+                    "Src": {
+                        "Name": "In the Groove - Video Pack #1"
+                    }
+                },
+                "InterfaceSongWheel" : {
+                    "Name": "Test Location / Interface Demonstration",
+                    "Description": "This short clip contains a look into the song wheel. Most of the banners are still from the Alpha stage of development, while the game has already been in a beta state for about a few months, given its recording date.",
+                    "VideoLink": "Interface%20-%20Song%20Wheel.mp4",
+                    "Src": {
+                        "Name": "In the Groove - Video Pack #1"
+                    }
+                },
+                "UnFU" : {
+                    "Name": "Unknown & Foy - Utopia (Easy/Expert)",
+                    "Description": "Match between an unknown individual and Chris Foy on Utopia from In The Groove 1. Unknown plays Easy, Chris plays Expert. The build being played seems to be the May 2004 beta.",
+                    "VideoLink": "Unknown%20and%20Foy%20-%20Utopia%20-%20Easy%20and%20Expert.mp4",
+                    "Src": {
+                        "Name": "In the Groove - Video Pack #1"
+                    },
+                    "ScoreInfo" : {
+                        "Participants": [ "Unknown", "Chris Foy" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Utopia", "Scores": [ 90.00, 85.44 ] }
+                        ]
+                    }
+                },
+                "PureHell" : {
+                    "Name": "Test Location / Pure Hell course showcase",
+                    "Description": "Chris Foy showcases a course called Pure Hell.",
+                    "VideoLink": "Foy%20-%20Marathon%20Course%20-%20Pure%20Hell.mp4",
+                    "Src": {
+                        "Name": "In the Groove - Video Pack #1"
+                    },
+                    "ScoreInfo" : {
+                        "Participants": [ "Chris Foy" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Delirium", "Scores": [ 14.67 ], "TimeStamp": 50 },
+                            { "Song": "In The Groove 1 - Tell", "Scores": [ 28.53 ], "TimeStamp": 174 },
+                            { "Song": "In The Groove 1 - Vertex", "Scores": [ 47.43 ], "TimeStamp": 292 },
+                            { "Song": "In The Groove 1 - Hardcore of the North", "Scores": [ 63.75 ], "TimeStamp" :425 }
+                        ]
+                    }
+                },
+                "Unknown-Sound-MediumHard" : {
+                    "Name": "Unknown - Sound - Medium and Hard",
+                    "VideoLink": "Unknown%20-%20Sound%20-%20%20Medium%20and%20Hard.mp4"
+                },
+                "Unknown-DisconnectedDoubles-Hard":{
+                    "Name": "Unknown - Disconnected Doubles - Hard",
+                    "VideoLink": "Unknown%20-%20Disconnected%20Doubles%20-%20Hard.mp4"
+                },
+                "Unknown-KagamiDoubles-Hard":{
+                    "Name": "Unknown - Kagami Doubles - Hard",
+                    "VideoLink": "Unknown%20-%20Kagami%20Doubles%20-%20%20Hard.mp4"
+                },
+                "Unknown-WhileThaRekkidSpinz-Hard":{
+                    "Name": "Unknown - While Tha Rekkid Spinz - Hard",
+                    "VideoLink": "Unknown%20-%20While%20Tha%20Rekkid%20Spinz%20-%20Hard.mp4"
+                },
+                "Unknown-Mellow-Hard":{
+                    "Name": "Unknown - Mellow - Hard",
+                    "VideoLink": "Unknown%20-%20Mellow%20-%20Hard.mp4"
+                },
+                "Unknown-MyFavoriteGame-Hard":{
+                    "Name": "Unknown - My Favorite Game - Hard",
+                    "VideoLink": "Unknown%20-%20My%20Favorite%20Game%20-%20Hard.mp4"
+                },
+                "Unknown-Xuxa-Expert":{
+                    "Name": "Unknown - Xuxa - Expert",
+                    "VideoLink": "Unknown%20-%20Xuxa%20-%20Expert.mp4"
+                },
+                "UnknownandFoy-Zodiac-HardandExpert":{
+                    "Name": "Unknown and Foy - Zodiac - Hard and Expert",
+                    "VideoLink": "Unknown%20and%20Foy%20-%20Zodiac%20-%20Hard%20and%20Expert.mp4"
+                },
+                "Unknown-LemmingsontheRun-Expert":{
+                    "Name": "Unknown - Lemmings on the Run - Expert",
+                    "VideoLink": "Unknown%20-%20Lemmings%20on%20the%20Run%20-%20Expert.mp4"
+                },
+                "Unknown-BendYourMind-MediumandExpert":{
+                    "Name": "Unknown - Bend Your Mind - Medium and Expert",
+                    "VideoLink": "Unknown%20-%20Bend%20Your%20Mind%20-%20Medium%20and%20Expert.mp4"
+                },
+                "Unknown-HardcoreoftheNorth-HardandExpert":{
+                    "Name": "Unknown - Hardcore of the North - Hard and Expert",
+                    "VideoLink": "Unknown%20-%20Hardcore%20of%20the%20North%20-%20Hard%20and%20Expert.mp4"
+                },
+                "Unknown-Tension-MediumandExpert":{
+                    "Name": "Unknown - Tension - Medium and Expert",
+                    "VideoLink": "Unknown%20-%20Tension%20-%20Medium%20and%20Expert.mp4"
+                },
+                "Unknown-Hybrid-Hard":{
+                    "Name": "Unknown - Hybrid - Hard",
+                    "VideoLink": "Unknown%20-%20Hybrid%20-%20Hard.mp4"
+                },
+                "Cynic-Pandemonium-Expert":{
+                    "Name": "Cynic - Pandemonium - Expert",
+                    "VideoLink": "Cynic%20-%20Pandemonium%20-%20Expert.mp4"
+                },
+                "UTE":{
+                    "Name": "Unknown - Tell - Expert",
+                    "VideoLink": "Unknown%20-%20Tell%20-%20Expert.mp4"
+                },
+                "Unknown-KissMeRed-Expert":{
+                    "Name": "Unknown - Kiss Me Red - Expert",
+                    "VideoLink": "Unknown%20-%20Kiss%20Me%20Red%20-%20Expert.mp4"
+                },
+                "Unknown-Kagami-Expert":{
+                    "Name": "Unknown - Kagami - Expert",
+                    "VideoLink": "Unknown%20-%20Kagami%20-%20Expert.mp4"
+                },
+                "UnknownandFoy-DisconnectedMobius-Expert":{
+                    "Name": "Unknown and Foy - Disconnected Mobius - Expert",
+                    "VideoLink": "Unknown%20and%20Foy%20-%20Disconnected%20Mobius%20-%20Expert.mp4"
+                },
+                "Unknown-Infection-Expert":{
+                    "Name": "Unknown - Infection - Expert",
+                    "VideoLink": "Unknown%20-%20Infection%20-%20Expert.mp4"
+                },
+                "Unknown-Vertex-Expert":{
+                    "Name": "Unknown - Vertex - Expert",
+                    "VideoLink": "Unknown%20-%20Vertex%20-%20Expert.mp4"
+                },
+                "Unknown-QueenofLight-Expert":{
+                    "Name": "Unknown - Queen of Light - Expert",
+                    "VideoLink": "Unknown%20-%20Queen%20of%20Light%20-%20Expert.mp4"
+                },
+                "UnknownandFoy-QueenofLight-Expert":{
+                    "Name": "Unknown and Foy - Queen of Light - Expert",
+                    "VideoLink": "Unknown%20and%20Foy%20-%20Queen%20of%20Light%20-%20Expert.mp4"
+                },
+                "Unknown-HandofTime-ExpertandHard":{
+                    "Name": "Unknown - Hand of Time - Expert and Hard",
+                    "VideoLink": "Unknown%20-%20Hand%20of%20Time%20-%20Expert%20and%20Hard.mp4"
+                },
+                "UnknownandFoy-DisconnectedHyper-EasyandExpert":{
+                    "Name": "Unknown and Foy - Disconnected Hyper - Easy and Expert",
+                    "VideoLink": "Unknown%20and%20Foy%20-%20Disconnected%20Hyper%20-%20Easy%20and%20Expert.mp4"
+                }
+            },
+            "SlovenianFair" : {
+                "Name" : "Slovenian Fair (May 25-28 2006)",
+                "Game" :"In The Groove 2 (Positive Gaming's Multiplayer)",
+                "Container" : "In%20The%20Groove/Slovenian%20Fair%20May%2025-28%202006",
+                "RecordDate": "05-25-2006",
+                "Location": "Orehov gaj, Ljubljana",
+
+                "ITG2MultiplayerSlovenianFair-00ITG3Songwheel" : {
+                    "Name": "ITG2 Multiplayer - ITG3 Song wheel",
+                    "Description": "This showcases an extremely early version of ITG3's song list.",
+                    "VideoLink": "ITG2%20Multiplayer%20Slovenian%20Fair%20-%2000%20ITG3%20Song%20wheel.mp4"
+                },
+                "ITG2MultiplayerSlovenianFair-02PinkFuzzyBunniesEasy" : {
+                    "Name": "ITG2 Multiplayer - Pink Fuzzy Bunnies [Easy]",
+                    "VideoLink": "ITG2%20Multiplayer%20Slovenian%20Fair%20-%2002%20Pink%20Fuzzy%20Bunnies%20Easy.mp4"
+                },
+                "ITG2MultiplayerSlovenianFair-01FrozenFireMedium" : {
+                    "Name": "ITG2 Multiplayer - Frozen Fire [Medium]",
+                    "VideoLink": "ITG2%20Multiplayer%20Slovenian%20Fair%20-%2001%20Frozen%20Fire%20Medium.mp4"
+                },
+                "itg3onitg2multiplayer" : {
+                    "Name": "ITG3 on ITG2 multiplayer",
+                    "VideoLink": "itg3%20on%20itg2%20multiplayer.mp4",
+                    "RecordDate": "05-26-2006"
+                },
+                "ITG2MultiplayerSlovenianFair-03LessThanThreeNovice" : {
+                    "Name": "ITG2 Multiplayer - Less Than Three [Novice]",
+                    "VideoLink": "ITG2%20Multiplayer%20Slovenian%20Fair%20-%2003%20Less%20Than%20Three%20Novice.mp4"
+                }
+            },
+            "ITGEC08" : {
+                "Name" : "EuroCup 2008, Silverstone Zwanenburg, NL (March 14-16, 2008)",
+                "Game": "In The Groove 2",
+                "Location": "Silverstone Zwanenburg, NL",
+                "RecordDate": "03-15-2008",
+                "Container" : "In%20The%20Groove/EuroCup%202008%20Silverstone%20Zwanenburg%2C%20NL%20March%2014-16%202008",
+
+                "MultiRockRoll" : {
+                    "Name": "Multiplayer - This is Rock & Roll",
+                    "VideoLink": "In%20The%20Groove/ITGEC2008/ITG%20EC%202008%20-%20Multiplayer%20-%20This%20is%20Rock%20%26%20Roll.mp4",
+                    "RecordDate": "03-18-2008",
+                    "Src": {
+                        "Name": "RanFox",
+                        "Link": "https://www.youtube.com/watch?v=xI3tFg5aCCc"
+                    }
+                },
+
+                "EC08MensSingleFinals-MaxxStormvsCeder" : {
+                    "Name": "Mens Single Finals - Maxx Storm vs Ceder",
+                    "VideoLink": "EC08%20Mens%20Single%20Finals%20-%20Maxx%20Storm%20vs%20Ceder.webm",
+                    "RecordDate": "03-15-2008",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Euphoria", "Scores": [ 94.72, 96.25 ], "TimeStamp": 52 },
+                            { "Song": "In The Groove 2 - Infection", "Scores": [ 98.74, 98.29 ], "TimeStamp": 218 },
+                            { "Song": "In The Groove 1 - Euphoria", "Scores": [ 95.39, 97.22 ], "TimeStamp": 390 }
+                        ]
+                    }
+                },
+                "EC08MensSingleFinals-MaxxStormvsCederP2" : {
+                    "Name": "Mens Single Finals - Maxx Storm vs Ceder - Part 2",
+                    "VideoLink": "EC08%20Mens%20Single%20Finals%20-%20Maxx%20Storm%20vs%20Ceder%20part2.webm",
+                    "RecordDate": "03-15-2008",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Utopia", "Scores": [ 99.02, 98.90 ], "TimeStamp": 17 },
+                            { "Song": "In The Groove 2 - Determinator", "Scores": [ 96.07, 92.20 ], "TimeStamp": 216 }
+                        ]
+                    }
+                },
+                "EC08MensSingle-WistervsJapee-Anubis" : {
+                    "Name": "Mens Single - Wister vs Japee - Anubis",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Wister%20vs%20Japee%20-%20Anubis%2093.20%2097.36.webm",
+                    "RecordDate": "03-15-2008",
+                    "ScoreInfo" : {
+                        "Participants": [ "Wister", "Japee" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Anubis", "Scores": [ 93.20, 97.36 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-WistervsJapee-HardcoreoftheNorth" : {
+                    "Name": "Mens Single - Wister vs Japee - Hardcore of the North",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Wister%20vs%20Japee%20-%20Hardcore%20of%20the%20North%2062.82%2082.54.webm",
+                    "RecordDate": "03-15-2008",
+                    "ScoreInfo" : {
+                        "Participants": [ "Wister", "Japee" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Hardcore of the North", "Scores": [ 62.82, 82.54 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-THKvsArseneDisconectedHyper98.0598.67" : {
+                    "Name": "Mens Single - THK vs Arsene Disconected Hyper",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20THK%20vs%20Arsene%20Disconected%20Hyper%2098.05%2098.67.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK", "Arsene" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Disconnected Hyper", "Scores": [ 98.05, 98.67 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-MrJackalvsCederHardcoreSymphony81.7697.59" : {
+                    "Name": "Mens Single - Mr Jackal vs Ceder Hardcore Symphony",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Mr%20Jackal%20vs%20Ceder%20Hardcore%20Symphony%2081.76%2097.59.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Mr Jackal", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Hardcore Symphony", "Scores": [ 81.76, 97.59 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-PhilvsTHK-Twilight" : {
+                    "Name": "Mens Single - Phil vs THK - Twilight",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Phil%20vs%20THK%20-%20Twilight%2097.93%2094.44.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Phil", "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Twilight", "Scores": [ 97.93, 94.44 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-MrJackalvsCeder-SummerSpeedyMix" : {
+                    "Name": "Mens Single - Mr Jackal vs Ceder - Summer Speedy Mix",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Mr%20Jackal%20vs%20Ceder%20-%20Summer%20Speedy%20Mix%2058.87%2098.92.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Mr Jackal", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Summer (Speedy Mix)", "Scores": [ 58.87, 98.92 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-MrJackalvsCeder-D-Code99.1999.14" : {
+                    "Name": "Mens Single - Mr Jackal vs Ceder - D-Code 99.19 99.14",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Mr%20Jackal%20vs%20Ceder%20-%20D-Code%2099.19%2099.14.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Mr Jackal", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - D-Code", "Scores": [ 99.19, 99.14 ] }
+                        ]
+                    }
+                },
+                "EC08MensSingle-MaxxStormvsFisk-TheBeginning97.9297.37" : {
+                    "Name": "Mens Single - Maxx Storm vs Fisk - The Beginning 97.92 97.37",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Fisk%20-%20The%20Beginning%2097.92%2097.37.webm"
+                },
+                "EC08MensSingle-MaxxStormvsCeder-Vertex98.2499.19" : {
+                    "Name": "Mens Single - Maxx Storm vs Ceder - Vertex 98.24 99.19",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Vertex%2098.24%2099.19.webm"
+                },
+                "EC08MensSingle-MaxxStormvsCeder-Charlene99.8299.68" : {
+                    "Name": "Mens Single - Maxx Storm vs Ceder - Charlene 99.82 99.68",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Charlene%2099.82%2099.68.webm"
+                },
+                "EC08MensSingle-MasatovsPhil-Zodiac97.8399.19" : {
+                    "Name": "Mens Single - Masato vs Phil - Zodiac 97.83 99.19",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Masato%20vs%20Phil%20-%20Zodiac%2097.83%2099.19.webm"
+                },
+                "EC08MensSingle-CedervsRubbinexx-Vertex287.3368.04" : {
+                    "Name": "Mens Single - Ceder vs Rubbinexx - Vertex2 87.33 68.04",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Vertex2%2087.33%2068.04.webm"
+                },
+                "EC08MensSingle-ArsenevsTHK-MyLifeSoCrazy80.6597.98" : {
+                    "Name": "Mens Single - Arsene vs THK - My Life So Crazy 80.65 97.98",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Arsene%20vs%20THK%20-%20My%20Life%20So%20Crazy%2080.65%2097.98.webm"
+                },
+                "EC08MensSingle-CedervsRubbinexx-Bloodrush90.9390.16" : {
+                    "Name": "Mens Single - Ceder vs Rubbinexx - Bloodrush 90.93 90.16",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Bloodrush%2090.93%2090.16.webm"
+                },
+                "EC08MensDoublesFinals-CedervsSyaoran-Renaissance92.9498.57" : {
+                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Renaissance 92.94 98.57",
+                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Renaissance%2092.94%2098.57.webm"
+                },
+                "EC08MensDoublesFinals-CedervsSyaoran-Monolithfailwin" : {
+                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Monolith",
+                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Monolith%20fail%20win.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Syaoran" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Monolith", "Scores": [ 30.90, 51.90 ] }
+                        ]
+                    }
+                },
+                "EC08MensDoublesFinals-CedervsSyaoran-Energizerfailwin" : {
+                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Energizer",
+                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Energizer%20fail%20win.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Syaoran" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Energizer", "Scores": [ 36.07, 54.12 ] }
+                        ]
+                    }
+                },
+                "EC08MensDoublesFinals-CedervsSyaoran-DisconnectedDisco82.8191.85" : {
+                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Disconnected Disco",
+                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Disconnected%20Disco%2082.81%2091.85.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Syaoran" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Disconnected Disco", "Scores": [ 82.81, 91.85 ] }
+                        ]
+                    }
+                },
+                "EC08MensDoubles-THK-WhyMe95.42" : {
+                    "Name": "Mens Doubles - THK - Why Me",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Why%20Me%2095.42.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Why Me", "Scores": [ 95.42 ] }
+                        ]
+                    }
+                },
+                "EC08MensDoubles-THK-WannaDo87.82" : {
+                    "Name": "Mens Doubles - THK - Wanna Do",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Wanna%20Do%2087.82.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Wanna Do", "Scores": [ 87.82 ] }
+                        ]
+                    }
+                },
+                "EC08MensDoubles-THK-TribalStyle93.79" : {
+                    "Name": "Mens Doubles - THK - Tribal Style 93.79",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Tribal%20Style%2093.79.webm"
+                },
+                "EC08MensDoubles-THK-Monolith76.24" : {
+                    "Name": "Mens Doubles - THK - Monolith 76.24",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Monolith%2076.24.webm"
+                },
+                "EC08MensDoubles-THK-Reactor87.58" : {
+                    "Name": "Mens Doubles - THK - Reactor 87.58",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Reactor%2087.58.webm"
+                },
+                "EC08MensDoubles-THK-DriftingAway94.97" : {
+                    "Name": "Mens Doubles - THK - Drifting Away 94.97",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Drifting%20Away%2094.97.webm"
+                },
+                "EC08MensDoubles-THK-Euphoria94.41" : {
+                    "Name": "Mens Doubles - THK - Euphoria 94.41",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Euphoria%2094.41.webm"
+                },
+                "EC08MensDoubles-MaxxStorm-WhyMe96.78" : {
+                    "Name": "Mens Doubles - Maxx Storm - Why Me 96.78",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Why%20Me%2096.78.webm"
+                },
+                "EC08MensDoubles-MaxxStorm-Reactor85.88" : {
+                    "Name": "Mens Doubles - Maxx Storm - Reactor 85.88",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Reactor%2085.88.webm"
+                },
+                "EC08MensDoubles-Ceder-SummerSpeedyMix95.14" : {
+                    "Name": "Mens Doubles - Ceder - Summer Speedy Mix 95.14",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Summer%20Speedy%20Mix%2095.14.webm"
+                },
+                "EC08MensDoubles-Ceder-PsalmPilot98.06" : {
+                    "Name": "Mens Doubles - Ceder - Psalm Pilot 98.06",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Psalm%20Pilot%2098.06.webm"
+                },
+                "EC08FoyboyandKeelFreestyle" : {
+                    "Name": "EC08 Foyboy and Keel Freestyle",
+                    "VideoLink": "EC08%20Foyboy%20and%20Keel%20Freestyle.webm"
+                },
+                "EC08FemaleSingleFinals-STsungvsLauma-QueenofLight95.5397.84" : {
+                    "Name": "EC08 Female Single Finals - STsung vs Lauma - Queen of Light 95.53 97.84",
+                    "VideoLink": "EC08%20Female%20Single%20Finals%20-%20STsung%20vs%20Lauma%20-%20Queen%20of%20Light%2095.53%2097.84.webm"
+                },
+                "EC08FemaleSingle-ThimyvsNiya-TribalStyle94.7298.22" : {
+                    "Name": "EC08 Female Single - Thimy vs Niya - Tribal Style 94.72 98.22",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Thimy%20vs%20Niya%20-%20Tribal%20Style%2094.72%2098.22.webm"
+                },
+                "EC08FemaleSingle-STsungvsThimy-Xuxa90.2088.36" : {
+                    "Name": "EC08 Female Single - STsung vs Thimy - Xuxa 90.20 88.36",
+                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Thimy%20-%20Xuxa%2090.20%2088.36.webm"
+                },
+                "EC08FemaleSingle-STsungvsLauma-Vertexfailwin" : {
+                    "Name": "EC08 Female Single - STsung vs Lauma - Vertex fail win",
+                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Lauma%20-%20Vertex%20fail%20win.webm"
+                },
+                "EC08FemaleSingle-LaumavsNiya-WannaDo98.3697.58" : {
+                    "Name": "EC08 Female Single - Lauma vs Niya - Wanna Do 98.36 97.58",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Niya%20-%20Wanna%20Do%2098.36%2097.58.webm"
+                },
+                "EC08FemaleSingle-LaumavsMary-Chan-WakeUp98.8398.65" : {
+                    "Name": "EC08 Female Single - Lauma vs Mary-Chan - Wake Up 98.83 98.65",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Wake%20Up%2098.83%2098.65.webm"
+                },
+                "EC08FemaleSingle-LaumavsMary-Chan-DisonnectedMobius93.2799.13" : {
+                    "Name": "EC08 Female Single - Lauma vs Mary-Chan - Disonnected Mobius 93.27 99.13",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Disonnected%20Mobius%2093.27%2099.13.webm"
+                },
+                "EC08FemaleSingle-STsungvsThimy-MyLifeIsSoCrazy94.9794.11" : {
+                    "Name": "EC08 Female Single -  STsung vs Thimy - My Life Is So Crazy 94.97 94.11",
+                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Thimy%20-%20My%20Life%20Is%20So%20Crazy%2094.97%2094.11.webm"
+                },
+                "EC08FemaleSingle-STsungvsLauma-SummerSpeedyMixfailwin" : {
+                    "Name": "EC08 Female Single -  STsung vs Lauma - Summer Speedy Mix fail win",
+                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Lauma%20-%20Summer%20Speedy%20Mix%20fail%20win.webm"
+                },
+                "EC08FemaleDoubles-STsungvsLauma-Reactorfailwin" : {
+                    "Name": "EC08 Female Doubles - STsung vs Lauma - Reactor fail win",
+                    "VideoLink": "EC08%20Female%20Doubles%20-%20STsung%20vs%20Lauma%20-%20Reactor%20fail%20win.webm"
+                },
+                "EC08FemaleDoubles-STsung-WhileThaRekkidSpinz86.00" : {
+                    "Name": "EC08 Female Doubles - STsung - While Tha Rekkid Spinz 86.00",
+                    "VideoLink": "EC08%20Female%20Doubles%20-%20STsung%20-%20While%20Tha%20Rekkid%20Spinz%2086.00.webm"
+                }
+            },
+            "ITGUS08" : {
+                "Name" : "In The Groove US Open 2008",
+                "Game": "In The Groove 2",
+
+                "MultiRockRoll" : {
+                    "Name": "Evildave and Zane - 800$ Dollar Boom",
+                    "Description" : "Moments of the singles final, where Evildave keeps holding the mines, causing its fall from winning after performing a quad in Liquid Moon.",
+                    "VideoLink": "In%20The%20Groove/Unknown%20and%20Zane%20-%20800%24%20BOOM.mp4",
+                    "RecordDate": "03-18-2008",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Liquid Moon", "Scores": [ 99.83, 99.50 ] }
+                        ]
+                    }
+                }
+            },
+            "InTheNews" : {
+                "Name" : "In The News",
+                "BBCObesity" : {
+                    "Name": "BBC: DDR again - Computer helps obesity battle",
+                    "Description": "News report from the BBC by Niki Cardwell about how DDR is helping students on a school to be more active than ever before. However, it is worth noting that the software they're using for this excercise is Positive Gaming's ITG 2 Multiplayer version, which would later become iDance.",
+                    "VideoLink": "In%20The%20Groove/BBC%20-%20DDR%20again%20-%20Computer%20helps%20obesity%20battle.mp4",
+                    "RecordDate": "09-15-2007",
+                    "Location": "Lea Manor High School, Luton, Bedfordshire",
+                    "Game": "In The Groove 2",
+                    "Src": {
+                        "Name": "Computer dance gets pupils active - BBC",
+                        "Link": "http://news.bbc.co.uk/2/hi/health/6995365.stm"
+                    }
+                }
+            }
+        }
+    },
+
+    "NeonFM" : {
+        "Name" : "NeonFM",
+        "Collections" : {
+            "PlayTest" : {
+                "Name" : "Playtesting sessions (2004)",
+                "Game": "NeomFM: Dance Radio",
+                "RecordDate": "08-06-2004",
+
+                "Prototype1" : {
+                    "Name": "Test Location Demonstration 1",
+                    "VideoLink": "NeonFM/cmcm_NeonFMPrototype1.mp4"
+                },
+                "Prototype2" : {
+                    "Name": "Test Location Demonstration 2",
+                    "VideoLink": "NeonFM/cmcm_NeonFMPrototype2.mp4"
+                }
+            }
+        }
+    },
+
+    "PumpPro": {
+        "Name": "Pump It Up Pro",
+        "Collections" : {
+            "BZXLSP" : {
+                "Name": "Brunzwick Zone XL St Peters, MO",
+                "Location": "Brunzwick Zone XL St Peters, MO",
+                "Game": "Pump It Up Pro",
+                "RecordDate": "09-16-2007",
+
+                "Interface" : {
+                    "Name": "Credits, Demos, Scores and Screens",
+                    "VideoLink": "Pump%20Pro/%20Brunzwick%20Zone%20XL%20St%20Peters%20MO/pump%20pro%20credits%20demos%20scores%20screens.mp4"
+                },
+                "RateMod" : {
+                    "Name": "RateMod showcase",
+                    "VideoLink": "Pump%20Pro/%20Brunzwick%20Zone%20XL%20St%20Peters%20MO/pump%20pro%20rate%20mod.mp4"
+                },
+                "Progressive" : {
+                    "Name": "Progressive Mode List showcase",
+                    "VideoLink": "Pump%20Pro/%20Brunzwick%20Zone%20XL%20St%20Peters%20MO/pump%20pro%20progressive%20mode%20list.mp4"
+                },
+                "Edits" : {
+                    "Name": "Edits showcase",
+                    "VideoLink": "Pump%20Pro/%20Brunzwick%20Zone%20XL%20St%20Peters%20MO/pump%20pro%20edits.mp4"
+                },
+                "Pfox" : {
+                    "Name": "PlagueFox is Watching",
+                    "VideoLink": "Pump%20Pro/%20Brunzwick%20Zone%20XL%20St%20Peters%20MO/pump%20pro%20plaguefox%20is%20watching.mp4"
+                }
+            }
+        }
+    },
+
+    "MungyoDance": {
+        "Name" : "MungyoDance",
+        "Collections" : {
+            "MG3Release" : {
+                "Name" : "Mungyodance 3 Release Party",
+                "Game": "MungyoDance 3",
+                "RecordDate": "05-21-2008",
+
+                "ReleaseParty" : {
+                    "Name": "Mungyodance 3 Release Party Summary",
+                    "Description": "Initial moments from the release party of Mungyodance 3. This was after Renard's mix set. This is from a series of videos from the same party that showcases other elements like songs, the extra mode and the unlock system. Some things to note are elements on menus are more alive on this build, as well as unique character portraits for (mostly) each song.",
+                    "VideoLink": "MungyoDance%203/Mungyodance%203%20Party%20-%20Mungyodance%20preview.mp4",
+                    "Src": {
+                        "Name": "Chris Matthews",
+                        "Link": "https://www.youtube.com/watch?v=EH7j4O2oM8Q"
+                    }
+                },
+                "ReleasePartyUnlockDemo" : {
+                    "Name": "Mungyodance 3 Unlock Demonstration",
+                    "Description": "Renard provides an overview of the functionality of the Unlock System.",
+                    "VideoLink": "MungyoDance%203/Mungyodance%203%20unlock%20system.mp4",
+                    "Src": {
+                        "Name": "WinDEU",
+                        "Link": "https://www.youtube.com/watch?v=lRI0QJq5tyE"
+                    }
+                }
+            }
+        }
+    },
+
+    "StepMania": {
+        "Name": "StepMania",
+        "Collections" : {
+            "SMTV" : {
+                "Name" : "StepMania on Television",
+                "TVCfH" : {
+                    "Name": "StepMania 3.9 on Call for Help with Leo Laporte",
+                    "Description": "StepMania being demonstrated on Leo Laportes show, Call for Help, which was broadcasted on the How To channel.",
+                    "VideoLink": "StepMania/StepMania%20on%20Call%20for%20Help%20with%20Leo%20Laporte.mp4",
+                    "RecordDate": "08-11-2006",
+                    "Game": "StepMania 3.9",
+                    "Src": {
+                        "Name": "Call For Help with Leo Laporte - Episode 406"
+                    }
+                }
+            },
+            "SMGuides" : {
+                "Name" : "Legacy Guides",
+                "BuildCVS" : {
+                    "Name": "StepMania - Configure Anonymous CVS Access",
+                    "Description": "A tutorial made by Chris Danford that shows how to clone the StepMania repository back when it was on CVS.",
+                    "VideoLink": "StepMania/StepMania%20-%20Configure%20Anonymous%20CVS%20Access.mp4",
+                    "RecordDate": "11-24-2006",
+                    "Game": "StepMania 3.9",
+                    "Src": {
+                        "Name": "Chris Danford",
+                        "Link": "https://www.youtube.com/watch?v=S2EPc0xgWGs"
+                    }
+                },
+                "BuildVisualC++2005" : {
+                    "Name": "StepMania - Build in Windows with Visual C++ 2005 Express",
+                    "Description": "A tutorial made by Chris Danford that shows how to build StepMania in Microsoft Visual C++ 2005 Express.",
+                    "VideoLink": "StepMania/StepMania%20-%20Build%20in%20Windows%20with%20Visual%20C%2B%2B%202005%20express.mp4",
+                    "RecordDate": "11-24-2006",
+                    "Game": "StepMania 3.9",
+                    "Src": {
+                        "Name": "Chris Danford",
+                        "Link": "https://www.youtube.com/watch?v=xbKgTaq46l4"
+                    }
+                }
+            }
+        }
+    }
+}
