@@ -442,6 +442,12 @@
             },
             { "Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
             { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
+			{ "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "04-20-2021",
+				"Windows": [
+					{ "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip"},
+					{ "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/NotITG-4.2.0-QuickStart.zip"}
+				]
+			},
             { "Name": "OpenGroove", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
             { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "05-22-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" }
         ]

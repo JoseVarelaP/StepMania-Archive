@@ -3,6 +3,13 @@
 		"Date": "20/Apr/21",
 		"Changes": [
 			{
+				"Icon": "NITG4.png",
+				"Name": "NotITG",
+				"List": [
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip'>Added NotITG Version 4.2.0</a>."
+				]
+			},
+			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
