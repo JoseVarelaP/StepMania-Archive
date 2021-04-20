@@ -1,5 +1,5 @@
 <center>
-![Archive Logo](./Headers/About.png)
+<img src="https://github.com/JoseVarelaP/StepMania-Archive/blob/master/Headers/About.png?raw=true">
 </center>
 
 The StepMania archive is a side project created by Jose_Varela to collect and preserve almost everything from StepMania, and the contents made by the community itself. This repository will allow people to add entries or improvements to the archive, via pull requests or site upgrades from their JS code.
