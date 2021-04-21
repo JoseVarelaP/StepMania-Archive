@@ -171,41 +171,49 @@
     "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.html" },
     "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.html" },
 
-    "OUTFOX4.8.0" : {
+    "OUTFOX4.6.0RC2" : {
+        "Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
+        "HTMLParse" : "OUTFOX/A4.6.0RC2.md"
+    },
+	"OUTFOX4.6.0" : {
+        "Name" : "Alpha 4.6.0 Final Build - July 11 2020 \"Ogre's Have Layers\"",
+        "HTMLParse" : "OUTFOX/A4.6.0.md"
+    },
+	"OUTFOX4.8.0" : {
         "Name" : "Alpha 4.8.0 Final Build - August 14 2020 \"Chocolate Keyboards and Frikandel\"",
-        "HTMLParse" : "OUTFOX/A4.8.0.html"
+        "HTMLParse" : "OUTFOX/A4.8.0.md"
     },
     "OUTFOX4.8.1" : {
         "Name" : "Alpha 4.8.1 Fixed Build - August 14 2020 \"RageFile Against the Loading Window\"",
-        "HTMLParse" : "OUTFOX/A4.8.1.html"
+        "HTMLParse" : "OUTFOX/A4.8.1.md"
     },
     "OUTFOX4.8.2" : {
         "Name" : "Alpha 4.8.2 Fixed Build - August 19th 2020 \"Release the (Git)Kraken!\"",
-        "HTMLParse" : "OUTFOX/A4.8.2.html"
+        "HTMLParse" : "OUTFOX/A4.8.2.md"
     },
     "OUTFOX4.8.5" : {
         "Name" : "Alpha 4.8.5 Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.8.5.html"
+        "HTMLParse" : "OUTFOX/A4.8.5.md"
     },
     "OUTFOX4.9.0HF" : {
         "Name" : "Alpha 4.9.0HF Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.9.0HF.html"
+        "HTMLParse" : "OUTFOX/A4.9.0HF.md"
     },
     "OUTFOX4.9.1" : {
         "Name" : "Alpha 4.9.1 Build - October 31st 2020 \"Spooky Scary Bugs\"",
-        "HTMLParse" : "OUTFOX/A4.9.1.html"
+        "HTMLParse" : "OUTFOX/A4.9.1.md"
     },
     "OUTFOX4.9.5" : {
         "Name": "Alpha 4.9.5 Build - 30th November 2020 \"Step into tha game!\"",
-        "HTMLParse" : "OUTFOX/A4.9.5.html"
+        "HTMLParse" : "OUTFOX/A4.9.5.md"
     },
     "OUTFOX4.9.6" : {
         "Name" : "Alpha 4.9.6 Build - 16th December 2020 \"Single-Frame Don-Chan is not amused\"",
-        "HTMLParse" : "OUTFOX/A4.9.6.html"
+        "HTMLParse" : "OUTFOX/A4.9.6.md"
     },
     "OUTFOX4.9.7" : {
         "Name": "OutFox 5.3.0-alpha.4.9.7 Build - 20th February 2021 \"We're Only Human After All\"",
-        "HTMLParse" : "OUTFOX/A4.9.7.html"
+        "HTMLParse" : "OUTFOX/A4.9.7.md"
     },
     "OUTFOX4.9.7GG" : {
         "Name": "OutFox 5.3.0-alpha.4.9.7GG Build - 23rd February 2021 \"Good Game, Well Played...\"",
