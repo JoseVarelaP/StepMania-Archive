@@ -765,7 +765,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.11-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/stepmania-5.0.11-Linux.tar.gz"
             },
-            { "ID": "SM5.1A2", "Name": "StepMania 5.1.0 Alpha 2", "Date": "03-31-2016",
+            { "ID": "SM5.1.0A2", "Name": "StepMania 5.1.0 Alpha 2", "Date": "03-31-2016",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.1.0-alpha2-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-alpha2-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/StepMania-5.1.0-Linux.tar.gz"

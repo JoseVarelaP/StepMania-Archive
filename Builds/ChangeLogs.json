@@ -159,17 +159,17 @@
         "HTMLParse" : "SM39/ITGB01072004.html"
     },
 
-    "SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.html" },
-    "SM5.0.9" : { "Name":"StepMania 5.0.9", "HTMLParse" : "SM5/5.0.9.html" },
-    "SM5.0.10" : { "Name":"StepMania 5.0.10", "HTMLParse" : "SM5/5.0.10.html" },
-    "SM5.1.0A" : { "Name":"StepMania 5.1.0 Alpha", "HTMLParse" : "SM5/5.1.0A.html" },
-    "SM5.0.11" : { "Name":"StepMania 5.0.11", "HTMLParse" : "SM5/5.0.11.html" },
-    "SM5.1.0A2" : { "Name":"StepMania 5.1.0 Alpha 2", "HTMLParse" : "SM5/5.1.0A2.html" },
-    "SM5.0.12RC" : { "Name":"StepMania 5.0.12 Release Candidate", "HTMLParse" : "SM5/5.0.12RC.html" },
-    "SM5.0.12" : { "Name":"StepMania 5.0.12", "HTMLParse" : "SM5/5.0.12.html" },
-    "SM5.1-3" : { "Name":"StepMania 5.1-3", "HTMLParse" : "SM5/5.1-3.html" },
-    "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.html" },
-    "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.html" },
+    "SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
+    "SM5.0.9" : { "Name":"StepMania 5.0.9", "HTMLParse" : "SM5/5.0.9.md" },
+    "SM5.0.10" : { "Name":"StepMania 5.0.10", "HTMLParse" : "SM5/5.0.10.md" },
+    "SM5.1.0A" : { "Name":"StepMania 5.1.0 Alpha", "HTMLParse" : "SM5/5.1.0A.md" },
+    "SM5.0.11" : { "Name":"StepMania 5.0.11", "HTMLParse" : "SM5/5.0.11.md" },
+    "SM5.1.0A2" : { "Name":"StepMania 5.1.0 Alpha 2", "HTMLParse" : "SM5/5.1.0A2.md" },
+    "SM5.0.12RC" : { "Name":"StepMania 5.0.12 Release Candidate", "HTMLParse" : "SM5/5.0.12RC.md" },
+    "SM5.0.12" : { "Name":"StepMania 5.0.12", "HTMLParse" : "SM5/5.0.12.md" },
+    "SM5.1-3" : { "Name":"StepMania 5.1-3", "HTMLParse" : "SM5/5.1-3.md" },
+    "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.md" },
+    "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.md" },
 
     "OUTFOX4.6.0RC2" : {
         "Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
