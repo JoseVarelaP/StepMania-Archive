@@ -151,12 +151,12 @@
 
 	"ITGA05132003" : {
         "Name": "In The Groove 1 (May 2003 Alpha)",
-        "HTMLParse" : "SM30/ITGA05132003.html"
+        "HTMLParse" : "SM30/ITGA05132003.md"
     },
 
 	"ITGB01072004" : {
         "Name": "In The Groove 1 (January 2004 Beta)",
-        "HTMLParse" : "SM39/ITGB01072004.html"
+        "HTMLParse" : "SM39/ITGB01072004.md"
     },
 
     "SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
