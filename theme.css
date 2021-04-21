@@ -11,10 +11,11 @@ body {
 	margin-left: -20px;
 }
 
-#menu-box #discord{
-	width: 32px;
+#menu-box #toprighticon{
+	width: 28px;
 	float: right;
 	margin-top: -2px;
+	padding-left: 4px;
 }
 
 a {
@@ -471,7 +472,7 @@ only screen and (max-width:1000px) {
 
 @media only screen and (device-width: 660px),
 only screen and (max-width:660px) {
-	#menu-box #discord{ display: none; }
+	#menu-box #toprighticon{ display: none; }
 
 	.ThemeFlexSet img{
 		width: 48%;
