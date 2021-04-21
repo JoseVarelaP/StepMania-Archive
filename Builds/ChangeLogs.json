@@ -209,6 +209,6 @@
     },
     "OUTFOX4.9.7GG" : {
         "Name": "OutFox 5.3.0-alpha.4.9.7GG Build - 23rd February 2021 \"Good Game, Well Played...\"",
-        "HTMLParse" : "OUTFOX/A4.9.7GG.html"
+        "HTMLParse" : "OUTFOX/A4.9.7GG.md"
     }
 }

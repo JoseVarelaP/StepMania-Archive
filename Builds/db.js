@@ -79,6 +79,7 @@ const VersionChangelog = {
                 var phprequest = new URLSearchParams();
                 phprequest.append('text', `./${data.HTMLParse}`);
                 
+                /*
                 // TIME TO FETCH PHP
                 fetch("fetch.php", {
                     method: 'post',
@@ -91,6 +92,23 @@ const VersionChangelog = {
                     hcont.appendChild(contain)
                 })
                 .catch(function (error) { console.log(error) });
+                */
+
+                let l = getUrlVars();
+                var client = new XMLHttpRequest();
+                client.open('GET', `./HTMLChangeLog/${data.HTMLParse}`);
+                client.onreadystatechange = function() {
+                    if(client.readyState === XMLHttpRequest.DONE) {
+                        var status = client.status;
+                        if (status === 0 || (status >= 200 && status < 400)) {
+                            contain.innerHTML = marked(client.responseText);
+                        } else {
+                            contain.innerHTML = marked(`No page (${l.ID}) was found...`);
+                        }
+                        hcont.appendChild(contain)
+                    }
+                }
+                client.send();
             }
         }
     },

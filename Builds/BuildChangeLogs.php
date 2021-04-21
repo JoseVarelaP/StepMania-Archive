@@ -25,9 +25,10 @@
     </div>
 </body>
 <script src="db.js"></script>
+<script src="../marked.min.js"></script>
 <script src="../functions.js"></script>
 <script src="../TopMenu.js"></script>
 <script>
-    GenerateTopMenu();
+	GenerateTopMenu();
 </script>
 </html>
