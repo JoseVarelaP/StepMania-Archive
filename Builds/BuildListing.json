@@ -1019,13 +1019,13 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.3-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.3.tar.gz"
             },
-			{ "Name": "Etterna 0.71.0", "Date": "03-31-2021",
+			{ "Name": "Etterna 0.70.4", "Date": "03-31-2021",
                 "Windows": [
-                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-i386.exe" },
-                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-x64.exe" }
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.4-i386.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.4-x64.exe" }
                 ],
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.71.0-Darwin.dmg",
-                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.00.tar.gz"
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.4-Darwin.dmg",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.4.tar.gz"
             }
         ]
     },

@@ -8,6 +8,13 @@
 				"List": [
 					"Added version 4.9.8."
 				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Updated entries for 0.70.4."
+				]
 			}
 		]
 	},
