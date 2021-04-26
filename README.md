@@ -16,13 +16,13 @@ Parts of this repository (like the changelog viewer) use [marked](https://github
 
 The site has been tested using PHP 7.3.24, but should work on earlier versions.
 
-- Simply clone the repository using git and go to the folder.
+- Clone the repository using git and go to the folder.
 ```bash
 git clone git@github.com:JoseVarelaP/StepMania-Archive.git
 cd StepMania-Archive
 ```
 
-- Start a local PHP server in a localhost to run.
+- Start a local PHP server in a localhost to run, then access the page on a web browser.
 ```bash
 php -S localhost:8888
 ```
