@@ -1,11 +1,24 @@
+/**
+ * Operation to sort the dates based on their Date object.
+ * Could likely be improved.
+ * @param {HTMLTableElement} table 
+ * @param {number} dateindex - Column where the dates are located.
+ */
 function sortByDate( table, dateindex ) {
-	var rows = [].slice.call(table.querySelectorAll("tr"));
+	var rows = Array.from(table.rows);
+	// Erase the original table
+	table.innerHTML = ""
 	
 	rows.sort(function(a,b) {
-		return Date( b.cells[dateindex].textContent ) < Date( a.cells[dateindex].textContent )
+		const at = new Date( a.cells[dateindex].textContent )
+		const bt = new Date( b.cells[dateindex].textContent )
+		return at.getTime() - bt.getTime()
 	});
-	
-	rows.forEach(function(v) { table.appendChild(v); });
+
+	//table.appendChild(rows)
+	rows.forEach(function(v) {
+		table.appendChild(v);
+	});
 }
 
 const BuildArchive = {
@@ -144,6 +157,15 @@ function generateTableHead(table) {
       const th = document.createElement("th");
       const text = document.createTextNode(key);
 
+	// Special rule for date
+	if (key === 'Date')
+	{
+		th.onclick = function()
+		{
+			sortByDate( table, 2 )
+		}
+	}
+
       th.appendChild(text);
       row.appendChild(th);
     }
@@ -270,7 +292,6 @@ function generateTable(table, data, DefaultIcon) {
             }
         }
     }
-	sortByDate( table, 2 )
 }
 
 // import * as functionimporter from '../TopMenu.js'
