@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "26/Apr/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.8."
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/Apr/21",
 		"Changes": [
 			{
