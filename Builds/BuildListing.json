@@ -340,7 +340,8 @@
                 "Windows": [
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Xsoft%20DDRX%20ver1.01.exe" }
                 ]
-            }
+            },
+            { "Name": "Freezy 3.9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" }
         ]
     },
 
