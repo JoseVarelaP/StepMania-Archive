@@ -1,3 +1,13 @@
+function sortByDate( table, dateindex ) {
+	var rows = [].slice.call(table.querySelectorAll("tr"));
+	
+	rows.sort(function(a,b) {
+		return Date( b.cells[dateindex].textContent ) < Date( a.cells[dateindex].textContent )
+	});
+	
+	rows.forEach(function(v) { table.appendChild(v); });
+}
+
 const BuildArchive = {
     Builds : {},
     /**
@@ -191,7 +201,7 @@ function generateTable(table, data, DefaultIcon) {
         let text = document.createElement( "p" );
 		let dateCont = new Date( (element.Date+"T00:00:00") )
         text.textContent = dateCont.getTime() === dateCont.getTime()
-		? dateCont.toLocaleString("en-US", { year: 'numeric', month: 'long', day: 'numeric' }) : "??-??-????"
+		? dateCont.toLocaleString("en-US", { year: 'numeric', month: '2-digit', day: '2-digit' }) : "??-??-????"
         cell.appendChild(text)
 
         // Get the build links.
@@ -260,6 +270,7 @@ function generateTable(table, data, DefaultIcon) {
             }
         }
     }
+	sortByDate( table, 2 )
 }
 
 // import * as functionimporter from '../TopMenu.js'
