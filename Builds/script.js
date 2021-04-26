@@ -189,7 +189,9 @@ function generateTable(table, data, DefaultIcon) {
         // Get the build's date.
         cell = row.insertCell();
         let text = document.createElement( "p" );
-        text.textContent = element.Date || "??-??-????"
+		let dateCont = new Date( (element.Date+"T00:00:00") )
+        text.textContent = dateCont.getTime() === dateCont.getTime()
+		? dateCont.toLocaleString("en-US", { year: 'numeric', month: 'long', day: 'numeric' }) : "??-??-????"
         cell.appendChild(text)
 
         // Get the build links.

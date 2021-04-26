@@ -4,7 +4,7 @@
         "DefaultIcon": "SM164.png",
         "Description": "Before StepMania 0.5, it was named DDR PC Edition. This was the beginning.",
         "Listing": [
-            { "Name": "DDR PC Edition m1", "Date": "08-21-2001" }
+            { "Name": "DDR PC Edition m1", "Date": "2001-08-21" }
         ]
     },
     
@@ -13,15 +13,15 @@
         "DefaultIcon": "SM164.png",
         "Description": "StepMania 0.9x was released only for Windows. So, you won't find a Linux and Mac version in here. It's mostly remembered because of the graphics of that version, that some were made with the WordArt tool in Office PowerPoint.",
         "Listing": [
-            { "Name": "StepMania 0.5 Alpha", "Date": "09-27-2001" },
-            { "Name": "StepMania 0.64", "Date": "??-??-2001" },
-            { "Name": "StepMania 0.90", "Date": "12-18-2001" },
-            { "ID": "SM091", "Name": "StepMania 0.91", "Date": "12-20-2001" },
-            { "ID": "SM092", "Name": "StepMania 0.92", "Date": "12-24-2001" },
-            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "10-12-2001", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
-            { "ID": "SM096", "Name": "StepMania 0.96", "Date": "12-25-2001" },
-            { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "12-25-2001" },
-            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "12-27-2001" }  
+            { "Name": "StepMania 0.5 Alpha", "Date": "2001-09-27" },
+            { "Name": "StepMania 0.64" },
+            { "Name": "StepMania 0.90", "Date": "2001-12-18" },
+            { "ID": "SM091", "Name": "StepMania 0.91", "Date": "2001-12-20" },
+            { "ID": "SM092", "Name": "StepMania 0.92", "Date": "2001-12-24" },
+            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-10-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
+            { "ID": "SM096", "Name": "StepMania 0.96", "Date": "2001-12-25" },
+            { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "2001-12-25" },
+            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }  
         ]
     },
 
@@ -30,14 +30,14 @@
         "DefaultIcon": "SM164.png",
         "Description": "StepMania 1.64 was released only for Windows. So, you won't find a Linux and Mac version in here.",
         "Listing": [
-            { "ID": "SM150", "Name": "StepMania 1.50", "Date": "01-05-2002" },
-            { "ID": "SM155", "Name": "StepMania 1.55", "Date": "01-??-2002" },
-            { "ID": "SM161", "Name": "StepMania 1.61", "Date": "02-11-2002" },
-            { "ID": "SM164", "Name": "StepMania 1.64", "Date": "03-10-2002",
+            { "ID": "SM150", "Name": "StepMania 1.50", "Date": "2002-01-05" },
+            { "ID": "SM155", "Name": "StepMania 1.55" },
+            { "ID": "SM161", "Name": "StepMania 1.61", "Date": "2002-02-11" },
+            { "ID": "SM164", "Name": "StepMania 1.64", "Date": "2002-03-10",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM1.64/stepmania164.exe",
                 "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/stepmania-164-src.zip"
             },
-            { "Name": "ADDON - Video Visualizations", "Date": "??-??-2002", "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/visualizations.smzip" }
+            { "Name": "ADDON - Video Visualizations", "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/visualizations.smzip" }
         ]
     },
 
@@ -46,18 +46,18 @@
         "Description": "StepMania 3.0 was released only for Windows. So, you won't find a Linux and Mac version in here. However, you will find its official plugins that were available on StepMania.com from 2003-2011.",
         "DefaultIcon": "SM39.png",
         "Listing": [
-			{ "Name": "StepMania 3.0 Beta 4", "Date": "??-??-2002", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz" },
-            { "Name": "StepMania 3.0 Beta 5", "Date": "04-08-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania_300beta5.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz" },
-            { "Name": "StepMania 3.0 Beta 6 Release Candidate 3", "Date": "10-20-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300beta6rc3.exe" },
-            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "01-26-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "01-19-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030119a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030126a)", "Date": "01-26-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030209a)", "Date": "02-09-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030209a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030212a)", "Date": "02-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030212b)", "Date": "02-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212b.exe" },
-            { "Name": "StepMania 3.0 CVS (20030221)", "Date": "02-22-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030221.exe" },
-            { "Name": "StepMania 3.0 CVS (20030222a)", "Date": "02-22-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030222a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030306)", "Date": "03-06-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030306.exe" },
+			{ "Name": "StepMania 3.0 Beta 4", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz" },
+            { "Name": "StepMania 3.0 Beta 5", "Date": "2002-04-08", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania_300beta5.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz" },
+            { "Name": "StepMania 3.0 Beta 6 Release Candidate 3", "Date": "2002-10-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300beta6rc3.exe" },
+            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "2003-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "2003-01-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030119a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030126a)", "Date": "2003-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030209a)", "Date": "2003-02-09", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030209a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030212a)", "Date": "2003-02-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030212b)", "Date": "2003-02-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212b.exe" },
+            { "Name": "StepMania 3.0 CVS (20030221)", "Date": "2003-02-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030221.exe" },
+            { "Name": "StepMania 3.0 CVS (20030222a)", "Date": "2003-02-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030222a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030306)", "Date": "2003-03-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030306.exe" },
             { "Name": "StepMania 3.0", "Date": "??-??-2002 (?)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300final.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz" },
             { "Name": "FIX - StepMania 3.0 Beta 6 Release Candidate 2 fix 1", "Date": "10-21-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/stepmania3beta6rc2fix1.smzip" },
             { "ID": "ITGA05132003", "Name": "In The Groove 1 (May 2003 Alpha)", "Date": "05-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-05-13%20ITG1%20Arcade%20Alpha.zip" },
