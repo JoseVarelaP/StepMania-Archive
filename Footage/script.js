@@ -26,11 +26,12 @@ const VideoArchive = {
 				for( let sub of key.Subtitles )
 				{
 					const SubtitleUrl = Section.Container ? `${Section.Container}/${sub.Link}` : `${sub.Link}`
+					const FullLink = `./subs/${SubtitleUrl}`;
 					let subtitle = document.createElement("track");
 					subtitle.label = sub.Name;
-					subtitle.kind = "subtitles";
+					subtitle.kind = "captions";
 					subtitle.srclang = "en";
-					subtitle.src = `https://objects-us-east-1.dream.io/smarchivefootage/${SubtitleUrl}`;
+					subtitle.src = FullLink;
 					VideoActor.appendChild(subtitle);
 				}
 			}
