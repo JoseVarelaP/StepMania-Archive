@@ -393,7 +393,7 @@ h3 {
 }
 
 .VideoFrame #VideoActor{
-	max-width: 100%;
+	max-width: 70%;
 }
 
 .Video-InfoBoard > h3 { margin-left: 4px; }
@@ -498,8 +498,11 @@ only screen and (max-width:660px) {
 	.TableBuildSet tr > :is(*:nth-child(3),*:nth-child(7)) { display: none; }
 	.TableToolSet tr > :is(*:nth-child(2)) { display: none; }
 
-	.VideoFrame #VideoActor{ width: 100%; }
+	.VideoFrame #VideoActor{ max-width: 100%; }
 	.content-Changelog img{ max-width: 100%; }
+	.content-Changelog p,li{
+		margin-left: -1em;
+	}
 }
 
 /* Dark mode implementation (for later) */

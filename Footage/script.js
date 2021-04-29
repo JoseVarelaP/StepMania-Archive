@@ -20,6 +20,21 @@ const VideoArchive = {
             VideoActor.load();
             document.title = `${key.Name} - StepMania Footage Archive`;
 
+			if( key.Subtitles )
+			{
+				// console.log( VideoSource.textTracks );
+				for( let sub of key.Subtitles )
+				{
+					const SubtitleUrl = Section.Container ? `${Section.Container}/${sub.Link}` : `${sub.Link}`
+					let subtitle = document.createElement("track");
+					subtitle.label = sub.Name;
+					subtitle.kind = "subtitles";
+					subtitle.srclang = "en";
+					subtitle.src = `https://objects-us-east-1.dream.io/smarchivefootage/${SubtitleUrl}`;
+					VideoActor.appendChild(subtitle);
+				}
+			}
+
             // Is there information about the round? Then let's display it on a chart!
             /*
             Rundown: If ScoreInfo exists, then get information about who played the charts,
