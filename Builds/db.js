@@ -53,7 +53,6 @@ const VersionChangelog = {
                     p.innerHTML = ch;
                     ListChild.appendChild( p );
                     ListActor.appendChild( ListChild );
-                    console.log( ch );
                 }
                 hcont.appendChild( ListActor );
             }

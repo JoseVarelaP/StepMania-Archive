@@ -1,5 +1,38 @@
 [
 	{
+		"Date": "29/Apr/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Updated entries for ITG EuroCup 2008.",
+					"Videos are now capable of displaying subtitles (Only applicable on available videos with subtitles).",
+					"<a href='../Footage/FootageLookup.html?Category=OpenITG&Col=DanceTricks&ID=DevelopmentAndGameplay'>Added footage of Dance Tricks.</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "26/Apr/21",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "OutFox",
+				"List": [
+					"Added version 4.9.8."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Updated entries for 0.70.4."
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/Apr/21",
 		"Changes": [
 			{
