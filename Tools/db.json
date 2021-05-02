@@ -210,6 +210,7 @@
     "TranslationToolkit" : {
         "Name": "Translation-Toolkit",
         "Description": "This project is intended as a small application to automate some tasks for translators. It is able to parse, analyze and fix the StepMania translation files.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/TranslationToolkit/toolkit.jpg",
         "Listing" : [
             { 
                 "Name": "Translation-Toolkit-0.1",
