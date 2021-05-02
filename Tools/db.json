@@ -334,6 +334,12 @@
                 "Date": "03-28-2021",
                 "Src": "Tiny-Webini-1.4-beta.tar",
                 "Windows": "Tiny-Webini-1.4-bin.rar"
+            },
+            {
+                "Name": "Tiny-Webini-1.5",
+                "Date": "05-01-2021",
+                "Src": "Tiny-Webini-1.5-beta.tar",
+                "Windows": "Tiny-Webini-1.5-bin.rar"
             }
         ]
     }
