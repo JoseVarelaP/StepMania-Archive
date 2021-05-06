@@ -210,7 +210,7 @@
     "TranslationToolkit" : {
         "Name": "Translation-Toolkit",
         "Description": "This project is intended as a small application to automate some tasks for translators. It is able to parse, analyze and fix the StepMania translation files.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/TranslationToolkit/toolkit.jpg",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/TranslationToolkit/toolkit.png",
         "Listing" : [
             { 
                 "Name": "Translation-Toolkit-0.1",
@@ -291,55 +291,55 @@
             {
                 "Name": "Tiny-Webini-0.1",
                 "Date": "12-02-2020",
-                "Src": "Tiny-Webini-0.1-alpha.tar",
+                "Src": "Tiny-Webini-0.1-alpha.tar.gz",
                 "Windows": "Tiny-Webini-0.1.rar"
             },
             {
                 "Name": "Tiny-Webini-0.2",
                 "Date": "12-18-2020",
-                "Src": "Tiny-Webini-0.2-alpha.tar",
+                "Src": "Tiny-Webini-0.2-alpha.tar.gz",
                 "Windows": "Tiny-Webini-0.2.rar"
             },
             {
                 "Name": "Tiny-Webini-0.3",
                 "Date": "12-19-2020",
-                "Src": "Tiny-Webini-0.3-alpha.tar",
+                "Src": "Tiny-Webini-0.3-alpha.tar.gz",
                 "Windows": "Tiny-Webini-0.3.rar"
             },
             {
                 "Name": "Tiny-Webini-1.0",
                 "Date": "01-09-2021",
-                "Src": "Tiny-Webini-1.0-beta.tar",
+                "Src": "Tiny-Webini-1.0-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.0-bin.rar"
             },
             {
                 "Name": "Tiny-Webini-1.1",
                 "Date": "01-12-2021",
-                "Src": "Tiny-Webini-1.1-beta.tar",
+                "Src": "Tiny-Webini-1.1-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.1-bin.rar"
             },
             {
                 "Name": "Tiny-Webini-1.2",
                 "Date": "01-16-2021",
-                "Src": "Tiny-Webini-1.2-beta.tar",
+                "Src": "Tiny-Webini-1.2-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.2-bin.rar"
             },
             {
                 "Name": "Tiny-Webini-1.3",
                 "Date": "03-05-2021",
-                "Src": "Tiny-Webini-1.3-beta.tar",
+                "Src": "Tiny-Webini-1.3-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.3-bin.rar"
             },
             {
                 "Name": "Tiny-Webini-1.4",
                 "Date": "03-28-2021",
-                "Src": "Tiny-Webini-1.4-beta.tar",
+                "Src": "Tiny-Webini-1.4-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.4-bin.rar"
             },
             {
                 "Name": "Tiny-Webini-1.5",
                 "Date": "05-01-2021",
-                "Src": "Tiny-Webini-1.5-beta.tar",
+                "Src": "Tiny-Webini-1.5-beta.tar.gz",
                 "Windows": "Tiny-Webini-1.5-bin.rar"
             }
         ]
