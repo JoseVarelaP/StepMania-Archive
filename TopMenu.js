@@ -7,13 +7,19 @@ let PageList = [
 	{ Name: 'NoteSkins', /* Margin: -70, */ Color: '#772200' },
 	{
 		Name: 'Themes', /* Margin: -91, */ Color: '#001177',
-		Subpages: { "Theme Update (WIP)": "ThemeUpdate.html" }
+		Subpages: {
+			"Theme List": "index.html",
+			"Theme Update (WIP)": "ThemeUpdate.html"
+		}
 	},
 	{ Name: 'Characters', /* Margin: -20, */ Color: '#772200' },
 	{ Name: 'Footage', /* Margin: -130, */ Color: '#550055' },
 	{
 		Name: 'Tools', /* Margin: -250, */ Color: '#005599',
-		Subpages: { "Font Conversion Guide": "FontConversionGuide.html" }
+		Subpages: {
+			"Tools List": "index.html",
+			"Font Conversion Guide": "FontConversionGuide.html"
+		}
 	},
 	{ Name: 'About', /*Margin: -50,*/ Color: '#002211' },
 ]
@@ -52,7 +58,8 @@ function GenerateTopMenu() {
 	// Since we already know that JS is enabled, remove the message.
 	CheckJavascriptMessage()
 
-	let ListActor = document.createElement("ul");
+	let ListActor = document.createElement("div");
+	ListActor.className = "PageList"
 
 	TMS.appendChild(GenerateIconWithLink("../static/discord_icon.png", "https://discord.gg/uMkVUrr"));
 	TMS.appendChild(GenerateIconWithLink("../static/GitHub-Mark-Light-120px-plus.png", "https://github.com/JoseVarelaP/StepMania-Archive"));
