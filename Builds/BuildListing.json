@@ -717,22 +717,22 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-4a-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta4a.tar.gz"
             },
-            { "Name": "StepMania 5.0.5", "Date": "02-13-2015",
+            { "ID": "SM5.0.5", "Name": "StepMania 5.0.5", "Date": "02-13-2015",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.5.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.5-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.5.tar.gz"
             },
-            { "Name": "StepMania 5.0.6", "Date": "02-17-2015",
+            { "ID": "SM5.0.6", "Name": "StepMania 5.0.6", "Date": "02-17-2015",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.6.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.6-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.6.tar.gz"
             },
-            { "Name": "StepMania 5.0.7rc", "Date": "02-17-2015",
+            { "ID": "SM5.0.7rc", "Name": "StepMania 5.0.7rc", "Date": "02-17-2015",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.7rc.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.7rc-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.7rc.tar.gz"
             },
-            { "Name": "StepMania 5.0.7", "Date": "02-17-2015",
+            { "ID": "SM5.0.7", "Name": "StepMania 5.0.7", "Date": "02-17-2015",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.7.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.7-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.7.tar.gz"

@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "15/May/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Fixed link for XIX Laconia."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added changelogs for SM5.0.5, SM5.0.6, SM5.0.7rc and SM5.0.7."
+				]
+			}
+		]
+	},
+	{
 		"Date": "29/Apr/21",
 		"Changes": [
 			{

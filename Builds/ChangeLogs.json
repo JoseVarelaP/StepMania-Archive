@@ -159,7 +159,11 @@
         "HTMLParse" : "SM39/ITGB01072004.md"
     },
 
-    "SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
+	"SM5.0.5" : { "Name":"StepMania 5.0.5", "HTMLParse" : "SM5/5.0.5.md" },
+	"SM5.0.6" : { "Name":"StepMania 5.0.6", "HTMLParse" : "SM5/5.0.6.md" },
+	"SM5.0.7rc" : { "Name":"StepMania 5.0.7 Release Candidate", "HTMLParse" : "SM5/5.0.7rc.md" },
+    "SM5.0.7" : { "Name":"StepMania 5.0.7", "HTMLParse" : "SM5/5.0.7.md" },
+	"SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
     "SM5.0.9" : { "Name":"StepMania 5.0.9", "HTMLParse" : "SM5/5.0.9.md" },
     "SM5.0.10" : { "Name":"StepMania 5.0.10", "HTMLParse" : "SM5/5.0.10.md" },
     "SM5.1.0A" : { "Name":"StepMania 5.1.0 Alpha", "HTMLParse" : "SM5/5.1.0A.md" },
