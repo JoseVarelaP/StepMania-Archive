@@ -501,9 +501,12 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070325-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070325-src.tar.gz"
             },
+            { "Name": "StepMania 4.0 CVS (20070325a)", "Date": "03-25-2007",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070325a-mac.zip"
+            },
             { "Name": "StepMania 4.0 CVS (20070726a)", "Date": "07-26-2007",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070726a.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070726-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070726-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070726-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070726-src.tar.gz"
             },
@@ -515,19 +518,19 @@
             },
             { "Name": "StepMania 4.0 CVS (20071107)", "Date": "11-07-2007",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071107.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071107-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071107-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071107-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071107-src.tar.gz"
             },
             { "Name": "StepMania 4.0 CVS (20071121)", "Date": "11-21-2007",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071121.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071121-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071121-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071121-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071121-src.tar.gz"
             },
             { "Name": "StepMania 4.0 CVS (20080103)", "Date": "01-03-2008",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20080103.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20080103-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20080103-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20080103-linux.tar.gz",
 				"Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20080103-src.tar.gz"
             },

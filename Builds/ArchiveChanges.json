@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "17/May/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Fixed Mac builds of StepMania 4.",
+					"Added 4.0 CVS (20070325a), which only a Mac version was built."
+				]
+			}
+		]
+	},
+	{
 		"Date": "15/May/21",
 		"Changes": [
 			{
