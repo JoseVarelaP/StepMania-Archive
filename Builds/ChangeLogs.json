@@ -159,6 +159,24 @@
         "HTMLParse" : "SM39/ITGB01072004.md"
     },
 
+	"OpGr2" : { "Name": "OpenGroove r2", "HTMLParse": "OITG/OpenGroove/r2.md" },
+	"OpGr3" : { "Name": "OpenGroove r3", "HTMLParse": "OITG/OpenGroove/r3.md" },
+	"OpGr4" : { "Name": "OpenGroove r4", "HTMLParse": "OITG/OpenGroove/r4.md" },
+	"OpGr5" : { "Name": "OpenGroove r5", "HTMLParse": "OITG/OpenGroove/r5.md" },
+
+	"NITG40" : {
+		"Name": "Not In The Groove Version 4",
+		"HTMLParse": "OITG/NITG/v4.0.0.md"
+	},
+	"NITG401" : {
+		"Name": "Not In The Groove Version 4.0.1",
+		"HTMLParse": "OITG/NITG/v4.0.1.md"
+	},
+	"NITG420" : {
+		"Name": "Not In The Groove Version 4.2.0",
+		"HTMLParse": "OITG/NITG/v4.2.0.md"
+	},
+
 	"SM5.0.5" : { "Name":"StepMania 5.0.5", "HTMLParse" : "SM5/5.0.5.md" },
 	"SM5.0.6" : { "Name":"StepMania 5.0.6", "HTMLParse" : "SM5/5.0.6.md" },
 	"SM5.0.7rc" : { "Name":"StepMania 5.0.7 Release Candidate", "HTMLParse" : "SM5/5.0.7rc.md" },

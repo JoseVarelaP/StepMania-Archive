@@ -1,5 +1,20 @@
 [
 	{
+		"Date": "20/May/21",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe'>In The Groove 3 Encore r5</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe'>In The Groove 3 Encore r35</a>. Both custom ITG3 theme builds that seemed to be distributed back in 2012.",
+					"Added Changelogs for NotITG versions 4, 4.0.1 and 4.2.0.",
+					"The OpenGroove build on the archive has been identified as r5, and other build information has surfaced. Changelogs for them have been added, info of executables for these builds would be appreciated, as the <a href='https://www.facebook.com/groups/43815384856'>Facebook group this project took place in is private.</a>",
+					"As a result of the r5 find for OpenGroove, In The Groove 3 Encore r5 contains the same changelog as OpenGroove r5. It would seem ITG3Encore r5 is the full version of where that executable came from."
+				]
+			}
+		]
+	},
+	{
 		"Date": "17/May/21",
 		"Changes": [
 			{
