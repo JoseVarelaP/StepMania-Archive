@@ -63,35 +63,8 @@ const VersionChangelog = {
                 contain.className = "ChangeLogData"
                 contain.style = "width: 98%; margin-left: 10px; margin-top: 10px"
 
-                /*
-                for( ch of data.HTMLParse )
-                {
-                    let p = document.createElement("p");
-                    // 94% is the magic number, do not change
-                    p.style = "width: 98%; margin-left: 10px"
-                    p.innerHTML = ch;
-                    hcont.appendChild( p );
-                    // console.log( ch );
-                }
-                */
-
                 var phprequest = new URLSearchParams();
                 phprequest.append('text', `./${data.HTMLParse}`);
-                
-                /*
-                // TIME TO FETCH PHP
-                fetch("fetch.php", {
-                    method: 'post',
-                    body: phprequest
-                })
-                .then(function (response) { return response.text(); })
-                .then(function (text) {
-                    // console.log(text);
-                    contain.innerHTML = text;
-                    hcont.appendChild(contain)
-                })
-                .catch(function (error) { console.log(error) });
-                */
 
                 let l = getUrlVars();
                 var client = new XMLHttpRequest();

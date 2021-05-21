@@ -11,6 +11,13 @@
 					"The OpenGroove build on the archive has been identified as r5, and other build information has surfaced. Changelogs for them have been added, info of executables for these builds would be appreciated, as the <a href='https://www.facebook.com/groups/43815384856'>Facebook group this project took place in is private.</a>",
 					"As a result of the r5 find for OpenGroove, In The Groove 3 Encore r5 contains the same changelog as OpenGroove r5. It would seem ITG3Encore r5 is the full version of where that executable came from."
 				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added images and release date for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=XIX.SUPER'>XIX Laconia</a>."
+				]
 			}
 		]
 	},

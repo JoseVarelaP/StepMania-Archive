@@ -198,6 +198,7 @@
 			"Name": "Simply Love",
 			"Link": [
 				{ "Name": "Simply-Love-latest", "Link": "https://github.com/Simply-Love/Simply-Love-SM5/archive/release.zip" },
+				{ "Name": "Simply-Love-v5.0", "Date":"04-10-2021", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
 				{ "Name": "Simply-Love-v4.9.1", "Date":"10-28-2020", "Link": "Simply-Love/Simply-Love-v4.9.1.zip"},
 				{ "Name": "Simply-Love-v4.9", "Date":"07-14-2020", "Link": "Simply-Love/Simply-Love-v4.9.zip"},
 				{ "Name": "Simply-Love-v4.8.7", "Date":"04-1-2020", "Link": "Simply-Love/Simply-Love-v4.8.7.zip"},
@@ -247,6 +248,6 @@
 		},
 		"ultralight" : { "Name": "ultralight", "Link": "ultralight_20141006-r13.zip" },
 		"UPSRT" : { "Name": "UPSRT", "Link": "UPSRT.zip" },
-		"XIX.SUPER" : { "Name": "XIX Laconia", "Link": "XIX.SUPER.zip" }
+		"XIX.SUPER" : { "Name": "XIX Laconia", "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
 	}
 }
