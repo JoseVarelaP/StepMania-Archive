@@ -1,5 +1,37 @@
 [
 	{
+		"Date": "2/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe'>Super Dance Online mania</a>. This release also had a separate version containing just the theme, which has been added to the themes archive."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar'>Step Fex 1.4.1</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=SDOM'>Super Dance Online mania's theme.</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM4&ID=EZDC2'>EZDC 2ndMove</a> (SM4).",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=ITGParty'>ITG Party</a> (OpenITG).",
+					"Added OutFox category for the new themes coming for Project OutFox.",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=GN'>In The Groove - GrooveNights</a></li></ul>",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=Infinitesimal'>Infinitesimal</a></li></ul>",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=SoundWaves'>SoundWaves (Community Version)</a></li></ul>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/May/21",
 		"Changes": [
 			{

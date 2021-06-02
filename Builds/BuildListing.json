@@ -341,7 +341,8 @@
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Xsoft%20DDRX%20ver1.01.exe" }
                 ]
             },
-            { "Name": "Freezy 3.9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" }
+            { "Name": "Freezy 3.9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" },
+			{ "Name": "Super Dancer Online mania", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe" }
         ]
     },
 
@@ -686,7 +687,8 @@
             { "Name": "StepPrime Beta 0.90", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
             { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
             { "Name": "StepPrime Beta 0.93", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
-            { "Name": "StepPrime Beta 0.94", "Date": "??-??-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" }
+            { "Name": "StepPrime Beta 0.94", "Date": "??-??-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" },
+			{ "Name": "Step Fex 1.4.1", "Date": "??-??-???", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" }
         ]
     },
 

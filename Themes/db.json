@@ -64,6 +64,7 @@
 		"PIUP" : { "Name": "Pump It Up Premiere", "Link": "Pump%20It%20Up%20Premiere%203.smzip" },
 		"RLoung" : { "Name": "R-Lounge", "Link": "R-Lounge.smzip" },
 		"RN" : { "Name": "Rave Nation", "Link": "Rave_Nation.smzip" },
+		"SDOM" : { "Name": "SDO Mania", "Author": "DeadMaster", "Link": "SDO%20Mania%20by%20DeadMaster.rar" },
 		"SMU" : { "Name": "sm.urbanized", "Link": "sm.urbanized.smzip" },
 		"SMLB" : { "Name": "SMLiteBlue", "Link": "SMLiteBlue.smzip" },
 		"SOMS" : { "Name": "Selling Out Made Simple", "Date": "01-09-2007", "Link": "soms_final.smzip" },
@@ -119,6 +120,7 @@
 		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "AJ 187", "Version": "pb1", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
 		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
 		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Link": "DWI_xmas2007.rar" },
+		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
 		"Moonlight" : { "Name": "Moonlight", "Author": "AJ 187", "Link": "moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
 		"NAKET" : { "Name": "NAKET Coder Evolution", "Author": "NAKET Team", "Link": "NAKET%20Coder%20Evolution.zip" },
@@ -132,6 +134,7 @@
 		"GrooveNightsiss19": { "Name": "In The Groove GrooveNights (iss19)", "Link": "GrooveNights-iss19.zip" },
 		"GrooveNightswuo": { "Name": "In The Groove GrooveNights (wip)", "Link": "GrooveNights-wip.zip" },
 		"ITG3Encore": { "Name": "In The Groove 3 Encore", "Link": "ITG%203%20-%20Encore.rar" },
+		"ITGParty": { "Name": "In The Groove Party", "Link": "ITG%20Party.rar" },
 		"Deco": { "Name": "In The Groove Deco", "Link": "ITG%20Deco.rar" },
 		"Empress": { "Name": "In The Groove 2 Empress", "Link": "ITG2Empress1.1.zip" },
 		"Retro": { "Name": "In The Groove Retro", "Link": "ITGretro.zip" },
@@ -249,5 +252,21 @@
 		"ultralight" : { "Name": "ultralight", "Link": "ultralight_20141006-r13.zip" },
 		"UPSRT" : { "Name": "UPSRT", "Link": "UPSRT.zip" },
 		"XIX.SUPER" : { "Name": "XIX Laconia", "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
+	},
+
+	"OutFox" : {
+		"Name": "Project OutFox",
+		"GN": { "Name": "In The Groove - GrooveNights", "Date": "2021-05-23", "Author": "Jose_Varela", "Link": "https://github.com/JoseVarelaP/SM5-GrooveNights/archive/refs/heads/master.zip" },
+		"Infinitesimal": { "Name": "Infinitesimal", "Date": "2021-05-07", "Author": "dj505", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
+		"SoundWaves": { "Name": "SoundWaves (Community Version)", "Author": "Tiny-Foxes",
+			"Link": [
+				{ "Name": "Latest", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/heads/main.zip"},
+				{ "Name": "a4.9.8", "Date": "2021-04-27", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.8.tar.gz"},
+				{ "Name": "a4.9.7GG", "Date": "2021-02-23", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7GG.tar.gz"},
+				{ "Name": "a4.9.7", "Date": "2021-02-20", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7.tar.gz"},
+				{ "Name": "a4.9.6", "Date": "2020-12-16", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.6.tar.gz"},
+				{ "Name": "a4.9.5", "Date": "2020-11-30", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.5.tar.gz"}
+			]
+		}
 	}
 }
