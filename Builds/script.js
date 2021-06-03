@@ -106,6 +106,7 @@ const BuildArchive = {
                 table.style.display = state === "none" ? "table" : "none"
                 Text.style.display = state === "none" ? "table" : "none"
                 OpenButton.textContent = state === "table" ? "\u25B8 " : "\u25BE "
+				document.location.href = `#${Version}`
             }
 
             Header.addEventListener("mouseover", event => { event.target.style.color = "yellow" }, false)
@@ -292,7 +293,7 @@ request.onload = function() {
     if( url.lastIndexOf('#') !== -1 )
     {
         const GroupOpen = url.substring( url.lastIndexOf('#') + 1 )
-        if( GroupOpen.length > 1 )
+        if( GroupOpen.length > 1 && document.getElementById(GroupOpen) )
         {
             const base = document.getElementById(`div${GroupOpen}`)
             // console.log( base )
@@ -301,6 +302,7 @@ request.onload = function() {
             const OpenButton = base.getElementsByClassName('VersionTitle')
             table[0].style.display = "table"
             Text[0].style.display = "table"
+			document.getElementById(GroupOpen).scrollIntoView(true)
             // replace the initial character with the open state.
             OpenButton[0].textContent = `\u25BE ${ BuildArchive.Builds[GroupOpen].Name }`
         }

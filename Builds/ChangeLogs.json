@@ -193,10 +193,54 @@
     "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.md" },
     "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.md" },
 
+	"OUTFOX4" : {
+		"Name":"Alpha 4 Build - December 16 2019",
+		"HTMLParse" : "OUTFOX/A4.0.md"
+	},
+	"OUTFOX4.1" : {
+		"Name":"Alpha 4.1 Build - January 4 2020",
+		"HTMLParse" : "OUTFOX/A4.1.md"
+	},
+	"OUTFOX4.2" : {
+		"Name":"Alpha 4.2 Build - February 6 2020",
+		"HTMLParse" : "OUTFOX/A4.2.md"
+	},
+	"OUTFOX4.3" : {
+		"Name":"Alpha 4.3 Build - February 9 2020",
+		"HTMLParse" : "OUTFOX/A4.3.md"
+	},
+	"OUTFOX4.4" : {
+		"Name":"Alpha 4.4 Build - March 4 2020",
+		"HTMLParse" : "OUTFOX/A4.4.md"
+	},
+	"OUTFOX4.5" : {
+		"Name":"Alpha 4.5 Build - April 4 2020",
+		"HTMLParse" : "OUTFOX/A4.5.md"
+	},
+	"OUTFOX4.5.6" : {
+		"Name":"Alpha 4.5.6 Build - May 7 2020",
+		"HTMLParse" : "OUTFOX/A4.5.6.md"
+	},
+	"OUTFOX4.5.8" : {
+		"Name":"Alpha 4.5.8 Build - May 31 2020",
+		"HTMLParse" : "OUTFOX/A4.5.8.md"
+	},
+	"OUTFOX4.5.9" : {
+		"Name":"Alpha 4.5.9 Build - June 14 2020",
+		"HTMLParse" : "OUTFOX/A4.5.9.md"
+	},
+	"OUTFOX4.6.0RC1" : {
+		"Name":"Alpha 4.6.0RC1 Build - June 19 2020",
+		"HTMLParse" : "OUTFOX/A4.6.0RC1.md"
+	},
     "OUTFOX4.6.0RC2" : {
-        "Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
+		"Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
         "HTMLParse" : "OUTFOX/A4.6.0RC2.md"
     },
+	"OUTFOX4.6.0RC3" : {
+		"Name":"Alpha 4.6.0RC3 - July 1 2020",
+		"HTMLParse" : "OUTFOX/A4.6.0RC3.md"
+	},
 	"OUTFOX4.6.0" : {
         "Name" : "Alpha 4.6.0 Final Build - July 11 2020 \"Ogre's Have Layers\"",
         "HTMLParse" : "OUTFOX/A4.6.0.md"

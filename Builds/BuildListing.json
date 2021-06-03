@@ -1049,7 +1049,7 @@
         "Name": "Project OutFox",
         "DefaultIcon": "OUTFOX.png",
         "Listing": [
-            { "Name": "StepMania OutFox Alpha 4", "Date": "12-16-2019",
+            { "ID": "OUTFOX4", "Name": "StepMania OutFox Alpha 4", "Date": "12-16-2019",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20191216.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/StepMania_5.3_Outfox_Alpha_date-20191216.dmg",
                 "Linux": [
@@ -1057,7 +1057,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4_i686-date-20191217.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.1", "Date": "01-04-2020",
+            { "ID": "OUTFOX4.1", "Name": "StepMania OutFox Alpha 4.1", "Date": "01-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20200104.exe",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.1_amd64-date-20200104.tar.gz" },
@@ -1065,14 +1065,14 @@
                     { "Name": "Arch Binary", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/StepMania-Outfox-Alpha-4.1-arch-binary-amd64-2020-01-07.tar" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.2", "Date": "02-05-2020",
+            { "ID": "OUTFOX4.2", "Name": "StepMania OutFox Alpha 4.2", "Date": "02-05-2020",
                 "Mac": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/StepMania-5.3_Outfox_Alpha_date-20200205.dmg",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_amd64-date-20200205.tar.gz" },
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_i686-date-20200205.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.3", "Date": "02-09-2020",
+            { "ID": "OUTFOX4.3", "Name": "StepMania OutFox Alpha 4.3", "Date": "02-09-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.3%20date-20200209.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.3-date-20200209.dmg",
                 "Linux": [
@@ -1080,7 +1080,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.3_i686-date-20200209.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.4.1", "Date": "03-04-2020",
+            { "ID": "OUTFOX4.4", "Name": "StepMania OutFox Alpha 4.4.1", "Date": "03-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.4.1%20date-20200304.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.4.1-date-20200303.dmg",
                 "Linux": [
@@ -1088,7 +1088,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.4.1_i686-date-20200304.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5", "Date": "04-04-2020",
+            { "ID": "OUTFOX4.5", "Name": "StepMania OutFox Alpha 4.5", "Date": "04-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5%20date-20200404.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5-date-20200403.dmg",
                 "Linux": [
@@ -1096,7 +1096,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.5_i686-date-20200404.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.6", "Date": "05-08-2020",
+            { "ID": "OUTFOX4.5.6", "Name": "StepMania OutFox Alpha 4.5.6", "Date": "05-08-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.6%20date-20200508.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.6-date-20200512.dmg",
                 "Linux": [
@@ -1104,7 +1104,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox-Alpha-4.5.6_i686-date-20200508.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.8", "Date": "05-31-2020",
+            { "ID": "OUTFOX4.5.8", "Name": "StepMania OutFox Alpha 4.5.8", "Date": "05-31-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1112,7 +1112,7 @@
                     { "Name": "i686", "Link": "https://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6-legacy-amd64-date-20200619.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.9", "Date": "06-14-2020",
+            { "ID": "OUTFOX4.5.9", "Name": "StepMania OutFox Alpha 4.5.9", "Date": "06-14-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.9%20date-20200615.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.9-date-20200614.dmg",
                 "Linux": [
@@ -1120,7 +1120,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.5.9-legacy-amd64-date-20200614.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "06-19-2020",
+            { "ID": "OUTFOX4.6.0RC1", "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "06-19-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1136,7 +1136,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6RC2-legacy-amd64-date-20200623.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "07-01-2020",
+            { "ID": "OUTFOX4.6.0RC3", "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "07-01-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.6RC3-Win32-date-20200701.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC3-MACOSX-date-20200701.dmg",
                 "Linux": [

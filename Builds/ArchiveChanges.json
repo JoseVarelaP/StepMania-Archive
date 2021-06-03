@@ -1,5 +1,25 @@
 [
 	{
+		"Date": "3/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added the rest of the changelogs (Alpha 4 to Alpha 4.6 RC3)."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Build Archive",
+				"List": [
+					"Clicking on a section now updates the url for quicker return.",
+					"Loading the main page now automatically opens the category if the url contains the category ID."
+				]
+			}
+		]
+	},
+	{
 		"Date": "2/Jun/21",
 		"Changes" : [
 			{
