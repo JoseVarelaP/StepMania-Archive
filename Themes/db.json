@@ -199,7 +199,7 @@
 		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "01-15-2018", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "06-08-2019", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
-		"DDRA20M" : { "Name": "DDR A20 Minus", "Author": "pupsi", "Date": "05-08-2021", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
+		"DDRA20M" : { "Name": "DDR A20 Minus", "Author": "pupsi", "Date": "05-08-2021", "Link": "DanceDanceRevolution%20A20%20Minus.rar" },
 		"DDR5th" : { "Name": "DDR 5th Mix", "Date": "07-23-2014", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
 		"DDRNG" : { "Name": "DDR Next Generation", "Date": "07-23-2014", "Version": "7", "Link": "DDRNG.zip" },
 		"DDRNMini" : { "Name": "DDR Mini", "Author": "pupsi", "Date": "03-08-2021", "Link": "DanceDanceRevolution%20Mini.zip" },
