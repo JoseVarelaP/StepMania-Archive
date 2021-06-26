@@ -178,7 +178,7 @@ function generateTable(table, data, DefaultIcon) {
                 let text = document.createTextNode( element.Name );
                 const a = document.createElement('a'); 
                 a.appendChild(text);
-                a.href = `BuildChangeLogs.php?Version=${element.ID}`;
+                a.href = `BuildChangeLogs.html?Version=${element.ID}`;
                 cell.appendChild(a);
             } else {
                 // Otherwise, it's regular text.

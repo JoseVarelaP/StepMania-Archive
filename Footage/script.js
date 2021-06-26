@@ -11,7 +11,7 @@ const VideoArchive = {
             const Section = this.Items[Info.Category].Collections[ Info.Col ]
             let key = Section[ Info.ID ];
             VideoTitle.textContent = `${Section.Name || ""} - ${key.Name}`;
-            VideoDescription.textContent = key.Description;
+            VideoDescription.innerHTML = key.Description;
 
             // "Container" : "In%20The%20Groove/ITGVideoPack1"
             const VideoUrl = Section.Container ? `${Section.Container}/${key.VideoLink}` : `${key.VideoLink}`
@@ -194,7 +194,7 @@ const VideoArchive = {
                 Rc.textContent = `Recorded: ${Recorded}`;
 
             if( Location )
-                Lo.textContent = `Location: ${Location}`;
+                Lo.innerHTML = `Location: ${Location}`;
 
             if( Game )
                 Gm.textContent = `Game: ${Game}`;

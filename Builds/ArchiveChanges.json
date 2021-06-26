@@ -1,5 +1,33 @@
 [
 	{
+		"Date": "24-25/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe'>Staiain's 3.95 build</a>."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe'>Club Fantastic Season 2.</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.95&ID=Staiainv2'>Staiainv2 (3.95).</a>",
+					"Added more revisions for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=CS8S'>CyberiaStyle 8 Solid</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=CS8LA'>CyberiaStyle 8 LAST APPROACH</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20M'>Dance Dance Revolution A20 Minus</a>."
+				]
+			}
+		]	
+	},
+	{
 		"Date": "3/Jun/21",
 		"Changes" : [
 			{
@@ -281,7 +309,7 @@
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z'>In The Groove (March 4th Beta)</a>.",
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z'>In The Groove (January 7th Beta)</a>.",
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z'>In The Groove (July 23rd Alpha)</a>.",
-					"Added the <a href='BuildChangeLogs.php?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
+					"Added the <a href='BuildChangeLogs.html?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
 				]
 			}
 		]
@@ -302,7 +330,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "OutFox",
 				"List" : [
-					"Fixed the <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
+					"Fixed the <a href='BuildChangeLogs.html?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
 				]
 			}
 		]
@@ -410,13 +438,13 @@
 				"Name": "OutFox",
 				"List": [
 					"Added changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.0'>StepMania OutFox Alpha 4.8.0</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.1'>StepMania OutFox Alpha 4.8.1</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.2'>StepMania OutFox Alpha 4.8.2</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.5'>StepMania OutFox Alpha 4.8.5</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.0HF'>StepMania OutFox Alpha 4.9.0</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.1'>StepMania OutFox Alpha 4.9.1</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.5'>StepMania OutFox Alpha 4.9.5</a>"
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.0'>StepMania OutFox Alpha 4.8.0</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.1'>StepMania OutFox Alpha 4.8.1</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.2'>StepMania OutFox Alpha 4.8.2</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.5'>StepMania OutFox Alpha 4.8.5</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.0HF'>StepMania OutFox Alpha 4.9.0</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.1'>StepMania OutFox Alpha 4.9.1</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.5'>StepMania OutFox Alpha 4.9.5</a>"
 				]
 			},
 			{
@@ -424,17 +452,17 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Added/Fixed changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.8'>StepMania 5.0.8</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.9'>StepMania 5.0.9</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.10'>StepMania 5.0.10</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1.0A'>StepMania 5.1.0 Alpha</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.11'>StepMania 5.0.11</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1.0A2'>StepMania 5.1.0 Alpha 2</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.12RC'>StepMania 5.0.12RC</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.12'>StepMania 5.0.12</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+					"<a href='BuildChangeLogs.html?Version=SM5.0.8'>StepMania 5.0.8</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.9'>StepMania 5.0.9</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.10'>StepMania 5.0.10</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1.0A'>StepMania 5.1.0 Alpha</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.11'>StepMania 5.0.11</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1.0A2'>StepMania 5.1.0 Alpha 2</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.12RC'>StepMania 5.0.12RC</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.12'>StepMania 5.0.12</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
 				]
 			}
 		]
@@ -455,12 +483,12 @@
 				"Icon": "OUTFOX.png",
 				"Name": "OutFox",
 				"List": [
-					"Changelogs for some OutFox versions have been added, complete with images and links! <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>(like this!)</a>",
+					"Changelogs for some OutFox versions have been added, complete with images and links! <a href='BuildChangeLogs.html?Version=OUTFOX4.9.7GG'>(like this!)</a>",
 					null,
 					"Added changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.6 '>StepMania OutFox Alpha 4.9.6</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>StepMania OutFox Alpha 4.9.7GG</a>"
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.6 '>StepMania OutFox Alpha 4.9.6</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.7GG'>StepMania OutFox Alpha 4.9.7GG</a>"
 				]
 			},
 			{
@@ -468,9 +496,9 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Added changelog pages for the following builds: <ul>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+					"<a href='BuildChangeLogs.html?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
 				]
 			}
 		]

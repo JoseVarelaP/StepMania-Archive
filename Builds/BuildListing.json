@@ -393,7 +393,7 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip"
             },
             { "Icon": "OITG.png", "Name": "OpenITG Beta 1", "Date": "05-14-2009",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/OpenITG%20beta%201.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/OpenITG%20beta%201%20linux.zip"
             },
             { "Icon": "OITG.png", "Name": "OpenITG Beta 2", "Date": "08-10-2009",
@@ -411,7 +411,8 @@
                 ]
             },
             { "Name": "In The Groove 2 R3", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%202%20r3.exe" },
-            { "Name": "In The Groove 2 R9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/itg2pc9-x01.exe" }
+            { "Name": "In The Groove 2 R9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/itg2pc9-x01.exe" },
+			{ "Name": "StepMania 3.95 [Staiain's]", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe" }
         ]
     },
 
@@ -683,7 +684,12 @@
             { "Name": "In The Groove System Image V13", "Date": "02-17-2021",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip" } ]
             },
-            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason1.exe" },
+            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "11-05-2020",
+                "Windows": [
+                    { "Name": "Season 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason1.exe" },
+                    { "Name": "Season 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe" }
+                ]
+            },
             { "Name": "StepPrime Beta 0.90", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
             { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
             { "Name": "StepPrime Beta 0.93", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
