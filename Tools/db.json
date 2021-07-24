@@ -189,6 +189,19 @@
                     { "Name": "Legacy", "Link": "v0.33/Texture_Font_Generator-Legacy.7z" }
                 ],
                 "Src": "v0.33/Texture-Font-Generator-2020-Squirrel-buildv0.33.tar.gz"
+            },
+			{
+                "Name": "Texture-Font-Generator-2020-Squirrel V0.34",
+                "Date" : "07-17-2021",
+                "Windows": [
+                    { "Name": "Euro", "Link": "v0.34/Texture_Font_Generator-Euro.7z" },
+                    { "Name": "Japanese", "Link": "v0.34/Texture_Font_Generator-Jpn.7z" },
+                    { "Name": "Japanese (Supplement)", "Link": "v0.34/Texture_Font_Generator-Jpn_Hojo.7z" },
+                    { "Name": "Korean", "Link": "v0.34/Texture_Font_Generator-Kor.7z" },
+                    { "Name": "Chinese", "Link": "v0.34/Texture_Font_Generator-Chn.7z" },
+                    { "Name": "Legacy", "Link": "v0.34/Texture_Font_Generator-Legacy.7z" }
+                ],
+                "Src": "v0.34/Texture-Font-Generator-2020-Squirrel-buildv0.34.tar.gz"
             }
         ]
     },
