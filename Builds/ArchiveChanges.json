@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "23/Jul/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20Extreme%20Online%20Project.rar'>StepMania Extreme Online Project v1.00</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "24-25/Jun/21",
 		"Changes" : [
 			{
