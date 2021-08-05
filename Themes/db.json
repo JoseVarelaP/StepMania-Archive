@@ -282,6 +282,12 @@
 				{ "Name": "a4.9.6", "Date": "2020-12-16", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.6.tar.gz"},
 				{ "Name": "a4.9.5", "Date": "2020-11-30", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.5.tar.gz"}
 			]
+		},
+		"Superuser": {
+			"Name": "superuser",
+			"Date": "2021-07-05",
+			"Author": "Sudospective",
+			"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
 		}
 	}
 }
