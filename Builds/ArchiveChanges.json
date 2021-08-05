@@ -1,5 +1,31 @@
 [
 	{
+		"Date": "5/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF'>Project OutFox Alpha 4.9.9HF</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added Tiny-webini 1.7 and 1.7."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "23/Jul/21",
 		"Changes" : [
 			{
