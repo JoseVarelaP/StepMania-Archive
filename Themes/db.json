@@ -285,9 +285,24 @@
 		},
 		"Superuser": {
 			"Name": "superuser",
-			"Date": "2021-07-05",
 			"Author": "Sudospective",
-			"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
+			"Link": [
+				{
+					"Name": "v1.0.2",
+					"Date": "2021-07-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.2.zip"	
+				},
+				{
+					"Name": "v1.0.1",
+					"Date": "2021-07-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.1.zip"
+				},
+				{
+					"Name": "v1.0.0",
+					"Date": "2021-07-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
+				}
+			]
 		}
 	}
 }
