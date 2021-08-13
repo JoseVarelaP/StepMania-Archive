@@ -1283,6 +1283,31 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF-arm64v8-date-20210804.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF-arm32v7-date-20210804.tar.gz"}
                 ]
+            },
+            { "ID": "OUTFOX4.9.9HF2", "Name": "StepMania OutFox Alpha 4.9.9HF2", "Date": "08-06-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF2-Win32-date-20210806.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF2-MacOS-M1-date-20210806.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-legacy-date-20210806.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-date-20210806.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF2-arm64v8-date-20210806.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF2-arm32v7-date-20210806.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.9.9HF3", "Name": "StepMania OutFox Alpha 4.9.9HF3", "Date": "08-08-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF3b-Win32-date-20210809.exe",
+                "Mac": [
+                    { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-Intel-date-20210809.dmg" },
+                    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-M1-date-20210809.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-legacy-date-20210806.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-date-20210806.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF3b-arm64v8-date-20210809.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF3b-arm32v7-date-20210809.tar.gz"}
+                ]
             }
         ]
     }

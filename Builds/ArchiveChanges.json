@@ -1,5 +1,32 @@
 [
 	{
+		"Date": "12/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF2'>OutFox Alpha 4.9.9HF2</a> and <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF3'>4.9.9HF3</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added Tiny-webini 1.8."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> versions 1.0.1, 1.0.2, 1.0.3 and 1.1.0.",
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=SoundWaves'>SoundWaves (Community Version)</a> version 4.9.9"
+				]
+			}
+		]
+	},
+	{
 		"Date": "5/Aug/21",
 		"Changes" : [
 			{

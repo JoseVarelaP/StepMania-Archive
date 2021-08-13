@@ -292,5 +292,13 @@
     "OUTFOX4.9.9HF" : {
         "Name": "OutFox-alpha.4.9.9HF Build - 4th August 2021 \"How's that new feature coming along?\"",
         "HTMLParse" : "OUTFOX/A4.9.9HF.md"
+    },
+	"OUTFOX4.9.9HF2" : {
+        "Name": "OutFox-alpha.4.9.9HF2 Build - 6th August 2021 \"How's that new feature coming along?\"",
+        "HTMLParse" : "OUTFOX/A4.9.9HF2.md"
+    },
+	"OUTFOX4.9.9HF3" : {
+        "Name": "OutFox-alpha.4.9.9HF3 Build - 8th August 2021 \"How's that new feature coming along?\"",
+        "HTMLParse" : "OUTFOX/A4.9.9HF3.md"
     }
 }
