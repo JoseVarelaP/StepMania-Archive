@@ -276,6 +276,7 @@
 		"SoundWaves": { "Name": "SoundWaves (Community Version)", "Author": "Tiny-Foxes",
 			"Link": [
 				{ "Name": "Latest", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/heads/main.zip"},
+				{ "Name": "a4.9.9", "Date": "2021-08-08", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.9.zip"},
 				{ "Name": "a4.9.8", "Date": "2021-04-27", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.8.tar.gz"},
 				{ "Name": "a4.9.7GG", "Date": "2021-02-23", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7GG.tar.gz"},
 				{ "Name": "a4.9.7", "Date": "2021-02-20", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7.tar.gz"},
@@ -285,9 +286,29 @@
 		},
 		"Superuser": {
 			"Name": "superuser",
-			"Date": "2021-07-05",
 			"Author": "Sudospective",
-			"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
+			"Link": [
+				{
+					"Name": "v1.1.0",
+					"Date": "2021-08-11",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.1.0.zip"
+				},
+				{
+					"Name": "v1.0.2",
+					"Date": "2021-08-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.2.zip"	
+				},
+				{
+					"Name": "v1.0.1",
+					"Date": "2021-08-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.1.zip"
+				},
+				{
+					"Name": "v1.0.0",
+					"Date": "2021-08-05",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
+				}
+			]
 		}
 	}
 }
