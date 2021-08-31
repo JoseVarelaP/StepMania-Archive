@@ -300,5 +300,9 @@
 	"OUTFOX4.9.9HF3" : {
         "Name": "OutFox-alpha.4.9.9HF3 Build - 8th August 2021 \"How's that new feature coming along?\"",
         "HTMLParse" : "OUTFOX/A4.9.9HF3.md"
+    },
+	"OUTFOX4.9.10" : {
+        "Name": "OutFox-alpha.4.9.10 Build - 27th August 2021 \"Because 4 hotfix releases goes too far…\"",
+        "HTMLParse" : "OUTFOX/A4.9.10.md"
     }
 }
