@@ -8,6 +8,17 @@
 				"List": [
 					"Added <a href='BuildChangeLogs.html?Version=OUTFOX4.9.10'>Project OutFox Alpha 4.9.10</a>."
 				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Begin adding footage of In The Groove US Open 2008.",
+					"Begin adding footage of In The Groove Nationals Finals 2005. This one will take a bit, as there is a lot of videos.",
+					"Ties on scores are now grey.",
+					"Empty descriptions no longer say 'undefined', forgot to add a failsafe to those.",
+					"Added 3rd prototype footage of Neon FM: Dance Radio."
+				]
 			}
 		]
 	},

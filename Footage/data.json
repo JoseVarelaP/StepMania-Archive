@@ -637,12 +637,13 @@
             "ITGUS08" : {
                 "Name" : "In The Groove US Open 2008",
                 "Game": "In The Groove 2",
+				"Container" : "In%20The%20Groove/ITGUSOpen2008",
+				"RecordDate": "03-18-2008",
 
-                "MultiRockRoll" : {
+                "800BOOM" : {
                     "Name": "Evildave and Zane - 800$ Dollar Boom",
-                    "Description" : "Moments of the singles final, where Evildave keeps holding the mines, causing its fall from winning after performing a quad in Liquid Moon.",
-                    "VideoLink": "In%20The%20Groove/Unknown%20and%20Zane%20-%20800%24%20BOOM.mp4",
-                    "RecordDate": "03-18-2008",
+                    "Description" : "Moments of the singles final, where Zane keeps holding the mines, causing its fall from winning after performing a quad in Liquid Moon.",
+                    "VideoLink": "../Unknown%20and%20Zane%20-%20800%24%20BOOM.mp4",
 
                     "ScoreInfo" : {
                         "Participants": [ "Evildave", "Zane" ],
@@ -650,6 +651,74 @@
                             { "Song": "In The Groove 2 - Liquid Moon", "Scores": [ 99.83, 99.50 ] }
                         ]
                     }
+                },
+				"EvildaveZaneFalseMove" : {
+                    "Name": "Evildave and Zane - One False Move",
+                    "VideoLink": "us%20open%2008%20zane%20vs%20evildave%20-%20one%20false%20move%2099.71%2099.43.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - One False Move", "Scores": [ 99.71, 99.43 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneAdventure" : {
+                    "Name": "Evildave and Zane - Happy Adventure, Delightful Adventure",
+                    "VideoLink": "us%20open%2008%20zane%20vs%20evildave%20-%20happy%20adventure%20delightful%20adv.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "??? - Happy Adventure, Delightful Adventure", "Scores": [ 99.70, 97.95 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneUtopia" : {
+                    "Name": "Evildave and Zane - Utopia",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20utopia%2099.68%20tie.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Utopia", "Scores": [ 99.68, 99.68 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneJuly" : {
+                    "Name": "Evildave and Zane - July",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20july%2099.93%2099.90.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - July", "Scores": [ 99.93, 99.90 ] }
+                        ]
+                    }
+                },
+				"EvildaveZane60Go" : {
+                    "Name": "Evildave and Zane - Go *60* Go",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20go%2060%20go%2099.57%2099.66.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Go *60* Go", "Scores": [ 99.57, 99.66 ] }
+                        ]
+                    }
+                }
+            },
+            "NAT05" : {
+                "Name" : "NAT05 Vegas Finals",
+                "Game": "In The Groove 2",
+                "RecordDate": "01-16-2006",
+                "Container" : "In%20The%20Groove/NAT05 Vegas Finals 01-14-06",
+                "Location": "<a href='https://www.openstreetmap.org/way/135332959'>Adventure Dome in Circus Circus, Las Vegas, US</a>",
+
+                "PadMiss" : {
+                    "Name": "Pad Miss Argument",
+                    "Description" : "Attendees and participants question Chris Foy about the decision of the judges to repeat the stage from KDogg where he had won the initial match at Mythology with a 98.02.<br><br>Note: Help is appreciated to make captions of this video, given some segments of the video aren't clear.",
+                    "VideoLink": "pad%20miss%20arguement.mp4"
                 }
             },
             "InTheNews" : {
@@ -709,6 +778,10 @@
                 "Prototype2" : {
                     "Name": "Test Location Demonstration 2",
                     "VideoLink": "NeonFM/cmcm_NeonFMPrototype2.mp4"
+                },
+				"Prototype3" : {
+                    "Name": "Test Location Demonstration 3",
+                    "VideoLink": "NeonFM/george_NeonFMPrototype3.mp4"
                 }
             }
         }

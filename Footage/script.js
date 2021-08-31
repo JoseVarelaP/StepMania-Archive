@@ -11,7 +11,7 @@ const VideoArchive = {
             const Section = this.Items[Info.Category].Collections[ Info.Col ]
             let key = Section[ Info.ID ];
             VideoTitle.textContent = `${Section.Name || ""} - ${key.Name}`;
-            VideoDescription.innerHTML = key.Description;
+            VideoDescription.innerHTML = key.Description || "";
 
             // "Container" : "In%20The%20Groove/ITGVideoPack1"
             const VideoUrl = Section.Container ? `${Section.Container}/${key.VideoLink}` : `${key.VideoLink}`
@@ -93,7 +93,9 @@ const VideoArchive = {
                     let highestscore = 0
                     const NeedsIteration = key.ScoreInfo.Participants.length > 1
 
-                    if( NeedsIteration )
+					const isTie = StageData.Scores.every( (val, i, arr) => val === arr[0] )
+
+                    if( !isTie && NeedsIteration )
                         for( let p = 0; p < key.ScoreInfo.Participants.length; p++ )
                             if (StageData.Scores[p] > StageData.Scores[highestscore])
                                 highestscore = p
@@ -107,7 +109,7 @@ const VideoArchive = {
 
                         //console.log( `${p} - ${highestscore}, match = ${ p === highestscore }` )
 
-                        if( NeedsIteration )
+                        if( !isTie && NeedsIteration )
 							cell.className = `matchinfo-${ p === highestscore ? "winner" : "loser" }`
                     }
 
