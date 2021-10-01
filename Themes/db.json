@@ -290,6 +290,11 @@
 			"Author": "Sudospective",
 			"Link": [
 				{
+					"Name": "v1.1.1",
+					"Date": "2021-10-01",
+					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.1.1.zip"
+				},
+				{
 					"Name": "v1.1.0",
 					"Date": "2021-08-11",
 					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.1.0.zip"
