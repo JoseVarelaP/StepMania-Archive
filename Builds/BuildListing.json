@@ -1239,14 +1239,14 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox-Alpha-4.9.6-arm32v7-date-20201216.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.7", "Name": "StepMania OutFox Alpha 4.9.7", "Date": "02-20-2021",
+            { "ID": "OUTFOX4.9.7", "Name": "Project OutFox Alpha 4.9.7", "Date": "02-20-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-v5.3.0-alpha-4.9.7-Win32-date-20210220.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-v5.3.0-alpha-4.9.7-MacOS-Intel-date-20210220.dmg" },
                     { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-v5.3.0-alpha-4.9.7-MacOS-M1-date-20210220.dmg" }
                 ]
             },
-            { "ID": "OUTFOX4.9.7GG", "Name": "StepMania OutFox Alpha 4.9.7GG", "Date": "02-23-2021",
+            { "ID": "OUTFOX4.9.7GG", "Name": "Project OutFox Alpha 4.9.7GG", "Date": "02-23-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.7GG-Win32-date-20210224.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/StepManiaOutFox-5.3.0-alpha-4.9.7GG-MacOS-Intel-date-20210223.dmg" },
@@ -1259,7 +1259,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/StepManiaOutFox-5.3.0-alpha-4.9.7GG-arm32v7-date-20210223.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.8", "Name": "StepMania OutFox Alpha 4.9.8", "Date": "04-25-2021",
+            { "ID": "OUTFOX4.9.8", "Name": "Project OutFox Alpha 4.9.8", "Date": "04-25-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.8-Win32-date-20210425.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.8-MacOS-Intel-date-20210425.dmg" },
@@ -1271,7 +1271,7 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.8-arm64v8-date-20210425.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF", "Name": "StepMania OutFox Alpha 4.9.9HF", "Date": "08-04-2021",
+            { "ID": "OUTFOX4.9.9HF", "Name": "Project OutFox Alpha 4.9.9HF", "Date": "08-04-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF-Win32-20210804.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF-MacOS-Intel-date-20210804.dmg" },
@@ -1284,7 +1284,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF-arm32v7-date-20210804.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF2", "Name": "StepMania OutFox Alpha 4.9.9HF2", "Date": "08-06-2021",
+            { "ID": "OUTFOX4.9.9HF2", "Name": "Project OutFox Alpha 4.9.9HF2", "Date": "08-06-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF2-Win32-date-20210806.exe",
                 "Mac": [
                     { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF2-MacOS-M1-date-20210806.dmg" }
@@ -1296,7 +1296,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF2-arm32v7-date-20210806.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF3", "Name": "StepMania OutFox Alpha 4.9.9HF3", "Date": "08-08-2021",
+            { "ID": "OUTFOX4.9.9HF3", "Name": "Project OutFox Alpha 4.9.9HF3", "Date": "08-08-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF3b-Win32-date-20210809.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-Intel-date-20210809.dmg" },
@@ -1309,7 +1309,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF3b-arm32v7-date-20210809.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.9.10", "Name": "StepMania OutFox Alpha 4.9.10", "Date": "08-27-2021",
+			{ "ID": "OUTFOX4.9.10", "Name": "Project OutFox Alpha 4.9.10", "Date": "08-27-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.10-Win32-date-20210827.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.10-Universal-date-20210827.dmg" }
@@ -1319,7 +1319,7 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-date-20210827.tar.gz" }
                 ]
             },
-			{ "ID": "OUTFOX4.10.0", "Name": "StepMania OutFox Alpha 4.10.0", "Date": "10-01-2021",
+			{ "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "10-01-2021",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.10.0-Win32-HF1-date-20211001.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.10.0-MacOS-HF1-date-20211001.dmg" }
