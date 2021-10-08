@@ -19,6 +19,14 @@ body {
 	
 }
 
+
+table th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
 #menu-box #toprighticon{
 	width: 28px;
 	float: right;
