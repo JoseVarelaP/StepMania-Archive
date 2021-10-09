@@ -1,5 +1,30 @@
 [
 	{
+		"Date": "9/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> v1.2.0, v1.2.1 and v1.2.2.",
+					"Added Curilang's versions of <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRACurilang'>DDRA</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20Curilang'>DDRA20</a>.",
+					null,
+					"Added a ton of themes for 3.95, so here goes the list:",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=CUEv5'>ChaosUnown Edition v5</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITGPRO'>In The Groove Pro</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2UE'>In The Groove 2 -Ultimate Edition-</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=HG2'>Hardcore Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3'>In The Groove 3</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G3.0'>Groove 3.0</a> and <a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G2'>Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3GOLD'>In The Groove 3 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3Pink'>In The Groove 3 Pink</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2GOLD'>In The Groove 2 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG500Z'>ITG 500Zb4</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "7/Oct/21",
 		"Changes" : [
 			{
