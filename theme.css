@@ -351,6 +351,7 @@ h3 {
 
 .Download-Theme {
 	float:right;
+	background-color: #77ff77;
 	width: 240px;
 	font-size: 11px;
 }
@@ -506,6 +507,19 @@ only screen and (max-width:660px) {
 		background-color: #000;
 		border-bottom: 0px solid #000;
 		background: none !important;
+	}
+
+	.Download-Theme{
+		background-color: hsl(120, 100%, 15%)
+	}
+
+	.CharListing {
+		background-color: #002646;
+	}
+	
+	.CharListing > div {
+		background-color: rgba(0, 0, 0, 0.8);
+		color: white;
 	}
 
 	label{ color: #fff; }
