@@ -57,16 +57,19 @@ const ThemeArchive = {
 						cell.appendChild(a);
 					}
 
-					if( item.Date )
+					// If the current theme has multiple releases, check if the date is included on the latest one.
+					let DateString = item.Date ?? "??-??-????"
+					if( typeof(item.Link) === "object" )
 					{
-						cell = row.insertCell();
-						const p = document.createTextNode( item.Date );
-						cell.appendChild(p);
-					} else {
-						cell = row.insertCell();
-						const p = document.createTextNode( "??-??-???" );
-						cell.appendChild(p);
+						if( item.Link[0].Date )
+							// Given it's the new version, let's append the new version alongside it.
+							DateString = `${item.Link[0].Date}<br><small>(${item.Link[0].Name})</small>`
 					}
+
+					cell = row.insertCell();
+					const dateobj = document.createElement("p");
+					dateobj.innerHTML = DateString
+					cell.appendChild(dateobj);
 
 					if( item.Link )
 					{
@@ -147,10 +150,14 @@ const ThemeArchive = {
 			}
 
 			let Date = document.getElementById('Date');
-			if( ItemSet.Date )
+			// If the current theme has multiple releases, check if the date is included on the latest one.
+			let DateString = ItemSet.Date ?? "??-??-????"
+			if( typeof(ItemSet.Link) === "object" )
 			{
-				Date.textContent = `Release Date: ${ItemSet.Date ?? "??-??-????"}`;
+				if( ItemSet.Link[0].Date )
+					DateString = ItemSet.Link[0].Date
 			}
+			Date.textContent = `Release Date: ${DateString}`;
 
 			let s = document.getElementById("DownloadButton")
 			s.textContent = "Download Now"
