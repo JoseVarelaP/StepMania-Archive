@@ -11,6 +11,22 @@ body {
 	margin-left: -20px;
 }
 
+.ShortageMessage{
+	padding: 2px 6px;
+	background-color: white;
+	border: #f00 4px solid;
+	border-radius: 8px;
+	
+}
+
+
+table th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
 #menu-box #toprighticon{
 	width: 28px;
 	float: right;
@@ -144,19 +160,11 @@ th{
 }
 
 tr:nth-child(odd){
-	background-color: #ffffff;
+	background-color: #fff;
 }
 tr:nth-child(even){
-	background-color: #eeeeee;
+	background-color: #eee;
 }
-
-/* tr a{
-	color:#2F0;
-}
-
-tr a:visited{
-	color:#0ff;
-} */
 
 th, td {
     padding:4px;
@@ -210,42 +218,36 @@ h3 {
 }
 
 .top-menu{
-	height:auto;
 	border-bottom: 4px solid #0079b2;
-	font-family:verdana,geneva,arial,helvetica,sans-serif;
-	color: #8e8e8e;
-	min-width:200px;
 }
 
-.top-menu ul
-{
-	height:28px;
+.PageList {
+	display: flex;
 	list-style:none;
-	margin:0;
-	padding:0;
-	overflow-x: hidden;
+	flex-wrap: wrap;
+	justify-content: flex-start;
 }
+
 .top-menu li{
-		float:left;
-		margin-left:0;
+	margin: 0;
 }
-.top-menu > ul > li > a{
+.top-menu > .PageList > li > a{
 		background: url('static/top-menu-link-bg.png') top left repeat-x;
 }
 
 .top-menu li a{
-		color:#666666;
-		display:block;
-		font-weight:bold;
-		line-height:26px;
-		padding:0px 10px;
-		padding-top:2px;
-		text-align:center;
-		text-decoration:none;
+	color:#666666;
+	display:block;
+	font-weight:bold;
+	line-height:26px;
+	padding:0px 10px;
+	padding-top:2px;
+	text-align:left;
+	text-decoration:none;
 }
 .top-menu li a:hover{
-			color:#000000;
-			text-decoration:none;
+	color:#fff;
+	background:url('static/top-menu-current-bg.png') top left repeat-x;
 }
 .top-menu li ul{
 	background:#f8faf8;
@@ -253,15 +255,16 @@ h3 {
 	border-right:2px solid #0079b2;
 	border-bottom:2px solid #0079b2;
 	display:none;
+	padding: 0;
 	height:auto;
 	/* top: 150px; */
 	/*filter: alpha(opacity=95);*/
 	opacity:0.95;
 	position:absolute;
-	width:225px;
-	z-index:200;
-	margin-left: -10px;
+	width: 225px;
 	margin-top: 26px;
+	/* Reset position made by the padding on (.top-menu li a) */
+	margin-left: -10px;
 	/* top:1em; */
 	/* left:0; */
 }
@@ -270,63 +273,15 @@ h3 {
 	display:block;
 }
 
-.top-menu li li {
-	display:block;
-	width:225px;
-}
-.top-menu li ul a{
-	display:block;
-	font-size:12px;
-	font-style:normal;
-	padding:0px 10px 0px 15px;
-	text-align:left;
-	background:#fff;
-	opacity: 1;
-}
-
 .top-menu li ul a:hover{
 	background: #0079b2;
-	color:#fff;
+	color:#ff0;
 }
 
 .top-menu #current{
 	background:url('static/top-menu-current-bg.png') top left repeat-x;
 	color:#fff;
 }
-
-/*
-.top-menu #search-box {
-		margin-left:10px;
-		margin-top:4px;
-		float:left;
-}	
-.top-menu #search-box input {
-			margin:0;
-}
-*/
-
-
-/*
-#leftMenu a { text-decoration: none; }
-#leftMenu a:hover { text-decoration: underline; }
-
-#leftMenu .instructions { 
-	text-align: center;
-	font-size: 90%;
-}
-#leftMenu h2 {
-        margin: 0;  
-        margin-top: 10px;
-	margin-left: -5px;
-	padding-left: 5px;
-        font-size: 90%;  
-        color: black;  
-        text-align: left;  
-        font-style: italic; 
-	font-weight: normal;
-	border-top: 1px dotted #BBBBBB;
-}
-*/
 
 /* Rightbox! */
 
@@ -340,12 +295,7 @@ h3 {
 	background-color: white;
 	/* background: white url('static/corner_rounded_white_bottomright.png') no-repeat bottom right; */
 }
-/*
-.box-top {
-        background: white url('static/corner_rounded_white_topleft.png') no-repeat top left;
-        height: 7px
-}
-*/
+
 .rightBox h2 {
     margin: 5px;
     font-size: 90%;
@@ -393,7 +343,7 @@ h3 {
 }
 
 .VideoFrame #VideoActor{
-	max-width: 100%;
+	max-width: 70%;
 }
 
 .Video-InfoBoard > h3 { margin-left: 4px; }
@@ -401,6 +351,7 @@ h3 {
 
 .Download-Theme {
 	float:right;
+	background-color: #77ff77;
 	width: 240px;
 	font-size: 11px;
 }
@@ -472,6 +423,19 @@ only screen and (max-width:1000px) {
 
 @media only screen and (device-width: 660px),
 only screen and (max-width:660px) {
+	.PageList {
+		flex-direction: column;
+	}
+	.PageList li ul {
+		/* I need help with this number badly. */
+		width: 95.3%;
+	}
+	.top-menu li a{
+		text-align: center;
+	}
+
+	.top-menu #current{ margin-top: 4px; }
+
 	#menu-box #toprighticon{ display: none; }
 
 	.ThemeFlexSet img{
@@ -498,8 +462,11 @@ only screen and (max-width:660px) {
 	.TableBuildSet tr > :is(*:nth-child(3),*:nth-child(7)) { display: none; }
 	.TableToolSet tr > :is(*:nth-child(2)) { display: none; }
 
-	.VideoFrame #VideoActor{ width: 100%; }
+	.VideoFrame #VideoActor{ max-width: 100%; }
 	.content-Changelog img{ max-width: 100%; }
+	.content-Changelog p,li{
+		margin-left: -1em;
+	}
 }
 
 /* Dark mode implementation (for later) */
@@ -510,7 +477,6 @@ only screen and (max-width:660px) {
 	  color: #75715e;
 	}
 	.top-menu #current{
-		background:url('static/top-menu-current-bg.png') top left repeat-x;
 		color:#fff;
 	}
 
@@ -534,13 +500,30 @@ only screen and (max-width:660px) {
 	th{ background-color: #555; }
 	tr:nth-child(odd){ background-color: #000; }
 	tr:nth-child(even){ background-color: #222; }
-	h2 { color: white; border-top: 1px dotted gray; }
+	h2 { color: #fff; border-top: 1px dotted gray; }
+	h3 { color: #fff; }
 
 	h1 {
 		background-color: #000;
 		border-bottom: 0px solid #000;
 		background: none !important;
 	}
+
+	.Download-Theme{
+		background-color: hsl(120, 100%, 15%)
+	}
+
+	.CharListing {
+		background-color: #002646;
+	}
+	
+	.CharListing > div {
+		background-color: rgba(0, 0, 0, 0.8);
+		color: white;
+	}
+
+	label{ color: #fff; }
+	input{ color: #aaa; }
 	
 	p{ color: #fff; }
 	li{ color: #fff; }
@@ -551,6 +534,10 @@ only screen and (max-width:660px) {
 	.content-Changelog h1{
 		border-bottom: 1px solid gray;
 		color: white;
+	}
+
+	.ShortageMessage{
+		background-color: #000;
 	}
 	
 	.content-Changelog h2{ color: white; }

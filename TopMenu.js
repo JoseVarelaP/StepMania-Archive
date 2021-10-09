@@ -7,13 +7,19 @@ let PageList = [
 	{ Name: 'NoteSkins', /* Margin: -70, */ Color: '#772200' },
 	{
 		Name: 'Themes', /* Margin: -91, */ Color: '#001177',
-		Subpages: { "Theme Update (WIP)": "ThemeUpdate.html" }
+		Subpages: {
+			"Theme List": "index.html",
+			"Theme Update (WIP)": "ThemeUpdate.html"
+		}
 	},
 	{ Name: 'Characters', /* Margin: -20, */ Color: '#772200' },
 	{ Name: 'Footage', /* Margin: -130, */ Color: '#550055' },
 	{
 		Name: 'Tools', /* Margin: -250, */ Color: '#005599',
-		Subpages: { "Font Conversion Guide": "FontConversionGuide.html" }
+		Subpages: {
+			"Tools List": "index.html",
+			"Font Conversion Guide": "FontConversionGuide.html"
+		}
 	},
 	{ Name: 'About', /*Margin: -50,*/ Color: '#002211' },
 ]
@@ -48,14 +54,29 @@ function GenerateIconWithLink(IconPath, Link) {
 	return IconLink;
 }
 
+function TemporaryShortageWarning( incidentID )
+{
+	const MoreInfoSite = `https://www.dreamhoststatus.com/pages/incident/${incidentID}`;
+	const Container = document.createElement("div");
+	Container.className = "ShortageMessage";
+	const WarningText = document.createElement("p");
+	WarningText.innerHTML = `&#9888; The archive's bucket provider is currently experiencing an outage. For more information, <a href='${MoreInfoSite}'>please visit this page.</a>`;
+	WarningText.innerHTML = WarningText.innerHTML + "<br>Due to this, images from the site and big downloads may fail to complete.<p></p>";
+	Container.appendChild( WarningText );
+	return Container;
+}
+
 function GenerateTopMenu() {
 	// Since we already know that JS is enabled, remove the message.
 	CheckJavascriptMessage()
 
-	let ListActor = document.createElement("ul");
+	let ListActor = document.createElement("div");
+	ListActor.className = "PageList"
+	//TMS.appendChild( TemporaryShortageWarning("575f0f606826303142000510/60c7b83ddc340e0537a84542") );
 
 	TMS.appendChild(GenerateIconWithLink("../static/discord_icon.png", "https://discord.gg/uMkVUrr"));
 	TMS.appendChild(GenerateIconWithLink("../static/GitHub-Mark-Light-120px-plus.png", "https://github.com/JoseVarelaP/StepMania-Archive"));
+
 
 	for (let v of PageList) {
 		// 1= Create the List with li.

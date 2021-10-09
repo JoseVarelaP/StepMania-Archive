@@ -408,7 +408,10 @@
                 "Windows": [
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/Xsoft%20ITG2%20ver1.27.exe" }
                 ]
-            }
+            },
+            { "Name": "In The Groove 2 R3", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%202%20r3.exe" },
+            { "Name": "In The Groove 2 R9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/itg2pc9-x01.exe" },
+			{ "Name": "StepMania 3.95 [Staiain's]", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe" }
         ]
     },
 
@@ -435,22 +438,28 @@
                 ]
             },
             {
+                "ID": "NITG40",
                 "Icon": "NITG4.png", "Name": "NotITG Version 4", "Date": "2020-01-12",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V4.zip" },
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-V4.0.zip" }
                 ]
             },
-            { "Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
-            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
-			{ "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "2021-04-20",
+            { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
+            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
+			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "04-20-2021",
 				"Windows": [
 					{ "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip"},
 					{ "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/NotITG-4.2.0-QuickStart.zip"}
 				]
 			},
-            { "Name": "OpenGroove", "Date": "2010-07-02", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
-            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "2018-05-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" }
+            { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "09-22-2008" },
+            { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "04-17-2010" },
+            { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "06-09-2010" },
+            { "ID": "OpGr5", "Name": "OpenGroove r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
+            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "05-22-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" },
+            { "ID": "OpGr5", "Name": "In The Groove 3 Encore r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe" },
+            { "Name": "In The Groove 3 Encore r35", "Date": "12-12-2011", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe" }
         ]
     },
 
@@ -499,9 +508,12 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070325-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070325-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20070726a)", "Date": "2007-07-26",
+            { "Name": "StepMania 4.0 CVS (20070325a)", "Date": "03-25-2007",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070325a-mac.zip"
+            },
+            { "Name": "StepMania 4.0 CVS (20070726a)", "Date": "07-26-2007",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070726a.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070726-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070726-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070726-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070726-src.tar.gz"
             },
@@ -513,19 +525,19 @@
             },
             { "Name": "StepMania 4.0 CVS (20071107)", "Date": "2007-11-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071107.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071107-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071107-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071107-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071107-src.tar.gz"
             },
             { "Name": "StepMania 4.0 CVS (20071121)", "Date": "2007-11-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071121.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071121-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071121-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071121-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071121-src.tar.gz"
             },
             { "Name": "StepMania 4.0 CVS (20080103)", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20080103.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20080103-mac.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20080103-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20080103-linux.tar.gz",
 				"Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20080103-src.tar.gz"
             },
@@ -671,11 +683,17 @@
             { "Name": "In The Groove System Image V13", "Date": "2021-02-17",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip" } ]
             },
-            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason1.exe" },
-            { "Name": "StepPrime Beta 0.90", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
-            { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
-            { "Name": "StepPrime Beta 0.93", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
-            { "Name": "StepPrime Beta 0.94", "Date": "??-??-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" }
+            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "11-05-2020",
+                "Windows": [
+                    { "Name": "Season 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason1.exe" },
+                    { "Name": "Season 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe" }
+                ]
+            },
+            { "Name": "StepPrime Beta 0.90", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
+            { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
+            { "Name": "StepPrime Beta 0.93", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
+            { "Name": "StepPrime Beta 0.94", "Date": "??-??-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" },
+			{ "Name": "Step Fex 1.4.1", "Date": "??-??-???", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" }
         ]
     },
 
@@ -1036,7 +1054,7 @@
         "Name": "Project OutFox",
         "DefaultIcon": "OUTFOX.png",
         "Listing": [
-            { "Name": "StepMania OutFox Alpha 4", "Date": "2019-12-16",
+            { "ID": "OUTFOX4", "Name": "StepMania OutFox Alpha 4", "Date": "12-16-2019",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20191216.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/StepMania_5.3_Outfox_Alpha_date-20191216.dmg",
                 "Linux": [
@@ -1044,7 +1062,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4_i686-date-20191217.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.1", "Date": "2020-01-04",
+            { "ID": "OUTFOX4.1", "Name": "StepMania OutFox Alpha 4.1", "Date": "01-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20200104.exe",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.1_amd64-date-20200104.tar.gz" },
@@ -1052,14 +1070,14 @@
                     { "Name": "Arch Binary", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/StepMania-Outfox-Alpha-4.1-arch-binary-amd64-2020-01-07.tar" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.2", "Date": "2020-02-05",
+            { "ID": "OUTFOX4.2", "Name": "StepMania OutFox Alpha 4.2", "Date": "02-05-2020",
                 "Mac": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/StepMania-5.3_Outfox_Alpha_date-20200205.dmg",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_amd64-date-20200205.tar.gz" },
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_i686-date-20200205.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.3", "Date": "2020-02-09",
+            { "ID": "OUTFOX4.3", "Name": "StepMania OutFox Alpha 4.3", "Date": "02-09-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.3%20date-20200209.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.3-date-20200209.dmg",
                 "Linux": [
@@ -1067,7 +1085,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.3_i686-date-20200209.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.4.1", "Date": "2020-03-04",
+            { "ID": "OUTFOX4.4", "Name": "StepMania OutFox Alpha 4.4.1", "Date": "03-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.4.1%20date-20200304.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.4.1-date-20200303.dmg",
                 "Linux": [
@@ -1075,7 +1093,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.4.1_i686-date-20200304.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5", "Date": "2020-04-04",
+            { "ID": "OUTFOX4.5", "Name": "StepMania OutFox Alpha 4.5", "Date": "04-04-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5%20date-20200404.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5-date-20200403.dmg",
                 "Linux": [
@@ -1083,7 +1101,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.5_i686-date-20200404.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.6", "Date": "2020-05-08",
+            { "ID": "OUTFOX4.5.6", "Name": "StepMania OutFox Alpha 4.5.6", "Date": "05-08-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.6%20date-20200508.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.6-date-20200512.dmg",
                 "Linux": [
@@ -1091,7 +1109,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox-Alpha-4.5.6_i686-date-20200508.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.8", "Date": "2020-05-31",
+            { "ID": "OUTFOX4.5.8", "Name": "StepMania OutFox Alpha 4.5.8", "Date": "05-31-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1099,7 +1117,7 @@
                     { "Name": "i686", "Link": "https://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6-legacy-amd64-date-20200619.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.5.9", "Date": "2020-06-14",
+            { "ID": "OUTFOX4.5.9", "Name": "StepMania OutFox Alpha 4.5.9", "Date": "06-14-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.9%20date-20200615.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.9-date-20200614.dmg",
                 "Linux": [
@@ -1107,7 +1125,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.5.9-legacy-amd64-date-20200614.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "2020-06-19",
+            { "ID": "OUTFOX4.6.0RC1", "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "06-19-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1123,7 +1141,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6RC2-legacy-amd64-date-20200623.tar.gz" }
                 ]
             },
-            { "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "2020-07-01",
+            { "ID": "OUTFOX4.6.0RC3", "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "07-01-2020",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.6RC3-Win32-date-20200701.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC3-MACOSX-date-20200701.dmg",
                 "Linux": [
@@ -1249,6 +1267,66 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.8-amd64-date-20210425.tar.gz" },
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.8-amd64-legacy-date-20210425.tar.gz" },
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.8-arm64v8-date-20210425.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.9.9HF", "Name": "Project OutFox Alpha 4.9.9HF", "Date": "08-04-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF-Win32-20210804.exe",
+                "Mac": [
+                    { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF-MacOS-Intel-date-20210804.dmg" },
+                    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF-MacOS-M1-date-20210804.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF-Linux-amd64-20210804.tar.gz" },
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF-amd64-legacy-date-20210804.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF-arm64v8-date-20210804.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF-arm32v7-date-20210804.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.9.9HF2", "Name": "Project OutFox Alpha 4.9.9HF2", "Date": "08-06-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF2-Win32-date-20210806.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF2-MacOS-M1-date-20210806.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-legacy-date-20210806.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-date-20210806.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF2-arm64v8-date-20210806.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF2-arm32v7-date-20210806.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.9.9HF3", "Name": "Project OutFox Alpha 4.9.9HF3", "Date": "08-08-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF3b-Win32-date-20210809.exe",
+                "Mac": [
+                    { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-Intel-date-20210809.dmg" },
+                    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-M1-date-20210809.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-legacy-date-20210806.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.9HF2-amd64-date-20210806.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.9HF3b-arm64v8-date-20210809.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF3b-arm32v7-date-20210809.tar.gz"}
+                ]
+            },
+			{ "ID": "OUTFOX4.9.10", "Name": "Project OutFox Alpha 4.9.10", "Date": "08-27-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.10-Win32-date-20210827.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.10-Universal-date-20210827.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-legacy-date-20210827.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-date-20210827.tar.gz" }
+                ]
+            },
+			{ "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "10-01-2021",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.10.0-Win32-HF1-date-20211001.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.10.0-MacOS-HF1-date-20211001.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.10.0-HF1-amd64-legacy-date-20211001.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.10.0-HF1-amd64-date-20211001.tar.gz" },
+					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.10.0-HF1-arm64v8-date-20211001.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.10.0-HF1-arm32v7-date-20211001.tar.gz"}
                 ]
             }
         ]

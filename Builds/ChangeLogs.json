@@ -159,7 +159,29 @@
         "HTMLParse" : "SM39/ITGB01072004.md"
     },
 
-    "SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
+	"OpGr2" : { "Name": "OpenGroove r2", "HTMLParse": "OITG/OpenGroove/r2.md" },
+	"OpGr3" : { "Name": "OpenGroove r3", "HTMLParse": "OITG/OpenGroove/r3.md" },
+	"OpGr4" : { "Name": "OpenGroove r4", "HTMLParse": "OITG/OpenGroove/r4.md" },
+	"OpGr5" : { "Name": "OpenGroove r5", "HTMLParse": "OITG/OpenGroove/r5.md" },
+
+	"NITG40" : {
+		"Name": "Not In The Groove Version 4",
+		"HTMLParse": "OITG/NITG/v4.0.0.md"
+	},
+	"NITG401" : {
+		"Name": "Not In The Groove Version 4.0.1",
+		"HTMLParse": "OITG/NITG/v4.0.1.md"
+	},
+	"NITG420" : {
+		"Name": "Not In The Groove Version 4.2.0",
+		"HTMLParse": "OITG/NITG/v4.2.0.md"
+	},
+
+	"SM5.0.5" : { "Name":"StepMania 5.0.5", "HTMLParse" : "SM5/5.0.5.md" },
+	"SM5.0.6" : { "Name":"StepMania 5.0.6", "HTMLParse" : "SM5/5.0.6.md" },
+	"SM5.0.7rc" : { "Name":"StepMania 5.0.7 Release Candidate", "HTMLParse" : "SM5/5.0.7rc.md" },
+    "SM5.0.7" : { "Name":"StepMania 5.0.7", "HTMLParse" : "SM5/5.0.7.md" },
+	"SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
     "SM5.0.9" : { "Name":"StepMania 5.0.9", "HTMLParse" : "SM5/5.0.9.md" },
     "SM5.0.10" : { "Name":"StepMania 5.0.10", "HTMLParse" : "SM5/5.0.10.md" },
     "SM5.1.0A" : { "Name":"StepMania 5.1.0 Alpha", "HTMLParse" : "SM5/5.1.0A.md" },
@@ -171,10 +193,54 @@
     "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.md" },
     "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.md" },
 
+	"OUTFOX4" : {
+		"Name":"Alpha 4 Build - December 16 2019",
+		"HTMLParse" : "OUTFOX/A4.0.md"
+	},
+	"OUTFOX4.1" : {
+		"Name":"Alpha 4.1 Build - January 4 2020",
+		"HTMLParse" : "OUTFOX/A4.1.md"
+	},
+	"OUTFOX4.2" : {
+		"Name":"Alpha 4.2 Build - February 6 2020",
+		"HTMLParse" : "OUTFOX/A4.2.md"
+	},
+	"OUTFOX4.3" : {
+		"Name":"Alpha 4.3 Build - February 9 2020",
+		"HTMLParse" : "OUTFOX/A4.3.md"
+	},
+	"OUTFOX4.4" : {
+		"Name":"Alpha 4.4 Build - March 4 2020",
+		"HTMLParse" : "OUTFOX/A4.4.md"
+	},
+	"OUTFOX4.5" : {
+		"Name":"Alpha 4.5 Build - April 4 2020",
+		"HTMLParse" : "OUTFOX/A4.5.md"
+	},
+	"OUTFOX4.5.6" : {
+		"Name":"Alpha 4.5.6 Build - May 7 2020",
+		"HTMLParse" : "OUTFOX/A4.5.6.md"
+	},
+	"OUTFOX4.5.8" : {
+		"Name":"Alpha 4.5.8 Build - May 31 2020",
+		"HTMLParse" : "OUTFOX/A4.5.8.md"
+	},
+	"OUTFOX4.5.9" : {
+		"Name":"Alpha 4.5.9 Build - June 14 2020",
+		"HTMLParse" : "OUTFOX/A4.5.9.md"
+	},
+	"OUTFOX4.6.0RC1" : {
+		"Name":"Alpha 4.6.0RC1 Build - June 19 2020",
+		"HTMLParse" : "OUTFOX/A4.6.0RC1.md"
+	},
     "OUTFOX4.6.0RC2" : {
-        "Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
+		"Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
         "HTMLParse" : "OUTFOX/A4.6.0RC2.md"
     },
+	"OUTFOX4.6.0RC3" : {
+		"Name":"Alpha 4.6.0RC3 - July 1 2020",
+		"HTMLParse" : "OUTFOX/A4.6.0RC3.md"
+	},
 	"OUTFOX4.6.0" : {
         "Name" : "Alpha 4.6.0 Final Build - July 11 2020 \"Ogre's Have Layers\"",
         "HTMLParse" : "OUTFOX/A4.6.0.md"
@@ -222,5 +288,25 @@
     "OUTFOX4.9.8" : {
         "Name": "OutFox 5.3.0-alpha.4.9.8 Build - 25th April 2021 \"An Alpha is never late, it arrives precisely when it means to!\"",
         "HTMLParse" : "OUTFOX/A4.9.8.md"
+    },
+    "OUTFOX4.9.9HF" : {
+        "Name": "OutFox-alpha.4.9.9HF Build - 4th August 2021 \"How's that new feature coming along?\"",
+        "HTMLParse" : "OUTFOX/A4.9.9HF.md"
+    },
+	"OUTFOX4.9.9HF2" : {
+        "Name": "OutFox-alpha.4.9.9HF2 Build - 6th August 2021 \"How's that new feature coming along?\"",
+        "HTMLParse" : "OUTFOX/A4.9.9HF2.md"
+    },
+	"OUTFOX4.9.9HF3" : {
+        "Name": "OutFox-alpha.4.9.9HF3 Build - 8th August 2021 \"How's that new feature coming along?\"",
+        "HTMLParse" : "OUTFOX/A4.9.9HF3.md"
+    },
+	"OUTFOX4.9.10" : {
+        "Name": "OutFox-alpha.4.9.10 Build - 27th August 2021 \"Because 4 hotfix releases goes too far…\"",
+        "HTMLParse" : "OUTFOX/A4.9.10.md"
+    },
+	"OUTFOX4.10.0" : {
+        "Name": "OutFox-alpha.4.10.0 Build - 1st October 2021 \"Believe it or not, the bus can't swim...\"",
+        "HTMLParse" : "OUTFOX/A4.10.0.md"
     }
 }

@@ -87,7 +87,8 @@ const LastUpdate = {
         const a = document.createElement("p");
         const d = new Date().getFullYear()
         a.innerHTML = `2017-${d}
-        <a href="/">Jose_Varela</a>, with help from <a href="https://github.com/moruzerinho6">Moru Zerinho6</a>.`;
+        <a href="/">Jose_Varela</a>, with help from <a href="https://github.com/moruzerinho6">Moru Zerinho6</a>.` +
+		`- <a href="https://www.dreamhoststatus.com/">CDN Status</a>`;
         // a.style.float = "right"
         s.appendChild(a);
     }

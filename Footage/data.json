@@ -295,7 +295,7 @@
                         ]
                     }
                 },
-                "EC08MensSingle-MrJackalvsCeder-D-Code99.1999.14" : {
+                "EC08MensSingle-MrJackalvsCeder-D-Code" : {
                     "Name": "Mens Single - Mr Jackal vs Ceder - D-Code 99.19 99.14",
                     "VideoLink": "EC08%20Mens%20Single%20-%20Mr%20Jackal%20vs%20Ceder%20-%20D-Code%2099.19%2099.14.webm",
                     "ScoreInfo" : {
@@ -305,37 +305,85 @@
                         ]
                     }
                 },
-                "EC08MensSingle-MaxxStormvsFisk-TheBeginning97.9297.37" : {
-                    "Name": "Mens Single - Maxx Storm vs Fisk - The Beginning 97.92 97.37",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Fisk%20-%20The%20Beginning%2097.92%2097.37.webm"
+                "EC08MensSingle-MaxxStormvsFisk-TheBeginning" : {
+                    "Name": "Mens Single - Maxx Storm vs Fisk - The Beginning",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Fisk%20-%20The%20Beginning%2097.92%2097.37.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm", "Fisk" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - The Beginning", "Scores": [ 97.92, 97.37 ] }
+                        ]
+                    }
                 },
                 "EC08MensSingle-MaxxStormvsCeder-Vertex98.2499.19" : {
-                    "Name": "Mens Single - Maxx Storm vs Ceder - Vertex 98.24 99.19",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Vertex%2098.24%2099.19.webm"
+                    "Name": "Mens Single - Maxx Storm vs Ceder - Vertex",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Vertex%2098.24%2099.19.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Vertex", "Scores": [ 98.24, 99.19 ] }
+                        ]
+                    }
                 },
                 "EC08MensSingle-MaxxStormvsCeder-Charlene99.8299.68" : {
-                    "Name": "Mens Single - Maxx Storm vs Ceder - Charlene 99.82 99.68",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Charlene%2099.82%2099.68.webm"
+                    "Name": "Mens Single - Maxx Storm vs Ceder - Charlene",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Maxx%20Storm%20vs%20Ceder%20-%20Charlene%2099.82%2099.68.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm", "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Charlene", "Scores": [ 99.82, 99.68 ] }
+                        ]
+                    }
                 },
-                "EC08MensSingle-MasatovsPhil-Zodiac97.8399.19" : {
-                    "Name": "Mens Single - Masato vs Phil - Zodiac 97.83 99.19",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Masato%20vs%20Phil%20-%20Zodiac%2097.83%2099.19.webm"
+                "EC08MensSingle-MasatovsPhil-Zodiac" : {
+                    "Name": "Mens Single - Masato vs Phil - Zodiac",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Masato%20vs%20Phil%20-%20Zodiac%2097.83%2099.19.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Masato", "Phil" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - The Beginning", "Scores": [ 97.83, 99.19 ] }
+                        ]
+                    }
                 },
-                "EC08MensSingle-CedervsRubbinexx-Vertex287.3368.04" : {
-                    "Name": "Mens Single - Ceder vs Rubbinexx - Vertex2 87.33 68.04",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Vertex2%2087.33%2068.04.webm"
+                "EC08MensSingle-CedervsRubbinexx-Vertex2" : {
+                    "Name": "Mens Single - Ceder vs Rubbinexx - Vertex^2",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Vertex2%2087.33%2068.04.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Rubbinexx" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Vertex^2", "Scores": [ 87.33, 68.04 ] }
+                        ]
+                    }
                 },
-                "EC08MensSingle-ArsenevsTHK-MyLifeSoCrazy80.6597.98" : {
-                    "Name": "Mens Single - Arsene vs THK - My Life So Crazy 80.65 97.98",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Arsene%20vs%20THK%20-%20My%20Life%20So%20Crazy%2080.65%2097.98.webm"
+                "EC08MensSingle-ArsenevsTHK-MyLifeSoCrazy" : {
+                    "Name": "Mens Single - Arsene vs THK - My Life So Crazy",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Arsene%20vs%20THK%20-%20My%20Life%20So%20Crazy%2080.65%2097.98.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Arsene", "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - My Life So Crazy", "Scores": [ 80.65, 97.98 ] }
+                        ]
+                    }
                 },
-                "EC08MensSingle-CedervsRubbinexx-Bloodrush90.9390.16" : {
-                    "Name": "Mens Single - Ceder vs Rubbinexx - Bloodrush 90.93 90.16",
-                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Bloodrush%2090.93%2090.16.webm"
+                "EC08MensSingle-CedervsRubbinexx-Bloodrush" : {
+                    "Name": "Mens Single - Ceder vs Rubbinexx - Bloodrush",
+                    "VideoLink": "EC08%20Mens%20Single%20-%20Ceder%20vs%20Rubbinexx%20-%20Bloodrush%2090.93%2090.16.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Rubbinexx" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Bloodrush", "Scores": [ 90.93, 90.16 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoublesFinals-CedervsSyaoran-Renaissance92.9498.57" : {
-                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Renaissance 92.94 98.57",
-                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Renaissance%2092.94%2098.57.webm"
+                "EC08MensDoublesFinals-CedervsSyaoran-Renaissance" : {
+                    "Name": "Mens Doubles Finals - Ceder vs Syaoran - Renaissance",
+                    "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Renaissance%2092.94%2098.57.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder", "Syaoran" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Renaissance", "Scores": [ 92.94, 98.57 ] }
+                        ]
+                    }
                 },
                 "EC08MensDoublesFinals-CedervsSyaoran-Monolithfailwin" : {
                     "Name": "Mens Doubles Finals - Ceder vs Syaoran - Monolith",
@@ -357,7 +405,7 @@
                         ]
                     }
                 },
-                "EC08MensDoublesFinals-CedervsSyaoran-DisconnectedDisco82.8191.85" : {
+                "EC08MensDoublesFinals-CedervsSyaoran-DisconnectedDisco" : {
                     "Name": "Mens Doubles Finals - Ceder vs Syaoran - Disconnected Disco",
                     "VideoLink": "EC08%20Mens%20Doubles%20Finals%20-%20Ceder%20vs%20Syaoran%20-%20Disconnected%20Disco%2082.81%2091.85.webm",
                     "ScoreInfo" : {
@@ -367,7 +415,7 @@
                         ]
                     }
                 },
-                "EC08MensDoubles-THK-WhyMe95.42" : {
+                "EC08MensDoubles-THK-WhyMe" : {
                     "Name": "Mens Doubles - THK - Why Me",
                     "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Why%20Me%2095.42.webm",
                     "ScoreInfo" : {
@@ -377,7 +425,7 @@
                         ]
                     }
                 },
-                "EC08MensDoubles-THK-WannaDo87.82" : {
+                "EC08MensDoubles-THK-WannaDo" : {
                     "Name": "Mens Doubles - THK - Wanna Do",
                     "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Wanna%20Do%2087.82.webm",
                     "ScoreInfo" : {
@@ -387,100 +435,215 @@
                         ]
                     }
                 },
-                "EC08MensDoubles-THK-TribalStyle93.79" : {
-                    "Name": "Mens Doubles - THK - Tribal Style 93.79",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Tribal%20Style%2093.79.webm"
+                "EC08MensDoubles-THK-TribalStyle" : {
+                    "Name": "Mens Doubles - THK - Tribal Style",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Tribal%20Style%2093.79.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Tribal Style", "Scores": [ 93.79 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-THK-Monolith76.24" : {
-                    "Name": "Mens Doubles - THK - Monolith 76.24",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Monolith%2076.24.webm"
+                "EC08MensDoubles-THK-Monolith" : {
+                    "Name": "Mens Doubles - THK - Monolith",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Monolith%2076.24.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Monolith", "Scores": [ 76.24 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-THK-Reactor87.58" : {
-                    "Name": "Mens Doubles - THK - Reactor 87.58",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Reactor%2087.58.webm"
+                "EC08MensDoubles-THK-Reactor" : {
+                    "Name": "Mens Doubles - THK - Reactor",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Reactor%2087.58.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Tribal Style", "Scores": [ 87.58 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-THK-DriftingAway94.97" : {
-                    "Name": "Mens Doubles - THK - Drifting Away 94.97",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Drifting%20Away%2094.97.webm"
+                "EC08MensDoubles-THK-DriftingAway" : {
+                    "Name": "Mens Doubles - THK - Drifting Away",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Drifting%20Away%2094.97.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Drifting Away", "Scores": [ 94.97 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-THK-Euphoria94.41" : {
-                    "Name": "Mens Doubles - THK - Euphoria 94.41",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Euphoria%2094.41.webm"
+                "EC08MensDoubles-THK-Euphoria" : {
+                    "Name": "Mens Doubles - THK - Euphoria",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20THK%20-%20Euphoria%2094.41.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "THK" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Euphoria", "Scores": [ 94.41 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-MaxxStorm-WhyMe96.78" : {
-                    "Name": "Mens Doubles - Maxx Storm - Why Me 96.78",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Why%20Me%2096.78.webm"
+                "EC08MensDoubles-MaxxStorm-WhyMe" : {
+                    "Name": "Mens Doubles - Maxx Storm - Why Me",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Why%20Me%2096.78.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Why Me", "Scores": [ 96.78 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-MaxxStorm-Reactor85.88" : {
-                    "Name": "Mens Doubles - Maxx Storm - Reactor 85.88",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Reactor%2085.88.webm"
+                "EC08MensDoubles-MaxxStorm-Reactor" : {
+                    "Name": "Mens Doubles - Maxx Storm - Reactor",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Maxx%20Storm%20-%20Reactor%2085.88.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Maxx Storm" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Reactor", "Scores": [ 85.88 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-Ceder-SummerSpeedyMix95.14" : {
-                    "Name": "Mens Doubles - Ceder - Summer Speedy Mix 95.14",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Summer%20Speedy%20Mix%2095.14.webm"
+                "EC08MensDoubles-Ceder-SummerSpeedyMix" : {
+                    "Name": "Mens Doubles - Ceder - Summer Speedy Mix",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Summer%20Speedy%20Mix%2095.14.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Summer ~Speedy Mix~", "Scores": [ 95.14 ] }
+                        ]
+                    }
                 },
-                "EC08MensDoubles-Ceder-PsalmPilot98.06" : {
-                    "Name": "Mens Doubles - Ceder - Psalm Pilot 98.06",
-                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Psalm%20Pilot%2098.06.webm"
+                "EC08MensDoubles-Ceder-PsalmPilot" : {
+                    "Name": "Mens Doubles - Ceder - Psalm Pilot",
+                    "VideoLink": "EC08%20Mens%20Doubles%20-%20Ceder%20-%20Psalm%20Pilot%2098.06.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Ceder" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Psalm Pilot", "Scores": [ 98.06 ] }
+                        ]
+                    }
                 },
                 "EC08FoyboyandKeelFreestyle" : {
                     "Name": "EC08 Foyboy and Keel Freestyle",
                     "VideoLink": "EC08%20Foyboy%20and%20Keel%20Freestyle.webm"
                 },
-                "EC08FemaleSingleFinals-STsungvsLauma-QueenofLight95.5397.84" : {
-                    "Name": "EC08 Female Single Finals - STsung vs Lauma - Queen of Light 95.53 97.84",
-                    "VideoLink": "EC08%20Female%20Single%20Finals%20-%20STsung%20vs%20Lauma%20-%20Queen%20of%20Light%2095.53%2097.84.webm"
+                "EC08FemaleSingleFinals-STsungvsLauma-QueenofLight" : {
+                    "Name": "EC08 Female Single Finals - STsung vs Lauma - Queen of Light",
+                    "VideoLink": "EC08%20Female%20Single%20Finals%20-%20STsung%20vs%20Lauma%20-%20Queen%20of%20Light%2095.53%2097.84.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung", "Lauma" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Queen of Light", "Scores": [ 95.53, 97.84 ] }
+                        ]
+                    }
                 },
-                "EC08FemaleSingle-ThimyvsNiya-TribalStyle94.7298.22" : {
-                    "Name": "EC08 Female Single - Thimy vs Niya - Tribal Style 94.72 98.22",
-                    "VideoLink": "EC08%20Female%20Single%20-%20Thimy%20vs%20Niya%20-%20Tribal%20Style%2094.72%2098.22.webm"
+                "EC08FemaleSingle-ThimyvsNiya-TribalStyle" : {
+                    "Name": "EC08 Female Single - Thimy vs Niya - Tribal Style",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Thimy%20vs%20Niya%20-%20Tribal%20Style%2094.72%2098.22.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Thimy", "Niya" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Tribal Style", "Scores": [ 94.72, 98.22 ] }
+                        ]
+                    }
                 },
-                "EC08FemaleSingle-STsungvsThimy-Xuxa90.2088.36" : {
-                    "Name": "EC08 Female Single - STsung vs Thimy - Xuxa 90.20 88.36",
-                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Thimy%20-%20Xuxa%2090.20%2088.36.webm"
+                "EC08FemaleSingle-STsungvsThimy-Xuxa" : {
+                    "Name": "EC08 Female Single - STsung vs Thimy - Xuxa",
+                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Thimy%20-%20Xuxa%2090.20%2088.36.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung", "Thimy" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Xuxa", "Scores": [ 90.20, 88.36 ] }
+                        ]
+                    }
                 },
-                "EC08FemaleSingle-STsungvsLauma-Vertexfailwin" : {
+                "EC08FemaleSingle-STsungvsLauma-Vertex" : {
                     "Name": "EC08 Female Single - STsung vs Lauma - Vertex fail win",
-                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Lauma%20-%20Vertex%20fail%20win.webm"
+                    "VideoLink": "EC08%20Female%20Single%20-%20STsung%20vs%20Lauma%20-%20Vertex%20fail%20win.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung", "Lauma" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Vertex", "Scores": [ 90.20, 88.36 ] }
+                        ]
+                    }
                 },
-                "EC08FemaleSingle-LaumavsNiya-WannaDo98.3697.58" : {
-                    "Name": "EC08 Female Single - Lauma vs Niya - Wanna Do 98.36 97.58",
-                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Niya%20-%20Wanna%20Do%2098.36%2097.58.webm"
+                "EC08FemaleSingle-LaumavsNiya-WannaDo" : {
+                    "Name": "EC08 Female Single - Lauma vs Niya - Wanna Do",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Niya%20-%20Wanna%20Do%2098.36%2097.58.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Lauma", "Niya" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Wanna Do", "Scores": [ 98.36, 97.58 ] }
+                        ]
+                    }
                 },
                 "EC08FemaleSingle-LaumavsMary-Chan-WakeUp98.8398.65" : {
                     "Name": "EC08 Female Single - Lauma vs Mary-Chan - Wake Up 98.83 98.65",
-                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Wake%20Up%2098.83%2098.65.webm"
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Wake%20Up%2098.83%2098.65.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Lauma", "Mary-Chan" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Wake Up", "Scores": [ 98.93, 98.65 ] }
+                        ]
+                    }
                 },
                 "EC08FemaleSingle-LaumavsMary-Chan-DisonnectedMobius93.2799.13" : {
-                    "Name": "EC08 Female Single - Lauma vs Mary-Chan - Disonnected Mobius 93.27 99.13",
-                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Disonnected%20Mobius%2093.27%2099.13.webm"
+                    "Name": "EC08 Female Single - Lauma vs Mary-Chan - Disconnected Mobius",
+                    "VideoLink": "EC08%20Female%20Single%20-%20Lauma%20vs%20Mary-Chan%20-%20Disonnected%20Mobius%2093.27%2099.13.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "Lauma", "Mary-Chan" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Disconnected Mobius", "Scores": [ 93.27, 99.13 ] }
+                        ]
+                    }
                 },
-                "EC08FemaleSingle-STsungvsThimy-MyLifeIsSoCrazy94.9794.11" : {
-                    "Name": "EC08 Female Single -  STsung vs Thimy - My Life Is So Crazy 94.97 94.11",
-                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Thimy%20-%20My%20Life%20Is%20So%20Crazy%2094.97%2094.11.webm"
+                "EC08FemaleSingle-STsungvsThimy-MyLifeIsSoCrazy" : {
+                    "Name": "EC08 Female Single -  STsung vs Thimy - My Life Is So Crazy",
+                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Thimy%20-%20My%20Life%20Is%20So%20Crazy%2094.97%2094.11.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung", "Thimy" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - My Life Is So Crazy", "Scores": [ 94.97, 94.11 ] }
+                        ]
+                    }
                 },
                 "EC08FemaleSingle-STsungvsLauma-SummerSpeedyMixfailwin" : {
                     "Name": "EC08 Female Single -  STsung vs Lauma - Summer Speedy Mix fail win",
-                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Lauma%20-%20Summer%20Speedy%20Mix%20fail%20win.webm"
+                    "VideoLink": "EC08%20Female%20Single%20-%20%20STsung%20vs%20Lauma%20-%20Summer%20Speedy%20Mix%20fail%20win.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung", "Lauma" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Summer ~Speedy Mix~", "Scores": [ 21.37, 67.80 ] }
+                        ]
+                    }
                 },
                 "EC08FemaleDoubles-STsungvsLauma-Reactorfailwin" : {
-                    "Name": "EC08 Female Doubles - STsung vs Lauma - Reactor fail win",
+                    "Name": "EC08 Female Doubles - STsung vs Lauma - Reactor",
                     "VideoLink": "EC08%20Female%20Doubles%20-%20STsung%20vs%20Lauma%20-%20Reactor%20fail%20win.webm"
                 },
                 "EC08FemaleDoubles-STsung-WhileThaRekkidSpinz86.00" : {
                     "Name": "EC08 Female Doubles - STsung - While Tha Rekkid Spinz 86.00",
-                    "VideoLink": "EC08%20Female%20Doubles%20-%20STsung%20-%20While%20Tha%20Rekkid%20Spinz%2086.00.webm"
+                    "VideoLink": "EC08%20Female%20Doubles%20-%20STsung%20-%20While%20Tha%20Rekkid%20Spinz%2086.00.webm",
+                    "ScoreInfo" : {
+                        "Participants": [ "STsung" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - While Tha Rekkid Spinz", "Scores": [ 86.00 ] }
+                        ]
+                    }
                 }
             },
             "ITGUS08" : {
                 "Name" : "In The Groove US Open 2008",
                 "Game": "In The Groove 2",
+				"Container" : "In%20The%20Groove/ITGUSOpen2008",
+				"RecordDate": "03-18-2008",
 
-                "MultiRockRoll" : {
+                "800BOOM" : {
                     "Name": "Evildave and Zane - 800$ Dollar Boom",
-                    "Description" : "Moments of the singles final, where Evildave keeps holding the mines, causing its fall from winning after performing a quad in Liquid Moon.",
-                    "VideoLink": "In%20The%20Groove/Unknown%20and%20Zane%20-%20800%24%20BOOM.mp4",
-                    "RecordDate": "03-18-2008",
+                    "Description" : "Moments of the singles final, where Zane keeps holding the mines, causing its fall from winning after performing a quad in Liquid Moon.",
+                    "VideoLink": "../Unknown%20and%20Zane%20-%20800%24%20BOOM.mp4",
 
                     "ScoreInfo" : {
                         "Participants": [ "Evildave", "Zane" ],
@@ -488,6 +651,74 @@
                             { "Song": "In The Groove 2 - Liquid Moon", "Scores": [ 99.83, 99.50 ] }
                         ]
                     }
+                },
+				"EvildaveZaneFalseMove" : {
+                    "Name": "Evildave and Zane - One False Move",
+                    "VideoLink": "us%20open%2008%20zane%20vs%20evildave%20-%20one%20false%20move%2099.71%2099.43.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - One False Move", "Scores": [ 99.71, 99.43 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneAdventure" : {
+                    "Name": "Evildave and Zane - Happy Adventure, Delightful Adventure",
+                    "VideoLink": "us%20open%2008%20zane%20vs%20evildave%20-%20happy%20adventure%20delightful%20adv.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "??? - Happy Adventure, Delightful Adventure", "Scores": [ 99.70, 97.95 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneUtopia" : {
+                    "Name": "Evildave and Zane - Utopia",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20utopia%2099.68%20tie.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 1 - Utopia", "Scores": [ 99.68, 99.68 ] }
+                        ]
+                    }
+                },
+				"EvildaveZaneJuly" : {
+                    "Name": "Evildave and Zane - July",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20july%2099.93%2099.90.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - July", "Scores": [ 99.93, 99.90 ] }
+                        ]
+                    }
+                },
+				"EvildaveZane60Go" : {
+                    "Name": "Evildave and Zane - Go *60* Go",
+                    "VideoLink": "us%20open%2008%20evildave%20vs%20zane%20-%20go%2060%20go%2099.57%2099.66.mp4",
+
+                    "ScoreInfo" : {
+                        "Participants": [ "Evildave", "Zane" ],
+                        "Stages" : [
+                            { "Song": "In The Groove 2 - Go *60* Go", "Scores": [ 99.57, 99.66 ] }
+                        ]
+                    }
+                }
+            },
+            "NAT05" : {
+                "Name" : "NAT05 Vegas Finals",
+                "Game": "In The Groove 2",
+                "RecordDate": "01-16-2006",
+                "Container" : "In%20The%20Groove/NAT05 Vegas Finals 01-14-06",
+                "Location": "<a href='https://www.openstreetmap.org/way/135332959'>Adventure Dome in Circus Circus, Las Vegas, US</a>",
+
+                "PadMiss" : {
+                    "Name": "Pad Miss Argument",
+                    "Description" : "Attendees and participants question Chris Foy about the decision of the judges to repeat the stage from KDogg where he had won the initial match at Mythology with a 98.02.<br><br>Note: Help is appreciated to make captions of this video, given some segments of the video aren't clear.",
+                    "VideoLink": "pad%20miss%20arguement.mp4"
                 }
             },
             "InTheNews" : {
@@ -502,6 +733,30 @@
                     "Src": {
                         "Name": "Computer dance gets pupils active - BBC",
                         "Link": "http://news.bbc.co.uk/2/hi/health/6995365.stm"
+                    }
+                }
+            }
+        }
+    },
+
+    "OpenITG" : {
+        "Name" : "OpenITG",
+        "Collections" : {
+            "DanceTricks" : {
+                "Name" : "DanceTricks",
+                "Game": "DanceTricks (Unknown State)",
+                "RecordDate": "08-05-2011",
+                "Container" : "OpenITG/DanceTricks",
+
+                "DevelopmentAndGameplay" : {
+                    "Name": "Dance Tricks at Assembly Summer 2011",
+                    "VideoLink": "Dance%20Tricks%20at%20Assembly%20Summer%202011.mp4",
+                    "Subtitles" : [
+                        { "Name": "English", "Link": "Dance%2BTricks%2Bat%2BAssembly%2BSummer%2B2011.vtt"}
+                    ],
+                    "Src": {
+                        "Name": "trixgamesltd",
+                        "Link": "https://www.youtube.com/watch?v=JiyxHxE9uSQ"
                     }
                 }
             }
@@ -523,6 +778,10 @@
                 "Prototype2" : {
                     "Name": "Test Location Demonstration 2",
                     "VideoLink": "NeonFM/cmcm_NeonFMPrototype2.mp4"
+                },
+				"Prototype3" : {
+                    "Name": "Test Location Demonstration 3",
+                    "VideoLink": "NeonFM/george_NeonFMPrototype3.mp4"
                 }
             }
         }

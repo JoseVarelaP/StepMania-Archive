@@ -11,7 +11,7 @@ const VideoArchive = {
             const Section = this.Items[Info.Category].Collections[ Info.Col ]
             let key = Section[ Info.ID ];
             VideoTitle.textContent = `${Section.Name || ""} - ${key.Name}`;
-            VideoDescription.textContent = key.Description;
+            VideoDescription.innerHTML = key.Description || "";
 
             // "Container" : "In%20The%20Groove/ITGVideoPack1"
             const VideoUrl = Section.Container ? `${Section.Container}/${key.VideoLink}` : `${key.VideoLink}`
@@ -19,6 +19,22 @@ const VideoArchive = {
             VideoSource.setAttribute( 'src',  `https://objects-us-east-1.dream.io/smarchivefootage/${VideoUrl}` )
             VideoActor.load();
             document.title = `${key.Name} - StepMania Footage Archive`;
+
+			if( key.Subtitles )
+			{
+				// console.log( VideoSource.textTracks );
+				for( let sub of key.Subtitles )
+				{
+					const SubtitleUrl = Section.Container ? `${Section.Container}/${sub.Link}` : `${sub.Link}`
+					const FullLink = `./subs/${SubtitleUrl}`;
+					let subtitle = document.createElement("track");
+					subtitle.label = sub.Name;
+					subtitle.kind = "captions";
+					subtitle.srclang = "en";
+					subtitle.src = FullLink;
+					VideoActor.appendChild(subtitle);
+				}
+			}
 
             // Is there information about the round? Then let's display it on a chart!
             /*
@@ -77,7 +93,9 @@ const VideoArchive = {
                     let highestscore = 0
                     const NeedsIteration = key.ScoreInfo.Participants.length > 1
 
-                    if( NeedsIteration )
+					const isTie = StageData.Scores.every( (val, i, arr) => val === arr[0] )
+
+                    if( !isTie && NeedsIteration )
                         for( let p = 0; p < key.ScoreInfo.Participants.length; p++ )
                             if (StageData.Scores[p] > StageData.Scores[highestscore])
                                 highestscore = p
@@ -91,7 +109,7 @@ const VideoArchive = {
 
                         //console.log( `${p} - ${highestscore}, match = ${ p === highestscore }` )
 
-                        if( NeedsIteration )
+                        if( !isTie && NeedsIteration )
 							cell.className = `matchinfo-${ p === highestscore ? "winner" : "loser" }`
                     }
 
@@ -178,7 +196,7 @@ const VideoArchive = {
                 Rc.textContent = `Recorded: ${Recorded}`;
 
             if( Location )
-                Lo.textContent = `Location: ${Location}`;
+                Lo.innerHTML = `Location: ${Location}`;
 
             if( Game )
                 Gm.textContent = `Game: ${Game}`;

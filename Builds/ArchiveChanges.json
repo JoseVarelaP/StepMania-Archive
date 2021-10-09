@@ -1,5 +1,290 @@
 [
 	{
+		"Date": "9/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> v1.2.0, v1.2.1 and v1.2.2.",
+					"Added Curilang's versions of <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRACurilang'>DDRA</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20Curilang'>DDRA20</a>.",
+					null,
+					"Added a ton of themes for 3.95, so here goes the list:",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=CUEv5'>ChaosUnown Edition v5</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITGPRO'>In The Groove Pro</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2UE'>In The Groove 2 -Ultimate Edition-</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=HG2'>Hardcore Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3'>In The Groove 3</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G3.0'>Groove 3.0</a> and <a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G2'>Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3GOLD'>In The Groove 3 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3Pink'>In The Groove 3 Pink</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2GOLD'>In The Groove 2 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG500Z'>ITG 500Zb4</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "7/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project <a href='BuildChangeLogs.html?Version=OUTFOX4.10.0'>OutFox Alpha 4.10.0</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "31/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='BuildChangeLogs.html?Version=OUTFOX4.9.10'>Project OutFox Alpha 4.9.10</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Begin adding footage of In The Groove US Open 2008.",
+					"Begin adding footage of In The Groove Nationals Finals 2005. This one will take a bit, as there is a lot of videos.",
+					"Ties on scores are now grey.",
+					"Empty descriptions no longer say 'undefined', forgot to add a failsafe to those.",
+					"Added 3rd prototype footage of Neon FM: Dance Radio."
+				]
+			}
+		]
+	},
+	{
+		"Date": "20/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Fixed downloads for Cyberia Style 3.1, 3.5, 5 and 6 with its original packages."
+				]
+			}
+		]
+	},
+	{
+		"Date": "12/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF2'>OutFox Alpha 4.9.9HF2</a> and <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF3'>4.9.9HF3</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added Tiny-webini 1.8."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> versions 1.0.1, 1.0.2, 1.0.3 and 1.1.0.",
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=SoundWaves'>SoundWaves (Community Version)</a> version 4.9.9"
+				]
+			}
+		]
+	},
+	{
+		"Date": "5/Aug/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='BuildChangeLogs.html?Version=OUTFOX4.9.9HF'>Project OutFox Alpha 4.9.9HF</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added Tiny-webini 1.6 and 1.7."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "23/Jul/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20Extreme%20Online%20Project.rar'>StepMania Extreme Online Project v1.00</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "24-25/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe'>Staiain's 3.95 build</a>."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe'>Club Fantastic Season 2.</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.95&ID=Staiainv2'>Staiainv2 (3.95).</a>",
+					"Added more revisions for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=CS8S'>CyberiaStyle 8 Solid</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=CS8LA'>CyberiaStyle 8 LAST APPROACH</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20M'>Dance Dance Revolution A20 Minus</a>."
+				]
+			}
+		]	
+	},
+	{
+		"Date": "3/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added the rest of the changelogs (Alpha 4 to Alpha 4.6 RC3)."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Build Archive",
+				"List": [
+					"Clicking on a section now updates the url for quicker return.",
+					"Loading the main page now automatically opens the category if the url contains the category ID."
+				]
+			}
+		]
+	},
+	{
+		"Date": "2/Jun/21",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe'>Super Dance Online mania</a>. This release also had a separate version containing just the theme, which has been added to the themes archive."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar'>Step Fex 1.4.1</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=SDOM'>Super Dance Online mania's theme.</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM4&ID=EZDC2'>EZDC 2ndMove</a> (SM4).",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=ITGParty'>ITG Party</a> (OpenITG).",
+					"Added OutFox category for the new themes coming for Project OutFox.",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=GN'>In The Groove - GrooveNights</a></li></ul>",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=Infinitesimal'>Infinitesimal</a></li></ul>",
+					"<ul><li><a href='../Themes/ThemePreview.html?Category=OutFox&ID=SoundWaves'>SoundWaves (Community Version)</a></li></ul>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "20/May/21",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe'>In The Groove 3 Encore r5</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe'>In The Groove 3 Encore r35</a>. Both custom ITG3 theme builds that seemed to be distributed back in 2012.",
+					"Added Changelogs for NotITG versions 4, 4.0.1 and 4.2.0.",
+					"The OpenGroove build on the archive has been identified as r5, and other build information has surfaced. Changelogs for them have been added, info of executables for these builds would be appreciated, as the <a href='https://www.facebook.com/groups/43815384856'>Facebook group this project took place in is private.</a>",
+					"As a result of the r5 find for OpenGroove, In The Groove 3 Encore r5 contains the same changelog as OpenGroove r5. It would seem ITG3Encore r5 is the full version of where that executable came from."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added images and release date for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=XIX.SUPER'>XIX Laconia</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "17/May/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Fixed Mac builds of StepMania 4.",
+					"Added 4.0 CVS (20070325a), which only a Mac version was built."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/May/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Fixed link for XIX Laconia."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added changelogs for SM5.0.5, SM5.0.6, SM5.0.7rc and SM5.0.7."
+				]
+			}
+		]
+	},
+	{
+		"Date": "29/Apr/21",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Updated entries for ITG EuroCup 2008.",
+					"Videos are now capable of displaying subtitles (Only applicable on available videos with subtitles).",
+					"<a href='../Footage/FootageLookup.html?Category=OpenITG&Col=DanceTricks&ID=DevelopmentAndGameplay'>Added footage of Dance Tricks.</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "26/Apr/21",
 		"Changes": [
 			{
@@ -161,7 +446,7 @@
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z'>In The Groove (March 4th Beta)</a>.",
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z'>In The Groove (January 7th Beta)</a>.",
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z'>In The Groove (July 23rd Alpha)</a>.",
-					"Added the <a href='BuildChangeLogs.php?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
+					"Added the <a href='BuildChangeLogs.html?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
 				]
 			}
 		]
@@ -182,7 +467,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "OutFox",
 				"List" : [
-					"Fixed the <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
+					"Fixed the <a href='BuildChangeLogs.html?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
 				]
 			}
 		]
@@ -290,13 +575,13 @@
 				"Name": "OutFox",
 				"List": [
 					"Added changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.0'>StepMania OutFox Alpha 4.8.0</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.1'>StepMania OutFox Alpha 4.8.1</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.2'>StepMania OutFox Alpha 4.8.2</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.8.5'>StepMania OutFox Alpha 4.8.5</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.0HF'>StepMania OutFox Alpha 4.9.0</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.1'>StepMania OutFox Alpha 4.9.1</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.5'>StepMania OutFox Alpha 4.9.5</a>"
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.0'>StepMania OutFox Alpha 4.8.0</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.1'>StepMania OutFox Alpha 4.8.1</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.2'>StepMania OutFox Alpha 4.8.2</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.8.5'>StepMania OutFox Alpha 4.8.5</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.0HF'>StepMania OutFox Alpha 4.9.0</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.1'>StepMania OutFox Alpha 4.9.1</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.5'>StepMania OutFox Alpha 4.9.5</a>"
 				]
 			},
 			{
@@ -304,17 +589,17 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Added/Fixed changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.8'>StepMania 5.0.8</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.9'>StepMania 5.0.9</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.10'>StepMania 5.0.10</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1.0A'>StepMania 5.1.0 Alpha</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.11'>StepMania 5.0.11</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1.0A2'>StepMania 5.1.0 Alpha 2</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.12RC'>StepMania 5.0.12RC</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.0.12'>StepMania 5.0.12</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+					"<a href='BuildChangeLogs.html?Version=SM5.0.8'>StepMania 5.0.8</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.9'>StepMania 5.0.9</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.10'>StepMania 5.0.10</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1.0A'>StepMania 5.1.0 Alpha</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.11'>StepMania 5.0.11</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1.0A2'>StepMania 5.1.0 Alpha 2</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.12RC'>StepMania 5.0.12RC</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.0.12'>StepMania 5.0.12</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
 				]
 			}
 		]
@@ -335,12 +620,12 @@
 				"Icon": "OUTFOX.png",
 				"Name": "OutFox",
 				"List": [
-					"Changelogs for some OutFox versions have been added, complete with images and links! <a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>(like this!)</a>",
+					"Changelogs for some OutFox versions have been added, complete with images and links! <a href='BuildChangeLogs.html?Version=OUTFOX4.9.7GG'>(like this!)</a>",
 					null,
 					"Added changelog pages for the following builds:",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.6 '>StepMania OutFox Alpha 4.9.6</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a>",
-					"<a href='BuildChangeLogs.php?Version=OUTFOX4.9.7GG'>StepMania OutFox Alpha 4.9.7GG</a>"
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.6 '>StepMania OutFox Alpha 4.9.6</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a>",
+					"<a href='BuildChangeLogs.html?Version=OUTFOX4.9.7GG'>StepMania OutFox Alpha 4.9.7GG</a>"
 				]
 			},
 			{
@@ -348,9 +633,9 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Added changelog pages for the following builds: <ul>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1-3'>StepMania 5.1-3</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
-					"<a href='BuildChangeLogs.php?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
+					"<a href='BuildChangeLogs.html?Version=SM5.1-3'>StepMania 5.1-3</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B1'>StepMania 5.1 Beta 1</a>",
+					"<a href='BuildChangeLogs.html?Version=SM5.1B2'>StepMania 5.1 Beta 2</a>"
 				]
 			}
 		]
