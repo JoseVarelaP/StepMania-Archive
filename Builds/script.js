@@ -1,25 +1,5 @@
-/**
- * Operation to sort the dates based on their Date object.
- * Could likely be improved.
- * @param {HTMLTableElement} table 
- * @param {number} dateindex - Column where the dates are located.
- */
-function sortByDate( table, dateindex ) {
-	var rows = Array.from(table.rows);
-	// Erase the original table
-	table.innerHTML = ""
-	
-	rows.sort(function(a,b) {
-		const at = new Date( a.cells[dateindex].textContent )
-		const bt = new Date( b.cells[dateindex].textContent )
-		return at.getTime() - bt.getTime()
-	});
-
-	//table.appendChild(rows)
-	rows.forEach(function(v) {
-		table.appendChild(v);
-	});
-}
+import DateConv from '../js/DateConversion.js';
+import sortByDate from '../js/TableDateSort.js'
 
 const BuildArchive = {
     Builds : {},
@@ -222,9 +202,7 @@ function generateTable(table, data, DefaultIcon) {
         // Get the build's date.
         cell = row.insertCell();
         let text = document.createElement( "p" );
-		let dateCont = new Date( (element.Date+"T00:00:00") )
-        text.textContent = dateCont.getTime() === dateCont.getTime()
-		? dateCont.toLocaleString("en-US", { year: 'numeric', month: '2-digit', day: '2-digit' }) : "??-??-????"
+        text.textContent = DateConv( element.Date )
         cell.appendChild(text)
 
         // Get the build links.
