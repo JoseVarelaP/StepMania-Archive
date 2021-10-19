@@ -1,5 +1,31 @@
 [
 	{
+		"Date": "19/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Today, there's a bunch of StepMania 5-based Pump It Up builds that have surfaced.",
+					"Added StepP2 V3.3. (If anyone has previous builds, let me know!)",
+					"Added StepP1 V1.",
+					"Added StepXX V2.60.",
+					"Added StepMania PRO2 BetaTest.",
+					"Added PUMP IT UP MX REVOLUTION 2 2021 (V2.01).",
+					null,
+					"Some Rave It Out builds are in the process of uploading..."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added CMSMA R001 (cesarmades' StepMania AMX)."
+				]
+			}
+		]
+	},
+	{
 		"Date": "9/Oct/21",
 		"Changes" : [
 			{
