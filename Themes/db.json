@@ -72,6 +72,7 @@
 		"SMSD" : { "Name": "StepMania Stardance", "Link": "StepMania%20Stardance.smzip" },
 		"SBS" : { "Name": "StrawberrySteps", "Date": "27-01-2008", "Link": "StrawberrySteps.smzip" },
 		"SSB" : { "Name": "Super Step Brothers", "Link": "Super%20Step%20Brothers.smzip" },
+		"SMlp": { "Name": "StepMania Pony Mix", "Author": "Myst(^^)v", "Date": "2011-01-13", "HasImages": true, "Link": "StepMania%20Pony%20Mix.rar" },
 		"SZero" : { "Name": "system zero", "Link": "syszero_1.0.smzip" },
 		"TF2.9" : { "Name": "Techno Fiend 2.9", "Link": "Techno%20Fiend%202.9.smzip" },
 		"TF3.1" : { "Name": "Techno Fiend 3.1", "Link": "Techno%20Fiend%203.1.smzip" },
@@ -156,7 +157,7 @@
 		"Empress": { "Name": "In The Groove 2 Empress", "Link": "ITG2Empress1.1.zip" },
 		"Retro": { "Name": "In The Groove Retro", "Link": "ITGretro.zip" },
 		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "Link": "Meat.rar" },
-		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "Barebone.zip" },
+		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "My%20Little%20Pony.zip" },
 		"Obscurity": { "Name": "Obscurity", "HasImages": true, "Link": "Obscurity.smzip" },
 		"PrismRhythm15": {
 			"Name": "PrismRhythm 15",

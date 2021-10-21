@@ -27,7 +27,9 @@
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
 				"List": [
-					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply ITG</a>."
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply ITG</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=SMlp'>StepMania Pony Mix</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.html?Category=OITG&ID=Mlp'>My Little Pony (OpenITG)</a>."
 				]
 			}
 		]
