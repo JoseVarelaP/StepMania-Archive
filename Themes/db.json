@@ -174,7 +174,8 @@
 		},
 		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
 		"Tactics": { "Name": "In The Groove Tactics", "Link": "tactics.rar" },
-		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" }
+		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
+		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" }
 	},
 
 	"StepMania 5" : {

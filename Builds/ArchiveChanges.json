@@ -1,6 +1,6 @@
 [
 	{
-		"Date": "19/Oct/21",
+		"Date": "19-20/Oct/21",
 		"Changes" : [
 			{
 				"Icon": "SM5.png",
@@ -21,6 +21,13 @@
 				"Name": "StepMania 3.9",
 				"List": [
 					"Added CMSMA R001 (cesarmades' StepMania AMX)."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply ITG</a>."
 				]
 			}
 		]
