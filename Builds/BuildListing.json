@@ -364,7 +364,9 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-demo-r1.dmg.zip"
             },
             { "Icon": "ITG1.png", "Name": "In The Groove 1", "Date": "2006-08-21",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso",
+                "Windows": [
+					{ "Name": "Available<br><small>AA4BG-AAHFU-4DZAO-VLILK-4ARCR</small>", "Link": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso" }
+				],
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
             },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
