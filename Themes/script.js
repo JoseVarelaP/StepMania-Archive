@@ -1,3 +1,5 @@
+import DateConv from '../js/DateConversion.js';
+
 // Attempt loading the images, there could be the case that
 // the images are not avilable at some points.
 function imageExists(url, callback) {
@@ -58,12 +60,12 @@ const ThemeArchive = {
 					}
 
 					// If the current theme has multiple releases, check if the date is included on the latest one.
-					let DateString = item.Date ?? "??-??-????"
+					let DateString = DateConv(item.Date)
 					if( typeof(item.Link) === "object" )
 					{
 						if( item.Link[0].Date )
 							// Given it's the new version, let's append the new version alongside it.
-							DateString = `${item.Link[0].Date}<br><small>(${item.Link[0].Name})</small>`
+							DateString = `${DateConv(item.Link[0].Date)}<br><small>(${item.Link[0].Name})</small>`
 					}
 
 					cell = row.insertCell();
@@ -151,11 +153,11 @@ const ThemeArchive = {
 
 			let Date = document.getElementById('Date');
 			// If the current theme has multiple releases, check if the date is included on the latest one.
-			let DateString = ItemSet.Date ?? "??-??-????"
+			let DateString = DateConv(ItemSet.Date)
 			if( typeof(ItemSet.Link) === "object" )
 			{
 				if( ItemSet.Link[0].Date )
-					DateString = ItemSet.Link[0].Date
+					DateString = DateConv(ItemSet.Link[0].Date)
 			}
 			Date.textContent = `Release Date: ${DateString}`;
 
@@ -187,7 +189,7 @@ const ThemeArchive = {
 					const parse = JSON.parse(this.value)
 					s.href = CheckForHttp( convtext, parse.Link );
 
-					Date.textContent = `Release Date: ${parse.Date || "??-??-????"}`
+					Date.textContent = `Release Date: ${DateConv(parse.Date)}`
 					//if ( parse.Date )
 					//console.log( parse )
 					//s.href = `https://objects-us-east-1.dream.io/smthemes/${convtext}/${this.value}`

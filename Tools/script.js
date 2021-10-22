@@ -1,3 +1,5 @@
+import DateConv from '../js/DateConversion.js';
+
 const ToolsArchive = {
     Items : {},
     CreateInfo : function()
@@ -130,22 +132,15 @@ function generateTable(table, data, Identifier) {
     // console.log( data );
     for (let element of data) {
         const row = table.insertRow();
-
+		let cell
+		
         // Get the build name
-        if( element.Name )
-        {
-            cell = row.insertCell();
-            const text = document.createTextNode( element.Name );
-            cell.appendChild(text)
-        }
+		cell = row.insertCell();
+		cell.appendChild(document.createTextNode( element.Name || "" ))
 
         // Get the build's date.
-        if( element.Date )
-        {
-            cell = row.insertCell();
-            const text = document.createTextNode( element.Date );
-            cell.appendChild(text)
-        }
+		cell = row.insertCell();
+		cell.appendChild(document.createTextNode( DateConv(element.Date) ))
 
         // Get the build links.
         // For this one, we'll iterate through the available versions.

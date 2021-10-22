@@ -11,3 +11,18 @@ It started back in 2017 with the Build Archive, which initially was to keep hand
 Originally, the archive was only linked at the UKSRT server, but at mid 2018, it started to gain attention from the community at large. They were really interested on a archive like site for the engine.
 
 Parts of this repository (like the changelog viewer) use [marked](https://github.com/markedjs/marked).
+
+## How to run
+
+The site has been tested using PHP 7.3.24, but should work on earlier versions.
+
+- Clone the repository using git and go to the folder.
+```bash
+git clone git@github.com:JoseVarelaP/StepMania-Archive.git
+cd StepMania-Archive
+```
+
+- Start a local PHP server in a localhost to run, then access the page on a web browser.
+```bash
+php -S localhost:8888
+```
