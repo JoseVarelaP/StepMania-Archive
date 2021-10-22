@@ -208,6 +208,11 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha22-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha22-src.tar.gz"
             },
+			{
+				"Name": "In The Groove (August 30th Arcade Final)",
+				"Date": "2004-08-30",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z"
+            },
             { "Name": "StepMania 3.9 Alpha 23", "Date": "2004-09-09",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha23.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha23-mac.dmg",

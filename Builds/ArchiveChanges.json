@@ -1,6 +1,6 @@
 [
 	{
-		"Date": "19-20/Oct/21",
+		"Date": "19-21/Oct/21",
 		"Changes" : [
 			{
 				"Icon": "SM5.png",
@@ -20,7 +20,8 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added CMSMA R001 (cesarmades' StepMania AMX)."
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/CMSMA%20R001.exe'>CMSMA R001 (cesarmades' StepMania AMX)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z'>Windows-Compiled Arcade build of In The Groove 1</a>."
 				]
 			},
 			{
