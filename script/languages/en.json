@@ -1,0 +1,58 @@
+{
+    "about": {
+        "about": "About",
+        "javaMessage": "You need JavaScript for this site to load correctly!",
+        "whatIsStepManiaArchive": "The StepMania archive is a side project created by <a href=\"../../\">Jose_Varela</a> to collect and preserve almost everything from StepMania, and the contents made by the community itself.\nEverything done in the project and subsequent sites are all handled by himself. No use of automation or anything like that.INNER_HTML",
+        "whenItStarted": "It started back in 2017 with the Build Archive, which initially was to keep handy older builds due to testing with simfiles and themes.\nBut eventually, it kept growing exponentially to the point that the entire archive had to do 3 reallocations due to storage limitations.<br>\nOriginally, the archive was only linked at the UKSRT server, but at mid 2018, it started to gain attention from the community at large.\nThey were really interested on a archive like site for the engine.",
+        "archiveProgress": "Currently, the StepMania Archive is expanding to more areas aside from themes, such as NoteSkins and Characters. Eventually there might be more content.",
+        "submissionRequest": "Submission requests",
+        "submissionExplanation": "Everything posted and submitted to the archive is done voluntarily by the community. If you're an author of any content in this archive, and see some work that is violating some kind of distribution right set\non the theme's original release, you can request a takedown* by contacting Jose_Varela via Email with the buttons below.<br>",
+        "takedownRequest": "*You may be asked if at least theme information/overview/history/screenshots can remain on the archive upon a takedown request, you may choose to deny this as well.",
+        "requestSubmission": "Request a submission"
+    },
+    "announcers": {
+        "announcerList": "Announcer List"
+    },
+    "builds": {
+        "quickTravel": "Quick Travel",
+        "notes": "Notes",
+        "sourceRequest": "If you want the source files for these builds <i>-if i get enough requests-</i> I'll start searching for them too.INNER_HTML",
+        "buildDatesNotice": "Some build dates might be wrong. The ones marked with <strong>\"?\"</strong> are builds that I was not able to find their exact build dates and thus, are my predictions.\nIf you know the date of the build, please let me know.INNER_HTML",
+        "linkNotice": "Most links will send you to their available sites to download, if any of those is down, i'll provide a download replacement for it.",
+        "obscureVersions": "More obscure SM versions (Alphas, Betas, Release Candidates) are being added, so come back regularly to find more!",
+        "oldMacBuilds": "Old Mac Builds (from 3.9 to 3.95) use PowerPC architecture! You'll need a PowerPC Mac or use a emulator like SheepShaver running MacOS X to run them as modern Macs (2009 - recent) have PowerPC removed and have been replaced with Intel x64 architecture.",
+        "buildDatesFormat": "Build dates are in MONTH/DAY/YEAR."
+    },
+    "credits": {
+        "quickTravel": "Quick Travel",
+        "whoMadeFork": "Find out who made your favorite fork."
+    },
+    "fontConversionGuide": {
+        "fontConversionGuide": "Font Conversion Guide",
+        "tutorialForConversion": "A tutorial on how to convert fonts generated with the Texture Font Generator to older StepMania's.",
+        "meantForOldSM": "Keep in mind: This is meant for older versions like anything below StepMania 4.",
+        "beginWithIniFile": "To begin, you'll need to have a ini file already exported of the font you want to convert.",
+        "openInEditor": "Open that file with the text editor of your choice, and head down to the segment, where <text style=\"color:orange\">Lines</text> can be found.INNER_HTML",
+        "loadDirectInSM": "You could just, load the font directly on StepMania, and just use it. Right?",
+        "noYouCant": "Well, no. Older StepMania's did not have a way to appropiate Row Intergers in font files. So, because of the spacing of the first 10 lines, it will cause a crash.",
+        "detectSpaces": "The way to fix this, is by simply deleting a space on those first 10 lines, like so.",
+        "everythingReady": "And with that, the font is ready to go for older versions of StepMania!"
+    },
+    "uploadSubmission": {
+        "uploadChangelog": "Upload a ChangeLog!"
+    },
+    "characters": {
+        "notes": "Notes",
+        "oldSMVersionSupport": " These can run on every version of StepMania after 3.9 Release Candidate 3.",
+        "checkBonesInstall": "Please ensure you have the appropiate bones installed!"
+    },
+    "themes": {
+        "quickTravel": "Quick Travel",
+        "notes": "Notes",
+        "missingScreenshots": "Most of the listings here don't have screenshots yet, those will come eventually.",
+        "downloadExplanation": "The download button on this part of the page will give you the latest version of the theme.\nIf you need a specific version, click on the theme name to have a list of available versions."
+    },
+    "tools": {
+        "quickTravel": "Quick Travel"
+    }
+}
