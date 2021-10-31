@@ -1,3 +1,5 @@
+import DateConv from '../js/DateConversion.js';
+
 const VideoArchive = {
     // Display the information into a single page based on the ID.
     ObtainInformation : function( Info )
@@ -188,7 +190,7 @@ const VideoArchive = {
             const base = this.Items[Info.Category].Collections[ Info.Col ]
             const key = this.Items[Info.Category].Collections[ Info.Col ][ Info.ID ];
 
-            let Recorded = key.RecordDate || ( base.RecordDate || undefined )
+            let Recorded = key.RecordDate ? DateConv(key.RecordDate) : ( DateConv(base.RecordDate) || undefined )
             let Location = key.Location || ( base.Location || undefined )
             let Game = key.Game || ( base.Game || undefined )
             
@@ -280,6 +282,16 @@ function GenerateFootageLookup()
         VideoArchive.ObtainInformation( UrlData )
         VideoArchive.sideBarGen( UrlData )
     }
+}
+
+window.onload = function()
+{
+	if( typeof(FootageVideo) !== "undefined" )
+	{
+		GenerateFootageLookup()
+	} else {
+		GenerateFootageList()
+	}
 }
 
 GenerateTopMenu()

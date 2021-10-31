@@ -1,5 +1,78 @@
 [
 	{
+		"Date": "19-21/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Today, there's a bunch of StepMania 5-based Pump It Up builds that have surfaced.",
+					"Added StepP2 V3.3. (If anyone has previous builds, let me know!)",
+					"Added StepP1 V1.",
+					"Added StepXX V2.60.",
+					"Added StepMania PRO2 BetaTest.",
+					"Added PUMP IT UP MX REVOLUTION 2 2021 (V2.01).",
+					null,
+					"Some Rave It Out builds are in the process of uploading..."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/CMSMA%20R001.exe'>CMSMA R001 (cesarmades' StepMania AMX)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z'>Windows-Compiled Arcade build of In The Groove 1</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply ITG</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=SMlp'>StepMania Pony Mix</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.html?Category=OITG&ID=Mlp'>My Little Pony (OpenITG)</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "9/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> v1.2.0, v1.2.1 and v1.2.2.",
+					"Added Curilang's versions of <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRACurilang'>DDRA</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20Curilang'>DDRA20</a>.",
+					null,
+					"Added a ton of themes for 3.95, so here goes the list:",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=CUEv5'>ChaosUnown Edition v5</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITGPRO'>In The Groove Pro</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2UE'>In The Groove 2 -Ultimate Edition-</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=HG2'>Hardcore Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3'>In The Groove 3</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G3.0'>Groove 3.0</a> and <a href='../Themes/ThemePreview.html?Category=SM3.95&ID=G2'>Groove 2</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3GOLD'>In The Groove 3 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG3Pink'>In The Groove 3 Pink</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG2GOLD'>In The Groove 2 GOLD</a>",
+					"<a href='../Themes/ThemePreview.html?Category=SM3.95&ID=ITG500Z'>ITG 500Zb4</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "7/Oct/21",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project <a href='BuildChangeLogs.html?Version=OUTFOX4.10.0'>OutFox Alpha 4.10.0</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "31/Aug/21",
 		"Changes" : [
 			{

@@ -193,6 +193,8 @@
     "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.md" },
     "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.md" },
 
+	"SP23.3" : { "Name": "StepP2 V3.3", "HTMLParse" : "STEPP2/v3.3.md" },
+
 	"OUTFOX4" : {
 		"Name":"Alpha 4 Build - December 16 2019",
 		"HTMLParse" : "OUTFOX/A4.0.md"
@@ -304,5 +306,9 @@
 	"OUTFOX4.9.10" : {
         "Name": "OutFox-alpha.4.9.10 Build - 27th August 2021 \"Because 4 hotfix releases goes too far…\"",
         "HTMLParse" : "OUTFOX/A4.9.10.md"
+    },
+	"OUTFOX4.10.0" : {
+        "Name": "OutFox-alpha.4.10.0 Build - 1st October 2021 \"Believe it or not, the bus can't swim...\"",
+        "HTMLParse" : "OUTFOX/A4.10.0.md"
     }
 }

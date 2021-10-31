@@ -12,7 +12,10 @@
         width: 100%;
     }
 </style>
-<script> let CurrentPage = 'Footage'; </script>
+<script>
+	let CurrentPage = 'Footage';
+	let FootageVideo = true
+</script>
 <body>
     <div id="container">
         <div id="menu-box">
@@ -49,10 +52,7 @@
         </div>
     </div>
 </body>
-<script src="../TopMenu.js"></script>
-<script src="../functions.js"></script>
-<script src="script.js"></script>
-<script>
-    GenerateFootageLookup()
-</script>
+<script src="../js/TopMenu.js"></script>
+<script src="../js/functions.js"></script>
+<script type="module" src="script.js"></script>
 </html>

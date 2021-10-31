@@ -1,3 +1,6 @@
+import DateConv from '../js/DateConversion.js';
+import sortByDate from '../js/TableDateSort.js'
+
 const BuildArchive = {
     Builds : {},
     /**
@@ -135,6 +138,15 @@ function generateTableHead(table) {
       const th = document.createElement("th");
       const text = document.createTextNode(key);
 
+	// Special rule for date
+	if (key === 'Date')
+	{
+		th.onclick = function()
+		{
+			sortByDate( table, 2 )
+		}
+	}
+
       th.appendChild(text);
       row.appendChild(th);
     }
@@ -190,7 +202,7 @@ function generateTable(table, data, DefaultIcon) {
         // Get the build's date.
         cell = row.insertCell();
         let text = document.createElement( "p" );
-        text.textContent = element.Date || "??-??-????"
+        text.textContent = DateConv( element.Date )
         cell.appendChild(text)
 
         // Get the build links.

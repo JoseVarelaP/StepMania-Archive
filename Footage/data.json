@@ -5,7 +5,7 @@
             "ITGVP1" : {
                 "Name" : "In the Groove - Video Pack #1",
                 "Game": "In The Groove 1",
-                "RecordDate": "08-06-2004",
+                "RecordDate": "2004-08-06",
                 "Location": "Illusionz Magical Entertainment Center, Issaquah, WA",
                 "Container" : "In%20The%20Groove/ITGVideoPack1",
 
@@ -165,7 +165,7 @@
                 "Name" : "Slovenian Fair (May 25-28 2006)",
                 "Game" :"In The Groove 2 (Positive Gaming's Multiplayer)",
                 "Container" : "In%20The%20Groove/Slovenian%20Fair%20May%2025-28%202006",
-                "RecordDate": "05-25-2006",
+                "RecordDate": "2006-05-25",
                 "Location": "Orehov gaj, Ljubljana",
 
                 "ITG2MultiplayerSlovenianFair-00ITG3Songwheel" : {
@@ -184,7 +184,7 @@
                 "itg3onitg2multiplayer" : {
                     "Name": "ITG3 on ITG2 multiplayer",
                     "VideoLink": "itg3%20on%20itg2%20multiplayer.mp4",
-                    "RecordDate": "05-26-2006"
+                    "RecordDate": "200-05-266"
                 },
                 "ITG2MultiplayerSlovenianFair-03LessThanThreeNovice" : {
                     "Name": "ITG2 Multiplayer - Less Than Three [Novice]",
@@ -195,13 +195,13 @@
                 "Name" : "EuroCup 2008, Silverstone Zwanenburg, NL (March 14-16, 2008)",
                 "Game": "In The Groove 2",
                 "Location": "Silverstone Zwanenburg, NL",
-                "RecordDate": "03-15-2008",
+                "RecordDate": "2008-03-15",
                 "Container" : "In%20The%20Groove/EuroCup%202008%20Silverstone%20Zwanenburg%2C%20NL%20March%2014-16%202008",
 
                 "MultiRockRoll" : {
                     "Name": "Multiplayer - This is Rock & Roll",
                     "VideoLink": "In%20The%20Groove/ITGEC2008/ITG%20EC%202008%20-%20Multiplayer%20-%20This%20is%20Rock%20%26%20Roll.mp4",
-                    "RecordDate": "03-18-2008",
+                    "RecordDate": "2008-03-18",
                     "Src": {
                         "Name": "RanFox",
                         "Link": "https://www.youtube.com/watch?v=xI3tFg5aCCc"
@@ -211,7 +211,7 @@
                 "EC08MensSingleFinals-MaxxStormvsCeder" : {
                     "Name": "Mens Single Finals - Maxx Storm vs Ceder",
                     "VideoLink": "EC08%20Mens%20Single%20Finals%20-%20Maxx%20Storm%20vs%20Ceder.webm",
-                    "RecordDate": "03-15-2008",
+                    "RecordDate": "2008-03-15",
                     "ScoreInfo" : {
                         "Participants": [ "Maxx Storm", "Ceder" ],
                         "Stages" : [
@@ -224,7 +224,7 @@
                 "EC08MensSingleFinals-MaxxStormvsCederP2" : {
                     "Name": "Mens Single Finals - Maxx Storm vs Ceder - Part 2",
                     "VideoLink": "EC08%20Mens%20Single%20Finals%20-%20Maxx%20Storm%20vs%20Ceder%20part2.webm",
-                    "RecordDate": "03-15-2008",
+                    "RecordDate": "2008-03-15",
                     "ScoreInfo" : {
                         "Participants": [ "Maxx Storm", "Ceder" ],
                         "Stages" : [
@@ -236,7 +236,7 @@
                 "EC08MensSingle-WistervsJapee-Anubis" : {
                     "Name": "Mens Single - Wister vs Japee - Anubis",
                     "VideoLink": "EC08%20Mens%20Single%20-%20Wister%20vs%20Japee%20-%20Anubis%2093.20%2097.36.webm",
-                    "RecordDate": "03-15-2008",
+                    "RecordDate": "2008-03-15",
                     "ScoreInfo" : {
                         "Participants": [ "Wister", "Japee" ],
                         "Stages" : [
@@ -247,7 +247,7 @@
                 "EC08MensSingle-WistervsJapee-HardcoreoftheNorth" : {
                     "Name": "Mens Single - Wister vs Japee - Hardcore of the North",
                     "VideoLink": "EC08%20Mens%20Single%20-%20Wister%20vs%20Japee%20-%20Hardcore%20of%20the%20North%2062.82%2082.54.webm",
-                    "RecordDate": "03-15-2008",
+                    "RecordDate": "2008-03-15",
                     "ScoreInfo" : {
                         "Participants": [ "Wister", "Japee" ],
                         "Stages" : [
@@ -638,7 +638,7 @@
                 "Name" : "In The Groove US Open 2008",
                 "Game": "In The Groove 2",
 				"Container" : "In%20The%20Groove/ITGUSOpen2008",
-				"RecordDate": "03-18-2008",
+				"RecordDate": "2008-03-18",
 
                 "800BOOM" : {
                     "Name": "Evildave and Zane - 800$ Dollar Boom",
@@ -711,7 +711,7 @@
             "NAT05" : {
                 "Name" : "NAT05 Vegas Finals",
                 "Game": "In The Groove 2",
-                "RecordDate": "01-16-2006",
+                "RecordDate": "2006-01-16",
                 "Container" : "In%20The%20Groove/NAT05 Vegas Finals 01-14-06",
                 "Location": "<a href='https://www.openstreetmap.org/way/135332959'>Adventure Dome in Circus Circus, Las Vegas, US</a>",
 
@@ -727,7 +727,7 @@
                     "Name": "BBC: DDR again - Computer helps obesity battle",
                     "Description": "News report from the BBC by Niki Cardwell about how DDR is helping students on a school to be more active than ever before. However, it is worth noting that the software they're using for this excercise is Positive Gaming's ITG 2 Multiplayer version, which would later become iDance.",
                     "VideoLink": "In%20The%20Groove/BBC%20-%20DDR%20again%20-%20Computer%20helps%20obesity%20battle.mp4",
-                    "RecordDate": "09-15-2007",
+                    "RecordDate": "2007-09-15",
                     "Location": "Lea Manor High School, Luton, Bedfordshire",
                     "Game": "In The Groove 2",
                     "Src": {
@@ -745,7 +745,7 @@
             "DanceTricks" : {
                 "Name" : "DanceTricks",
                 "Game": "DanceTricks (Unknown State)",
-                "RecordDate": "08-05-2011",
+                "RecordDate": "2011-08-05",
                 "Container" : "OpenITG/DanceTricks",
 
                 "DevelopmentAndGameplay" : {
@@ -769,7 +769,7 @@
             "PlayTest" : {
                 "Name" : "Playtesting sessions (2004)",
                 "Game": "NeomFM: Dance Radio",
-                "RecordDate": "08-06-2004",
+                "RecordDate": "2004-08-06",
 
                 "Prototype1" : {
                     "Name": "Test Location Demonstration 1",
@@ -794,7 +794,7 @@
                 "Name": "Brunzwick Zone XL St Peters, MO",
                 "Location": "Brunzwick Zone XL St Peters, MO",
                 "Game": "Pump It Up Pro",
-                "RecordDate": "09-16-2007",
+                "RecordDate": "2007-09-16",
 
                 "Interface" : {
                     "Name": "Credits, Demos, Scores and Screens",
@@ -826,7 +826,7 @@
             "MG3Release" : {
                 "Name" : "Mungyodance 3 Release Party",
                 "Game": "MungyoDance 3",
-                "RecordDate": "05-21-2008",
+                "RecordDate": "2008-05-21",
 
                 "ReleaseParty" : {
                     "Name": "Mungyodance 3 Release Party Summary",

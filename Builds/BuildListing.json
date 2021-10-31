@@ -4,7 +4,7 @@
         "DefaultIcon": "SM164.png",
         "Description": "Before StepMania 0.5, it was named DDR PC Edition. This was the beginning.",
         "Listing": [
-            { "Name": "DDR PC Edition m1", "Date": "08-21-2001" }
+            { "Name": "DDR PC Edition m1", "Date": "2001-08-21" }
         ]
     },
     
@@ -13,15 +13,15 @@
         "DefaultIcon": "SM164.png",
         "Description": "StepMania 0.9x was released only for Windows. So, you won't find a Linux and Mac version in here. It's mostly remembered because of the graphics of that version, that some were made with the WordArt tool in Office PowerPoint.",
         "Listing": [
-            { "Name": "StepMania 0.5 Alpha", "Date": "09-27-2001" },
-            { "Name": "StepMania 0.64", "Date": "??-??-2001" },
-            { "Name": "StepMania 0.90", "Date": "12-18-2001" },
-            { "ID": "SM091", "Name": "StepMania 0.91", "Date": "12-20-2001" },
-            { "ID": "SM092", "Name": "StepMania 0.92", "Date": "12-24-2001" },
-            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "10-12-2001", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
-            { "ID": "SM096", "Name": "StepMania 0.96", "Date": "12-25-2001" },
-            { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "12-25-2001" },
-            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "12-27-2001" }  
+            { "Name": "StepMania 0.5 Alpha", "Date": "2001-09-27" },
+            { "Name": "StepMania 0.64" },
+            { "Name": "StepMania 0.90", "Date": "2001-12-18" },
+            { "ID": "SM091", "Name": "StepMania 0.91", "Date": "2001-12-20" },
+            { "ID": "SM092", "Name": "StepMania 0.92", "Date": "2001-12-24" },
+            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-10-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
+            { "ID": "SM096", "Name": "StepMania 0.96", "Date": "2001-12-25" },
+            { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "2001-12-25" },
+            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }  
         ]
     },
 
@@ -30,14 +30,14 @@
         "DefaultIcon": "SM164.png",
         "Description": "StepMania 1.64 was released only for Windows. So, you won't find a Linux and Mac version in here.",
         "Listing": [
-            { "ID": "SM150", "Name": "StepMania 1.50", "Date": "01-05-2002" },
-            { "ID": "SM155", "Name": "StepMania 1.55", "Date": "01-??-2002" },
-            { "ID": "SM161", "Name": "StepMania 1.61", "Date": "02-11-2002" },
-            { "ID": "SM164", "Name": "StepMania 1.64", "Date": "03-10-2002",
+            { "ID": "SM150", "Name": "StepMania 1.50", "Date": "2002-01-05" },
+            { "ID": "SM155", "Name": "StepMania 1.55" },
+            { "ID": "SM161", "Name": "StepMania 1.61", "Date": "2002-02-11" },
+            { "ID": "SM164", "Name": "StepMania 1.64", "Date": "2002-03-10",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM1.64/stepmania164.exe",
                 "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/stepmania-164-src.zip"
             },
-            { "Name": "ADDON - Video Visualizations", "Date": "??-??-2002", "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/visualizations.smzip" }
+            { "Name": "ADDON - Video Visualizations", "Src" : "https://objects-us-east-1.dream.io/smbuilds/SM1.64/visualizations.smzip" }
         ]
     },
 
@@ -46,25 +46,25 @@
         "Description": "StepMania 3.0 was released only for Windows. So, you won't find a Linux and Mac version in here. However, you will find its official plugins that were available on StepMania.com from 2003-2011.",
         "DefaultIcon": "SM39.png",
         "Listing": [
-			{ "Name": "StepMania 3.0 Beta 4", "Date": "??-??-2002", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz" },
-            { "Name": "StepMania 3.0 Beta 5", "Date": "04-08-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania_300beta5.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz" },
-            { "Name": "StepMania 3.0 Beta 6 Release Candidate 3", "Date": "10-20-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300beta6rc3.exe" },
-            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "01-26-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "01-19-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030119a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030126a)", "Date": "01-26-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030209a)", "Date": "02-09-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030209a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030212a)", "Date": "02-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030212b)", "Date": "02-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212b.exe" },
-            { "Name": "StepMania 3.0 CVS (20030221)", "Date": "02-22-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030221.exe" },
-            { "Name": "StepMania 3.0 CVS (20030222a)", "Date": "02-22-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030222a.exe" },
-            { "Name": "StepMania 3.0 CVS (20030306)", "Date": "03-06-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030306.exe" },
-            { "Name": "StepMania 3.0", "Date": "??-??-2002 (?)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300final.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz" },
-            { "Name": "FIX - StepMania 3.0 Beta 6 Release Candidate 2 fix 1", "Date": "10-21-2002", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/stepmania3beta6rc2fix1.smzip" },
-            { "ID": "ITGA05132003", "Name": "In The Groove 1 (May 2003 Alpha)", "Date": "05-13-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-05-13%20ITG1%20Arcade%20Alpha.zip" },
-            { "Name": "In The Groove 1 (July 2003 Alpha)", "Date": "07-23-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z" },
-            { "Icon": "SM5.png", "Name": "PLUGIN - EZ2 Support", "Date": "??-??-2002 (?)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/ez2_support.smzip" },
-            { "Icon": "SM5.png", "Name": "PLUGIN - Para Support", "Date": "??-??-2002 (?)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/para_support.smzip" },
-            { "Icon": "SM5.png", "Name": "PLUGIN - Pump Support", "Date": "??-??-2002 (?)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/pump_support.smzip" }
+			{ "Name": "StepMania 3.0 Beta 4", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz" },
+            { "Name": "StepMania 3.0 Beta 5", "Date": "2002-04-08", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania_300beta5.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz" },
+            { "Name": "StepMania 3.0 Beta 6 Release Candidate 3", "Date": "2002-10-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300beta6rc3.exe" },
+            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "2003-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030119a)", "Date": "2003-01-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030119a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030126a)", "Date": "2003-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030126a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030209a)", "Date": "2003-02-09", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030209a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030212a)", "Date": "2003-02-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030212b)", "Date": "2003-02-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030212b.exe" },
+            { "Name": "StepMania 3.0 CVS (20030221)", "Date": "2003-02-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030221.exe" },
+            { "Name": "StepMania 3.0 CVS (20030222a)", "Date": "2003-02-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030222a.exe" },
+            { "Name": "StepMania 3.0 CVS (20030306)", "Date": "2003-03-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030306.exe" },
+            { "Name": "StepMania 3.0", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/stepmania300final.exe", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz" },
+            { "Name": "FIX - StepMania 3.0 Beta 6 Release Candidate 2 fix 1", "Date": "2002-10-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/stepmania3beta6rc2fix1.smzip" },
+            { "ID": "ITGA05132003", "Name": "In The Groove 1 (May 2003 Alpha)", "Date": "2003-05-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-05-13%20ITG1%20Arcade%20Alpha.zip" },
+            { "Name": "In The Groove 1 (July 2003 Alpha)", "Date": "2003-07-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z" },
+            { "Icon": "SM5.png", "Name": "PLUGIN - EZ2 Support", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/ez2_support.smzip" },
+            { "Icon": "SM5.png", "Name": "PLUGIN - Para Support", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/para_support.smzip" },
+            { "Icon": "SM5.png", "Name": "PLUGIN - Pump Support", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.0/Addons/pump_support.smzip" }
         ]
     },
 
@@ -72,55 +72,55 @@
         "Name": "StepMania 3.9",
         "DefaultIcon": "SM39.png",
         "Listing": [
-            { "Name": "StepMania 3.9 Alpha 1", "Date": "08-06-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha1.exe" },
-            { "Name": "StepMania 3.9 Alpha 2", "Date": "08-11-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha2.exe" },
-            { "Name": "StepMania 3.9 Alpha 3", "Date": "08-06-2003",
+            { "Name": "StepMania 3.9 Alpha 1", "Date": "2003-08-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha1.exe" },
+            { "Name": "StepMania 3.9 Alpha 2", "Date": "2003-08-11", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha2.exe" },
+            { "Name": "StepMania 3.9 Alpha 3", "Date": "2003-08-06",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha3.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha3.dmg"
             },
-            { "Name": "StepMania 3.9 Alpha 4b", "Date": "09-05-2003",
+            { "Name": "StepMania 3.9 Alpha 4b", "Date": "2003-09-05",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha4b.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha4b.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha4b-Linux.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 5a", "Date": "09-17-2003",
+            { "Name": "StepMania 3.9 Alpha 5a", "Date": "2003-09-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha5a.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha5a1-Mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha5a-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha5a-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 6", "Date": "09-25-2003",
+            { "Name": "StepMania 3.9 Alpha 6", "Date": "2003-09-25",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha6.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha6-Mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha6-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha6-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 7", "Date": "10-09-2003",
+            { "Name": "StepMania 3.9 Alpha 7", "Date": "2003-10-09",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha7.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha7-Mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha7-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha7-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 8", "Date": "11-04-2003",
+            { "Name": "StepMania 3.9 Alpha 8", "Date": "2003-11-04",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha8.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha8-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha8-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha8-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 9", "Date": "12-03-2003",
+            { "Name": "StepMania 3.9 Alpha 9", "Date": "2003-12-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha9.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha9-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha9a-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha9-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 10", "Date": "12-13-2003",
+            { "Name": "StepMania 3.9 Alpha 10", "Date": "2003-12-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha10.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha10-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha10-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha10-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 10a (PNM Test)", "Date": "12-18-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/20031219pnm1.zip" },
-            { "Name": "StepMania 3.9 Alpha 11", "Date": "12-31-2003",
+            { "Name": "StepMania 3.9 Alpha 10a (PNM Test)", "Date": "2003-12-18", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/20031219pnm1.zip" },
+            { "Name": "StepMania 3.9 Alpha 11", "Date": "2003-12-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha11.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha11-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha11-linux.tar.gz",
@@ -129,16 +129,16 @@
 			{
 				"ID": "ITGB01072004",
 				"Name": "In The Groove (January 7th Beta)",
-				"Date": "01-07-2004",
+				"Date": "2004-01-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z"
             },
-            { "Name": "StepMania 3.9 Alpha 12", "Date": "01-13-2004",
+            { "Name": "StepMania 3.9 Alpha 12", "Date": "2004-01-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha12.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha12-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha12-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha12-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 13", "Date": "02-24-2004",
+            { "Name": "StepMania 3.9 Alpha 13", "Date": "2004-02-24",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha13b.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha13b-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha13b-linux.tar.gz",
@@ -146,46 +146,46 @@
             },
 			{
 				"Name": "In The Groove (March 4th Beta)",
-				"Date": "03-04-2004",
+				"Date": "2004-03-04",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z"
             },
-            { "Name": "StepMania 3.9 Alpha 14", "Date": "03-07-2004",
+            { "Name": "StepMania 3.9 Alpha 14", "Date": "2004-03-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha14.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha14-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha14-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha14-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 15", "Date": "03-29-2004",
+            { "Name": "StepMania 3.9 Alpha 15", "Date": "2004-03-29",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha15.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha15a-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha15-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha15-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 16", "Date": "04-06-2004",
+            { "Name": "StepMania 3.9 Alpha 16", "Date": "2004-04-06",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha16.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha16a-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha16-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha16-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 17", "Date": "04-22-2004",
+            { "Name": "StepMania 3.9 Alpha 17", "Date": "2004-04-22",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha17a.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha17-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha17-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha17-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 18", "Date": "04-27-2004",
+            { "Name": "StepMania 3.9 Alpha 18", "Date": "2004-04-27",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha18.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha18-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha18-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha18-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 19", "Date": "05-22-2004",
+            { "Name": "StepMania 3.9 Alpha 19", "Date": "2004-05-22",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha19b.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha19b2-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha19b-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha19b-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 20", "Date": "05-26-2004",
+            { "Name": "StepMania 3.9 Alpha 20", "Date": "2004-05-26",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha20.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha20-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha20-linux.tar.gz",
@@ -193,40 +193,45 @@
             },
 			{
 				"Name": "In The Groove (June 3rd Beta)",
-				"Date": "06-03-2004",
+				"Date": "2004-06-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-06-03%20ITG1%20Arcade%20Beta.7z"
             },
-            { "Name": "StepMania 3.9 Alpha 21", "Date": "06-20-2004",
+            { "Name": "StepMania 3.9 Alpha 21", "Date": "2004-06-20",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha21.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha21-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha21-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha21-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 22", "Date": "08-25-2004",
+            { "Name": "StepMania 3.9 Alpha 22", "Date": "2004-08-25",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha22.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha22-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha22-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha22-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 23", "Date": "09-09-2004",
+			{
+				"Name": "In The Groove (August 30th Arcade Final)",
+				"Date": "2004-08-30",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z"
+            },
+            { "Name": "StepMania 3.9 Alpha 23", "Date": "2004-09-09",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha23.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha23-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha23-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha23-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 24", "Date": "09-20-2004",
+            { "Name": "StepMania 3.9 Alpha 24", "Date": "2004-09-20",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha24a.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha24a-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha24-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha24-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Release Candidate 1", "Date": "10-07-2004",
+            { "Name": "StepMania 3.9 Release Candidate 1", "Date": "2004-10-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-rc1.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-rc1a-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-rc1-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-rc1-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Release Candidate 2", "Date": "10-07-2004",
+            { "Name": "StepMania 3.9 Release Candidate 2", "Date": "2004-10-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-rc2.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-rc2-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-rc2-linux.tar.gz",
@@ -236,58 +241,62 @@
                         {"Name": "(aX1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-rc2aX1-src.zip"}
                     ]
             },
-            { "Name": "StepMania 3.9 Release Candidate 3", "Date": "05-12-2005",
+            { "Name": "StepMania 3.9 Release Candidate 3", "Date": "2005-05-12",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-rc3.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9rc3-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-rc3-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-rc3-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Release Candidate 4", "Date": "10-05-2005",
+            { "Name": "StepMania 3.9 Release Candidate 4", "Date": "2005-10-05",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-rc4a.exe",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-rc4a-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-rc4a-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 - Main Release", "Date": "11-04-2005",
+            { "Name": "StepMania 3.9 - Main Release", "Date": "2005-11-04",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/stepmania-390release.tar.gz"
             },
-            { "Name": "StepMania 3.9 - 4 Players (QUAD)", "Date": "01-07-2008",
+            { "Name": "StepMania 3.9 - 4 Players (QUAD)", "Date": "2008-01-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepManiav39fourPlayer.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-fourPlayer-linux.zip",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/SM_four_player_src.rar"
             },
-            { "Icon": "SMAMX.png", "Name": "StepMania AMX - Beta 2.9", "Date": "12-27-2012",
+            { "Icon": "SMAMX.png", "Name": "StepMania AMX - Beta 2.9", "Date": "2012-12-27",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMA-Beta2.9.rar"
             },
-            { "Icon": "SMAMX.png", "Name": "StepMania AMX - Beta 5.9.2", "Date": "05-26-2014",
+            { "Icon": "SMAMX.png", "Name": "StepMania AMX - Beta 5.9.2", "Date": "2014-05-26",
                 "Windows": [
                     { "Name": "Main Package", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMA-Beta5.9.2-20140524.7z" },
                     { "Name": "TouchPad Addon", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMA-Touch-Beta5.9.2-20140524.7z" }
                 ]
             },
-            { "Icon": "DDRE.png", "Name": "Beware's DDR Extreme R2", "Date": "10-06-2007",
+			{
+				"Icon": "SMAMX.png", "Name": "CMSMA R001 (cesarmades' StepMania AMX)", "Date": "2017-10-19",
+                "Windows": "http://smbuilds.objects-us-east-1.dream.io/SM3.9/Windows/CMSMA R001.exe"
+			},
+            { "Icon": "DDRE.png", "Name": "Beware's DDR Extreme R2", "Date": "2007-10-06",
                 "Windows": [
                     { "Name": "Main Package", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/beware_stepmania_extreme_r2.zip" },
                     { "Name": "Fix Patch", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/beware_stepmania_extreme_r2_update_20120208.zip" }
                 ]
             },
-            { "Icon": "DDRE.png", "Name": "Beware's DDR Extreme R3", "Date": "23-25-2013", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/beware_stepmania_extreme_r3_beta1.zip" },
-            { "Name": "PSPMania", "Date": "03-25-2013",
+            { "Icon": "DDRE.png", "Name": "Beware's DDR Extreme R3", "Date": "2012-05-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/beware_stepmania_extreme_r3_beta1.zip" },
+            { "Name": "PSPMania", "Date": "2013-03-25",
                 "Windows": [
                     { "Name": "Available for PSP<br>(DOES NOT WORK ON E1000)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/PspManiaV4.zip" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/PSPMania-src.tar.gz"
             },
-            { "Name": "StepMania-Wii", "Date": "03-30-2012",
+            { "Name": "StepMania-Wii", "Date": "2012-03-30",
                 "Windows": [
                     { "Name": "Available for Wii (All models)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/Stepmania-wii.zip" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/PSPMania-src.tar.gz"
             },
-            { "Icon": "MUN1.png", "Name": "Mungyodance", "Date": "07-30-2006", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance.zip" },
-            { "Icon": "MUN3.png", "Name": "Mungyodance 2", "Date": "05-23-2007",
+            { "Icon": "MUN1.png", "Name": "Mungyodance", "Date": "2006-07-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance.zip" },
+            { "Icon": "MUN3.png", "Name": "Mungyodance 2", "Date": "2007-05-23",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/mgd2_install.exe",
                 "Mac": [
                     { "Name": "Addon Pack 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add01.mgd" }
@@ -296,54 +305,52 @@
                     { "Name": "Addon Pack 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add02.mgd" }
                 ]
             },
-            { "Icon": "MUN3.png", "Name": "Mungyodance 3", "Date": "08-23-2008", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance%203.rar" },
-            { "Name": "StepMania 3.9a", "Date": "04-21-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9a.zip" },
+            { "Icon": "MUN3.png", "Name": "Mungyodance 3", "Date": "2008-08-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance%203.rar" },
+            { "Name": "StepMania 3.9a", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9a.zip" },
         
-            { "Name": "StepmaniaX v5", "Date": "10-17-2003",
+            { "Name": "StepmaniaX v5", "Date": "2003-10-17",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v5.zip"}
                 ]
             },
-            { "Name": "StepmaniaX v5.01b skin patch", "Date": "07-11-2004",
+            { "Name": "StepmaniaX v5.01b skin patch", "Date": "2004-07-11",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v5.01b%20skin%20patch.rar"}
                 ]
             },
-            { "Name": "StepMania 3.9 RC2a X1 CVS Build", "Date": "01-12-2005",
+            { "Name": "StepMania 3.9 RC2a X1 CVS Build", "Date": "2005-01-12",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepMania%203.9%20RC2a%20X1%20CVS%20Build.rar"}
                 ]
             },
-            { "Name": "StepmaniaX v10", "Date": "04-30-2006",
+            { "Name": "StepmaniaX v10", "Date": "2006-04-30",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v10.zip"}
                 ]
             },
-            { "Name": "StepmaniaX v11", "Date": "03-05-2006",
+            { "Name": "StepmaniaX v11", "Date": "2006-03-05",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v11.zip"}
                 ]
             },
-            { "Name": "StepmaniaX v12", "Date": "05-05-2006",
+            { "Name": "StepmaniaX v12", "Date": "2006-05-05",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v12.zip"}
                 ]
             },
-            { "Icon": "BEATUP.png", "Name": "Beat Up Mania", "Date": "09-07-2009", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Beat_Up_Mania_FULL.rar" },
-            { "Icon": "NEONFM.png", "Name": "NeonFM: Dance Radio", "Date": "08-13-2007", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/neonfm-danceradio.zip" },
-            { "Name": "ERICth the 3rd", "Date": "12-31-2003", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ERICth%20the%203rd.zip" },
-            { "Name": "StepManiaCOIL", "Date": "12-31-2007", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepmaniaCOIL.zip" },
-            { "Name": "StepMania 3.9+ Release Candidate 1", "Date": "??-??-????", "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/3.9plus-rc1-LINUX.zip" },
-            { "Name": "StepMania 3.9+ Redux", "Date": "04-25-2011", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9%2B_redux_Win.zip" },
-            { "Name": "StepMania 3.9 (Ridiculous Timing)", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMR_Beta01.ZIP" },
-            { "Name": "Xsoft DDRX ver1.01", "Date": "03-01-2011",
+            { "Icon": "BEATUP.png", "Name": "Beat Up Mania", "Date": "2009-09-07", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Beat_Up_Mania_FULL.rar" },
+            { "Icon": "NEONFM.png", "Name": "NeonFM: Dance Radio", "Date": "2007-08-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/neonfm-danceradio.zip" },
+            { "Name": "ERICth the 3rd", "Date": "2003-12-31", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ERICth%20the%203rd.zip" },
+            { "Name": "StepManiaCOIL", "Date": "2007-12-31", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepmaniaCOIL.zip" },
+            { "Name": "StepMania 3.9+ Release Candidate 1", "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/3.9plus-rc1-LINUX.zip" },
+            { "Name": "StepMania 3.9+ Redux", "Date": "2011-04-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9%2B_redux_Win.zip" },
+            { "Name": "StepMania 3.9 (Ridiculous Timing)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMR_Beta01.ZIP" },
+            { "Name": "Xsoft DDRX ver1.01", "Date": "2011-03-01",
                 "Windows": [
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Xsoft%20DDRX%20ver1.01.exe" }
                 ]
             },
-            { "Name": "Freezy 3.9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" },
-			{ "Name": "Super Dancer Online mania", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe" },
-			{ "Name": "StepMania Extreme Online Project 1.00", "Date": "07-19-2021", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20Extreme%20Online%20Project.rar" }
+            { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" }
         ]
     },
 
@@ -351,62 +358,64 @@
         "Name": "StepMania 3.95 (Main and Based builds)",
         "DefaultIcon": "SM39.png",
         "Listing": [
-            { "Name": "StepMania 3.95 CVS", "Date": "05-22-2005",
+            { "Name": "StepMania 3.95 CVS", "Date": "2005-05-22",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/stepmania_3.95_cvs__06-19-2005_.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/StepMania-3.95-CVS%2806-18-2005%29.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/StepMania-3.95-CVS-05-22-2005_i586.tar.bz2"
             },
-            { "Name": "BBOY's 3.95 Mod", "Date": "06-20-2005", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar" },
-            { "Icon": "ITG1.png", "Name": "In The Groove 1 Demo", "Date": "??-??-2006",
+            { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar" },
+            { "Icon": "ITG1.png", "Name": "In The Groove 1 Demo",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/itg-demo-r1.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-demo-r1.dmg.zip"
             },
-            { "Icon": "ITG1.png", "Name": "In The Groove 1", "Date": "08-21-2006",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso",
+            { "Icon": "ITG1.png", "Name": "In The Groove 1", "Date": "2006-08-21",
+                "Windows": [
+					{ "Name": "Available<br><small>AA4BG-AAHFU-4DZAO-VLILK-4ARCR</small>", "Link": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso" }
+				],
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "03-17-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 4", "Date": "03-21-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 4", "Date": "2008-03-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 5", "Date": "04-30-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 5", "Date": "2008-04-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 6", "Date": "05-30-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 6", "Date": "2008-05-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 7", "Date": "07-11-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 7", "Date": "2008-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 8", "Date": "07-11-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha 8", "Date": "2008-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha8.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha8.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha Pre-Beta", "Date": "11-26-2008",
+            { "Icon": "OITG.png", "Name": "OpenITG Alpha Pre-Beta", "Date": "2008-11-26",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Beta 1", "Date": "05-14-2009",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/OpenITG%20beta%201.zip",
+            { "Icon": "OITG.png", "Name": "OpenITG Beta 1", "Date": "2009-05-14",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/OpenITG%20beta%201%20linux.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Beta 2", "Date": "08-10-2009",
+            { "Icon": "OITG.png", "Name": "OpenITG Beta 2", "Date": "2009-08-10",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/OpenITG%20beta%202-setup.exe",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/OpenITG%20beta%202%20linux.zip"
             },
-            { "Name": "Xsoft ITG2 ver1.01", "Date": "03-07-2011",
+            { "Name": "Xsoft ITG2 ver1.01", "Date": "2011-03-07",
                 "Windows": [
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/Xsoft%20ITG2%20ver1.01.exe" }
                 ]
             },
-            { "Name": "Xsoft ITG2 ver1.27", "Date": "07-29-2013",
+            { "Name": "Xsoft ITG2 ver1.27", "Date": "2013-07-29",
                 "Windows": [
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/Xsoft%20ITG2%20ver1.27.exe" }
                 ]
@@ -421,19 +430,19 @@
         "Name": "OpenITG based builds",
         "DefaultIcon": "OITG.png",
         "Listing": [
-            { "Icon": "NITG.png", "Name": "NotITG Version 1", "Date": "12-14-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V1.zip" },
-            { "Icon": "DNOT.ico", "Name": "do not", "Date": "04-01-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/do_not.zip" },
-            { "Icon": "NITG.png", "Name": "NotITG Version 2", "Date": "04-05-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V2.zip" },
-            { "Name": "Window Fuck (NAYOTO)", "Date": "05-13-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/WindowFuckNayoto.zip" },
+            { "Icon": "NITG.png", "Name": "NotITG Version 1", "Date": "2016-12-14", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V1.zip" },
+            { "Icon": "DNOT.ico", "Name": "do not", "Date": "2017-04-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/do_not.zip" },
+            { "Icon": "NITG.png", "Name": "NotITG Version 2", "Date": "2017-04-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V2.zip" },
+            { "Name": "Window Fuck (NAYOTO)", "Date": "2017-05-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/WindowFuckNayoto.zip" },
             {
-                "Icon": "NITG3.ico", "Name": "NotITG Version 3", "Date": "06-17-2018",
+                "Icon": "NITG3.ico", "Name": "NotITG Version 3", "Date": "2018-06-17",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V3.zip" },
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start.zip" }
                 ]
             },
             {
-                "Icon": "NITG3.ico", "Name": "NotITG Version 3.1", "Date": "09-09-2018",
+                "Icon": "NITG3.ico", "Name": "NotITG Version 3.1", "Date": "2018-09-09",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V3.1.zip" },
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-3.1.zip" }
@@ -441,7 +450,7 @@
             },
             {
                 "ID": "NITG40",
-                "Icon": "NITG4.png", "Name": "NotITG Version 4", "Date": "01-12-2020",
+                "Icon": "NITG4.png", "Name": "NotITG Version 4", "Date": "2020-01-12",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V4.zip" },
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-V4.0.zip" }
@@ -469,42 +478,42 @@
         "Name": "StepMania 4.0 Normal/CVS Builds",
         "DefaultIcon": "SM40.png",
         "Listing": [
-            { "Name": "StepManiaX v40", "Date": "08-30-2012",
+            { "Name": "StepManiaX v40", "Date": "2012-08-30",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX%20v40%20CVS.rar" }
                 ]
             },
-            { "Name": "StepMania 4.0 CVS (20051101)", "Date": "01-11-2005", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania_4.0_CVS_2005-11-01.exe" },
-            { "Name": "StepMania 4.0 CVS Work In Progress Revision", "Date": "05-13-2006", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/stepmania-4.0cvs-wip05132006.exe" },
-            { "Name": "StepMania 4.0 CVS (20060613)", "Date": "06-13-2006",
+            { "Name": "StepMania 4.0 CVS (20051101)", "Date": "2005-01-11", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania_4.0_CVS_2005-11-01.exe" },
+            { "Name": "StepMania 4.0 CVS Work In Progress Revision", "Date": "2006-05-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/stepmania-4.0cvs-wip05132006.exe" },
+            { "Name": "StepMania 4.0 CVS (20060613)", "Date": "2006-06-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060613.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20060613.zip"
             },
-            { "Name": "StepMania 4.0 CVS (20060730)", "Date": "07-30-2006",
+            { "Name": "StepMania 4.0 CVS (20060730)", "Date": "2006-07-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060730.exe"
             },
-            { "Name": "StepMania 4.0 CVS (20060831)", "Date": "08-31-2006",
+            { "Name": "StepMania 4.0 CVS (20060831)", "Date": "2006-08-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060831.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060831-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20060831-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20060831-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20061123)", "Date": "11-23-2006",
+            { "Name": "StepMania 4.0 CVS (20061123)", "Date": "2006-11-23",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20061123.exe"
             },
-            { "Name": "StepMania 4.0 CVS (20070211)", "Date": "02-11-2007",
+            { "Name": "StepMania 4.0 CVS (20070211)", "Date": "2007-02-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070211.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070211-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070211-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070211-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20070218)", "Date": "02-18-2007",
+            { "Name": "StepMania 4.0 CVS (20070218)", "Date": "2007-02-18",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070218.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070218-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070218-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070218-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20070325)", "Date": "03-25-2007",
+            { "Name": "StepMania 4.0 CVS (20070325)", "Date": "2007-03-25",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070325.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20070325-mac.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070325-linux.tar.gz",
@@ -519,25 +528,25 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20070726-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20070726-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20070726b)", "Date": "07-26-2007",
+            { "Name": "StepMania 4.0 CVS (20070726b)", "Date": "2007-07-26",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070726b.exe"
             },
-            { "Name": "StepMania 4.0 CVS (20070726c)", "Date": "07-26-2007",
+            { "Name": "StepMania 4.0 CVS (20070726c)", "Date": "2007-07-26",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20070726c.exe"
             },
-            { "Name": "StepMania 4.0 CVS (20071107)", "Date": "11-07-2007",
+            { "Name": "StepMania 4.0 CVS (20071107)", "Date": "2007-11-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071107.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071107-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071107-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071107-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20071121)", "Date": "11-21-2007",
+            { "Name": "StepMania 4.0 CVS (20071121)", "Date": "2007-11-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20071121.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20071121-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20071121-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20071121-src.tar.gz"
             },
-            { "Name": "StepMania 4.0 CVS (20080103)", "Date": "01-03-2008",
+            { "Name": "StepMania 4.0 CVS (20080103)", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20080103.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20080103-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM4/Linux/StepMania-CVS-20080103-linux.tar.gz",
@@ -552,10 +561,10 @@
             { "Name": "StepMania 4.0 Beta 6", "Date": "04-05-2007 (?)",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.exe"
             },
-            { "Icon": "SM4B10.png", "Name": "StepMania 4.0 Beta 10", "Date": "01-28-2011",
+            { "Icon": "SM4B10.png", "Name": "StepMania 4.0 Beta 10", "Date": "2011-01-28",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10.exe"
             },
-            { "Name": "StepMania 4.0 CVS Mod V1.1", "Date": "01-03-2008",
+            { "Name": "StepMania 4.0 CVS Mod V1.1", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar"
             }
         ]
@@ -566,34 +575,34 @@
         "DefaultIcon": "SMSSC.png",
         "Description": "Earlier versions of SM-SSC are Source only, so you'll need to compile them yourself.",
         "Listing": [
-            { "Name": "SM-SSC 1.0 Public Beta 1", "Date": "02-15-2010 (?)", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-1.tar.gz" },
-            { "Name": "SM-SSC 1.0 Public Beta 2", "Date": "03-31-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-2.tar.gz" },
-            { "Name": "SM-SSC 1.0 Beta 3", "Date": "04-30-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_beta-3.tar.gz" },
-            { "Name": "SM-SSC 1.0 Beta 4", "Date": "05-30-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_beta-4.tar.gz" },
-            { "Name": "SM-SSC 1.0 Release Candidate 1", "Date": "06-27-2010",
+            { "Name": "SM-SSC 1.0 Public Beta 1", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-1.tar.gz" },
+            { "Name": "SM-SSC 1.0 Public Beta 2", "Date": "2010-03-31", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-2.tar.gz" },
+            { "Name": "SM-SSC 1.0 Beta 3", "Date": "2010-04-30", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_beta-3.tar.gz" },
+            { "Name": "SM-SSC 1.0 Beta 4", "Date": "2010-05-30", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_beta-4.tar.gz" },
+            { "Name": "SM-SSC 1.0 Release Candidate 1", "Date": "2010-06-27",
 				"Windows": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Windows/sm-ssc_v1.0_rc1.exe",
 				"Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.tar.gz"
 			},
-            { "Name": "SM-SSC 1.0 Release Candidate 1.5", "Date": "07-23-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.5.tar.gz" },
-            { "Name": "SM-SSC 1.0 Release Candidate 2", "Date": "08-23-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_rc2.tar.gz" },
-            { "Name": "SM-SSC 1.0 Final", "Date": "10-09-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_final.tar.gz" },
-            { "Name": "SM-SSC 1.1", "Date": "11-32-2010", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.1.tar.gz" },
-            { "Name": "SM-SSC 1.2", "Date": "01-07-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.tar.gz" },
-            { "Name": "SM-SSC 1.2.1", "Date": "02-10-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.1.tar.gz" },
-            { "Name": "SM-SSC 1.2.2", "Date": "02-20-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.2.tar.gz" },
-            { "Name": "SM-SSC 1.2.3", "Date": "04-13-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.3.tar.gz" },
-            { "Name": "SM-SSC 1.2.4", "Date": "04-27-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.4.tar.gz" },
-            { "Name": "SM-SSC 1.2.5", "Date": "05-01-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.5.tar.gz" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1", "Date": "05-29-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1a", "Date": "06-03-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1a.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 2", "Date": "07-03-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview2.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 3", "Date": "08-20-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview3.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 4", "Date": "10-05-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview4.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 1", "Date": "01-08-2012", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha1.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 1a", "Date": "01-08-2012", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha1a.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 2", "Date": "05-04-2012", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha2.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 3", "Date": "07-11-2012", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha3.zip" },
-            { "Icon": "SM5.png", "Name": "StepMania 5 Beta 1", "Date": "12-25-2012", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta1.tar.gz" }
+            { "Name": "SM-SSC 1.0 Release Candidate 1.5", "Date": "2010-07-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.5.tar.gz" },
+            { "Name": "SM-SSC 1.0 Release Candidate 2", "Date": "2010-08-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_rc2.tar.gz" },
+            { "Name": "SM-SSC 1.0 Final", "Date": "2010-10-09", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_final.tar.gz" },
+            { "Name": "SM-SSC 1.1", "Date": "2010-11-32", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.1.tar.gz" },
+            { "Name": "SM-SSC 1.2", "Date": "2011-01-07", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.tar.gz" },
+            { "Name": "SM-SSC 1.2.1", "Date": "2011-02-10", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.1.tar.gz" },
+            { "Name": "SM-SSC 1.2.2", "Date": "2011-02-20", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.2.tar.gz" },
+            { "Name": "SM-SSC 1.2.3", "Date": "2011-04-13", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.3.tar.gz" },
+            { "Name": "SM-SSC 1.2.4", "Date": "2011-04-27", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.4.tar.gz" },
+            { "Name": "SM-SSC 1.2.5", "Date": "2011-05-01", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.5.tar.gz" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1", "Date": "2011-05-29", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1a", "Date": "2011-06-03", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1a.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 2", "Date": "2011-07-03", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview2.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 3", "Date": "2011-08-20", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview3.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Preview 4", "Date": "2011-10-05", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview4.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 1", "Date": "2012-01-08", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha1.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 1a", "Date": "2012-01-08", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha1a.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 2", "Date": "2012-05-04", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha2.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Alpha 3", "Date": "2012-07-11", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-alpha3.zip" },
+            { "Icon": "SM5.png", "Name": "StepMania 5 Beta 1", "Date": "2012-12-25", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta1.tar.gz" }
         ]
     },
 
@@ -601,46 +610,46 @@
         "Name": "SM-SSC - StepMania 5.0 Custom Builds",
         "DefaultIcon": "SM5.png",
         "Listing": [
-            { "Icon": "SM5TE.png", "Name": "StepMania 5 Tournament Edition pre001.2", "Date": "10-06-2011", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/sm5te_pre001.2.zip" },
-            { "Icon": "SM5TE.png", "Name": "StepMania 5 Tournament Edition pre001.3", "Date": "10-06-2011", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/sm5te_pre001.3-data-src.7z" },
-            { "Icon": "PARASTAR.png", "Name": "Club PARASTAR V4", "Date": "06-01-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Windows/PARASTAR04.zip" },
+            { "Icon": "SM5TE.png", "Name": "StepMania 5 Tournament Edition pre001.2", "Date": "2011-10-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/sm5te_pre001.2.zip" },
+            { "Icon": "SM5TE.png", "Name": "StepMania 5 Tournament Edition pre001.3", "Date": "2011-10-06", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/sm5te_pre001.3-data-src.7z" },
+            { "Icon": "PARASTAR.png", "Name": "Club PARASTAR V4", "Date": "2010-06-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Windows/PARASTAR04.zip" },
             { "Icon": "PULSEN.png", "Name": "Pulsen r0009 (demo)", "Date": "??-??-2012", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Windows/PulsenSetup%20r0009.exe" },
-            { "Icon": "PULSEN.png", "Name": "Pulsen", "Date": "07-27-2015",
+            { "Icon": "PULSEN.png", "Name": "Pulsen", "Date": "2015-07-27",
                 "Windows": [
                     { "Name": "Available for Windows ($12.99 USD - $149.99 Mx)", "Link": "http://store.steampowered.com/app/340960/Pulsen/" }
                 ]
             },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.1", "Date": "04-12-2013", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-1_installer.exe" },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.2", "Date": "05-03-2013", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-2_installer.exe" },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.3", "Date": "07-30-2013", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-3_installer.exe" },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.4", "Date": "01-19-2015", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-4_installer.exe" },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.5", "Date": "04-17-2015", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-5_installer.exe" },
-            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.6", "Date": "04-17-2015",
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.1", "Date": "2013-04-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-1_installer.exe" },
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.2", "Date": "2013-05-03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-2_installer.exe" },
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.3", "Date": "2013-07-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-3_installer.exe" },
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.4", "Date": "2015-01-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-4_installer.exe" },
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.5", "Date": "2015-04-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-5_installer.exe" },
+            { "Icon": "KEY6IX.png", "Name": "Keys-Six Version 1.6", "Date": "2015-04-17",
                 "Windows": [
                     { "Name": "Main Package", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Keys_X_Six_v1-6_installer.exe" },
                     { "Name": "Update Package (1.6 to 1.6a)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/KXSUpdates/Keys_X_Six_v1-6_to_v1-6a_updater.exe" },
                     { "Name": "Compatibility Fix for Windows XP", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/KXSUpdates/Keys_X_Six_Compatibility_Fix_for_v1.6-v1.6a.exe" }
                 ]
             },
-            { "Name": "StepMania-Event Test 1", "Date": "07-03-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-Event-test1-win32.exe" },
-            { "Name": "StepMania-Event Test 2", "Date": "07-07-2016",
+            { "Name": "StepMania-Event Test 1", "Date": "2016-07-03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-Event-test1-win32.exe" },
+            { "Name": "StepMania-Event Test 2", "Date": "2016-07-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-Event-5.0-test2.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-event-master.zip"
             },
-            { "Icon": "ZETMANIA.png", "Name": "Zettmania Alpha v0.2.4", "Date": "02-21-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ZettMania.v0.2.4.exe" },
-            { "Icon": "ZETMANIA.png", "Name": "Zettmania Alpha v0.2.4a", "Date": "02-23-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ZettMania.v0.2.4a.exe" },
-            { "Icon": "STEPF2.ico", "Name": "StepF2 V1.15", "Date": "08-20-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEP_F2_V1_15.rar" },
-            { "Icon": "STEPF2.ico", "Name": "StepF2 V1.16.1 Update Package", "Date": "04-28-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEP_F2_V1_16_1_UPDATE.exe" },
-            { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 (Demo)", "Date": "06-25-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Sushi%20Violation%202018%20DEMO%20VERSION.zip" },
-            { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 v2 (Demo)", "Date": "09-17-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/SV2018%20DEMO%20v2.zip" },
-            { "Name": "Rave It Out: The Infusion", "Date": "01-29-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/RaveItOut-TheInfusion.7z" },
-            { "Name": "StepMania NX v5.1-nx1", "Date": "04-27-2019",
+            { "Icon": "ZETMANIA.png", "Name": "Zettmania Alpha v0.2.4", "Date": "2018-02-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ZettMania.v0.2.4.exe" },
+            { "Icon": "ZETMANIA.png", "Name": "Zettmania Alpha v0.2.4a", "Date": "2018-02-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ZettMania.v0.2.4a.exe" },
+            { "Icon": "STEPF2.ico", "Name": "StepF2 V1.15", "Date": "2017-08-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEP_F2_V1_15.rar" },
+            { "Icon": "STEPF2.ico", "Name": "StepF2 V1.16.1 Update Package", "Date": "2018-04-28", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEP_F2_V1_16_1_UPDATE.exe" },
+            { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 (Demo)", "Date": "2018-06-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Sushi%20Violation%202018%20DEMO%20VERSION.zip" },
+            { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 v2 (Demo)", "Date": "2020-09-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/SV2018%20DEMO%20v2.zip" },
+            { "Name": "Rave It Out: The Infusion", "Date": "2017-01-29", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/RaveItOut-TheInfusion.7z" },
+            { "Name": "StepMania NX v5.1-nx1", "Date": "2019-04-27",
                 "Windows": [
                     { "Name": "Available for Nintendo Switch", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Switch/stepmania_5.1-nx1-7142d8caaa.zip" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-nx-5.1-nx1.tar.gz"
             },
-            { "Name": "StepMania NX v5.1-nx2", "Date": "09-18-2019",
+            { "Name": "StepMania NX v5.1-nx2", "Date": "2019-09-18",
                 "Windows": [
                     { "Name": "Available for Nintendo Switch", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Switch/stepmania_5.1-nx2-8ab10aad.zip" }
                 ],
@@ -667,35 +676,40 @@
             { "Name": "In The Groove System Image V7", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-7.zip" } ]
             },
-            { "Name": "In The Groove System Image V8", "Date": "01-11-2020",
+            { "Name": "In The Groove System Image V8", "Date": "2020-01-11",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-8.zip" } ]
             },
-            { "Name": "In The Groove System Image V9", "Date": "04-12-2020",
+            { "Name": "In The Groove System Image V9", "Date": "2020-04-12",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-9.zip" } ]
             },
-            { "Name": "In The Groove System Image V10", "Date": "05-15-2020",
+            { "Name": "In The Groove System Image V10", "Date": "2020-05-15",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-10.zip" } ]
             },
-            { "Name": "In The Groove System Image V11", "Date": "05-18-2020",
+            { "Name": "In The Groove System Image V11", "Date": "2020-05-18",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-11.zip" } ]
             },
-            { "Name": "In The Groove System Image V12", "Date": "11-11-2020",
+            { "Name": "In The Groove System Image V12", "Date": "2020-11-11",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip" } ]
             },
-            { "Name": "In The Groove System Image V13", "Date": "02-17-2021",
+            { "Name": "In The Groove System Image V13", "Date": "2021-02-17",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip" } ]
             },
-            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "11-05-2020",
+            { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "2020-11-05",
                 "Windows": [
                     { "Name": "Season 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason1.exe" },
                     { "Name": "Season 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe" }
                 ]
             },
-            { "Name": "StepPrime Beta 0.90", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
-            { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
-            { "Name": "StepPrime Beta 0.93", "Date": "11-05-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
-            { "Name": "StepPrime Beta 0.94", "Date": "??-??-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" },
-			{ "Name": "Step Fex 1.4.1", "Date": "??-??-???", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" }
+            { "Name": "StepPrime Beta 0.90", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.90.zip" },
+            { "Name": "StepPrime Beta 0.91-HotFix2", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.91-HotFix2.zip" },
+            { "Name": "StepPrime Beta 0.93", "Date": "2020-11-05", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime%20Beta%200.93.zip" },
+            { "Name": "StepPrime Beta 0.94", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip" },
+			{ "Name": "StepPrime Beta 0.94.5", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.5.zip" },
+			{ "ID": "SP23.3", "Name": "StepP2 V3.3", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2%20-%20Release%20V3.3.zip" },
+			{ "Name": "STEP P1 V1.00", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/STEP_P1_V1_00.zip" },
+			{ "Name": "StepMania PRO2 Beta Test", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/StepmaniaPRO2Beta.rar" },
+			{ "Name": "PUMP IT UP MX REVOLUTION 2 2021 (V2.01)", "Date": "06-04-2021", "Link": "PIU%20MXR2%20(BASE%202.01).rar" },
+			{ "Name": "Step Fex 1.4.1", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" }
         ]
     },
 
@@ -703,7 +717,7 @@
         "Name": "StepMania 5",
         "DefaultIcon": "SM5.png",
         "Listing": [
-            { "Name": "StepMania 5 Beta 1a", "Date": "12-29-2012",
+            { "Name": "StepMania 5 Beta 1a", "Date": "2012-12-29",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-v5.0-beta-1a.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-1a-mac.dmg",
                 "Linux": [
@@ -712,106 +726,106 @@
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta1a.tar.gz"
             },
-            { "Name": "StepMania 5 Beta 2", "Date": "06-02-2013",
+            { "Name": "StepMania 5 Beta 2", "Date": "2013-06-02",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania%20v5.0%20beta%202.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-2-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta2.tar.gz"
             },
-            { "Name": "StepMania 5 Beta 2a", "Date": "06-16-2013",
+            { "Name": "StepMania 5 Beta 2a", "Date": "2013-06-16",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta2a.tar.gz"
             },
-            { "Name": "StepMania 5 Beta 3", "Date": "02-24-2014",
+            { "Name": "StepMania 5 Beta 3", "Date": "2014-02-24",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-v5.0-beta-3-windows.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-3-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta3.tar.gz"
             },
-            { "Name": "StepMania 5 Beta 4", "Date": "09-30-2014",
+            { "Name": "StepMania 5 Beta 4", "Date": "2014-09-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-v5.0-beta-4.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-4-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta4.tar.gz"
             },
-            { "Name": "StepMania 5 Beta 4a", "Date": "10-19-2014",
+            { "Name": "StepMania 5 Beta 4a", "Date": "2014-10-19",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-v5.0-beta-4a.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-v5.0-beta-4a-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-beta4a.tar.gz"
             },
-            { "ID": "SM5.0.5", "Name": "StepMania 5.0.5", "Date": "02-13-2015",
+            { "Name": "StepMania 5.0.5", "Date": "2015-02-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.5.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.5-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.5.tar.gz"
             },
-            { "ID": "SM5.0.6", "Name": "StepMania 5.0.6", "Date": "02-17-2015",
+            { "Name": "StepMania 5.0.6", "Date": "2015-02-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.6.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.6-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.6.tar.gz"
             },
-            { "ID": "SM5.0.7rc", "Name": "StepMania 5.0.7rc", "Date": "02-17-2015",
+            { "Name": "StepMania 5.0.7rc", "Date": "2015-02-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.7rc.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.7rc-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.7rc.tar.gz"
             },
-            { "ID": "SM5.0.7", "Name": "StepMania 5.0.7", "Date": "02-17-2015",
+            { "Name": "StepMania 5.0.7", "Date": "2015-02-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.7.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.7-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.7.tar.gz"
             },
-            { "Name": "StepMania 5.0.8 (Test Release)", "Date": "04-09-2015",
+            { "Name": "StepMania 5.0.8 (Test Release)", "Date": "2015-04-09",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.8.tar.gz"
             },
-            { "Name": "StepMania 5.0.8.a", "Date": "04-10-2015",
+            { "Name": "StepMania 5.0.8.a", "Date": "2015-04-10",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.8.a.tar.gz"
             },
-            { "ID": "SM5.0.8", "Name": "StepMania 5.0.8 (The Official Release)", "Date": "05-10-2015",
+            { "ID": "SM5.0.8", "Name": "StepMania 5.0.8 (The Official Release)", "Date": "2015-05-10",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.8-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.8-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux.b/stepmania-5.0.8-Linux.tar.gz"
             },
-            { "ID": "SM5.0.9", "Name": "StepMania 5.0.9", "Date": "06-20-2015",
+            { "ID": "SM5.0.9", "Name": "StepMania 5.0.9", "Date": "2015-06-20",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.9-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.9-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux.b/stepmania-5.0.9-Linux.tar.gz"
             },
-            { "ID": "SM5.0.10", "Name": "StepMania 5.0.10", "Date": "10-31-2015",
+            { "ID": "SM5.0.10", "Name": "StepMania 5.0.10", "Date": "2015-10-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.10-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.10-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux.b/stepmania-5.0.10-Linux.tar.gz"
             },
-            { "ID": "SM5.1.0A", "Name": "StepMania 5.1.0 Alpha", "Date": "10-31-2015",
+            { "ID": "SM5.1.0A", "Name": "StepMania 5.1.0 Alpha", "Date": "2015-10-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.1.0-alpha-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-alpha-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/StepMania-5.1.0-Linux.tar.gz"
             },
-            { "ID": "SM5.0.11", "Name": "StepMania 5.0.11", "Date": "03-31-2016",
+            { "ID": "SM5.0.11", "Name": "StepMania 5.0.11", "Date": "2016-03-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.11-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.11-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/stepmania-5.0.11-Linux.tar.gz"
             },
-            { "ID": "SM5.1.0A2", "Name": "StepMania 5.1.0 Alpha 2", "Date": "03-31-2016",
+            { "ID": "SM5.1.0A2", "Name": "StepMania 5.1.0 Alpha 2", "Date": "2016-03-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.1.0-alpha2-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-alpha2-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/StepMania-5.1.0-Linux.tar.gz"
             },
-            { "ID": "SM5.0.12RC", "Name": "StepMania 5.0.12 Release Candidate", "Date": "07-02-2016",
+            { "ID": "SM5.0.12RC", "Name": "StepMania 5.0.12 Release Candidate", "Date": "2016-07-02",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.12-rc-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.12-rc-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.0.12rc.tar.gz"
             },
-            { "ID": "SM5.0.12", "Name": "StepMania 5.0.12", "Date": "08-13-2016",
+            { "ID": "SM5.0.12", "Name": "StepMania 5.0.12", "Date": "2016-08-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.0.12-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.0.12-mac.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/stepmania-5.0.12-Linux.tar.gz"
             },
-            { "ID": "SM5.1-3",  "Icon": "SM5NEW.png", "Name": "StepMania 5.1.-3", "Date": "08-13-2016",
+            { "ID": "SM5.1-3",  "Icon": "SM5NEW.png", "Name": "StepMania 5.1.-3", "Date": "2016-08-13",
                 "Windows": "https://github.com/stepmania/stepmania/releases/download/v5.1.0a3/StepMania-5.1.0-win32.exe",
                 "Mac": "https://github.com/stepmania/stepmania/releases/download/v5.1.0a3/StepMania-5.1.0-mac.dmg",
                 "Linux": "https://github.com/stepmania/stepmania/releases/download/v5.1.0a3/StepMania-5.1.0-Linux.tar.gz"
             },
-            { "ID": "SM5.1B1", "Icon": "SM5NEW.png", "Name": "StepMania 5.1 Beta 1", "Date": "01-24-2018",
+            { "ID": "SM5.1B1", "Icon": "SM5NEW.png", "Name": "StepMania 5.1 Beta 1", "Date": "2018-01-24",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.1.0-b1-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-b1-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.1.0-b1.zip"
             },
-            { "ID": "SM5.1B2", "Icon": "SM5NEW.png", "Name": "StepMania 5.1 Beta 2", "Date": "07-23-2018",
+            { "ID": "SM5.1B2", "Icon": "SM5NEW.png", "Name": "StepMania 5.1 Beta 2", "Date": "2018-07-23",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepmania -5.1.0-b2-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-b2-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.1.0-b2.zip"
@@ -824,79 +838,79 @@
         "Name": "Etterna",
         "DefaultIcon": "ETT.png",
         "Listing": [
-            { "Icon": "SM5.png", "Name": "Xwidget_0.00000001", "Date": "08-26-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000001.exe" },
-            { "Icon": "SM5.png", "Name": "Xwidget_0.00000002", "Date": "10-30-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000002.exe" },
-            { "Icon": "SM5.png", "Name": "Xwidget_0.00000003", "Date": "10-30-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000003.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.5", "Date": "12-04-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.5.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.51", "Date": "12-07-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.51.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.52", "Date": "12-14-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.52.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.53", "Date": "12-24-2016", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.53.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.53 (Hotfix)", "Date": "01-12-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.53a.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.54", "Date": "01-12-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.PRE-RELEASE.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.54 (Hotfix)", "Date": "01-21-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54a.PRE-RELEASE.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.54r (Release)", "Date": "01-24-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.Installer.exe" },
-            { "Icon": "SM5.png", "Name": "Etterna 0.54.1", "Date": "01-30-2017", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.1.Installer.exe" },
-            { "Name": "Etterna 0.55", "Date": "09-07-2017",
+            { "Icon": "SM5.png", "Name": "Xwidget_0.00000001", "Date": "2016-08-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000001.exe" },
+            { "Icon": "SM5.png", "Name": "Xwidget_0.00000002", "Date": "2016-10-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000002.exe" },
+            { "Icon": "SM5.png", "Name": "Xwidget_0.00000003", "Date": "2016-10-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000003.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.5", "Date": "2016-12-04", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.5.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.51", "Date": "2016-12-07", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.51.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.52", "Date": "2016-12-14", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.52.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.53", "Date": "2016-12-24", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.53.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.53 (Hotfix)", "Date": "2017-01-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.53a.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.54", "Date": "2017-01-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.PRE-RELEASE.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.54 (Hotfix)", "Date": "2017-01-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54a.PRE-RELEASE.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.54r (Release)", "Date": "2017-01-24", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.Installer.exe" },
+            { "Icon": "SM5.png", "Name": "Etterna 0.54.1", "Date": "2017-01-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/StepMania.-.Etterna.v0.54.1.Installer.exe" },
+            { "Name": "Etterna 0.55", "Date": "2017-09-07",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-v0.55.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-v0.55.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-v0.55.tar.gz"
             },
-            { "Name": "Etterna 0.55.1", "Date": "09-18-2017",
+            { "Name": "Etterna 0.55.1", "Date": "2017-09-18",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-v0.55.1.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-v0.55.1.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-v0.55.1.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.55.1.tar.gz"
             },
-            { "Name": "Etterna 0.55.1 Hotfix", "Date": "09-18-2017",
+            { "Name": "Etterna 0.55.1 Hotfix", "Date": "2017-09-18",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-v0.55.1.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-v0.55.1.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-v0.55.1.tar.gz"
             },
-            { "Name": "Etterna 0.55.2", "Date": "10-03-2017",
+            { "Name": "Etterna 0.55.2", "Date": "2017-10-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.55.2.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-v0.55.2.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-v0.55.2.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.55.2.tar.gz"
             },
-            { "Name": "Etterna 0.55.3", "Date": "10-12-2017",
+            { "Name": "Etterna 0.55.3", "Date": "2017-10-12",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.55.3.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.55.3.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.55.3.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.55.3.tar.gz"
             },
-            { "Name": "Etterna 0.56.0-CalcOnly", "Date": "10-17-2017",
+            { "Name": "Etterna 0.56.0-CalcOnly", "Date": "2017-10-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.56.0-CalcOnly.246.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/StepMania-0.56-git-9dafd416b4-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/Etterna-0.56.0-CalcOnly.tar.gz"
             },
-            { "Name": "Etterna 0.56.1-CalcOnly", "Date": "10-30-2017",
+            { "Name": "Etterna 0.56.1-CalcOnly", "Date": "2017-10-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.56.1-CalcOnly.250.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/Etterna-0.56.1-CalcOnly.tar.gz"
             },
-            { "Name": "Etterna 0.56.2-CalcOnly", "Date": "11-03-2017",
+            { "Name": "Etterna 0.56.2-CalcOnly", "Date": "2017-11-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.56.2-CalcOnly.253.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.56.2-CalcOnly.253.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/etterna-0.56.2-CalcOnly-Linux.tar",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.56.2-CalcOnly.tar.gz"
             },
-            { "Name": "Etterna 0.56.2-Experimental", "Date": "11-10-2017",
+            { "Name": "Etterna 0.56.2-Experimental", "Date": "2017-11-10",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.56.2-Experimental.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.56.2-Experimental.tar.gz"
             },
-            { "Name": "Etterna 0.57.0-SuperExperimental", "Date": "11-11-2017",
+            { "Name": "Etterna 0.57.0-SuperExperimental", "Date": "2017-11-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.56.2-Experimental.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.57.0-SuperExperimental.tar.gz"
             },
-            { "Name": "Etterna 0.57.1-prerelease", "Date": "11-11-2017",
+            { "Name": "Etterna 0.57.1-prerelease", "Date": "2017-11-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna.v0.57.1SUPERDUPEREXPERIMOOPER.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.57.1-prerelease.tar.gz"
             },
-            { "Name": "Etterna 0.60.0", "Date": "08-17-2017",
+            { "Name": "Etterna 0.60.0", "Date": "2017-08-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.60.0.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.60.0.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.60.0.tar.gz"
             },
-            { "Name": "Etterna 0.61.0", "Date": "08-17-2017",
+            { "Name": "Etterna 0.61.0", "Date": "2017-08-17",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.61.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.61.0-x64.exe" }
@@ -904,18 +918,18 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.61.0.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.61.0.tar.gz"
             },
-            { "Name": "Etterna 0.61.1", "Date": "10-17-2018",
+            { "Name": "Etterna 0.61.1", "Date": "2018-10-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.61.1-x64.exe",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.61.1.tar.gz"
             },
-            { "Name": "Etterna 0.62.0", "Date": "11-11-2018",
+            { "Name": "Etterna 0.62.0", "Date": "2018-11-11",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.62.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.62.0-x64.exe" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.62.0.tar.gz"
             },
-            { "Name": "Etterna 0.62.1", "Date": "11-14-2018",
+            { "Name": "Etterna 0.62.1", "Date": "2018-11-14",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.62.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.62.1-x64.exe" }
@@ -923,7 +937,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.62.1.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.62.1.tar.gz"
             },
-            { "Name": "Etterna 0.63.0", "Date": "11-23-2018",
+            { "Name": "Etterna 0.63.0", "Date": "2018-11-23",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.63.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.63.0-x64.exe" }
@@ -931,14 +945,14 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna.-.0.63.0.-.Mac.zip",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.63.0.tar.gz"
             },
-            { "Name": "Etterna 0.65.0", "Date": "03-01-2019",
+            { "Name": "Etterna 0.65.0", "Date": "2019-03-01",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.65.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.65.0-x64.exe" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.65.0.tar.gz"
             },
-            { "Name": "Etterna 0.65.1", "Date": "01-10-2019",
+            { "Name": "Etterna 0.65.1", "Date": "2019-01-10",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.65.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.65.1-x64.exe" }
@@ -947,7 +961,7 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.65.1.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.65.1.tar.gz"
             },
-            { "Name": "Etterna 0.66.0", "Date": "06-03-2019",
+            { "Name": "Etterna 0.66.0", "Date": "2019-06-03",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.66.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.66.0-x64.exe" }
@@ -955,7 +969,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.66.0.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.66.0.tar.gz"
             },
-            { "Name": "Etterna 0.66.1", "Date": "06-13-2019",
+            { "Name": "Etterna 0.66.1", "Date": "2019-06-13",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.66.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.66.1-x64.exe" }
@@ -963,14 +977,14 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.66.1.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.66.1.tar.gz"
             },
-            { "Name": "Etterna 0.67", "Date": "12-16-2019",
+            { "Name": "Etterna 0.67", "Date": "2019-12-16",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.67.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.67.0-x64.exe" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.67.0.tar.gz"
             },
-            { "Name": "Etterna 0.67.1", "Date": "12-23-2019",
+            { "Name": "Etterna 0.67.1", "Date": "2019-12-23",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.67.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.67.1-x64.exe" }
@@ -978,7 +992,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.67.1.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.67.1.tar.gz"
             },
-            { "Name": "Etterna 0.68.0", "Date": "02-17-2020",
+            { "Name": "Etterna 0.68.0", "Date": "2020-02-17",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.68.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.68.0-x64.exe" }
@@ -986,21 +1000,21 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.68.0.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.68.0.tar.gz"
             },
-            { "Name": "Etterna 0.68.1", "Date": "02-20-2020",
+            { "Name": "Etterna 0.68.1", "Date": "2020-02-20",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.68.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.68.1-x64.exe" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.68.1.tar.gz"
             },
-            { "Name": "Etterna 0.69.0", "Date": "05-15-2020",
+            { "Name": "Etterna 0.69.0", "Date": "2020-05-15",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.69.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.69.0-x64.exe" }
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.69.0.tar.gz"
             },
-            { "Name": "Etterna 0.69.1", "Date": "05-22-2020",
+            { "Name": "Etterna 0.69.1", "Date": "2020-05-22",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.69.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.69.1-x64.exe" }
@@ -1008,7 +1022,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.69.1-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.69.1.tar.gz"
             },
-            { "Name": "Etterna 0.70.0", "Date": "07-05-2020",
+            { "Name": "Etterna 0.70.0", "Date": "2020-07-05",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.0-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.0-x64.exe" }
@@ -1016,7 +1030,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.0-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.0.tar.gz"
             },
-            { "Name": "Etterna 0.70.1", "Date": "07-09-2020",
+            { "Name": "Etterna 0.70.1", "Date": "2020-07-09",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.1-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.1-x64.exe" }
@@ -1024,7 +1038,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.1-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.1.tar.gz"
             },
-            { "Name": "Etterna 0.70.2", "Date": "07-13-2020",
+            { "Name": "Etterna 0.70.2", "Date": "2020-07-13",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.2-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.2-x64.exe" }
@@ -1032,7 +1046,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.2-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.2.tar.gz"
             },
-            { "Name": "Etterna 0.70.3", "Date": "07-17-2020",
+            { "Name": "Etterna 0.70.3", "Date": "2020-07-17",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.3-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.3-x64.exe" }
@@ -1040,7 +1054,7 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.70.3-Darwin.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.70.3.tar.gz"
             },
-			{ "Name": "Etterna 0.70.4", "Date": "03-31-2021",
+			{ "Name": "Etterna 0.70.4", "Date": "2021-03-31",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.4-i386.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.70.4-x64.exe" }
@@ -1056,7 +1070,7 @@
         "Name": "Project OutFox",
         "DefaultIcon": "OUTFOX.png",
         "Listing": [
-            { "ID": "OUTFOX4", "Name": "StepMania OutFox Alpha 4", "Date": "12-16-2019",
+            { "ID": "OUTFOX4", "Name": "StepMania OutFox Alpha 4", "Date": "2019-12-16",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20191216.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/StepMania_5.3_Outfox_Alpha_date-20191216.dmg",
                 "Linux": [
@@ -1064,7 +1078,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4_i686-date-20191217.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.1", "Name": "StepMania OutFox Alpha 4.1", "Date": "01-04-2020",
+            { "ID": "OUTFOX4.1", "Name": "StepMania OutFox Alpha 4.1", "Date": "2020-01-04",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania_5.3_Outfox_Alpha_date-20200104.exe",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.1_amd64-date-20200104.tar.gz" },
@@ -1072,14 +1086,14 @@
                     { "Name": "Arch Binary", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/StepMania-Outfox-Alpha-4.1-arch-binary-amd64-2020-01-07.tar" }
                 ]
             },
-            { "ID": "OUTFOX4.2", "Name": "StepMania OutFox Alpha 4.2", "Date": "02-05-2020",
+            { "ID": "OUTFOX4.2", "Name": "StepMania OutFox Alpha 4.2", "Date": "2020-02-05",
                 "Mac": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/StepMania-5.3_Outfox_Alpha_date-20200205.dmg",
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_amd64-date-20200205.tar.gz" },
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/f70b92c50331185d204f48fef4f9612a/Stepmania-Outfox_Alpha-4.2_i686-date-20200205.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.3", "Name": "StepMania OutFox Alpha 4.3", "Date": "02-09-2020",
+            { "ID": "OUTFOX4.3", "Name": "StepMania OutFox Alpha 4.3", "Date": "2020-02-09",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.3%20date-20200209.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.3-date-20200209.dmg",
                 "Linux": [
@@ -1087,7 +1101,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.3_i686-date-20200209.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.4", "Name": "StepMania OutFox Alpha 4.4.1", "Date": "03-04-2020",
+            { "ID": "OUTFOX4.4", "Name": "StepMania OutFox Alpha 4.4.1", "Date": "2020-03-04",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.4.1%20date-20200304.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.4.1-date-20200303.dmg",
                 "Linux": [
@@ -1095,7 +1109,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.4.1_i686-date-20200304.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.5", "Name": "StepMania OutFox Alpha 4.5", "Date": "04-04-2020",
+            { "ID": "OUTFOX4.5", "Name": "StepMania OutFox Alpha 4.5", "Date": "2020-04-04",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5%20date-20200404.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5-date-20200403.dmg",
                 "Linux": [
@@ -1103,7 +1117,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox_Alpha-4.5_i686-date-20200404.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.5.6", "Name": "StepMania OutFox Alpha 4.5.6", "Date": "05-08-2020",
+            { "ID": "OUTFOX4.5.6", "Name": "StepMania OutFox Alpha 4.5.6", "Date": "2020-05-08",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.6%20date-20200508.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.6-date-20200512.dmg",
                 "Linux": [
@@ -1111,7 +1125,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox-Alpha-4.5.6_i686-date-20200508.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.5.8", "Name": "StepMania OutFox Alpha 4.5.8", "Date": "05-31-2020",
+            { "ID": "OUTFOX4.5.8", "Name": "StepMania OutFox Alpha 4.5.8", "Date": "2020-05-31",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1119,7 +1133,7 @@
                     { "Name": "i686", "Link": "https://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6-legacy-amd64-date-20200619.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.5.9", "Name": "StepMania OutFox Alpha 4.5.9", "Date": "06-14-2020",
+            { "ID": "OUTFOX4.5.9", "Name": "StepMania OutFox Alpha 4.5.9", "Date": "2020-06-14",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania%205.3%20Outfox%20Alpha%204.5.9%20date-20200615.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox_Alpha-4.5.9-date-20200614.dmg",
                 "Linux": [
@@ -1127,7 +1141,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.5.9-legacy-amd64-date-20200614.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.6.0RC1", "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "06-19-2020",
+            { "ID": "OUTFOX4.6.0RC1", "Name": "StepMania OutFox Alpha 4.6 RC1", "Date": "2020-06-19",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC1-date-20200619.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC1-date-20200619.dmg",
                 "Linux": [
@@ -1135,7 +1149,7 @@
                     { "Name": "i686", "Link": "https://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6-legacy-amd64-date-20200619.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.6.0RC2", "Name": "StepMania OutFox Alpha 4.6 RC2", "Date": "06-23-2020",
+            { "ID": "OUTFOX4.6.0RC2", "Name": "StepMania OutFox Alpha 4.6 RC2", "Date": "2020-06-23",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6RC2-date-20200623.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC2-date-20200623.dmg",
                 "Linux": [
@@ -1143,7 +1157,7 @@
                     { "Name": "i686", "Link": "http://outfox.objects-us-east-1.dream.io/Linux/Stepmania-Outfox_Alpha-4.6RC2-legacy-amd64-date-20200623.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.6.0RC3", "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "07-01-2020",
+            { "ID": "OUTFOX4.6.0RC3", "Name": "StepMania OutFox Alpha 4.6 RC3", "Date": "2020-07-01",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.6RC3-Win32-date-20200701.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6RC3-MACOSX-date-20200701.dmg",
                 "Linux": [
@@ -1153,7 +1167,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox_Alpha-4.6RC3-arm32v7-date-20200702.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.6.0", "Name": "StepMania OutFox Alpha 4.6.0", "Date": "07-11-2020",
+            { "ID": "OUTFOX4.6.0", "Name": "StepMania OutFox Alpha 4.6.0", "Date": "2020-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-5.3-Outfox-Alpha-4.6.0-date-20200623.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.6.0-MacOS-date-20200623.dmg",
                 "Linux": [
@@ -1163,11 +1177,11 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox_Alpha-4.6-arm32v7-date-20200714.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.8.0", "Name": "StepMania OutFox Alpha 4.8.0", "Date": "08-14-2020",
+            { "ID": "OUTFOX4.8.0", "Name": "StepMania OutFox Alpha 4.8.0", "Date": "2020-08-14",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.8.0-Win32-date-20200814.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.8.1-MacOS-date-20200814.dmg"
             },
-            { "ID": "OUTFOX4.8.1", "Name": "StepMania OutFox Alpha 4.8.1", "Date": "08-14-2020",
+            { "ID": "OUTFOX4.8.1", "Name": "StepMania OutFox Alpha 4.8.1", "Date": "2020-08-14",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.8.1-Win32-date-20200814.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.8.1-MacOS-date-20200814.dmg",
                 "Linux": [
@@ -1175,7 +1189,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox-Alpha-4.8.1-amd64-legacy-date-20200814.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.8.2", "Name": "StepMania OutFox Alpha 4.8.2", "Date": "08-18-2020",
+            { "ID": "OUTFOX4.8.2", "Name": "StepMania OutFox Alpha 4.8.2", "Date": "2020-08-18",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/StepMania-Outfox-Alpha-4.8.2-Win32-date-20200819.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/StepMania-Outfox-Alpha-4.8.2-MacOS-date-20200819.dmg",
                 "Linux": [
@@ -1183,7 +1197,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/StepMania-Outfox-Alpha-4.8.2-amd64-legacy-date-20200819.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.8.5", "Name": "StepMania OutFox Alpha 4.8.5", "Date": "09-19-2020",
+            { "ID": "OUTFOX4.8.5", "Name": "StepMania OutFox Alpha 4.8.5", "Date": "2020-09-19",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Project-Outfox-Alpha-4.8.5-Win32-date-20200919.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Project-Outfox-Alpha-4.8.5HF-MacOS-date-20200919.dmg",
                 "Linux": [
@@ -1192,7 +1206,7 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/Project-Outfox-Alpha-4.8.5-arm64v8-date-20200920.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.0HF", "Name": "StepMania OutFox Alpha 4.9.0", "Date": "10-05-2020",
+            { "ID": "OUTFOX4.9.0HF", "Name": "StepMania OutFox Alpha 4.9.0", "Date": "2020-10-05",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Project-Outfox-Alpha-4.9.0HF-Win32-date-20201007.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Project-Outfox-Alpha-4.9.0HF-MacOS-date-20201007.dmg",
                 "Linux": [
@@ -1202,7 +1216,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox-Alpha-4.9.0HF-arm32v7-date-20201006.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.1", "Name": "StepMania OutFox Alpha 4.9.1", "Date": "10-31-2020",
+            { "ID": "OUTFOX4.9.1", "Name": "StepMania OutFox Alpha 4.9.1", "Date": "2020-10-31",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.9.1-Win32-date-20201031.exe",
                 "Mac": "https://objects-us-east-1.dream.io/outfox/Mac/Stepmania-Outfox-Alpha-4.9.1-MacOS-date-20201031.dmg",
                 "Linux": [
@@ -1210,7 +1224,7 @@
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/Stepmania-Outfox-Alpha-4.9.1-amd64-legacy-date-20201031.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.9.5", "Name": "StepMania OutFox Alpha 4.9.5", "Date": "11-31-2020",
+            { "ID": "OUTFOX4.9.5", "Name": "StepMania OutFox Alpha 4.9.5", "Date": "2020-11-30",
                 "Windows": [
                     { "Name": "Modern", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.9.5-Win32-date-20201130.exe" },
                     { "Name": "XP Build", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.9.5XP-Win32-date-20201130.exe" }
@@ -1223,7 +1237,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox-Alpha-4.9.5-arm32v7-date-20201201.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.6", "Name": "StepMania OutFox Alpha 4.9.6", "Date": "12-16-2020",
+            { "ID": "OUTFOX4.9.6", "Name": "StepMania OutFox Alpha 4.9.6", "Date": "2020-12-16",
                 "Windows": [
                     { "Name": "Modern", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.9.6HF-Win32-date-20201218.exe" },
                     { "Name": "XP Build", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/Stepmania-Outfox-Alpha-4.9.6HF-XP-Win32-date-20201218.exe" }
@@ -1239,14 +1253,14 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/Stepmania-Outfox-Alpha-4.9.6-arm32v7-date-20201216.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.7", "Name": "StepMania OutFox Alpha 4.9.7", "Date": "02-20-2021",
+            { "ID": "OUTFOX4.9.7", "Name": "StepMania OutFox Alpha 4.9.7", "Date": "2021-02-20",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-v5.3.0-alpha-4.9.7-Win32-date-20210220.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-v5.3.0-alpha-4.9.7-MacOS-Intel-date-20210220.dmg" },
                     { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-v5.3.0-alpha-4.9.7-MacOS-M1-date-20210220.dmg" }
                 ]
             },
-            { "ID": "OUTFOX4.9.7GG", "Name": "StepMania OutFox Alpha 4.9.7GG", "Date": "02-23-2021",
+            { "ID": "OUTFOX4.9.7GG", "Name": "StepMania OutFox Alpha 4.9.7GG", "Date": "2021-02-23",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.7GG-Win32-date-20210224.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/StepManiaOutFox-5.3.0-alpha-4.9.7GG-MacOS-Intel-date-20210223.dmg" },
@@ -1259,7 +1273,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/StepManiaOutFox-5.3.0-alpha-4.9.7GG-arm32v7-date-20210223.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.8", "Name": "StepMania OutFox Alpha 4.9.8", "Date": "04-25-2021",
+            { "ID": "OUTFOX4.9.8", "Name": "StepMania OutFox Alpha 4.9.8", "Date": "2021-04-25",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.8-Win32-date-20210425.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.8-MacOS-Intel-date-20210425.dmg" },
@@ -1271,7 +1285,7 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.9.8-arm64v8-date-20210425.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF", "Name": "StepMania OutFox Alpha 4.9.9HF", "Date": "08-04-2021",
+            { "ID": "OUTFOX4.9.9HF", "Name": "Project OutFox Alpha 4.9.9HF", "Date": "2021-08-04",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF-Win32-20210804.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF-MacOS-Intel-date-20210804.dmg" },
@@ -1284,7 +1298,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF-arm32v7-date-20210804.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF2", "Name": "StepMania OutFox Alpha 4.9.9HF2", "Date": "08-06-2021",
+            { "ID": "OUTFOX4.9.9HF2", "Name": "Project OutFox Alpha 4.9.9HF2", "Date": "2021-08-06",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF2-Win32-date-20210806.exe",
                 "Mac": [
                     { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF2-MacOS-M1-date-20210806.dmg" }
@@ -1296,7 +1310,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF2-arm32v7-date-20210806.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.9.9HF3", "Name": "StepMania OutFox Alpha 4.9.9HF3", "Date": "08-08-2021",
+            { "ID": "OUTFOX4.9.9HF3", "Name": "Project OutFox Alpha 4.9.9HF3", "Date": "2021-08-08",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.9HF3b-Win32-date-20210809.exe",
                 "Mac": [
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.9HF3b-MacOS-Intel-date-20210809.dmg" },
@@ -1309,7 +1323,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.9.9HF3b-arm32v7-date-20210809.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.9.10", "Name": "StepMania OutFox Alpha 4.9.10", "Date": "08-27-2021",
+			{ "ID": "OUTFOX4.9.10", "Name": "Project OutFox Alpha 4.9.10", "Date": "2021-08-27",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.9.10-Win32-date-20210827.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.9.10-Universal-date-20210827.dmg" }
@@ -1317,6 +1331,18 @@
                 "Linux": [
                     { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-legacy-date-20210827.tar.gz" },
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-date-20210827.tar.gz" }
+                ]
+            },
+			{ "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "2021-10-01",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.10.0-Win32-HF1-date-20211001.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.10.0-MacOS-HF1-date-20211001.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.10.0-HF1-amd64-legacy-date-20211001.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.10.0-HF1-amd64-date-20211001.tar.gz" },
+					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.10.0-HF1-arm64v8-date-20211001.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.10.0-HF1-arm32v7-date-20211001.tar.gz"}
                 ]
             }
         ]
