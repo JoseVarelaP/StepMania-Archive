@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "10/Dec/21",
+		"Changes" : [
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-win64.exe'>Etterna 0.71.0</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "6/Nov/21",
 		"Changes" : [
 			{
