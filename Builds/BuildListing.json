@@ -827,7 +827,7 @@
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.1.0-b1.zip"
             },
             { "ID": "SM5.1B2", "Icon": "SM5NEW.png", "Name": "StepMania 5.1 Beta 2", "Date": "2018-07-23",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepmania -5.1.0-b2-win32.exe",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania-5.1.0-b2-win32.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/StepMania-5.1.0-b2-mac.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-5.1.0-b2.zip"
             }
