@@ -1,5 +1,29 @@
 [
 	{
+		"Date": "10/Dec/21",
+		"Changes" : [
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-win64.exe'>Etterna 0.71.0</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "6/Nov/21",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://drive.google.com/file/d/13bOKxHjW-2P5tw6AQ2gfMSJd6h8A1zGe/view'>STEP MOD 2020</a>, a mod of StepP1. Given its file size, the original linked version is added for now, until the need to use the backed up version is needed."
+				]
+			}
+		]
+	},
+	{
 		"Date": "19-21/Oct/21",
 		"Changes" : [
 			{
