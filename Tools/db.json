@@ -1,7 +1,7 @@
 {
     "ArrowVortex" : {
         "Name": "ArrowVortex",
-        "Description": "ArrowVortex can be used to create or edit stepfiles for various rhythm games, such as DDR, ITG, PIU, Stepmania, and Osu. It started out as a hobby project by Fietsemaker, aiming to create a modern stepfile editor inspired by the designs of both DDReamStudio and the Stepmania editor.",
+        "Description": "ArrowVortex can be used to create or edit stepfiles for various rhythm games, such as <abbr title='Dance Dance Revolution'>DDR</abbr>, <abbr title='In The Groove'>ITG</abbr>, <abbr title='Pump It Up'>PIU</abbr>, Stepmania, and Osu. It started out as a hobby project by Fietsemaker, aiming to create a modern stepfile editor inspired by the designs of both DDReamStudio and the Stepmania editor.",
         "Picture": "https://objects-us-east-1.dream.io/smtools/ArrowVortex/screenshot-02.png",
         "Listing": [
             { "Name": "ArrowVortex (Feb 2017)", "Date" : "2017-02-25", "Windows": "ArrowVortex-2017-02-25.rar" }

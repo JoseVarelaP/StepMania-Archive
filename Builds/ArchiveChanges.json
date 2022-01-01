@@ -1,5 +1,25 @@
 [
 	{
+		"Date": "31/Dec/21",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Just a message",
+				"List": [
+					"Hello, how was your year? I hope it went alright. This year has been an interesting development on StepMania as a whole, with a bunch of new forks rising all of a sudden, as well as new uncovered content like the pump stuff and the OpenITG themes.",
+					"Next year it does seem it could bring more excitement on to how this engine has been kicking for the past 2 decades, but time will tell. - Jose_Varela"
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.12.0-Win32-date-20211231.exe'>Project OutFox Alpha 4.12.0</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "10/Dec/21",
 		"Changes" : [
 			{

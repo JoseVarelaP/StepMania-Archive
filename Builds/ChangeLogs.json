@@ -310,5 +310,9 @@
 	"OUTFOX4.10.0" : {
         "Name": "OutFox-alpha.4.10.0 Build - 1st October 2021 \"Believe it or not, the bus can't swim...\"",
         "HTMLParse" : "OUTFOX/A4.10.0.md"
+    },
+	"OUTFOX4.12.0" : {
+        "Name": "OutFox-alpha.4.12.0 Build - 31st December 2021 \"Onegai Muscle!\"",
+        "HTMLParse" : "OUTFOX/A4.12.0.md"
     }
 }
