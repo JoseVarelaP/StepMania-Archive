@@ -48,6 +48,10 @@
 		"InvSM" : { "Name": "Inverted StepMania", "Link": "Inverted%20StepMania.smzip" },
 		"KzUM" : { "Name": "Katze Ultramix", "Link": "KatzeUltramix.smzip" },
 		"MM" : { "Name": "minimalia", "Link": "minimalia.smzip" },
+		"NPREX3" : {"Name": "N.PREX3 NeoStyle", "Link": [
+			{ "Name": "1.8 (=_=)", "Date": "2008-04-10", "Link": "N.PREX3%20NeoStyle%20v1.8.zip" }
+		]},
+		"PIUPREX3IKK" : { "Name": "PUMP IT UP! THE PREX3 --StepMania NeobeatIKK Style--", "Author": "NeobeatIKK", "Date": "2006-03-01", "Link": "StepMania%20NX.zip" },
 		"NCRx11" : { "Name": "NCR ex11", "Link": "NCR_ex11.smzip" },
 		"NocN" : { "Name": "Nocturnal Night", "Link": "Nocturnal%20Dream.smzip" },
 		"NAKeT" : { "Name": "Not Another K--eternal Theme", "Link": "Not%20Another%20keternal%20Theme.smzip" },
@@ -62,9 +66,11 @@
 		"pcd1" : { "Name": "pop*candy", "Link": "popcandy_theme.smzip" },
 		"pcd2" : { "Name": "pop*candy 2", "Date": "2005-??-09", "Link": "popcandy2.zip" },
 		"PIUP" : { "Name": "Pump It Up Premiere", "Link": "Pump%20It%20Up%20Premiere%203.smzip" },
+		"PIUMIL" : {"Name": "Pump It Up Millenium", "Link": "Pump%20It%20Up%20Millenium.zip" },
 		"RLoung" : { "Name": "R-Lounge", "Link": "R-Lounge.smzip" },
 		"RN" : { "Name": "Rave Nation", "Link": "Rave_Nation.smzip" },
 		"SDOM" : { "Name": "SDO Mania", "Author": "DeadMaster", "Link": "SDO%20mania%20by%20DeadMaster.rar" },
+		"SMNXARC3" : {"Name": "SMNXA RC3", "Link": "SMNXA%20RC3.zip"},
 		"SMU" : { "Name": "sm.urbanized", "Link": "sm.urbanized.smzip" },
 		"SMLB" : { "Name": "SMLiteBlue", "Link": "SMLiteBlue.smzip" },
 		"SOMS" : { "Name": "Selling Out Made Simple", "Date": "2007-01-09", "Link": "soms_final.smzip" },
@@ -82,6 +88,7 @@
 		"TM5" : { "Name": "Trance Machina 5 Zen Rebirth", "Link": "Trance%20Machina%205%20Zen%20Rebirth.smzip" },
 		"XXM2" : { "Name": "XXmiX 2nd Act", "Date": "??-08-2006", "Link": "XXmiX%202nd%20act.zip" },
 		"YS" : { "Name": "Ya Style", "Link": "Ya%20Style.smzip" },
+		"ZSM" : {"Name": "ZeroSM+", "Author": "Daisuke Master", "Link": "ZeroSM%2B.zip"},
 		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" }
 	},
 
@@ -262,6 +269,7 @@
 			]
 		},
 		"SMSuperNova" : { "Name": "StepMania SuperNova V3", "Link": "StepMania%20Supernova%20Version%203.zip" },
+		"SMPREX3" : { "Name": "SMPREX3 cvs 1.1.1", "Link": "SMPREX3%20cvs%201.1.1.zip" },
 		"TKMix" : { "Name": "TK Mix", "Link": "TK%20Mix.zip" },
 		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },

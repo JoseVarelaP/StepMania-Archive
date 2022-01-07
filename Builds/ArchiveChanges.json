@@ -1,5 +1,26 @@
 [
 	{
+		"Date": "7/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Another drop of Pump It Up themes has arrived, coming from a <a href='https://thepcroom.ca/wp-content/uploads/2014/03/745-1.jpg'>Dell Optiplex 745</a> that ran an SM build on a Family Fun Center. Huge thanks to 48productions for this find.",
+					null,
+					"<h3>SM3.9</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=ZSM'>ZeroSM+</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=PIUPREX3IKK'>PUMP IT UP! THE PREX3 --StepMania NeobeatIKK Style--</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=SMNXARC3'>SMNXA RC3</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=PIUMIL'>Pump It Up Millenium</a>",
+					"Added <a href='../Themes/ThemePreview.html?Category=SM3.9&ID=NPREX3'>N.PREX3 NeoStyle v1.8</a>",
+					"<h3>SM5</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SMPREX3'>SMPREX3 cvs 1.1.1</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "31/Dec/21",
 		"Changes" : [
 			{
