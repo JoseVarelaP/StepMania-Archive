@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "13/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip'>v14</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip'>v15</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added archived version of Curilang's <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20Curilang'>DDRA20</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "7/Jan/22",
 		"Changes" : [
 			{
