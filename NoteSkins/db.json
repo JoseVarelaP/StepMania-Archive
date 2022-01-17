@@ -1,0 +1,130 @@
+{
+    "StepMania 4": {
+        "Note" : {
+        }
+    },
+    "SM5": {
+        "Vivid" : {
+            "midi-note" : {
+                "Name": "midi-note",
+                "Author": "midiman",
+                "NoteShape": 0,
+                "ColorType": 0,
+                "Download": "midi-note.zip"
+            },
+            "Apocalypse" : {
+                "Name": "Apocalypse",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0,
+                "Download": "USWApocalypseSM5.7z"
+            },
+            "Apocalypse2" : {
+                "Name": "Apocalypse2",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0,
+                "Download": "USWApocalypse2SM5.7z"
+            }
+        },
+        "Note" : {
+            "3DNote" : {
+                "Name": "3DNote",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0,
+                "HasCustomMine": true,
+                "Download": "USW3DNoteSM5.7z"
+            },
+            "Cel" : {
+                "Name": "Cel",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0,
+                "Download": {
+                    "2D": "USWMetalSM5.7z",
+                    "3D": "USWMetal3DSM5+.7z",
+                    "3D+": "USWMetal3DSM5.7z"
+                }
+            },
+            "FFRHD" : {
+                "Name": "FFRHD",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "FFRular" : {
+                "Name": "FFRular",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "JamLegendTap" : {
+                "Name": "JamLegendTap",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Metal" : {
+                "Name": "Metal",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Metalbar" : {
+                "Name": "Metalbar",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "MGD3" : {
+                "Name": "MGD3",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Midare++" : {
+                "Name": "Midare++",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Notebar+" : {
+                "Name": "Notebar+",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Orbular" : {
+                "Name": "Orbular",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Robot" : {
+                "Name": "Robot",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Thirdstyle" : {
+                "Name": "Thirdstyle",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "Vel" : {
+                "Name": "Vel",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            },
+            "USWCel3DSM5+" : {
+                "Name": "USWCel3DSM5+",
+                "Author": "Jousway",
+                "NoteShape": 0,
+                "ColorType": 0
+            }
+        }
+    }
+}
