@@ -98,7 +98,31 @@
 			"Name": "DDR A20",
 			"Author": "TK0",
 			"Link": [
-				{ "Name": "Standard", "Link": "DDRA/DDR%20A20.zip" },
+				{ "Name": "[4.5.5] Standard", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR%20A20.zip" },
+				{ "Name": "[4.5.5] DDR A with 2014 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.5] DDR A with A20 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.5] DDR A with DDR1st UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.5] DDR A With EXTREME UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.5] DDR A With Supernova2 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.5] DDR A With X2 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With X2 UI.zip" },
+
+				{ "Name": "[4.5.4?] Standard", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR%20A20.zip" },
+				{ "Name": "[4.5.4?] DDR A with 2014 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A with A20 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A with DDR1st UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With EXTREME UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With Supernova2 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With X2 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With X2 UI.zip" },
+
+				{ "Name": "[4.5.1a] Standard", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR%20A20.zip" },
+				{ "Name": "[4.5.1a] DDR A with 2014 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A with A20 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A with DDR1st UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With EXTREME UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With Supernova2 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With X2 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With X2 UI.zip" },
+
+				{ "Name": "Standard", "Link" : "DDRA/DDR%20A20.zip" },
 				{ "Name": "DDR A with 2014 UI", "Link" : "DDRA/DDR A with 2014 UI.zip" },
 				{ "Name": "DDR A with A20 UI", "Link" : "DDRA/DDR A with A20 UI.zip" },
 				{ "Name": "DDR A with DDR1st UI", "Link" : "DDRA/DDR A with DDR1st UI.zip" },
@@ -311,6 +335,16 @@
 				{ "Name": "a4.9.7", "Date": "2021-02-20", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7.tar.gz"},
 				{ "Name": "a4.9.6", "Date": "2020-12-16", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.6.tar.gz"},
 				{ "Name": "a4.9.5", "Date": "2020-11-30", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.5.tar.gz"}
+			]
+		},
+		"starlight" : {
+			"Name": "XX -starlight- 2.0",
+			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
+			"Link": [
+				{ "Name": "XX_-starlight-_V2.0.2", "Date": "2021-12-06", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.2.zip" },
+				{ "Name": "XX_-starlight-_V2.0.1", "Date": "2021-11-27", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.1.zip" },
+				{ "Name": "XX_-starlight-_V2.0.0_hotfix_1", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.Hotfix.1.zip" },
+				{ "Name": "XX_-starlight-_V2.0.0", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.0.zip" }
 			]
 		},
 		"Superuser": {

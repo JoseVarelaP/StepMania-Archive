@@ -456,23 +456,31 @@
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-V4.0.zip" }
                 ]
             },
-            { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
-            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
-			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "04-20-2021",
+            { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
+            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
+			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "2021-04-20",
 				"Windows": [
 					{ "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip"},
 					{ "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/NotITG-4.2.0-QuickStart.zip"}
 				]
 			},
-            { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "09-22-2008" },
-            { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "04-17-2010" },
-            { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "06-09-2010" },
-            { "ID": "OpGr5", "Name": "OpenGroove r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
-            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "05-22-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" },
-            { "ID": "OpGr5", "Name": "In The Groove 3 Encore r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe" },
-            { "Name": "In The Groove 3 Encore r35", "Date": "12-12-2011", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe" }
+            { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "2008-09-22" },
+            { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "2010-04-17" },
+            { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "2010-06-09" },
+            { "ID": "OpGr5", "Name": "OpenGroove r5", "Date": "2010-07-02", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
+            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "2018-05-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" },
+            { "ID": "OpGr5", "Name": "In The Groove 3 Encore r5", "Date": "2010-07-02", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe" },
+            { "Name": "In The Groove 3 Encore r35", "Date": "2011-12-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe" }
         ]
     },
+
+	"NOTITG" : {
+		"Name": "NotITG based builds",
+		"DefaultIcon": "NITG4.png",
+		"Listing": [
+			{ "Icon": "MZERO.png", "Name": "MZero Beta", "Date": "2017-03-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip" }
+		]
+	},
 
     "SM4" : {
         "Name": "StepMania 4.0 Normal/CVS Builds",

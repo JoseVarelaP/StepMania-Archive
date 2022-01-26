@@ -1,5 +1,40 @@
 [
 	{
+		"Date": "25/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip'>MZero</a>. This is an old NITG based game that I worked on back in 2017. It didn't end up going anywhere really."
+				]
+			}
+		]
+	},
+	{
+		"Date": "17/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"<h3>SM3.9 Plus</h3>",
+					"Added version 4.5.5 of VR0's DDR A and A20 theme.",
+					null,
+					"<h3>OutFox</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=starlight'>XX -starlight- 2.0</a> and its subsequent versions."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added bitEye."
+				]
+			}
+		]
+	},
+	{
 		"Date": "13/Jan/22",
 		"Changes" : [
 			{
