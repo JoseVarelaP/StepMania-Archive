@@ -350,7 +350,9 @@
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Xsoft%20DDRX%20ver1.01.exe" }
                 ]
             },
-            { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" }
+            { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" },
+			{ "Name": "舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
+			{ "Name": "DSS (Dance Super Station)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar" }
         ]
     },
 
@@ -491,6 +493,7 @@
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX%20v40%20CVS.rar" }
                 ]
             },
+			{ "Name": "舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)", "Date": "2010-08-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
             { "Name": "StepMania 4.0 CVS (20051101)", "Date": "2005-01-11", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania_4.0_CVS_2005-11-01.exe" },
             { "Name": "StepMania 4.0 CVS Work In Progress Revision", "Date": "2006-05-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/stepmania-4.0cvs-wip05132006.exe" },
             { "Name": "StepMania 4.0 CVS (20060613)", "Date": "2006-06-13",

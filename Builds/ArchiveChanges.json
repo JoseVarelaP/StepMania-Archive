@@ -1,10 +1,37 @@
 [
 	{
+		"Date": "26/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Archive Notes",
+				"List": [
+					"Some interesting builds today."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar'>DSS (Dance Super Station)</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "25/Jan/22",
 		"Changes" : [
 			{
-				"Icon": "OITG.png",
-				"Name": "OpenITG",
+				"Icon": "NITG4.png",
+				"Name": "NotITG",
 				"List": [
 					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip'>MZero</a>. This is an old NITG based game that I worked on back in 2017. It didn't end up going anywhere really."
 				]
