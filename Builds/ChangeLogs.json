@@ -314,5 +314,9 @@
 	"OUTFOX4.12.0" : {
         "Name": "OutFox-alpha.4.12.0 Build - 31st December 2021 \"Onegai Muscle!\"",
         "HTMLParse" : "OUTFOX/A4.12.0.md"
+    },
+	"OUTFOX4.13.0" : {
+        "Name": "OutFox-alpha.4.13.0 Build - 9th February 2022 \"Back to the Normality\"",
+        "HTMLParse" : "OUTFOX/A4.13.0.md"
     }
 }

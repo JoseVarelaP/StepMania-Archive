@@ -1383,6 +1383,19 @@
 					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.12.0-arm64v8-date-20211231.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.12.0-arm32v7-date-20211231.tar.gz"}
                 ]
+            },
+			{ "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.13.0-MacOS-date-20220209.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-i386-legacy-Linux-date-20220209.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-amd64-legacy-Linux-date-20220209.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-amd64-Linux-date-20220209.tar.gz" },
+					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.13.0-arm64v8-RaspberryPi-date-20220209.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.13.0-arm32v7-RaspberryPi-date-20220209.tar.gz"}
+                ]
             }
         ]
     }
