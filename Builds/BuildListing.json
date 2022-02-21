@@ -376,6 +376,7 @@
 				],
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
             },
+			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"

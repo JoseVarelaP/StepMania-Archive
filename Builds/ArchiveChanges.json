@@ -8,6 +8,13 @@
 				"List": [
 					"Repackaged versions of StepMania 4 <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip'>Beta 6</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z'>Beta 10</a> have been added."
 				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added <a href='BuildChangeLogs.html?Version=iSTEP'>document about iSTEP</a>."
+				]
 			}
 		]
 	},

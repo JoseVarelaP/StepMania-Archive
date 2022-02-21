@@ -154,6 +154,11 @@
         "HTMLParse" : "SM30/ITGA05132003.md"
     },
 
+	"iSTEP" : {
+        "Name": "Positive Gaming iSTEP",
+        "HTMLParse" : "SM395/iSTEP.md"
+    },
+
 	"ITGB01072004" : {
         "Name": "In The Groove 1 (January 2004 Beta)",
         "HTMLParse" : "SM39/ITGB01072004.md"
