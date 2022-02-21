@@ -570,10 +570,10 @@
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania4-alpha5.exe"
             },
             { "Name": "StepMania 4.0 Beta 6", "Date": "04-05-2007 (?)",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.exe"
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip"
             },
             { "Icon": "SM4B10.png", "Name": "StepMania 4.0 Beta 10", "Date": "2011-01-28",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10.exe"
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z"
             },
             { "Name": "StepMania 4.0 CVS Mod V1.1", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar"
