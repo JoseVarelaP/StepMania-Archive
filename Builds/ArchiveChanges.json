@@ -7,7 +7,15 @@
 				"Name": "Theme Archive",
 				"List": [
 					"Started NotITG theme section.",
-					"Added <a href='../Themes/ThemePreview.html?Category=NITG&ID=SLOat'>SIMPLY LOVE (Oat vs Rya's Fork)</a>."
+					"Added <a href='../Themes/ThemePreview.html?Category=NITG&ID=SLOat'>SIMPLY LOVE (Oat vs Rya's Fork)</a>.",
+					null,
+					"Added a couple of themes I've worked on in the past.",
+					"<h3>OpenITG</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=DWI'>Dance With Intensity</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=NewNovaE'>DDR NewNovaE</a>.",
+					null,
+					"<h3>StepMania 5</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=StRev'>Project Diva Stepping Revision</a>."
 				]
 			}
 		]
