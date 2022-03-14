@@ -210,6 +210,11 @@
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" }
 	},
 
+	"NITG" : {
+		"Name": "NotITG",
+		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
+	},
+
 	"StepMania 5" : {
 		"Name": "StepMania 5",
 		"Barebone" : { "Name": "Barebone", "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
