@@ -219,12 +219,12 @@
 		"Tactics": { "Name": "In The Groove Tactics", "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
-			{ "Name": "1.90", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
-			{ "Name": "1.89", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.89.zip" },
-			{ "Name": "1.01", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.01.zip" },
-			{ "Name": "1.0", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.0.zip" },
-			{ "Name": "0.69", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-0.69.zip" },
-			{ "Name": "0.2", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-0.2.zip" }
+			{ "Name": "1.90", "Date": "2021-05-15", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
+			{ "Name": "1.89", "Date": "2021-05-13", "Link":"Simply-ITG/Simply-ITG-1.89.zip" },
+			{ "Name": "1.01", "Date": "2021-02-16", "Link":"Simply-ITG/Simply-ITG-1.01.zip" },
+			{ "Name": "1.0", "Date": "2021-01-07", "Link":"Simply-ITG/Simply-ITG-1.0.zip" },
+			{ "Name": "0.69", "Date": "2021-01-07", "Link":"Simply-ITG/Simply-ITG-0.69.zip" },
+			{ "Name": "0.2", "Date": "2021-01-02", "Link":"Simply-ITG/Simply-0.2.zip" }
 		] }
 	},
 
