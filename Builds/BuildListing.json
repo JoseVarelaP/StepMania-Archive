@@ -350,7 +350,9 @@
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Xsoft%20DDRX%20ver1.01.exe" }
                 ]
             },
-            { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" }
+            { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" },
+			{ "Name": "舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
+			{ "Name": "DSS (Dance Super Station)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar" }
         ]
     },
 
@@ -374,6 +376,7 @@
 				],
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
             },
+			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"
@@ -456,23 +459,31 @@
                     { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-V4.0.zip" }
                 ]
             },
-            { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
-            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "01-26-2020", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
-			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "04-20-2021",
+            { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
+            { "Icon": "NITG4OR1.png", "Name": "NotITG Version 4/1 (April Fools Day)", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG%204.1%20AFD.zip" },
+			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "2021-04-20",
 				"Windows": [
 					{ "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip"},
 					{ "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/NotITG-4.2.0-QuickStart.zip"}
 				]
 			},
-            { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "09-22-2008" },
-            { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "04-17-2010" },
-            { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "06-09-2010" },
-            { "ID": "OpGr5", "Name": "OpenGroove r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
-            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "05-22-2018", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" },
-            { "ID": "OpGr5", "Name": "In The Groove 3 Encore r5", "Date": "07-02-2010", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe" },
-            { "Name": "In The Groove 3 Encore r35", "Date": "12-12-2011", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe" }
+            { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "2008-09-22" },
+            { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "2010-04-17" },
+            { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "2010-06-09" },
+            { "ID": "OpGr5", "Name": "OpenGroove r5", "Date": "2010-07-02", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/OpenGroove.zip" },
+            { "Icon": "SPLAT.png", "Name": "SplatMania 0.3.3.0", "Date": "2018-05-22", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/SplatMania%200.3.3.0.zip" },
+            { "ID": "OpGr5", "Name": "In The Groove 3 Encore r5", "Date": "2010-07-02", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe" },
+            { "Name": "In The Groove 3 Encore r35", "Date": "2011-12-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe" }
         ]
     },
+
+	"NOTITG" : {
+		"Name": "NotITG based builds",
+		"DefaultIcon": "NITG4.png",
+		"Listing": [
+			{ "Icon": "MZERO.png", "Name": "MZero Beta", "Date": "2017-03-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip" }
+		]
+	},
 
     "SM4" : {
         "Name": "StepMania 4.0 Normal/CVS Builds",
@@ -483,6 +494,7 @@
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX%20v40%20CVS.rar" }
                 ]
             },
+			{ "Name": "舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)", "Date": "2010-08-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
             { "Name": "StepMania 4.0 CVS (20051101)", "Date": "2005-01-11", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania_4.0_CVS_2005-11-01.exe" },
             { "Name": "StepMania 4.0 CVS Work In Progress Revision", "Date": "2006-05-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/stepmania-4.0cvs-wip05132006.exe" },
             { "Name": "StepMania 4.0 CVS (20060613)", "Date": "2006-06-13",
@@ -559,10 +571,10 @@
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania4-alpha5.exe"
             },
             { "Name": "StepMania 4.0 Beta 6", "Date": "04-05-2007 (?)",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.exe"
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip"
             },
             { "Icon": "SM4B10.png", "Name": "StepMania 4.0 Beta 10", "Date": "2011-01-28",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10.exe"
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z"
             },
             { "Name": "StepMania 4.0 CVS Mod V1.1", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar"
@@ -1077,6 +1089,24 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.71.0-Darwin.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.71.0-Linux-x64.dmg",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.0.tar.gz"
+            },
+            { "Name": "Etterna 0.71.1", "Date": "2021-12-12",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win64.exe" }
+                ],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.71.1-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.71.1-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.1.tar.gz"
+            },
+            { "Name": "Etterna 0.71.2", "Date": "2022-03-14",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win64.exe" }
+                ],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.71.2-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.71.2-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.2.tar.gz"
             }
         ]
     },
@@ -1371,6 +1401,30 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.12.0-amd64-linux-date-20211231.tar.gz" },
 					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.12.0-arm64v8-date-20211231.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.12.0-arm32v7-date-20211231.tar.gz"}
+                ]
+            },
+			{ "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.13.0-MacOS-date-20220209.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-i386-legacy-Linux-date-20220209.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-amd64-legacy-Linux-date-20220209.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.13.0-amd64-Linux-date-20220209.tar.gz" },
+					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.13.0-arm64v8-RaspberryPi-date-20220209.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.13.0-arm32v7-RaspberryPi-date-20220209.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.14.0", "Name": "Project OutFox Alpha 4.14.0", "Date": "2022-03-25",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.0-MacOS-date-20220325.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.14.0-Linux-i386-legacy-date-20220325.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.14.0-Linux-amd64-legacy-date-20220325.tar" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.14.0-Linux-amd64-date-20220325.tar" }
                 ]
             }
         ]

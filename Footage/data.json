@@ -198,9 +198,19 @@
                 "RecordDate": "2008-03-15",
                 "Container" : "In%20The%20Groove/EuroCup%202008%20Silverstone%20Zwanenburg%2C%20NL%20March%2014-16%202008",
 
+				"ECImpressions" : {
+                    "Name": "Impressions video",
+                    "VideoLink": "PG%20EC%202008.mp4",
+                    "RecordDate": "2008-03-18",
+                    "Src": {
+                        "Name": "Positive Gaming BV",
+                        "Link": "https://www.youtube.com/watch?v=KAVvMxHIpg8"
+                    }
+                },
+
                 "MultiRockRoll" : {
                     "Name": "Multiplayer - This is Rock & Roll",
-                    "VideoLink": "In%20The%20Groove/ITGEC2008/ITG%20EC%202008%20-%20Multiplayer%20-%20This%20is%20Rock%20%26%20Roll.mp4",
+                    "VideoLink": "ITG%20EC%202008%20-%20Multiplayer%20-%20This%20is%20Rock%20%26%20Roll.mp4",
                     "RecordDate": "2008-03-18",
                     "Src": {
                         "Name": "RanFox",

@@ -98,7 +98,31 @@
 			"Name": "DDR A20",
 			"Author": "TK0",
 			"Link": [
-				{ "Name": "Standard", "Link": "DDRA/DDR%20A20.zip" },
+				{ "Name": "[4.5.5] Standard", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR%20A20.zip" },
+				{ "Name": "[4.5.5] DDR A with 2014 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.5] DDR A with A20 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.5] DDR A with DDR1st UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.5] DDR A With EXTREME UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.5] DDR A With Supernova2 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.5] DDR A With X2 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A With X2 UI.zip" },
+
+				{ "Name": "[4.5.4?] Standard", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR%20A20.zip" },
+				{ "Name": "[4.5.4?] DDR A with 2014 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A with A20 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A with DDR1st UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With EXTREME UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With Supernova2 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.4?] DDR A With X2 UI", "Date": "2021-11-05", "Link" : "DDRA/2021-11-05/DDR A With X2 UI.zip" },
+
+				{ "Name": "[4.5.1a] Standard", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR%20A20.zip" },
+				{ "Name": "[4.5.1a] DDR A with 2014 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with 2014 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A with A20 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with A20 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A with DDR1st UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A with DDR1st UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With EXTREME UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With EXTREME UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With Supernova2 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With Supernova2 UI.zip" },
+				{ "Name": "[4.5.1a] DDR A With X2 UI", "Date": "2021-10-29", "Link" : "DDRA/2021-10-29/DDR A With X2 UI.zip" },
+
+				{ "Name": "Standard", "Link" : "DDRA/DDR%20A20.zip" },
 				{ "Name": "DDR A with 2014 UI", "Link" : "DDRA/DDR A with 2014 UI.zip" },
 				{ "Name": "DDR A with A20 UI", "Link" : "DDRA/DDR A with A20 UI.zip" },
 				{ "Name": "DDR A with DDR1st UI", "Link" : "DDRA/DDR A with DDR1st UI.zip" },
@@ -166,6 +190,17 @@
 		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "Link": "Meat.rar" },
 		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "My%20Little%20Pony.zip" },
 		"Obscurity": { "Name": "Obscurity", "HasImages": true, "Link": "Obscurity.smzip" },
+		"NewNovaE": { "Name": "DDR NewNovaE", "Author": "Jose_Varela", "Date": "2018-02-13", "Link": [
+			{ "Name": "v28", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" },
+			{ "Name": "v27", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" }
+		] },
+		"DWI": { "Name": "Dance With Intensity", "Author": "Jose_Varela", "Date": "2017-07-03", "Link": [
+			{ "Name": "1.6.5 (Fixes on the Goodies)", "Date": "2018-03-25", "Link":"DWI/-NotITG--Dance-With-Intensity-1.6.5.zip" },
+			{ "Name": "1.6.0 (Extra Goodies)", "Date": "2018-03-25", "Link":"DWI/-NotITG--Dance-With-Intensity-1.6.0.zip" },
+			{ "Name": "1.5.0 (The Final Release)", "Date": "2018-03-24", "Link":"DWI/-NotITG--Dance-With-Intensity-1.5.0.zip" },
+			{ "Name": "1.0.0", "Date": "2017-07-12", "Link":"DWI/Dance-With-Intensity-1.0.0.zip" },
+			{ "Name": "0.6.2 Beta Test", "Date": "2017-07-03", "Link":"DWI/-NotITG--Dance-With-Intensity-0.6.2.zip" }
+		] },
 		"PrismRhythm15": {
 			"Name": "PrismRhythm 15",
 			"Date": "2019-07-04",
@@ -183,7 +218,19 @@
 		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
 		"Tactics": { "Name": "In The Groove Tactics", "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
-		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" }
+		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
+			{ "Name": "1.90", "Date": "2021-05-15", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
+			{ "Name": "1.89", "Date": "2021-05-13", "Link":"Simply-ITG/Simply-ITG-1.89.zip" },
+			{ "Name": "1.01", "Date": "2021-02-16", "Link":"Simply-ITG/Simply-ITG-1.01.zip" },
+			{ "Name": "1.0", "Date": "2021-01-07", "Link":"Simply-ITG/Simply-ITG-1.0.zip" },
+			{ "Name": "0.69", "Date": "2021-01-07", "Link":"Simply-ITG/Simply-ITG-0.69.zip" },
+			{ "Name": "0.2", "Date": "2021-01-02", "Link":"Simply-ITG/Simply-0.2.zip" }
+		] }
+	},
+
+	"NITG" : {
+		"Name": "NotITG",
+		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
 	},
 
 	"StepMania 5" : {
@@ -242,8 +289,9 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
-				{ "Name": "Simply-Love-latest", "Link": "https://github.com/Simply-Love/Simply-Love-SM5/archive/release.zip" },
-				{ "Name": "Simply-Love-v5.0", "Date":"2021-04-10", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
+				{ "Name": "Simply-Love-v5.1.0v2", "Date":"2022-03-24", "Link": "Simply-Love/Simply-Love-v5.1.0v2.zip"},
+				{ "Name": "Simply-Love-v5.0.1", "Date":"2021-05-28", "Link": "Simply-Love/Simply-Love-v5.0.1.zip"},
+				{ "Name": "Simply-Love-v5.0", "Date":"2021-05-10", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
 				{ "Name": "Simply-Love-v4.9.1", "Date":"2020-10-28", "Link": "Simply-Love/Simply-Love-v4.9.1.zip"},
 				{ "Name": "Simply-Love-v4.9", "Date":"2020-07-14", "Link": "Simply-Love/Simply-Love-v4.9.zip"},
 				{ "Name": "Simply-Love-v4.8.7", "Date":"2020-04-1", "Link": "Simply-Love/Simply-Love-v4.8.7.zip"},
@@ -270,6 +318,10 @@
 		},
 		"SMSuperNova" : { "Name": "StepMania SuperNova V3", "Link": "StepMania%20Supernova%20Version%203.zip" },
 		"SMPREX3" : { "Name": "SMPREX3 cvs 1.1.1", "Link": "SMPREX3%20cvs%201.1.1.zip" },
+		"StRev" : { "Name": "Project Diva Stepping Revision", "Author": "Jose_Varela", "Link": [
+			{ "Name": "Latest", "Date": "2018-11-07", "Link":"SteppingRevision/PD-Stepping-Revision-master.zip"},
+			{ "Name": "SR Classic", "Date": "2018-08-30", "Link":"SteppingRevision/PD-Stepping-Revision-Classic-DIVA.zip"}
+		] },
 		"TKMix" : { "Name": "TK Mix", "Link": "TK%20Mix.zip" },
 		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
@@ -292,6 +344,8 @@
 				{ "Name": "XX -starlight- V1.2.1c", "Date": "2020-06-18", "Link":"XX-starlight-/XX -starlight- V1.2.1c 2020-06-18.zip"}
 			]
 		},
+		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
+		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
 		"ultralight" : { "Name": "ultralight", "Link": "ultralight_20141006-r13.zip" },
 		"UPSRT" : { "Name": "UPSRT", "Link": "UPSRT.zip" },
 		"XIX.SUPER" : { "Name": "XIX Laconia", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
@@ -303,7 +357,6 @@
 		"Infinitesimal": { "Name": "Infinitesimal", "Date": "2021-05-07", "Author": "dj505", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
 		"SoundWaves": { "Name": "SoundWaves (Community Version)", "Author": "Tiny-Foxes",
 			"Link": [
-				{ "Name": "Latest", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/heads/main.zip"},
 				{ "Name": "a4.10.0", "Date": "2021-09-24", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.10.zip"},
 				{ "Name": "a4.9.9", "Date": "2021-08-08", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.9.zip"},
 				{ "Name": "a4.9.8", "Date": "2021-04-27", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.8.tar.gz"},
@@ -311,6 +364,18 @@
 				{ "Name": "a4.9.7", "Date": "2021-02-20", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.7.tar.gz"},
 				{ "Name": "a4.9.6", "Date": "2020-12-16", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.6.tar.gz"},
 				{ "Name": "a4.9.5", "Date": "2020-11-30", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.5.tar.gz"}
+			]
+		},
+		"starlight" : {
+			"Name": "XX -starlight- 2.0",
+			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
+			"Link": [
+				{ "Name": "XX_-starlight-_V2.1.0HF", "Date": "2021-02-21", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip" },
+				{ "Name": "XX_-starlight-_V2.1.0", "Date": "2022-02-17", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0.zip" },
+				{ "Name": "XX_-starlight-_V2.0.2", "Date": "2021-12-06", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.2.zip" },
+				{ "Name": "XX_-starlight-_V2.0.1", "Date": "2021-11-27", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.1.zip" },
+				{ "Name": "XX_-starlight-_V2.0.0_hotfix_1", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.Hotfix.1.zip" },
+				{ "Name": "XX_-starlight-_V2.0.0", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.0.zip" }
 			]
 		},
 		"Superuser": {

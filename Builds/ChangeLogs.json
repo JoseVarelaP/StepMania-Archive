@@ -154,6 +154,11 @@
         "HTMLParse" : "SM30/ITGA05132003.md"
     },
 
+	"iSTEP" : {
+        "Name": "Positive Gaming iSTEP",
+        "HTMLParse" : "SM395/iSTEP.md"
+    },
+
 	"ITGB01072004" : {
         "Name": "In The Groove 1 (January 2004 Beta)",
         "HTMLParse" : "SM39/ITGB01072004.md"
@@ -314,5 +319,13 @@
 	"OUTFOX4.12.0" : {
         "Name": "OutFox-alpha.4.12.0 Build - 31st December 2021 \"Onegai Muscle!\"",
         "HTMLParse" : "OUTFOX/A4.12.0.md"
+    },
+	"OUTFOX4.13.0" : {
+        "Name": "OutFox-alpha.4.13.0 Build - 9th February 2022 \"Back to the Normality\"",
+        "HTMLParse" : "OUTFOX/A4.13.0.md"
+    },
+    "OUTFOX4.14.0" : {
+        "Name": "OutFox-alpha.4.14.0 Build - 25th March 2022 \"You've upset the cat!\"",
+        "HTMLParse" : "OUTFOX/A4.14.0.md"
     }
 }

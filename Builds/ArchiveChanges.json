@@ -1,5 +1,151 @@
 [
 	{
+		"Date": "26/Mar/22",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe'>Project OutFox Alpha 4.14.0</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added theme updates for the following themes;.",
+					"Added v2.1.0HF for <a href='../Themes/ThemePreview.html?Category=OutFox&ID=starlight'>XX-Starlight</a> on OutFox.",
+					null,
+					"Added versions v5.0.1 and v5.1.0 for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SimplyLove'>Simply-Love</a> in StepMania 5.",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=Waterfall'>Waterfall</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=WFExpanded'>Waterfall Expanded</a>.",
+					"<h3>OpenITG</h3>",
+					"Added all available versions of <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply-ITG</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "14/Mar/22",
+		"Changes" : [
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win64.exe'>Etterna 0.71.1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win64.exe'>Etterna 0.71.2</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Started NotITG theme section.",
+					"Added <a href='../Themes/ThemePreview.html?Category=NITG&ID=SLOat'>SIMPLY LOVE (Oat vs Rya's Fork)</a>.",
+					null,
+					"Added a couple of themes I've worked on in the past.",
+					"<h3>OpenITG</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=DWI'>Dance With Intensity</a>.",
+					"Added <a href='../Themes/ThemePreview.html?Category=OITG&ID=NewNovaE'>DDR NewNovaE</a>.",
+					null,
+					"<h3>StepMania 5</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=StRev'>Project Diva Stepping Revision</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "20/Feb/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Repackaged versions of StepMania 4 <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip'>Beta 6</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z'>Beta 10</a> have been added."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added <a href='BuildChangeLogs.html?Version=iSTEP'>document about iSTEP</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "10/Feb/22",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe'>Project OutFox Alpha 4.13.0</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "26/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Archive Notes",
+				"List": [
+					"Some interesting builds today."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar'>DSS (Dance Super Station)</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "NITG4.png",
+				"Name": "NotITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip'>MZero</a>. This is an old NITG based game that I worked on back in 2017. It didn't end up going anywhere really."
+				]
+			}
+		]
+	},
+	{
+		"Date": "17/Jan/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"<h3>SM3.9 Plus</h3>",
+					"Added version 4.5.5 of VR0's DDR A and A20 theme.",
+					null,
+					"<h3>OutFox</h3>",
+					"Added <a href='../Themes/ThemePreview.html?Category=OutFox&ID=starlight'>XX -starlight- 2.0</a> and its subsequent versions."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Tools Archive",
+				"List": [
+					"Added bitEye."
+				]
+			}
+		]
+	},
+	{
 		"Date": "13/Jan/22",
 		"Changes" : [
 			{

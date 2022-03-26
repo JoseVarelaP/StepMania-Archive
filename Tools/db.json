@@ -7,6 +7,15 @@
             { "Name": "ArrowVortex (Feb 2017)", "Date" : "2017-02-25", "Windows": "ArrowVortex-2017-02-25.rar" }
         ]
     },
+	"bitEye" : {
+		"Name": "bitEye",
+		"Description": "Library and tool to preview RandomMovies and BGAnimations when creating BGScripts or charts for StepMania 5+.",
+		"Listing" : [
+			{ "Name": "bitEye v1.0.0", "Date" : "2021-10-10", "Src": "bitEye.v1.0.0.zip" },
+            { "Name": "bitEye v2.0.0", "Date" : "2021-10-10", "Src": "bitEye.v2.0.0.rar" },
+            { "Name": "bitEye v2.0.1", "Date" : "2021-10-11", "Src": "bitEye.v2.0.1.rar" }
+		]
+	},
     "stependous" : {
         "Name": "Stependous",
         "Description": "Stependous is a utility which facilitates the creation of <abbr title='Dance With Intensity'>DWI</abbr> files for use in your <abbr title='Dance Dance Revolution'>DDR</abbr> simulator. Its goal is to be an all-in-one solution for creating step files that is easy for anyone to use.",
