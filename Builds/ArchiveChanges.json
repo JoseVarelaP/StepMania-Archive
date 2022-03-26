@@ -1,7 +1,39 @@
 [
 	{
+		"Date": "26/Mar/22",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe'>Project OutFox Alpha 4.14.0</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added theme updates for the following themes;.",
+					"Added v2.1.0HF for <a href='../Themes/ThemePreview.html?Category=OutFox&ID=starlight'>XX-Starlight</a> on OutFox.",
+					null,
+					"Added versions v5.0.1 and v5.1.0 for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SimplyLove'>Simply-Love</a> in StepMania 5.",
+					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=Waterfall'>Waterfall</a> and <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=WFExpanded'>Waterfall Expanded</a>.",
+					"<h3>OpenITG</h3>",
+					"Added all available versions of <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply-ITG</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "14/Mar/22",
 		"Changes" : [
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win64.exe'>Etterna 0.71.1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win64.exe'>Etterna 0.71.2</a>."
+				]
+			},
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",

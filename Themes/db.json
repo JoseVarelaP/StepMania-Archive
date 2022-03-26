@@ -218,7 +218,14 @@
 		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
 		"Tactics": { "Name": "In The Groove Tactics", "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
-		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" }
+		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
+			{ "Name": "1.90", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
+			{ "Name": "1.89", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.89.zip" },
+			{ "Name": "1.01", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.01.zip" },
+			{ "Name": "1.0", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-1.0.zip" },
+			{ "Name": "0.69", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-ITG-0.69.zip" },
+			{ "Name": "0.2", "Date": "2017-07-03", "Link":"Simply-ITG/Simply-0.2.zip" }
+		] }
 	},
 
 	"NITG" : {
@@ -282,8 +289,9 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
-				{ "Name": "Simply-Love-latest", "Link": "https://github.com/Simply-Love/Simply-Love-SM5/archive/release.zip" },
-				{ "Name": "Simply-Love-v5.0", "Date":"2021-04-10", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
+				{ "Name": "Simply-Love-v5.1.0v2", "Date":"2022-03-24", "Link": "Simply-Love/Simply-Love-v5.1.0v2.zip"},
+				{ "Name": "Simply-Love-v5.0.1", "Date":"2021-05-28", "Link": "Simply-Love/Simply-Love-v5.0.1.zip"},
+				{ "Name": "Simply-Love-v5.0", "Date":"2021-05-10", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
 				{ "Name": "Simply-Love-v4.9.1", "Date":"2020-10-28", "Link": "Simply-Love/Simply-Love-v4.9.1.zip"},
 				{ "Name": "Simply-Love-v4.9", "Date":"2020-07-14", "Link": "Simply-Love/Simply-Love-v4.9.zip"},
 				{ "Name": "Simply-Love-v4.8.7", "Date":"2020-04-1", "Link": "Simply-Love/Simply-Love-v4.8.7.zip"},
@@ -336,6 +344,8 @@
 				{ "Name": "XX -starlight- V1.2.1c", "Date": "2020-06-18", "Link":"XX-starlight-/XX -starlight- V1.2.1c 2020-06-18.zip"}
 			]
 		},
+		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
+		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
 		"ultralight" : { "Name": "ultralight", "Link": "ultralight_20141006-r13.zip" },
 		"UPSRT" : { "Name": "UPSRT", "Link": "UPSRT.zip" },
 		"XIX.SUPER" : { "Name": "XIX Laconia", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
@@ -347,7 +357,6 @@
 		"Infinitesimal": { "Name": "Infinitesimal", "Date": "2021-05-07", "Author": "dj505", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
 		"SoundWaves": { "Name": "SoundWaves (Community Version)", "Author": "Tiny-Foxes",
 			"Link": [
-				{ "Name": "Latest", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/heads/main.zip"},
 				{ "Name": "a4.10.0", "Date": "2021-09-24", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.10.zip"},
 				{ "Name": "a4.9.9", "Date": "2021-08-08", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.9.zip"},
 				{ "Name": "a4.9.8", "Date": "2021-04-27", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.8.tar.gz"},
@@ -361,6 +370,8 @@
 			"Name": "XX -starlight- 2.0",
 			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
 			"Link": [
+				{ "Name": "XX_-starlight-_V2.1.0HF", "Date": "2021-02-21", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip" },
+				{ "Name": "XX_-starlight-_V2.1.0", "Date": "2022-02-17", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0.zip" },
 				{ "Name": "XX_-starlight-_V2.0.2", "Date": "2021-12-06", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.2.zip" },
 				{ "Name": "XX_-starlight-_V2.0.1", "Date": "2021-11-27", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.1.zip" },
 				{ "Name": "XX_-starlight-_V2.0.0_hotfix_1", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.Hotfix.1.zip" },
