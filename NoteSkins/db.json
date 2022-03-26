@@ -1,5 +1,5 @@
 {
-    "StepMania 4": {
+    "SM4": {
         "Note" : {
         }
     },
@@ -51,79 +51,98 @@
                 "Name": "FFRHD",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWFFRHDSM5.7z"
             },
             "FFRular" : {
                 "Name": "FFRular",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWFFRular.7z"
             },
             "JamLegendTap" : {
                 "Name": "JamLegendTap",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWJamLegendTap.7z"
             },
             "Metal" : {
                 "Name": "Metal",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWMetal.7z"
             },
             "Metalbar" : {
                 "Name": "Metalbar",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWMetalbar.7z"
             },
             "MGD3" : {
                 "Name": "MGD3",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWmgd3defaultSM5+.7z"
             },
             "Midare++" : {
                 "Name": "Midare++",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWMidare++.7z"
             },
             "Notebar+" : {
                 "Name": "Notebar+",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWNotebar+.7z"
             },
             "Orbular" : {
                 "Name": "Orbular",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWOrbular.7z"
             },
             "Robot" : {
                 "Name": "Robot",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWRobot.7z"
             },
             "Thirdstyle" : {
                 "Name": "Thirdstyle",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": "USWThirdStyle.7z"
             },
             "Vel" : {
                 "Name": "Vel",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": {
+                    "2D" : "USWVelSM5.7z",
+                    "3D+" : "USWVel3DSM5+.7z"
+                }
             },
             "USWCel3DSM5+" : {
                 "Name": "USWCel3DSM5+",
                 "Author": "Jousway",
                 "NoteShape": 0,
-                "ColorType": 0
+                "ColorType": 0,
+                "Download": {
+                    "2D" : "USWCelSM5.7z",
+                    "3D+" : "USWCel3DSM5+.7z"
+                }
             }
         }
     }

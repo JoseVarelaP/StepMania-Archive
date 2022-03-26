@@ -104,11 +104,11 @@ const NoteSkinArchive = {
 
                     const NoteSkinPreviewNote = document.createElement("img");
                     NoteSkinPreviewNote.alt = "Note";
-                    NoteSkinPreviewNote.src = `https://objects-us-east-1.dream.io/smnoteskins/SM5/${NoteSkin}-note.gif`;
+                    NoteSkinPreviewNote.src = `https://objects-us-east-1.dream.io/smnoteskins/${BuildVersion}/${NoteSkin}-note.gif`;
 
                     const NoteSkinPreviewMine = document.createElement("img");
                     NoteSkinPreviewMine.alt = "Mine";
-                    NoteSkinPreviewMine.src = `https://objects-us-east-1.dream.io/smnoteskins/SM5/${NoteSkin}-mine.gif`;
+                    NoteSkinPreviewMine.src = `https://objects-us-east-1.dream.io/smnoteskins/${BuildVersion}/${NoteSkin}-mine.gif`;
 
                     // const NoteSkinPreviewLift = document.createElement("img")
                     // NoteSkinPreviewLift.src = `https://objects-us-east-1.dream.io/smnoteskins/SM5/${NoteSkin}-Lift.gif`
@@ -143,6 +143,43 @@ const NoteSkinArchive = {
                             }
                             DownloadLink.innerHTML = str;
                             NoteSkinContainer.appendChild(DownloadLink);
+
+                            // TODO: Convert this
+                            /* 
+                            cell = row.insertCell();
+                            const elementlength = NSData.Download.length
+                            if( elementlength < 2 )
+                            {
+                                const a = document.createElement('a'); 
+                                const link = document.createTextNode( element[Version][0].Name );
+                                a.title = "Available";
+                                a.innerHTML = element[Version][0].Name
+                                a.href = element[Version][0].Link;
+                                cell.appendChild(a);
+                            } else {
+                                const sel = document.createElement('select');
+                                
+                                // Add the fallback option.
+                                var fal = document.createElement('option')
+                                fal.text = "Select"
+                                fal.hidden = true
+                                fal.selected = true
+        
+                                sel.add( fal )
+                                for ( let i = 0; i < elementlength; i++ ){
+                                    const a = document.createElement('option');
+                                    a.text = NSData.Download[i].Name;
+                                    a.value = NSData.Download[i].Download;
+                                    sel.add(a)
+                                }
+        
+                                sel.onchange = function() {
+                                    window.location = this.value
+                                    console.log( this.value )
+                                }
+                                cell.appendChild(sel);
+                            }
+                            */
                         }
                         else
                         {
@@ -182,105 +219,6 @@ function generateTableHead(table) {
       const text = document.createTextNode(key);
       th.appendChild(text);
       row.appendChild(th);
-    }
-}
-  
-/**
- * Generates the elements to send
- * @param {HTMLTableElement} table 
- * @param {Array} data 
- * @param {string} DefaultIcon 
- */
-function generateTable(table, data, DefaultIcon) {
-    for (const element of data) {
-        const row = table.insertRow();
-        let cell;
-        
-        // Text actor for items. Can be overwritten.
-        // let text = document.createTextNode(element[key]);
-
-        // Let's start by obtaining the ID, icon and stuff like that.
-        // console.log( element );
-        cell = row.insertCell();
-        const img = document.createElement("img");
-        img.style = "width: 24px";
-        if( element.Icon )
-            img.src = `VersionIcon/${element.Icon}`;
-        else
-            // But to save some space and duplicates, DefaultIcon can help.
-            if( DefaultIcon )
-                img.src = `VersionIcon/${DefaultIcon}`;
-        cell.appendChild(img)
-
-        // Get the build name
-        if( element.Name )
-        {
-            cell = row.insertCell();
-            // If the build listing has the ID tag, then that means we can access the changelog/history.
-            // So for that occasion, create a hyperlink instead of text.
-            if( element.ID )
-            {
-                let text = document.createTextNode( element.Name );
-                const a = document.createElement('a'); 
-                a.appendChild(text);
-                a.href = `BuildChangeLogs.php?Version=${element.ID}`;
-                cell.appendChild(a);
-            } else {
-                // Otherwise, it's regular text.
-                let text = document.createTextNode( element.Name );
-                cell.appendChild(text)
-            }
-        }
-
-        // Get the build's date.
-        if( element.Date )
-        {
-            cell = row.insertCell();
-            let text = document.createTextNode( element.Date );
-            cell.appendChild(text)
-        }
-
-        // Get the build links.
-        // For this one, we'll iterate through the available versions.
-        // These are the available instances of what the build types can be.
-        const acceptedLanguages = ['Windows', 'Mac', 'Linux', 'Src'];
-
-        for( let Version of acceptedLanguages )
-        {
-            cell = row.insertCell();
-            // If the item exists, create the link!
-            if( element[Version] )
-            {
-                // If the object is a table (object), then we have to
-                // iterate through them all, in a <hr>thing</hr> style.
-                if( typeof element[Version] === 'object' )
-                {
-                    for ( let i = 0; i < element[Version].length; i++ ){
-                        const a = document.createElement('a'); 
-                        const link = document.createTextNode( element[Version][i].Name );
-                        a.appendChild(link);
-                        a.title = "Available";
-                        a.href = element[Version][i].Link;
-                        cell.appendChild(a);
-                        if( i < element[Version].length-1 )
-                            cell.appendChild( document.createElement("hr") );
-                    }
-                // Otherwise, it's a single item, so just add the link.
-                } else {
-                    const a = document.createElement('a'); 
-                    const link = document.createTextNode("Available");
-                    a.appendChild(link);
-                    a.title = "Available";
-                    a.href = element[Version];
-                    cell.appendChild(a);
-                }
-            }
-            // If there's no data at all, just generate the not available tag.
-            else {
-                let an = document.createTextNode("-");
-                cell.appendChild(an);
-            }
-        }
     }
 }
 
