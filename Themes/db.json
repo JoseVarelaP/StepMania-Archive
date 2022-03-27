@@ -289,6 +289,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
+				{ "Name": "Simply-Love-v5.1.1", "Date":"2022-03-26", "Link": "Simply-Love/Simply-Love-v5.1.1.zip"},
 				{ "Name": "Simply-Love-v5.1.0v2", "Date":"2022-03-24", "Link": "Simply-Love/Simply-Love-v5.1.0v2.zip"},
 				{ "Name": "Simply-Love-v5.0.1", "Date":"2021-05-28", "Link": "Simply-Love/Simply-Love-v5.0.1.zip"},
 				{ "Name": "Simply-Love-v5.0", "Date":"2021-05-10", "Link": "Simply-Love/Simply-Love-v5.0.zip"},
