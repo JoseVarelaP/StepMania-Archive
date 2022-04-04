@@ -327,5 +327,9 @@
     "OUTFOX4.14.0" : {
         "Name": "OutFox-alpha.4.14.0 Build - 25th March 2022 \"You've upset the cat!\"",
         "HTMLParse" : "OUTFOX/A4.14.0.md"
+    },
+    "OUTFOX4.14.1" : {
+        "Name": "OutFox-alpha.4.14.1 Build - 27th March 2022 \"Hot Fix Relief\"",
+        "HTMLParse" : "OUTFOX/A4.14.1.md"
     }
 }
