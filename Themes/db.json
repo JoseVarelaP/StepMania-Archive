@@ -185,7 +185,7 @@
 		"ITG3Encore": { "Name": "In The Groove 3 Encore", "Link": "ITG%203%20-%20Encore.rar" },
 		"ITGParty": { "Name": "In The Groove Party", "Link": "ITG%20Party.rar" },
 		"Deco": { "Name": "In The Groove Deco", "HasImages": true, "Link": "ITG%20Deco.rar" },
-		"Empress": { "Name": "In The Groove 2 Empress", "Link": "ITG2Empress1.1.zip" },
+		"Empress": { "Name": "In The Groove 2 Empress", "HasImages": true, "Link": "ITG2Empress1.1.zip" },
 		"Retro": { "Name": "In The Groove Retro", "Link": "ITGretro.zip" },
 		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "Link": "Meat.rar" },
 		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "My%20Little%20Pony.zip" },
@@ -215,8 +215,8 @@
 			"Date": "2020-11-20",
 			"Link": "PrismRhythm%2016.zip"
 		},
-		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
-		"Tactics": { "Name": "In The Groove Tactics", "Link": "tactics.rar" },
+		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "HasImages": true, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
+		"Tactics": { "Name": "In The Groove Tactics", "HasImages": true, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
 			{ "Name": "1.90", "Date": "2021-05-15", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
@@ -230,12 +230,12 @@
 
 	"NITG" : {
 		"Name": "NotITG",
-		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
+		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "HasImages": true, "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
 	},
 
 	"StepMania 5" : {
 		"Name": "StepMania 5",
-		"Barebone" : { "Name": "Barebone", "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
+		"Barebone" : { "Name": "Barebone", "HasImages": true, "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
 		"CS7MS" : {
 			"Name": "Cyberia Style 7 -metal system-",
 			"Author": "gl_yukt",
@@ -261,6 +261,7 @@
 			"Name": "Cyberia Style 8 LAST APPROACH",
 			"Author": "gl_yukt",
 			"Version": "L-12",
+			"HasImages": true,
 			"Link": [
 				{ "Name": "L-12_Rev 37", "Link": "CyberiaStyle_LAST_APPROACH_037_vL12.zip" },
 				{ "Name": "L-6_Rev 27", "Date": "2016-05-08", "Link": "CyberiaStyle_LAST_APPROACH_027_vL06.rar" }
@@ -274,7 +275,7 @@
 		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19", "Link": "https://github.com/Curilang/DDR-A/archive/refs/heads/main.zip" },
 		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
 		"DDRA20M" : { "Name": "DDR A20 Minus", "Author": "pupsi", "Date": "2021-05-08", "Link": "DanceDanceRevolution%20A20%20Minus.rar" },
-		"DDR5th" : { "Name": "DDR 5th Mix", "Date": "2014-07-23", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
+		"DDR5th" : { "Name": "DDR 5th Mix", "HasImages": true, "Date": "2014-07-23", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
 		"DDRNG" : { "Name": "DDR Next Generation", "Date": "2014-07-23", "Version": "7", "Link": "DDRNG.zip" },
 		"DDRNMini" : { "Name": "DDR Mini", "Author": "pupsi", "Date": "2021-03-08", "Link": "DanceDanceRevolution%20Mini.zip" },
 		"DDR7th" : { "Name": "DDR 7th Mix (DDR MAX2)", "Date": "2014-07-08", "Version": "7", "Link": [
@@ -282,7 +283,7 @@
 			{ "Name": "HD Version", "Link": "Dance%20Dance%20Revolution%207th%20Mix%20-HDDR%20MAX2-.zip" }
 		] },
 		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Dance%20Dance%20Revolution%207th%20mix%20-DDR%20MAX2-.rar" },
-		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
+		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
 		"02ManiaEX" : { "Name": "02Mania EX", "Date": "2014-05-27", "Version": "5", "Link": "O2Mania%20EX.zip" },
 		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Date": "2014-05-27", "Version": "5", "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
 		"SMXG" : { "Name": "SMXG ReEvolution", "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
@@ -319,7 +320,7 @@
 		},
 		"SMSuperNova" : { "Name": "StepMania SuperNova V3", "Link": "StepMania%20Supernova%20Version%203.zip" },
 		"SMPREX3" : { "Name": "SMPREX3 cvs 1.1.1", "Link": "SMPREX3%20cvs%201.1.1.zip" },
-		"StRev" : { "Name": "Project Diva Stepping Revision", "Author": "Jose_Varela", "Link": [
+		"StRev" : { "Name": "Project Diva Stepping Revision", "HasImages": true, "Author": "Jose_Varela", "Link": [
 			{ "Name": "Latest", "Date": "2018-11-07", "Link":"SteppingRevision/PD-Stepping-Revision-master.zip"},
 			{ "Name": "SR Classic", "Date": "2018-08-30", "Link":"SteppingRevision/PD-Stepping-Revision-Classic-DIVA.zip"}
 		] },
@@ -327,9 +328,10 @@
 		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
 		"XV" : { "Name": "XV", "Link": "XV.zip" },
-		"sw2" : { "Name": "soda*sweets 2", "Link": "sodasweets2.rar" },
+		"sw2" : { "Name": "soda*sweets 2", "HasImages": true, "Link": "sodasweets2.rar" },
 		"starlight" : {
 			"Name": "XX -starlight-",
+			"HasImages": true,
 			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
 			"Link": [
 				{ "Name": "XX_-starlight-_V1.4.0", "Date": "2021-03-17", "Link":"XX-starlight-/XX_-starlight-_V1.4.0_2021-03-17.zip"},
@@ -347,8 +349,8 @@
 		},
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
-		"ultralight" : { "Name": "ultralight", "Link": "ultralight_20141006-r13.zip" },
-		"UPSRT" : { "Name": "UPSRT", "Link": "UPSRT.zip" },
+		"ultralight" : { "Name": "ultralight", "HasImages": true, "Link": "ultralight_20141006-r13.zip" },
+		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "Link": "UPSRT.zip" },
 		"XIX.SUPER" : { "Name": "XIX Laconia", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
 	},
 
