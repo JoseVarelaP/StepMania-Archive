@@ -1,5 +1,26 @@
 [
 	{
+		"Date": "18/Apr/22",
+		"Changes" : [
+			{
+				"Icon": "SM4.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Fixed entries for the following items:",
+					null,
+					"<h3>StepMania 4</h3> : dubai 11DX, Strike"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Fixed link for 舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)."
+				]
+			}
+		]
+	},
+	{
 		"Date": "3/Apr/22",
 		"Changes" : [
 			{
@@ -117,7 +138,7 @@
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E8%B7%B3%E8%88%9E%E6%AF%AF_V2.0%E6%96%B0%E7%A8%8B%E5%BA%8F.rar'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
 				]
 			}
 		]

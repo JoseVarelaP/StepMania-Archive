@@ -167,14 +167,14 @@
 	"SM4" : {
 		"Name": "StepMania 4",
 		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "AJ 187", "Version": "pb1", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
-		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
+		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "dubai11DX.zip" },
 		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Link": "DWI_xmas2007.rar" },
 		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
 		"Moonlight" : { "Name": "Moonlight", "Author": "AJ 187", "Link": "moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
 		"NAKET" : { "Name": "NAKET Coder Evolution", "Author": "NAKET Team", "Link": "NAKET%20Coder%20Evolution.zip" },
 		"NCR" : { "Name": "NCR", "Author": "NAKET Team", "Link": "NCR.zip" },
-		"Strike" : { "Name": "Strike", "Author": "NAKET Team", "Link": "NCR.zip" }
+		"Strike" : { "Name": "Strike", "Author": "NAKET Team", "Link": "Strike.zip" }
 	},
 
 	"OITG" : {
