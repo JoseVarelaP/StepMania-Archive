@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "20/May/22",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"So L-Tek <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania_L-TEK_r1.1.exe'>has made a custom 5.0.12(?)-based build</a> out of nowhere. It was released today, however the compile/cmake date is set to 2021. Currently still investigating the contents inside to describe differences."
+				]
+			}
+		]
+	},
+	{
 		"Date": "18/Apr/22",
 		"Changes" : [
 			{
