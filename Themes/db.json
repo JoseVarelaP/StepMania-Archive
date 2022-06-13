@@ -285,7 +285,7 @@
 		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Dance%20Dance%20Revolution%207th%20mix%20-DDR%20MAX2-.rar" },
 		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
 		"02ManiaEX" : { "Name": "02Mania EX", "Date": "2014-05-27", "Version": "5", "Link": "O2Mania%20EX.zip" },
-		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
+		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
 		"SMXG" : { "Name": "SMXG ReEvolution", "Author": "Lirodon", "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
 		"SimplyLove" : {
 			"Name": "Simply Love",
