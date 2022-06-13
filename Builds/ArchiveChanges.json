@@ -1,5 +1,33 @@
 [
 	{
+		"Date": "12/Jun/22",
+		"Changes" : [
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGmania",
+				"List": [
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.5.1-Windows-no-songs.exe'>ITGmania v0.5.1</a> has been released."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Images for <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SIGMA'>SIGMA -The Blue Dasher-</a> have been added by Moneko.",
+					"<a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=SimplyLove'>Simply Love v5.1.2</a> has been added.",
+					"Version category headers are now sticky to help reminding you about what section you're on."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Build Archive",
+				"List": [
+					"Build categories that have websites available are now linked."
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/May/22",
 		"Changes" : [
 			{

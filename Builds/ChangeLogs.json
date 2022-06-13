@@ -331,5 +331,10 @@
     "OUTFOX4.14.1" : {
         "Name": "OutFox-alpha.4.14.1 Build - 27th March 2022 \"Hot Fix Relief\"",
         "HTMLParse" : "OUTFOX/A4.14.1.md"
+    },
+
+    "ITGM0.5.1" : {
+        "Name": "ITGmania v0.5.1",
+        "HTMLParse" : "ITGM/ITGM0.5.1.md"
     }
 }

@@ -479,6 +479,7 @@
 
 	"NOTITG" : {
 		"Name": "NotITG based builds",
+        "Website": "https://noti.tg",
 		"DefaultIcon": "NITG4.png",
 		"Listing": [
 			{ "Icon": "MZERO.png", "Name": "MZero Beta", "Date": "2017-03-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip" }
@@ -854,8 +855,9 @@
     },
 
     "ETT" : {
-		"Description": "Originally a mod for StepMania 5.0.12 that focuses on perfomance on DirectX, but then later was merge with Mina's Wife calculator proposition, it has become a fork that focuses on competitive keyboard play.",
+		"Description": "Originally a mod for StepMania 5.0.12 that focuses on perfomance on DirectX, but then later was merged with Mina's Wife calculator proposition, it has become a fork that focuses on competitive keyboard play.",
         "Name": "Etterna",
+        "Website": "https://etternaonline.com/",
         "DefaultIcon": "ETT.png",
         "Listing": [
             { "Icon": "SM5.png", "Name": "Xwidget_0.00000001", "Date": "2016-08-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Xwidget_0.00000001.exe" },
@@ -1115,6 +1117,7 @@
     "OUTFOX" : {
 		"Description": "Originally a revitization of StepMania 5.1 to be merged into mainline SM, OutFox is a branch that focuses on reworking everything to work on modern devices.",
         "Name": "Project OutFox",
+        "Website": "https://projectoutfox.com/",
         "DefaultIcon": "OUTFOX.png",
         "Listing": [
             { "ID": "OUTFOX4", "Name": "StepMania OutFox Alpha 4", "Date": "2019-12-16",
@@ -1440,6 +1443,24 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm64v8-date-20220327.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm32v7-date-20220327.tar.gz"}
                 ]
+            }
+        ]
+    },
+
+    "ITGM" : {
+        "Description": "A fork for StepMania 5.1 with fixes and tweaks for the post-ITG community.",
+        "Website": "https://www.itgmania.com/",
+        "Name": "ITGmania",
+        "DefaultIcon": "ITGM.png",
+        "Listing" : [
+            { "ID": "ITGM0.5.1", "Name": "ITGmania v0.5.1", "Date": "2022-06-12",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.5.1-Windows-no-songs.exe",
+                "Mac": [
+					{ "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.5.1-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.5.1-macOS-Intel-no-songs.dmg" }
+				],
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.5.1-Linux-no-songs.tar.gz",
+                "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.5.1.tar.gz"
             }
         ]
     }

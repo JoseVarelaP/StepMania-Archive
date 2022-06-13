@@ -36,6 +36,7 @@ const ThemeArchive = {
 			const convtext = key.replace( "%20", " " );
 			const h = document.createElement("h1")
 			h.textContent = this.Items[key].Name;
+			h.className = "headerSticky"
 			h.setAttribute( "id", key );
 			container.appendChild(h)
 			let t = document.createElement("table");

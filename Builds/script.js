@@ -92,6 +92,15 @@ const BuildArchive = {
             }
             VersionContainer.appendChild(Text);
 
+            // Does this item have a website where people can visit?
+            const websiteLink = document.createElement("a")
+            if( data.Website )
+            {
+                websiteLink.textContent = `Visit Website (${data.Website})`
+                websiteLink.href = data.Website
+            }
+            VersionContainer.appendChild(websiteLink)
+
             // Create the table element to store the builds.
             const table = document.createElement( "table" );
             table.className = "TableBuildSet"
@@ -102,12 +111,14 @@ const BuildArchive = {
             // Hide the objects to incentivize clicking.
             table.style.display = "none"
             Text.style.display = "none"
+            websiteLink.style.display = "none"
 
             Header.onclick = function()
             {
                 const state = table.style.display
                 table.style.display = state === "none" ? "table" : "none"
                 Text.style.display = state === "none" ? "table" : "none"
+                websiteLink.style.display = state === "none" ? "table" : "none"
                 OpenButton.textContent = state === "table" ? "\u25B8 " : "\u25BE "
 				document.location.href = `#${Version}`
             }
@@ -311,9 +322,11 @@ request.onload = function() {
             // console.log( base )
             const table = base.getElementsByTagName('table')
             const Text = base.getElementsByTagName('p')
+            const Website = base.getElementsByTagName('a')
             const OpenButton = base.getElementsByClassName('VersionTitle')
             table[0].style.display = "table"
             Text[0].style.display = "table"
+            Website[0].style.display = "table"
 			document.getElementById(GroupOpen).scrollIntoView(true)
             // replace the initial character with the open state.
             OpenButton[0].textContent = `\u25BE ${ BuildArchive.Builds[GroupOpen].Name }`
