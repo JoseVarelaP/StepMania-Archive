@@ -332,6 +332,14 @@
         "Name": "OutFox-alpha.4.14.1 Build - 27th March 2022 \"Hot Fix Relief\"",
         "HTMLParse" : "OUTFOX/A4.14.1.md"
     },
+    "OUTFOX4.15.0" : {
+        "Name": "OutFox-alpha.4.15.0 Build - 14th June 2022 \"Don't matter if you tough or gruff\"",
+        "HTMLParse" : "OUTFOX/A4.15.0.md"
+    },
+    "OUTFOX4.15.1" : {
+        "Name": "OutFox-alpha.4.15.1 Build - 19th June 2022 \"Pump or Dump?\"",
+        "HTMLParse" : "OUTFOX/A4.15.1.md"
+    },
 
     "ITGM0.5.1" : {
         "Name": "ITGmania v0.5.1",

@@ -1443,6 +1443,32 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm64v8-date-20220327.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm32v7-date-20220327.tar.gz"}
                 ]
+            },
+            { "ID": "OUTFOX4.15.0", "Name": "Project OutFox Alpha 4.15.0", "Date": "2022-06-14",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.0-Win32-date-20220614.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.0-i386-legacy-date-20220614.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.0-amd64-legacy-date-20220614.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.0-amd64-date-20220614.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.15.0-arm64v8-date-20220614.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.0-arm32v7-date-20220614.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.15.1", "Name": "Project OutFox Alpha 4.15.1", "Date": "2022-06-19",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.1-Win32-date-20220619.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.1-i386-legacy-date-20220619.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.1-amd64-legacy-date-20220619.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.1-amd64-date-20220619.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.15.1-arm64v8-date-20220619.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.1-arm32v7-date-20220619.tar.gz"}
+                ]
             }
         ]
     },
