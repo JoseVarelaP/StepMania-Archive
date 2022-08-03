@@ -98,6 +98,10 @@
 			"Name": "DDR A20",
 			"Author": "TK0",
 			"Link": [
+				{ "Name": "[MDX:x:y:A:2022071900] Standard", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A20.zip" },
+				{ "Name": "[MDX:x:y:A:2022071900] A20+ STANDARD and GOLD", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A20%20PLUS.zip" },
+				{ "Name": "[MDX:x:y:A:2022071900] A3 STANDARD and GOLD", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A3.zip" },
+
 				{ "Name": "[4.5.5] Standard", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR%20A20.zip" },
 				{ "Name": "[4.5.5] DDR A with 2014 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with 2014 UI.zip" },
 				{ "Name": "[4.5.5] DDR A with A20 UI", "Date": "2022-01-16", "Link" : "DDRA/2022-01-16/DDR A with A20 UI.zip" },
@@ -219,6 +223,7 @@
 		"Tactics": { "Name": "In The Groove Tactics", "HasImages": true, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
+			{ "Name": "Source", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" },
 			{ "Name": "1.90", "Date": "2021-05-15", "Link":"Simply-ITG/Simply-ITG-1.90.zip" },
 			{ "Name": "1.89", "Date": "2021-05-13", "Link":"Simply-ITG/Simply-ITG-1.89.zip" },
 			{ "Name": "1.01", "Date": "2021-02-16", "Link":"Simply-ITG/Simply-ITG-1.01.zip" },
@@ -329,7 +334,17 @@
 		"TKMix" : { "Name": "TK Mix", "Link": "TK%20Mix.zip" },
 		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
-		"XV" : { "Name": "XV", "Link": "XV.zip" },
+		"Optical" : { "Name": "Optical", "Link": "optical-master.zip" },
+		"XV" : {
+			"Name": "XV",
+			"Author": "k//eternal, DM Ashura, neo, shakesoda, AJ 187",
+			"Link": [
+				{ "Name": "XV r6", "Date": "2014-07-23", "Link":"XV/XV_20140723-r6.zip"},
+				{ "Name": "XV r5", "Date": "2013-08-08", "Link":"XV/XV_20130808-r5.zip"},
+				{ "Name": "XV r4", "Date": "2012-05-29", "Link":"XV/XV_20120529-r4.zip"},
+				{ "Name": "XV r3", "Date": "2011-01-10", "Link":"XV/XV_20120110-r3.zip"}
+			]
+		},
 		"sw2" : { "Name": "soda*sweets 2", "HasImages": true, "Link": "sodasweets2.rar" },
 		"starlight" : {
 			"Name": "XX -starlight-",

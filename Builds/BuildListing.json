@@ -14,11 +14,13 @@
         "Description": "StepMania 0.9x was released only for Windows. So, you won't find a Linux and Mac version in here. It's mostly remembered because of the graphics of that version, that some were made with the WordArt tool in Office PowerPoint.",
         "Listing": [
             { "Name": "StepMania 0.5 Alpha", "Date": "2001-09-27" },
-            { "Name": "StepMania 0.64" },
+            { "Name": "StepMania 0.64", "Date": "2001-10-17" },
             { "Name": "StepMania 0.90", "Date": "2001-12-18" },
             { "ID": "SM091", "Name": "StepMania 0.91", "Date": "2001-12-20" },
             { "ID": "SM092", "Name": "StepMania 0.92", "Date": "2001-12-24" },
-            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-10-12", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
+            { "Name": "StepMania 0.93", "Date": "2001-12-24" },
+            { "Name": "StepMania 0.94", "Date": "2001-12-24" },
+            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-10-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
             { "ID": "SM096", "Name": "StepMania 0.96", "Date": "2001-12-25" },
             { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "2001-12-25" },
             { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }  
@@ -1468,6 +1470,22 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.15.1-amd64-date-20220619.tar.gz" },
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.15.1-arm64v8-date-20220619.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.1-arm32v7-date-20220619.tar.gz"}
+                ]
+            },
+            { "ID": "OUTFOX4.16.0", "Name": "Project OutFox Alpha 4.16.0", "Date": "2022-07-30",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows32bit-date-20220801.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe" }
+                ],
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.16.0HF2-MacOS-date-20220801.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.16.0HF2-Linux32bit-i386-legacy-date-20220801.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.16.0HF2-Linux-amd64-date-20220801.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.16.0HF2-Linux-amd64-legacy-date-20220801.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.16.0HF2-RPi64-arm64v8-date-20220801.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.16.0HF2-RPi32-arm32v7-date-20220801.tar.gz"}
                 ]
             }
         ]

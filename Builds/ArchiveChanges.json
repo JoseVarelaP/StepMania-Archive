@@ -1,5 +1,33 @@
 [
 	{
+		"Date": "3/Aug/22",
+		"Changes" : [
+			{
+				"Icon": "SM164.png",
+				"Name": "StepMania 0.9x",
+				"List": [
+					"Fixed date entries for early SM builds. Thanks to Squirrel for reaching out to correct these dates."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe'>Alpha 4.16.0.</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added more versions of <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=XV'>XV</a>, thanks to Moneko for finding these.",
+					"Added latest link for <a href='../Themes/ThemePreview.html?Category=OITG&ID=SITG'>Simply-ITG.</a>",
+					"Added July 17th version of <a href='../Themes/ThemePreview.html?Category=SM3.9_Plus&ID=DDRA'>VR0's DDR A theme.</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "23/Jun/22",
 		"Changes" : [
 			{
