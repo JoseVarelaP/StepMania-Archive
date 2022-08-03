@@ -55,7 +55,7 @@
 				<p>Theme Listings will have no alphabetical order, but instead in order of most recent update.</p>
 
 				<h2>StepMania 5</h2>
-<table>
+<table id="ThemeEntries">
     <tr>
         <th>Theme Name</th>
         <th>Status</th>
@@ -63,22 +63,6 @@
         <th>Description</th>
         <th>Compatible Versions</th>
         <th>SMArchive Backup</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Tiny-Foxes/Simply-Love-OutFox">Simply Love OutFox</a></td>
-        <td style="background-color: green;" >  </td>
-        <td>Tiny Foxes</td>
-        <td>Fork of Simply Love to support native 5.3 features</a></td>
-        <td>5.3+</td>
-        <td><a href="https://github.com/Tiny-Foxes/Simply-Love-OutFox/archive/release.zip">Github</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://zenius-i-vanisher.com/v5.2/thread?threadid=10388">Lazarus -Arcade Influence System v5-</a></td>
-        <td style="background-color: green;" >  </td>
-        <td>Lirodon</td>
-        <td>basically the sequel to TimeRift except based on Final instead of Time Traveller.</td>
-        <td>5.0.12</td>
-        <td><a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/Lazarus/LazarusPlus-1.53.zip">Available</a></td>
     </tr>
     <tr>
         <td><a href="https://bitbucket.org/inorizushi/xx-starlight-download/src/master/README.md">DanceDanceRevolution XX -STARLiGHT-</a></td>
@@ -255,6 +239,8 @@
     </tr>
 </table>
 
+            <div id="ThemeEntries"></div>
+
             </div>
             <div class="footer" id="Footer"></div>
         </div>
@@ -264,5 +250,122 @@
 <script src="../js/TopMenu.js"></script>
 <script>
 	GenerateTopMenu()
+</script>
+<script type="module">
+    // import sortByDate from '../js/TableDateSort.js'
+
+    let TList = {
+        "StepMania 5" : [
+            {
+                Name: "Lazarus -Arcade Influence System v5",
+                Link: "https://zenius-i-vanisher.com/v5.2/thread?threadid=10388",
+                Author: "Lirodon",
+                State: 2,
+                Build: "SM5.0.12+",
+                Description: "basically the sequel to TimeRift except based on Final instead of Time Traveller.",
+                Download: "StepMania%205/Lazarus/LazarusPlus-1.53.zip",
+            },
+        ],
+        "OutFox" : [
+            {
+                LatestUpdate: "",
+                Name: "Simply Love OutFox",
+                Link: "https://github.com/Tiny-Foxes/Simply-Love-OutFox",
+                Author: "Tiny Foxes",
+                State: 1,
+                Build: "Project OutFox",
+                Description: "Fork of Simply Love to support native Project OutFox features",
+                Download: "https://github.com/Tiny-Foxes/Simply-Love-OutFox/archive/release.zip",
+            },
+            {
+                Link: "https://bitbucket.org/inorizushi/xx-starlight-download/src/master/README.md",
+                Author: "Midflight Digital",
+                State: 1,
+                Build: "Project OutFox",
+                Description: "DDR inspired theme, which contains several wheels and elements from a wide variety of DDR games in the past.",
+                Download: "https://objects-us-east-1.dream.io/smthemes/OutFox/XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip"
+            }
+        ]
+    }
+
+    let StatusColor = ["green","yellow","orange","red"]
+
+    /**
+     * 
+     * @param {String} convtext The bucket directory of the game version it runs on.
+     * @param {String} location The direct filepath to the file.
+     * @returns A converted string where it can be another site where the file can be downloaded, or a relative path from the SMArchive bucket.
+     */
+    function CheckForHttp( convtext, location )
+    {
+        if( String(location).includes( "http" ) )
+        {
+            return `${location}`;
+        } else {
+            return `https://objects-us-east-1.dream.io/smthemes/${convtext}/${location}`;
+        }
+    }
+
+    function isArchiveLink( location )
+    {
+        return !String(location).includes( "http" )
+    }
+
+    function CreateTRelement( name )
+    {
+        let item = document.createElement("th")
+        item.innerText = name
+        return item
+    }
+
+    // Generate the items and put them in the list.
+    let DivCont = document.getElementById("ThemeEntries")
+    for(const Category in TList){
+        
+        // Create the table to insert the items.
+        let TableToInsert = document.createElement("table")
+
+        let LabelsCont = document.createElement("tr")
+
+        LabelsCont.appendChild( CreateTRelement("Theme Name") )
+        LabelsCont.appendChild( CreateTRelement("Status") )
+        LabelsCont.appendChild( CreateTRelement("Author") )
+        LabelsCont.appendChild( CreateTRelement("Description") )
+        LabelsCont.appendChild( CreateTRelement("Compatible Versions") )
+
+        TableToInsert.appendChild(LabelsCont)
+        
+        for(const item of TList[Category]) {
+            console.log(item)
+
+            // Begin construction.
+            let container = document.createElement("tr")
+
+            let ThemeName = document.createElement("td")
+            let Status = document.createElement("td")
+            let Author = document.createElement("td")
+            let Description = document.createElement("td")
+            let DownloadLink = document.createElement("td")
+
+            ThemeName.innerHTML = `<a href='${item.Link}'>${item.Name}</a>`
+            Status.style.backgroundColor = StatusColor[item.State-1]
+            Author.innerText = item.Author
+            Description.innerText = item.Description
+
+            let labelForDownload = isArchiveLink(item.Download) ? "Available" : "Download"
+            DownloadLink.innerHTML = `<a href='${CheckForHttp(item.Download)}'>${labelForDownload}</a>`
+
+            container.appendChild(ThemeName)
+            container.appendChild(Status)
+            container.appendChild(Author)
+            container.appendChild(Description)
+            container.appendChild(DownloadLink)
+
+            TableToInsert.appendChild(container)
+        }
+
+        DivCont.appendChild(TableToInsert)
+    }
+
 </script>
 </html>
