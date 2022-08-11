@@ -41,8 +41,8 @@
 		"FM" : { "Name": "Foonmod", "Link": "Foonmod.smzip" },
 		"FB2" : { "Name": "ForeverBlue2", "Link": "ForeverBlue2.smzip" },
 		"IIDX12" : { "Name": "IIDX 12 Happy Sky", "Link": "beatmaniaIIDX12_Happysky_theme_for_stepmania_3_9_and_plus.smzip" },
-		"IIDX14" : { "Name": "IIDX 14", "Link": "iidx14_SM3.9_V1.0.smzip" },
-		"IIDX15" : { "Name": "IIDX 15", "Link": "iidx15_SM3.9_V1.0.smzip" },
+		"IIDX14" : { "Name": "IIDX 14", "Author": "DJ.Tony", "Date": "2011-05-05", "Link": "iidx14_SM3.9_V1.0.smzip" },
+		"IIDX15" : { "Name": "IIDX 15", "Author": "DJ.Tony", "Date": "2011-02-15", "Link": "iidx15_SM3.9_V1.0.smzip" },
 		"ITG1" : { "Name": "In The Groove", "Link": "In%20The%20Groove.smzip" },
 		"ITG2" : { "Name": "In The Groove 2", "Link": "In%20The%20Groove%202.smzip" },
 		"InvSM" : { "Name": "Inverted StepMania", "Link": "Inverted%20StepMania.smzip" },
@@ -135,8 +135,8 @@
 				{ "Name": "DDR A With X2 UI", "Link" : "DDRA/DDR A With X2 UI.zip" }
 			]
 		},
-		"IIDX14" : { "Name": "IIDX14", "Link": "iidx14_SM3.9_Plus_Redux_V1.0.smzip" },
-		"IIDX15" : { "Name": "IIDX15", "Link": "iidx15_SM3.9_Plus_Redux_V1.0.smzip" },
+		"IIDX14" : { "Name": "IIDX14", "Author": "DJ.Tony", "Date": "2011-05-15", "Link": "iidx14_SM3.9_Plus_Redux_V1.0.smzip" },
+		"IIDX15" : { "Name": "IIDX15", "Author": "DJ.Tony", "Date": "2011-02-15", "Link": "iidx15_SM3.9_Plus_Redux_V1.0.smzip" },
 		"PXIV" : { "Name": "Project XVI Anarch", "Link": "Project%20XIV%20Anarch.zip" },
 		"PXVI" : { "Name": "Project XIV Beach Party", "Link": "Project%20XVI%20Beach%20Party.zip" },
 		"PXVII" : { "Name": "Project XVII FIUNT", "Link": "Project%20XVII%20FIUNT.zip" },
@@ -246,6 +246,7 @@
 		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
 		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
+		"IIDX15": { "Name": "IIDX 15", "Date": "2011-10-02", "Author": "DJ.Tony", "Link": "%5BSM5%5D%20IIDX15%20theme%20and%20noteskin%20V1.0.zip" },
 		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip" }
 	},
 
