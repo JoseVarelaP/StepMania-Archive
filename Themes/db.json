@@ -98,7 +98,7 @@
 			"Name": "DDR A20",
 			"Author": "TK0",
 			"Link": [
-				{ "Name": "[MDX:x:y:A:2022071900] Standard", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A20.zip" },
+				{ "Name": "[MDX:x:y:A:2022071900] Standard", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A.zip" },
 				{ "Name": "[MDX:x:y:A:2022071900] A20+ STANDARD and GOLD", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A20%20PLUS.zip" },
 				{ "Name": "[MDX:x:y:A:2022071900] A3 STANDARD and GOLD", "Date": "2022-07-19", "Link" : "DDRA/2022-07-19/DDR%20A3.zip" },
 
@@ -175,7 +175,10 @@
 		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Link": "DWI_xmas2007.rar" },
 		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
-		"Moonlight" : { "Name": "Moonlight", "Author": "AJ 187", "Link": "moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
+		"Moonlight" : { "Name": "Moonlight", "Author": "AJ 187", "Link": [
+			{ "Name": "moonlight Public Alpha 7", "Date": "2010-03-14", "Link": "moonlight/moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
+			{ "Name": "moonlight Public Alpha Va", "Date": "2009-09-01", "Link": "moonlight/moonlight_alpha5a_20090901-1520.zip" }
+		] },
 		"NAKET" : { "Name": "NAKET Coder Evolution", "Author": "NAKET Team", "Link": "NAKET%20Coder%20Evolution.zip" },
 		"NCR" : { "Name": "NCR", "Author": "NAKET Team", "Link": "NCR.zip" },
 		"Strike" : { "Name": "Strike", "Author": "NAKET Team", "Link": "Strike.zip" }
@@ -236,6 +239,14 @@
 	"NITG" : {
 		"Name": "NotITG",
 		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "HasImages": true, "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
+	},
+
+	"SM-SSC": {
+		"Name": "SM-SSC",
+		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
+		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
+		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
+		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip" }
 	},
 
 	"StepMania 5" : {
@@ -333,6 +344,7 @@
 		] },
 		"TKMix" : { "Name": "TK Mix", "Link": "TK%20Mix.zip" },
 		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
+		"Moonlight" : { "Name": "Moonlight", "Date": "2015-02-21", "Author": "AJ 187", "Link": "moonlight_1.03-o.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
 		"Optical" : { "Name": "Optical", "Link": "optical-master.zip" },
 		"XV" : {

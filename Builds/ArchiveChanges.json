@@ -1,5 +1,19 @@
 [
 	{
+		"Date": "10/Aug/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added SM-SSC category.",
+					"Fixed download link for TK0's DDR A20.",
+					"Added additional versions of moonlight."
+				]
+			}
+		]
+	},
+	{
 		"Date": "3/Aug/22",
 		"Changes" : [
 			{
