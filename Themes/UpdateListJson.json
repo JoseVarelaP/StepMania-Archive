@@ -1,0 +1,104 @@
+[
+	{
+		"Name": "StepMania 3.9+ REDUX",
+		"Folder": "SM3.9_Plus",
+		"Items": [
+			{
+				"Name": "DDR A20 (PLUS)",
+				"Link": "https://zenius-i-vanisher.com/v5.2/thread?threadid=10267",
+				"Author": "VR0",
+				"State": 2,
+				"Build": "SM5.0.12+",
+				"Description": "DDR Ace but for StepMania 3.9+ redux.",
+				"Download": "Category=SM3.9_Plus&ID=DDRA"
+			}
+		]
+	},
+	{
+		"Name": "StepMania 5",
+		"Folder": "StepMania%205",
+		"Items": [
+			{
+				"Name": "Lazarus -Arcade Influence System v5",
+				"Link": "https://zenius-i-vanisher.com/v5.2/thread?threadid=10388",
+				"Author": "Lirodon",
+				"State": 2,
+				"Build": "SM5.0.12+",
+				"Description": "basically the sequel to TimeRift except based on Final instead of Time Traveller.",
+				"Download": "Lazarus/LazarusPlus-1.53.zip"
+			},
+			{
+				"Name": "DDR X2 Plus(CS/PS2)",
+				"Link": "https://docs.google.com/document/d/1q04NIICoE6qzB7EF8s8RAQypYpAJ-DGYrvcw1Iw343U/",
+				"Author": "Musashi",
+				"State": 2,
+				"Build": "SM5.0.12+",
+				"Description": "Theme based on the X2 version of DDR",
+				"Download": "DDR%20X2%20Plus%2010%2013%202014.zip"
+			},
+			{
+				"Name": "WaterFall (ECFA 7)",
+				"Link": "https://docs.google.com/document/d/1q04NIICoE6qzB7EF8s8RAQypYpAJ-DGYrvcw1Iw343U/",
+				"Author": "SteveReen",
+				"State": 2,
+				"Build": "SM5.0.12+",
+				"Description": "A theme for the ECFA 7 tournament that was originally planned to be in July 2020 but had to be moved due to world events (PREVIEW / Includes NoteSkins).",
+				"Download": "WF_ECFA7.zip"
+			},
+			{
+				"Name": "Simply Love Vertical",
+				"Link": "https://github.com/Sereni/Simply-Love-SM5-Vertical",
+				"Author": "Sereni",
+				"LastUpdate": "2021-02-01",
+				"State": 1,
+				"Build": "SM5.0.12+",
+				"Description": "Modification of Simply Love to make it playable in monitors that support portrait mode.",
+				"Download": "https://github.com/Sereni/Simply-Love-SM5-Vertical/archive/release.zip"
+			},
+			{
+				"Name": "Digital Dance",
+				"Link": "https://github.com/Hayoreo/digital-dance/",
+				"Author": "Hayoreo",
+				"LastUpdate": "2022-08-08",
+				"State": 1,
+				"Build": "SM5.0.12+",
+				"Description": "Modification of Simply Love with visual/profile tweaks.",
+				"Download": "Digital.Dance.v0.9.5.zip"
+			},
+			{
+				"Name": "Simply Love Tweaks",
+				"Link": "https://github.com/jordando/Simply-Love-Tweaks",
+				"LastUpdate": "2021-08-09",
+				"Author": "jordando",
+				"State": 1,
+				"Build": "SM5.0.12+",
+				"Description": "Modification of Simply Love with massive tweaks. (Requires the Base Simply Love 4.8.7 package)",
+				"Download": "https://github.com/jordando/Simply-Love-Tweaks/archive/master.zip"
+			}
+		]
+	},
+	{
+		"Name": "OutFox",
+		"Folder": "OutFox",
+		"Items": [
+			{
+				"Name": "Simply Love OutFox",
+				"Link": "https://github.com/Tiny-Foxes/Simply-Love-OutFox",
+				"Author": "Tiny Foxes",
+				"State": 1,
+				"Build": "Project OutFox",
+				"Description": "Fork of Simply Love to support native Project OutFox features",
+				"Download": "https://github.com/Tiny-Foxes/Simply-Love-OutFox/archive/release.zip"
+			},
+			{
+				"Link": "https://github.com/MidflightDigital/XX--STARLiGHT--twopointzero",
+				"Name": "XX -starlight- 2.0",
+				"Author": "Midflight Digital",
+				"State": 1,
+				"Build": "Project OutFox",
+				"Description": "DDR inspired theme, which contains several wheels and elements from a wide variety of DDR games in the past.",
+				"Download": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip"
+			}
+		]
+	}
+]
