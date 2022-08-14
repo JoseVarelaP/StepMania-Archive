@@ -39,10 +39,7 @@ $decoded_data = json_decode($JSONContent, true);
 ?>
 <body>
 	<div id="container">
-		<div id="menu-box">
-			<div id="site-logo"></div>
-			<div class="top-menu" id="top-menu"></div>
-		</div>
+		<?php include '../php/TopPage.php' ?>
 		<div class="rightBox">
 			<div style="padding:0 10px 0 0">
 				<h2>Quick Travel</h2>
