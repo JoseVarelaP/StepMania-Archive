@@ -268,9 +268,10 @@ h3 {
 	opacity:0.95;
 	position:absolute;
 	width: 225px;
-	margin-top: 26px;
+	/* margin-top: 26px; */
+	margin-top: 0px;
 	/* Reset position made by the padding on (.top-menu li a) */
-	margin-left: -10px;
+	/* margin-left: -10px; */
 	/* top:1em; */
 	/* left:0; */
 }

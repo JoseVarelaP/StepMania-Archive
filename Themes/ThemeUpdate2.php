@@ -229,82 +229,77 @@
 	</tr>
 </table>
 -->
-<!-- Start generating the PHP content -->
-<?php
-$JSONContent = file_get_contents( "UpdateListJson.json" );
-$decoded_data = json_decode($JSONContent, true);
-$StatusColor = array("green","yellow","orange","red");
+			<!-- Start generating the PHP content -->
+			<?php
+				$JSONContent = file_get_contents( "UpdateListJson.json" );
+				$decoded_data = json_decode($JSONContent, true);
+				$StatusColor = array("green","yellow","orange","red");
 
-function CheckForHttp( $convtext, $location )  {
-	$parse = parse_url($convtext);
-	if( array_key_exists('scheme', $parse) ) {
-		if( $parse['scheme'] == "https" || $parse['scheme'] == "http" ) {
-			return $convtext;
-	}
-	} else if( strpos( $convtext, 'Category=' ) !== false ) {
-		return "ThemePreview.html?".$convtext;
-	}
+				function CheckForHttp( $convtext, $location )  {
+					$parse = parse_url($convtext);
+					if( array_key_exists('scheme', $parse) ) {
+						if( $parse['scheme'] == "https" || $parse['scheme'] == "http" ) {
+							return $convtext;
+					}
+					} else if( strpos( $convtext, 'Category=' ) !== false ) {
+						return "ThemePreview.html?".$convtext;
+					}
 
-	return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
-}
+					return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
+				}
 
-function PrintThemeNameWithLink( $item )
-{
-	echo "<td>";
-	if( array_key_exists('Link', $item) )
-		echo "<a href='".$item['Link']."'>";
+				function PrintThemeNameWithLink( $item )
+				{
+					echo "<td>";
+					if( array_key_exists('Link', $item) )
+						echo "<a href='".$item['Link']."'>";
 
-	echo $item['Name'];
+					echo $item['Name'];
 
-	if( array_key_exists('Link', $item) )
-		echo "</a>";
+					if( array_key_exists('Link', $item) )
+						echo "</a>";
 
-	echo "</td>";
-}
+					echo "</td>";
+				}
 
 // echo json_last_error_msg();
 // var_dump($decoded_data);
-// For each category...
-foreach($decoded_data as $category) {
-	echo "<h2>".$category['Name']."</h2>";
-
-	echo "<table>";
-	// Go through each item...
-	echo "<th>Theme Name</th>";
-	echo "<th>Status</th>";
-	echo "<th>Author</th>";
-	echo "<th>Description</th>";
-	echo "<th>Compatible Versions</th>";
-	echo "<th>SMArchive Backup</th>";
-
-	// Before going, sort the items by the update date.
-	usort($category['Items'], function($a, $b) {
-		if( !array_key_exists('LastUpdate', $a) || !array_key_exists('LastUpdate', $b) ) {
-			// One of the items doesn't have a date assigned, so don't bother moving it.
-			return 1;
-		}
-		// They're on the same day, sort by the index set.
-		if( $a['LastUpdate'] == $b['LastUpdate'] ) {
-			return $b['Index'] - $a['Index'];
-		}
-		return strtotime($b['LastUpdate']) - strtotime($a['LastUpdate']);
-	});
-
-	foreach( $category['Items'] as $item ) {
-		// Open container
-		echo "<tr>";
-		echo PrintThemeNameWithLink($item);
-		echo "<td style='background-color: ".$StatusColor[ $item['State'] ]."'></td>";
-		echo "<td>".$item['Author']."</td>";
-		echo "<td>".$item['Description']."</td>";
-		echo "<td>".$item['Build']."</td>";
-		echo "<td><a href='".CheckForHttp($item['Download'], $category['Folder'])."'>Available</a></td>";
-		echo "</tr>";
-	}
-	echo "</table>";
-}
-?>
-<div class="footer" id="Footer"></div>
+				// For each category...
+				foreach($decoded_data as $category) {
+					// Before going, sort the items by the update date.
+					usort($category['Items'], function($a, $b) {
+						if( !array_key_exists('LastUpdate', $a) || !array_key_exists('LastUpdate', $b) ) {
+							// One of the items doesn't have a date assigned, so don't bother moving it.
+							return 1;
+						}
+						// They're on the same day, sort by the index set.
+						if( $a['LastUpdate'] == $b['LastUpdate'] ) {
+							return $b['Index'] - $a['Index'];
+						}
+						return strtotime($b['LastUpdate']) - strtotime($a['LastUpdate']);
+					});
+				?>
+				<h2><?php echo $category['Name'] ?></h2>
+				<table>
+					<th>Theme Name</th>
+					<th>Status</th>
+					<th>Author</th>
+					<th>Description</th>
+					<th>Compatible Versions</th>
+					<th>SMArchive Backup</th>
+					<?php foreach( $category['Items'] as $item ) { ?>
+					<tr>
+						<?php echo PrintThemeNameWithLink($item) ?>
+						<td style='background-color: <?php echo $StatusColor[ $item['State'] ] ?>'></td>
+						<td><?php echo $item['Author'] ?></td>
+						<td><?php echo $item['Description'] ?></td>
+						<td><?php echo $item['Build'] ?></td>
+						<td><a href="<?php echo CheckForHttp($item['Download'], $category['Folder']) ?>">Available</a></td>
+					</tr>
+					<?php } ?>
+				</table>
+				<?php } ?>
+			<div class="footer" id="Footer"></div>
 		</div>
 	</div>
 </body>

@@ -133,7 +133,7 @@ $decoded_data = json_decode($JSONContent, true);
 				</div>
 				<?php } ?>
 			</div>
-			<div class="footer" id="Footer"></div>
+			<?php include '../php/Footer.php' ?>
 		</div>
 	</div>
 </body>
