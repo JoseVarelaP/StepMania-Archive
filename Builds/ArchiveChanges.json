@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "14/Aug/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Fixed ITG entries from 3.95, turns out these are mDawg ITG2PC builds.",
+					"Reorganized entries for ITG PC, as they're also SM4-based builds."
+				]
+			}
+		]
+	},
+	{
 		"Date": "10/Aug/22",
 		"Changes" : [
 			{
