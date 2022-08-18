@@ -10,13 +10,10 @@
 	#content-container { width:1024px; }
 	.content { min-height: 100px; }
 </style>
-<script> let CurrentPage = 'Themes'; </script>
+<?php $CurrentPage = "Themes"; ?>
 <body>
 	<div id="container">
-		<div id="menu-box">
-			<div id="site-logo"></div>
-			<div class="top-menu" id="top-menu"></div>
-		</div>
+		<?php include '../php/TopPage.php' ?>
 		<div class="content-container wide-container">
 			<div class="content" id="BuildListing">
 				<h1>StepMania Archive Theme Update</h1>
@@ -261,9 +258,7 @@
 
 					echo "</td>";
 				}
-
-// echo json_last_error_msg();
-// var_dump($decoded_data);
+				
 				// For each category...
 				foreach($decoded_data as $category) {
 					// Before going, sort the items by the update date.
@@ -303,9 +298,4 @@
 		</div>
 	</div>
 </body>
-<script src="../js/functions.js"></script>
-<script src="../js/TopMenu.js"></script>
-<script>
-	GenerateTopMenu()
-</script>
 </html>

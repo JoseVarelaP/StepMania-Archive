@@ -15,7 +15,7 @@ $TopPage_LinkList = array(
 		"Color" => "#001177",
 		"Subpages" => array(
 			"Theme List" => "index.php",
-			"Theme Update (WIP)" => "ThemeUpdate2.php"
+			"Theme Update (WIP)" => "ThemeUpdate.php"
 		)
 	),
 	array("Name" => "Characters", "Color" => "#772200"),
@@ -41,7 +41,7 @@ $TopPage_LinkList = array(
 		<div class="PageList">
 			<?php foreach( $TopPage_LinkList as $Entries ) { ?>
 				<li>
-					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/index.html">
+					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/index.php">
 					<?php echo $Entries['Name'] ?>
 					<?php if( array_key_exists('Subpages', $Entries) ) { ?>
 						<ul>

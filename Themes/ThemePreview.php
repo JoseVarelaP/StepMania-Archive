@@ -27,7 +27,6 @@ function GetFirstAvailableItem( $Entry )
 
 
 $DownloadItem = GetFirstAvailableItem($Entry);
-var_dump($Entry['Author']);
 $Author = array_key_exists('Author', $Entry) ? $Entry['Author'] : "";
 $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-??-??";
 ?>
@@ -45,9 +44,9 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 				<h1 id="HeaderTitle"><?php echo $Entry['Name'] ?></h1>
 				<div>
 					<div class="Download-Theme">
-						<p style="padding: 6px"><img src="../static/download.gif"> <a id="DownloadButton"></a> <small>Right click to save.</small></p>
+						<p style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo $DownloadItem['Link'] ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
 						<?php if( is_array( $Entry['Link'] ) ) { ?>
-							<select id="Version-Chooser">
+							<select onchange="toggleVersionData(this)" id="Version-Chooser">
 							<?php foreach( $Entry['Link'] as $Item ) { ?>
 							<option value="<?php echo $Item['Link'] ?>"><?php echo $Item['Name'] ?></option>
 							<?php } ?>
@@ -69,5 +68,23 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 			<?php include '../php/Footer.php'?>
 		</div>
 	</div>
+	<script type="text/javascript">
+		function toggleVersionData( object )
+		{
+			var entryData = new Array();
+			<?php foreach( $Entry['Link'] as $Item ) { ?>
+				entryData.push('<?php echo json_encode($Item)?>')
+			<?php } ?>
+			let entry = JSON.parse(entryData[object.selectedIndex])
+
+			// Since this object exists, as the multiple version table, we need to update the current chooser
+			// so it can update the download button to have the latest version (which is usually stored on top).
+			let Date = document.getElementById("Date")
+			Date.textContent = `Release Date: ${entry.Date || "????-??-??"}`
+
+			let Dwn = document.getElementById("DownloadButton")
+			Dwn.href = entry.Link
+		}
+	</script>
 </body>
 </html>
