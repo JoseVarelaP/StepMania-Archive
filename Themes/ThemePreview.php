@@ -69,14 +69,13 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 		</div>
 	</div>
 	<script type="text/javascript">
+		var entryData = new Array();
+		<?php foreach( $Entry['Link'] as $Item ) { ?>
+			entryData.push('<?php echo json_encode($Item)?>')
+		<?php } ?>
 		function toggleVersionData( object )
 		{
-			var entryData = new Array();
-			<?php foreach( $Entry['Link'] as $Item ) { ?>
-				entryData.push('<?php echo json_encode($Item)?>')
-			<?php } ?>
 			let entry = JSON.parse(entryData[object.selectedIndex])
-
 			// Since this object exists, as the multiple version table, we need to update the current chooser
 			// so it can update the download button to have the latest version (which is usually stored on top).
 			let Date = document.getElementById("Date")

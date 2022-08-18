@@ -50,6 +50,7 @@ $decoded_data = json_decode($JSONContent, true);
 						This is also referenced below the date to indicate the most recent version.</li>
 					<li>If you need a specific version, click on the theme name to have a list of available versions.</li>
 				</ul>
+				<?php include '../Builds/ArchiveHistoryQuick.php' ?> 
 				<?php
 
 				function DecorateDate( $Item )

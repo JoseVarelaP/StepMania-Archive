@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <link type="text/css" href="../theme.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="VersionIcon/SM40.png"/>
+<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -116,9 +116,15 @@ $decoded_data = json_decode($JSONContent, true);
 								<?php
 									foreach($itemCat['Listing'] as $BuildItem) {
 									$ItemIcon = array_key_exists('Icon', $BuildItem) ? $BuildItem['Icon'] : $itemCat['DefaultIcon'];
-									$DateEntry = array_key_exists('Date', $BuildItem) ? $BuildItem['Date'] : "????-??-??";
+									$DateEntry = "?";
+									if( array_key_exists('Date', $BuildItem) )
+									{
+										$DateObject = date_create($BuildItem['Date']);
+										if( !is_bool( $DateObject ) )
+											$DateEntry = date_format( $DateObject, "m/d/Y" );
+									}
 								?><tr>
-									<td><img style="width: 24px" src="VersionIcon/<?php echo $ItemIcon ?>"></td>
+									<td><img style="width: 24px" src="../VersionIcon/<?php echo $ItemIcon ?>"></td>
 									<td><?php echo $BuildItem['Name'] ?></td>
 									<td><?php echo $DateEntry ?></td>
 									<td><?php echo FindBuildFromKey( $BuildItem, 'Windows' ) ?></td>

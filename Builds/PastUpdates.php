@@ -11,7 +11,7 @@
 	<div id="container">
 		<?php include '../php/TopPage.php' ?>
 		<?php
-		$JSONContent = file_get_contents( "ArchiveChanges.json" );
+		$JSONContent = file_get_contents( "../ArchiveChanges.json" );
 		$decoded_data = json_decode($JSONContent, true);
 		?>
 		<div class="content-container wide-container">
@@ -20,7 +20,7 @@
 				<h1><?php echo $CurrentChanges['Date'] ?></h1>
 				<div>
 					<?php foreach( $CurrentChanges['Changes'] as $Changes ) { ?>
-					<h2><img style="width: 24px" src="VersionIcon/<?php echo $Changes['Icon'] ?>"> <?php echo$Changes['Name'] ?></h2>
+					<h2><img style="width: 24px" src="../VersionIcon/<?php echo $Changes['Icon'] ?>"> <?php echo$Changes['Name'] ?></h2>
 					<ul>
 						<?php foreach( $Changes['List'] as $Points ) { ?>
 							<li><?php echo $Points ?></li>

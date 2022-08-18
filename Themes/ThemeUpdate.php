@@ -18,7 +18,6 @@
 			<div class="content" id="BuildListing">
 				<h1>StepMania Archive Theme Update</h1>
 				<center>
-					<p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
 					<p>The purpose of this site is to provide information about the themes that are currentlty being worked on, and their status.</p>
 				</center>
 
@@ -258,7 +257,7 @@
 
 					echo "</td>";
 				}
-				
+
 				// For each category...
 				foreach($decoded_data as $category) {
 					// Before going, sort the items by the update date.
