@@ -5,6 +5,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>StepMania Themes Archive</title>
+	<style>
+        body {
+            background-color: #001177;
+        }
+    </style>
 </head>
 <style>
 	#content-container { width:1024px; }

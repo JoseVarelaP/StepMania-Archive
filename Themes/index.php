@@ -16,6 +16,12 @@
 	<meta name="description" content="A continuously growing collection of StepMania builds from 2001 up to today; Official and Unofficial Fan made builds."/>
 	<meta name="theme-color" content="#f0d01f" />
 
+	<style>
+        body {
+            background-color: #001177;
+        }
+    </style>
+
 	<?php $CurrentPage = "Themes"; ?>
 	
 	<script>

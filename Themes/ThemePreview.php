@@ -33,6 +33,11 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+        body {
+            background-color: #001177;
+        }
+    </style>
 	<title><?php echo $Entry['Name'] ?> - StepMania Themes Archive</title>
 </head>
 <script> let CurrentPage = 'Themes'; </script>

@@ -2,25 +2,39 @@
 <html lang="en">
 <link type="text/css" href="../theme.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="../Builds/VersionIcon/SM40.png"/>
-<head> <meta charset="UTF-8">
+<?php
+    $CurrentPage = "About";
+    $PageColor = "#002211";
+?>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: #002211;
+        }
+    </style>
     <title>StepMania Archive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="StepMania Archive">
     <meta name="description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
 </head>
-<script> let CurrentPage = 'About'; </script>
 <body>
-    <div id="container">
-        <div id="menu-box">
-            <div id="site-logo"></div>
-            <div class="top-menu" id="top-menu"></div>
-        </div>
-        <div class="content-container wide-container">
+	<div id="container">
+		<?php include '../php/TopPage.php' ?>
+		<div class="content-container wide-container">
             <div class="content">
+                <?php
+                    $Date = 'March 31st, 2021';
+                    $Size = '125.6GB';
+                    $Thanks = array(
+                        "Giovanni Shawn - Allowing me to archive Sushi Violation",
+                        "MadkaT - Finding Club PARASTAR and Keys-Six",
+                        "Jousway - Mungyodance 2 video, Pointing out mistakes",
+                        "InfinitePhantasm - Finding StepManiaX Builds",
+                        "Nhan - Pointing out mistakes, ITG2PC Version history, ITG2PC R3 and ITGPC builds"
+                    );
+                ?>
                 <h1>About</h1>
-                <center>
-                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
-                </center>
                 <p>
                         The StepMania archive is a side project created by <a href="../../">Jose_Varela</a> to collect and preserve almost everything from StepMania, and the contents made by the community itself.
                         Everything done in the project and subsequent sites are all handled by himself. No use of automation or anything like that.
@@ -36,9 +50,14 @@
                 </p>
                 
                 <p id="archivesize">
-                    As of ${date}, the Archive is curently hosting ${size} of data.
+                    As of <?php echo $Date ?>, the Archive is curently hosting <?php echo $Size ?> of data.
                 </p>
-                <div id ="ThanksArea"></div>
+                <div id ="ThanksArea">
+                    <h2>Special thanks to:</h2>
+                    <?php foreach( $Thanks as $Entry ) { ?>
+                        <p><?php echo $Entry ?></p>
+                    <?php } ?>
+                </div>
                 <h2>Submission requests</h2>
                 <p>
                         Everything posted and submitted to the archive is done voluntarily by the community. If you're an author of any content in this archive, and see some work that is violating some kind of distribution right set
@@ -52,15 +71,8 @@
                         </center>
                 </p>
             </div>
-            <div class="footer" id="Footer"></div>
+            <?php include '../php/Footer.php' ?>
         </div>
     </div>
 </body>
-<script src="../js/functions.js"></script>
-<script src="../js/TopMenu.js"></script>
-<script>
-    GenerateTopMenu();
-    LastUpdate.UpdateArchiveData()
-    LastUpdate.GenerateThanks()
-</script>
 </html>
