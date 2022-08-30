@@ -20,7 +20,7 @@
             { "ID": "SM092", "Name": "StepMania 0.92", "Date": "2001-12-24" },
             { "Name": "StepMania 0.93", "Date": "2001-12-24" },
             { "Name": "StepMania 0.94", "Date": "2001-12-24" },
-            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-10-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
+            { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-12-24", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
             { "ID": "SM096", "Name": "StepMania 0.96", "Date": "2001-12-25" },
             { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "2001-12-25" },
             { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }  
@@ -368,17 +368,6 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/StepMania-3.95-CVS-05-22-2005_i586.tar.bz2"
             },
             { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar" },
-            { "Icon": "ITG1.png", "Name": "In The Groove 1 Demo",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/itg-demo-r1.exe",
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-demo-r1.dmg.zip"
-            },
-            { "Icon": "ITG1.png", "Name": "In The Groove 1", "Date": "2006-08-21",
-                "Windows": [
-					{ "Name": "Available<br><small>AA4BG-AAHFU-4DZAO-VLILK-4ARCR</small>", "Link": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso" }
-				],
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
-            },
-			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"
@@ -425,8 +414,6 @@
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/Xsoft%20ITG2%20ver1.27.exe" }
                 ]
             },
-            { "Name": "In The Groove 2 R3", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%202%20r3.exe" },
-            { "Name": "In The Groove 2 R9", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/itg2pc9-x01.exe" },
 			{ "Name": "StepMania 3.95 [Staiain's]", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe" }
         ]
     },
@@ -581,6 +568,25 @@
             },
             { "Name": "StepMania 4.0 CVS Mod V1.1", "Date": "2008-01-03",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar"
+            },
+            { "Icon": "ITG1.png", "Name": "In The Groove PC Demo",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/itg-demo-r1.exe",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-demo-r1.dmg.zip"
+            },
+            { "Icon": "ITG1.png", "Name": "In The Groove PC", "Key": "AA4BG-AAHFU-4DZAO-VLILK-4ARCR", "Date": "2006-08-21",
+                "Windows": [
+					{ "Name": "Main Build (r1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/In%20The%20Groove%20PC.iso" },
+                    { "Name": "r2 Patch", "Date": "2006-09-29", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/itg-full-patch-r2_packa.exe" }
+				],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
+            },
+			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
+            { "Icon": "ITG1.png", "Name": "mDawg's ITG2PC", "Date": "2006-11-04",
+                "Windows": [
+                    { "Name": "Main Package (r3)", "Date": "2006-11-04", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/In%20The%20Groove%20r3.7z" },
+                    { "Name": "r5 Patch", "Date": "2006-12-24", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r5.7z" },
+                    { "Name": "r9 Patch", "Date": "2007-01-08", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r9.7z" }
+                ]
             }
         ]
     },

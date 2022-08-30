@@ -205,8 +205,10 @@ function generateTable(table, data, DefaultIcon) {
                 cell.appendChild(a);
             } else {
                 // Otherwise, it's regular text.
-                let text = document.createTextNode( element.Name );
-                cell.appendChild(text)
+                let textContainer = document.createElement("p");
+                textContainer.innerHTML = `${element.Name}<br><small>${ element.Key || "" }</small>`
+                //let text = document.createTextNode( element.Name );
+                cell.appendChild(textContainer)
             }
         }
 
