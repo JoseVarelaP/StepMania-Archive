@@ -28,8 +28,17 @@ $TopPage_LinkList = array(
 			"Font Conversion Guide" => "ThemeUpdate2.php"
 		)
 	),
+	array("Name" => "OtherSims", "Text" => "Other Sims", "Color" => "#550055"),
 	array("Name" => "About", "Color" => "#002211"),
-)
+);
+
+function GetName($Item)
+{
+	if( array_key_exists('Text', $Item) )
+		return $Item['Text'];
+	return $Item['Name'];
+}
+
 ?>
 <div id="menu-box">
     <div id="site-logo">
@@ -42,7 +51,7 @@ $TopPage_LinkList = array(
 			<?php foreach( $TopPage_LinkList as $Entries ) { ?>
 				<li>
 					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/index.php">
-					<?php echo $Entries['Name'] ?>
+					<?php echo GetName($Entries) ?>
 					<?php if( array_key_exists('Subpages', $Entries) ) { ?>
 						<ul>
 							<?php foreach( $Entries['Subpages'] as $SubPageTitle=>$SubPageLink ) { ?>

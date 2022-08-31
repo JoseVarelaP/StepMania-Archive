@@ -1,0 +1,103 @@
+{
+    "DWI" : {
+        "Name": "Dance With Intensity",
+        "Description": "Dance With Intensity (DWI) is a PC-based simulator of Dance Dance Revolution (DDR) by the Konami company.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DWI/dwi2-game.jpg",
+        "Listing": [
+            { "Name": "Dance With Intensity v1.06", "Date" : "2017-02-25", "Windows": "Dance%20With%20Intensity%201.06.7z" },
+            { "Name": "Dance With Intensity v1.00", "Date" : "2001-12-14" },
+            { "Name": "Dance With Intensity v1.01", "Date" : "2001-12-16" },
+            { "Name": "Dance With Intensity v1.02", "Date" : "2001-12-21" },
+            { "Name": "Dance With Intensity v1.03", "Date" : "2001-12-22" },
+            { "Name": "Dance With Intensity v1.04", "Date" : "2001-12-22" },
+            { "Name": "Dance With Intensity v1.05", "Date" : "2001-12-26" },
+            { "Name": "Dance With Intensity v1.10", "Date" : "2001-12-31" },
+            { "Name": "Dance With Intensity v1.20", "Date" : "2002-01-07" },
+            { "Name": "Dance With Intensity v1.25", "Date" : "2002-01-13" },
+            { "Name": "Dance With Intensity v1.26", "Date" : "2002-01-15" },
+            { "Name": "Dance With Intensity v1.27", "Date" : "2002-01-19", "Windows": "DWI-v127-full.zip" },
+            { "Name": "Dance With Intensity v1.50", "Date" : "2002-02-03" },
+            { "Name": "Dance With Intensity v1.51", "Date" : "2002-02-08" },
+            { "Name": "Dance With Intensity v1.60", "Date" : "2002-03-05" },
+            { "Name": "Dance With Intensity v1.61", "Date" : "2002-04-05" },
+            { "Name": "Dance With Intensity v1.62", "Date" : "2002-04-10" },
+            { "Name": "Dance With Intensity v1.62.20", "Date" : "2002-04-18" },
+            { "Name": "Dance With Intensity v1.62.30", "Date" : "2002-05-06" },
+            { "Name": "Dance With Intensity v1.65", "Date" : "2002-05-26" },
+            { "Name": "Dance With Intensity v1.65.50", "Date" : "2002-06-07" },
+            { "Name": "Dance With Intensity v1.70", "Date" : "2002-06-17" },
+            { "Name": "Dance With Intensity v2.00", "Date" : "2002-07-22" },
+            { "Name": "Dance With Intensity v2.00.30", "Date" : "2002-07-25" },
+            { "Name": "Dance With Intensity v2.00.50", "Date" : "2002-08-02" },
+            { "Name": "Dance With Intensity v2.00.52", "Date" : "2002-08-02" },
+            { "Name": "Dance With Intensity v2.01", "Date" : "2002-08-11" },
+            { "Name": "Dance With Intensity v2.01.10", "Date" : "2002-08-12" },
+            { "Name": "Dance With Intensity v2.02", "Date" : "2002-08-16" },
+            { "Name": "Dance With Intensity v2.03", "Date" : "2002-09-12" },
+            { "Name": "Dance With Intensity v2.10", "Date" : "2002-11-12" },
+            { "Name": "Dance With Intensity v2.20.00", "Date" : "2002-11-20" },
+            { "Name": "Dance With Intensity v2.20.10", "Date" : "2002-11-21" },
+            { "Name": "Dance With Intensity v2.20.30", "Date" : "2002-11-30" },
+            { "Name": "Dance With Intensity v2.30", "Date" : "2003-01-01" },
+            { "Name": "Dance With Intensity v2.30.01", "Date" : "2003-01-03" },
+            { "Name": "Dance With Intensity v2.40", "Date" : "2003-02-02" },
+            { "Name": "Dance With Intensity v2.49", "Date" : "2003-05-22" },
+            { "Name": "Dance With Intensity v2.50", "Date" : "2003-08-14", "Windows": "DWI-v250-full.zip" }
+        ]
+    },
+    "DietDietRevolution" : {
+		"Name": "Diet Diet Revolution",
+		"Listing" : [
+            { "Name": "ddr99v16", "Date" : "1999-02-12", "Windows": "ddr99v16.lzh" },
+            { "Name": "ddr99v15", "Date" : "1999-02-05" },
+            { "Name": "ddr99v14", "Date" : "1999-01-29" },
+            { "Name": "ddr99v13a", "Date" : "1999-01-25" },
+            { "Name": "ddr99v13", "Date" : "1999-01-22" },
+            { "Name": "ddr99v12a", "Date" : "1999-01-16" },
+            { "Name": "ddr99v12", "Date" : "1999-01-15" },
+            { "Name": "ddr99v11", "Date" : "1999-01-08" },
+            { "Name": "ddr99v10", "Date" : "1999-01-01" }
+		]
+	},
+	"DelightDelightReduplication" : {
+		"Name": "Delight Delight Reduplication",
+		"Listing" : [
+			{ "Name": "DDR 0.36b", "Date" : "2021-10-10", "Windows": "DDR036b.lzh" },
+            { "Name": "DDR 0.50b3.1", "Date" : "2021-10-10", "Windows": "DDR0503.1.lzh" },
+            { "Name": "DDR 0.50b4.1", "Date" : "2021-10-10", "Windows": "DDR0504.1.lzh" },
+            { "Name": "DDR 0.50b4.2", "Date" : "2021-10-10", "Windows": "DDR050beta4.2.lzh" },
+            { "Name": "DDR 0.50b5", "Date" : "2021-10-10", "Windows": "DDR050beta5.lzh", "Src": "DDR-src.tar.gz" }
+		]
+	},
+    "BM98" : {
+		"Name": "BM98",
+		"Listing" : [
+			{ "Name": "BM98 v3.28", "Date": "1999-02-18", "Windows": "bm98k328.lzh" }
+		]
+	},
+    "typemania" : {
+		"Name": "typemania",
+		"Listing" : [
+			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
+		]
+	},
+    "DDRPlay" : {
+		"Name": "DDRPlay",
+        "Description": "Playback program that reads DDR-based MSD files.",
+		"Listing" : [
+            { "Name": "ddrplay 0.01" },
+            { "Name": "ddrplay 0.02" },
+            { "Name": "ddrplay 0.03" },
+            { "Name": "ddrplay 0.04" },
+            { "Name": "ddrplay 0.05" },
+            { "Name": "ddrplay 0.06" },
+            { "Name": "ddrplay 0.07" },
+            { "Name": "ddrplay 0.08" },
+            { "Name": "ddrplay 0.09" },
+            { "Name": "ddrplay 0.10" },
+            { "Name": "ddrplay 0.11" },
+            { "Name": "ddrplay 0.12" },
+			{ "Name": "ddrplay 0.13", "Date": "2000-02-02", "Windows": "ddrplay.lzh" }
+		]
+	}
+}
