@@ -3,6 +3,10 @@
         "Name": "Dance With Intensity",
         "Description": "Dance With Intensity (DWI) is a PC-based simulator of Dance Dance Revolution (DDR) by the Konami company.",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DWI/dwi2-game.jpg",
+        "Sources": [
+            { "Name": "Dance With Intensity - snls library", "Link": "http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" },
+            { "Name": "Dance With Intensity - README / User Manual", "Link": "http://dwi.ddruk.com/readme.php" }
+        ],
         "Listing": [
             { "Name": "Dance With Intensity v1.06", "Date" : "2017-02-25", "Windows": "Dance%20With%20Intensity%201.06.7z" },
             { "Name": "Dance With Intensity v1.00", "Date" : "2001-12-14" },
@@ -45,8 +49,32 @@
             { "Name": "Dance With Intensity v2.50", "Date" : "2003-08-14", "Windows": "DWI-v250-full.zip" }
         ]
     },
+    "DanceDanceEvolution386" : {
+        "Name": "Dance Dance Evolution 386",
+        "Description": "DDR Simulation program made for FM-TOWNS 386 computers.",
+        "Sources" : [
+            { "Name": "Dance With Intensity - snls library", "Link": "http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" }
+        ],
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDEvolution386/200img.png",
+        "Listing": [
+            { "Name": "Dance Dance Evolution v1.00", "Date": "1999-01-05" },
+            { "Name": "Dance Dance Evolution v1.01", "Date": "1999-01-06" },
+            { "Name": "Dance Dance Evolution v1.10", "Date": "1999-01-09" },
+            { "Name": "Dance Dance Evolution v1.11", "Date": "1999-01-15" },
+            { "Name": "Dance Dance Evolution v1.12", "Date": "1999-01-21" },
+            { "Name": "Dance Dance Evolution v1.20", "Date": "1999-01-24" },
+            { "Name": "Dance Dance Evolution v1.21", "Date": "1999-02-06" },
+            { "Name": "Dance Dance Evolution v1.30", "Date": "1999-02-08" },
+            { "Name": "Dance Dance Evolution v1.31", "Date": "1999-02-11" }
+        ]
+    },
     "DazzleDazzleRealization" : {
         "Name": "Dazzle Dazzle Realization",
+        "Description": "Seems to the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleReduplication/d2r.gif",
+        "Sources" : [
+            { "Name": "DDRシミュレータ[Dazzle Dazzle Realization]", "Link": "https://web.archive.org/web/19991007105305/http://gauss.takamatsu-nct.ac.jp:80/~iguchi/ddr/ddr2.htm" }
+        ],
         "Listing": [
             { "Name": "Sulfur01", "Date": "1998-10-22" },
             { "Name": "Sulfur02", "Date": "1998-10-27" },
@@ -81,8 +109,15 @@
         ]
     },
     "DietDietRevolution" : {
-		"Name": "Diet Diet Revolution",
+		"Name": "Diet Diet Revolution'99",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/ddr99.png",
+        "Sources" : [
+            { "Name": "Diet Diet Revolution V2.3 User Manual" }
+        ],
 		"Listing" : [
+            { "Name": "ddr99v23", "Date" : "1999-06-01", "Windows": "ddr99v23.zip" },
+            { "Name": "ddr99v21", "Date" : "1999-03-12" },
+            { "Name": "ddr99v20", "Date" : "1999-03-05" },
             { "Name": "ddr99v16", "Date" : "1999-02-12", "Windows": "ddr99v16.lzh" },
             { "Name": "ddr99v15", "Date" : "1999-02-05" },
             { "Name": "ddr99v14", "Date" : "1999-01-29" },
@@ -96,6 +131,10 @@
 	},
 	"DelightDelightReduplication" : {
 		"Name": "Delight Delight Reduplication",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DelightDelightReduplication/cap_ddr_s.jpg",
+        "Sources" : [
+            { "Name": "Delight Delight Reduplication Support Page", "Link": "https://delight.airytail.co/index.html" }
+        ],
 		"Listing" : [
 			{ "Name": "DDR 0.36b", "Date" : "2021-10-10", "Windows": "DDR036b.lzh" },
             { "Name": "DDR 0.50b3.1", "Date" : "2021-10-10", "Windows": "DDR0503.1.lzh" },
@@ -106,8 +145,12 @@
 	},
     "BM98" : {
 		"Name": "BM98",
+        "Sources" : [
+            { "Name": "BM98RING", "Link": "https://web.archive.org/web/20000914062842/http://bm98ring.w3.to/" }
+        ],
 		"Listing" : [
-			{ "Name": "BM98 v3.28", "Date": "1999-02-18", "Windows": "bm98k328.lzh" }
+			{ "Name": "BM98 v3.28", "Date": "1999-02-18", "Windows": "bm98k328.lzh" },
+            { "Name": "BM98 v3.30 R4.2", "Date": "1999-02-18", "Windows": "bm98k330r42.zip" }
 		]
 	},
     "typemania" : {
@@ -118,7 +161,12 @@
 	},
     "DDRPlay" : {
 		"Name": "DDRPlay",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
         "Description": "Playback program that reads DDR-based MSD files.",
+        "Sources" : [
+            { "Name": "ＤＤＲプレイヤー解説", "Link": "http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" },
+            { "Name": "VA011972 Down Load Corner", "Link": "https://web.archive.org/web/20000919032334/http://hp.vector.co.jp/authors/VA011972/" }
+        ],
 		"Listing" : [
             { "Name": "ddrplay 0.01" },
             { "Name": "ddrplay 0.02" },

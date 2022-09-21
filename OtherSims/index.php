@@ -44,6 +44,24 @@ function ReturnDescription( $Item )
     return "";
 }
 
+function GetSourcesForItem($itemCat)
+{
+    // It's empty, then we can't generate this list.
+    if( !array_key_exists('Sources',$itemCat) )
+        return "";
+
+    $Final = "<br><h2>Sources:</h2><ul>";
+    
+    foreach( $itemCat['Sources'] as $Entry ) {
+        if( array_key_exists('Link',$Entry) )
+            $Final = $Final . "<li><a href='" . $Entry['Link'] . "'>" . $Entry['Name'] . "</a></li>";
+        else
+            $Final = $Final . "<li>". $Entry['Name'] . "</li>";
+    }
+    $Final = $Final . "</ul>";
+    return $Final;
+}
+
 function FindBuildFromKey( $cat,  $Item, $Key )
 {
     $CategoryLink = "https://objects-us-east-1.dream.io/smothersims/" . $cat . "/";
@@ -87,11 +105,24 @@ function FindBuildFromKey( $cat,  $Item, $Key )
         </div>
         <div class="content-container">
             <div class="content" id="BuildListing">
+                <h1>Special Thanks</h1>
+                <div>
+                    <p>I would like to thank the following people for helping find this information:</p>
+                    <ul>
+                        <li><a href="https://github.com/Assimileafy">Assimileafy</a></li>
+                        <li><a href="https://twitter.com/skoshche">Skoshche</a></li>
+                    </ul>
+                    <p>Sources of information will be included alongside the description for each item.</p>
+                    <br>
+                </div>
                 <?php foreach( $decoded_data as $category=>$itemCat ) {  ?>
                     <div>
                         <h1 id="<?php echo $category ?>"><?php echo $itemCat['Name'] ?></h1>
                         <div class="ToolSideFlex">
-                            <p><?php echo ReturnDescription($itemCat) ?></p>
+                            <div style="margin-right: auto">
+                                <p><?php echo ReturnDescription($itemCat) ?></p>
+                                <?php echo GetSourcesForItem($itemCat) ?>
+                            </div>
                             <?php if( array_key_exists( 'Picture', $itemCat ) ) { ?>
                                 <img class="ToolImagePreview" src="<?php echo $itemCat['Picture'] ?>">
                             <?php } ?>
