@@ -83,7 +83,9 @@ function FindBuildFromKey( $cat,  $Item, $Key )
                     <div>
                         <h1 id="<?php echo $category ?>"><?php echo $itemCat['Name'] ?></h1>
                         <div class="ToolSideFlex">
-                            <p><?php echo $itemCat['Description'] ?></p>
+                            <div style="margin-right: auto">
+                                <p><?php echo $itemCat['Description'] ?></p>
+                            </div>
                             <?php if( array_key_exists( 'Picture', $itemCat ) ) { ?>
                                 <img class="ToolImagePreview" src="<?php echo $itemCat['Picture'] ?>">
                             <?php } ?>
