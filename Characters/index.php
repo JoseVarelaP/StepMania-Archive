@@ -6,17 +6,16 @@
     <meta charset="UTF-8">
     <title>StepMania Characters Archive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script> let CurrentPage = 'Characters'; </script>
-    <script defer src="../js/TopMenu.js"></script>
-    <script defer src="../js/functions.js"></script>
-    <script defer src="script.js"></script>
+
+    <?php $CurrentPage = "Characters"; ?>
 </head>
+<?php
+$JSONContent = file_get_contents( "db.json" );
+$decoded_data = json_decode($JSONContent, true);
+?>
 <body>
     <div id="container">
-        <div id="menu-box">
-            <div id="site-logo"></div>
-            <div class="top-menu" id="top-menu"></div>
-        </div>
+        <?php include '../php/TopPage.php' ?>
         <div class="content-container wide-container">
             <div class="content">
                 <h1>Notes</h1>
@@ -24,11 +23,18 @@
                     <p> These can run on every version of StepMania after 3.9 Release Candidate 3.</p>
                     <a href="https://objects-us-east-1.dream.io/smcharacters/Animation%20%2B%20Helper%20Bones.7z">Please ensure you have the appropiate bones installed!</a>
                 </center>
-                <center>
-                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
-                </center>
                 <br/>
-                <div class="CharListing" id="CharListing"></div>
+                <div class="CharListing" id="CharListing">
+                    <?php foreach( $decoded_data as $category=>$itemCat ) {  ?>
+                        <div>
+                            <a href="https://objects-us-east-1.dream.io/smcharacters/<?php echo $itemCat['File'] ?>">
+                                <img src="https://objects-us-east-1.dream.io/smcharacters/img/<?php echo $category ?>.png" style="max-height: 96px; padding: 1px 2px;">
+                            </a>
+                            <br>
+                            <?php echo $category ?>
+                        </div>
+                    <?php } ?>
+                </div>
             </div>
             <div class="footer" id="Footer"></div>
         </div>
