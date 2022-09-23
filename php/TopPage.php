@@ -25,7 +25,7 @@ $TopPage_LinkList = array(
 		"Color" => "#005599",
 		"Subpages" => array(
 			"Tools List" => "index.php",
-			"Font Conversion Guide" => "ThemeUpdate2.php"
+			"Font Conversion Guide" => "FontConversionGuide.php"
 		)
 	),
 	array("Name" => "OtherSims", "Text" => "Other Sims", "Color" => "#550055"),

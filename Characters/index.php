@@ -36,7 +36,7 @@ $decoded_data = json_decode($JSONContent, true);
                     <?php } ?>
                 </div>
             </div>
-            <div class="footer" id="Footer"></div>
+            <?php include '../php/Footer.php' ?>
         </div>
     </div>
 </body>

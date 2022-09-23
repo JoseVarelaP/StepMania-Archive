@@ -24,8 +24,8 @@
 		<div class="content-container wide-container">
             <div class="content">
                 <?php
-                    $Date = 'March 31st, 2021';
-                    $Size = '125.6GB';
+                    $Date = 'September 23rd, 2022';
+                    $Size = '226.7GB';
                     $Thanks = array(
                         "Giovanni Shawn - Allowing me to archive Sushi Violation",
                         "MadkaT - Finding Club PARASTAR and Keys-Six",

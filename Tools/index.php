@@ -125,7 +125,4 @@ function FindBuildFromKey( $cat,  $Item, $Key )
         </div>
     </div>
 </body>
-<!-- <script type="module" src="script.js"></script> -->
-<!-- <script src="../js/functions.js"></script> -->
-<!-- <script src="../js/TopMenu.js"></script> -->
 </html>

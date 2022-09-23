@@ -47,18 +47,15 @@ function GetAuthor($item)
                     </thead>
                     <?php foreach( $decoded_data as $Name=>$Entry ) { ?>
                         <tr>
-                            <td><?php echo $Name ?></td>
+                            <td><a href="https://objects-us-east-1.dream.io/smannouncers/<?php echo $Entry['File'] ?>"><?php echo $Name ?></a></td>
                             <td><?php echo GetAuthor($Entry) ?></td>
                             <td><a href="https://objects-us-east-1.dream.io/smannouncers/AudioPreview/<?php echo $Name ?>.ogg">Preview</a></td>
                         </tr>
                     <?php } ?>
                 </table>
             </div>
-            <div class="footer" id="Footer"></div>
+            <?php include '../php/Footer.php' ?>
         </div>
     </div>
 </body>
-<script src="../js/TopMenu.js"></script>
-<script src="../js/functions.js"></script>
-<script src="script.js"></script>
 </html>
