@@ -18,20 +18,41 @@
     <meta name="theme-color" content="#f0d01f" />
 
     <title>StepMania Announcers Archive</title>
+    <?php $CurrentPage = "Announcers"; ?>
 </head>
-<script> let CurrentPage = 'Announcers'; </script>
+<?php
+$JSONContent = file_get_contents( "db.json" );
+$decoded_data = json_decode($JSONContent, true);
+
+function GetAuthor($item)
+{
+    if( !array_key_exists('Author', $item) )
+        return "";
+    return $item['Author'];
+}
+?>
 <body>
     <div id="container">
-        <div id="menu-box">
-            <div id="site-logo"></div>
-            <div class="top-menu" id="top-menu"></div>
-        </div>
+        <?php include '../php/TopPage.php' ?>
         <div id="content-container" class="wide-container">
             <div class="content" id="BuildListing">
                 <h1>Announcer List</h1>
-                <center>
-                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
-                </center>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Author</th>
+                            <th>Sample</th>
+                        </tr>
+                    </thead>
+                    <?php foreach( $decoded_data as $Name=>$Entry ) { ?>
+                        <tr>
+                            <td><?php echo $Name ?></td>
+                            <td><?php echo GetAuthor($Entry) ?></td>
+                            <td><a href="https://objects-us-east-1.dream.io/smannouncers/AudioPreview/<?php echo $Name ?>.ogg">Preview</a></td>
+                        </tr>
+                    <?php } ?>
+                </table>
             </div>
             <div class="footer" id="Footer"></div>
         </div>
