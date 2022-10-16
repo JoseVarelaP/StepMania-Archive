@@ -62,6 +62,14 @@ $decoded_data = json_decode($JSONContent, true);
 				</ul>
 				<?php include 'ArchiveHistoryQuick.php' ?> 
 				<?php
+
+				function GetTitleOrPageForItem( $Item )
+				{
+					if( !array_key_exists('ID',$Item) )
+						return $Item['Name'];
+
+					return "<a href='BuildChangeLogs.php?Version=" . $Item['ID'] . "'>" . $Item['Name'] . "</a>";
+				}
 				function FindBuildFromKey( $Item, $Key )
 				{
 					// First, check if there's an actual data available for this entry.
@@ -125,7 +133,7 @@ $decoded_data = json_decode($JSONContent, true);
 									}
 								?><tr>
 									<td><img style="width: 24px" src="../VersionIcon/<?php echo $ItemIcon ?>"></td>
-									<td><?php echo $BuildItem['Name'] ?></td>
+									<td><?php echo GetTitleOrPageForItem( $BuildItem ) ?></td>
 									<td><?php echo $DateEntry ?></td>
 									<td><?php echo FindBuildFromKey( $BuildItem, 'Windows' ) ?></td>
 									<td><?php echo FindBuildFromKey( $BuildItem, 'Mac' ) ?></td>

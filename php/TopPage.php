@@ -42,7 +42,7 @@ function GetName($Item)
 ?>
 <div id="menu-box">
     <div id="site-logo">
-		<a href="index.html"><img src="../Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
+		<a href="index.php"><img src="../Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
 	</div>
     <div class="top-menu" id="top-menu">
 		<a href="https://discord.gg/uMkVUrr"><img src="../static/discord_icon.png" id="toprighticon"></a>

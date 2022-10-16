@@ -127,6 +127,9 @@ function FindBuildFromKey( $cat,  $Item, $Key )
                                 <img class="ToolImagePreview" src="<?php echo $itemCat['Picture'] ?>">
                             <?php } ?>
                         </div>
+                        <?php
+                            if( array_key_exists('Listing', $itemCat) ) {
+                        ?>
                         <table class="TableToolSet">
                             <thead>
                             <tr>
@@ -147,15 +150,15 @@ function FindBuildFromKey( $cat,  $Item, $Key )
 
                                         return strtotime($a['Date']) - strtotime($b['Date']);
                                     });
-                                    
+
                                     foreach($itemCat['Listing'] as $ThemeID=>$ThemeItem ) {
                                     $DateEntry = "?";
-									if( array_key_exists('Date', $ThemeItem) )
-									{
-										$DateObject = date_create($ThemeItem['Date']);
-										if( !is_bool( $DateObject ) )
-											$DateEntry = date_format( $DateObject, "m/d/Y" );
-									}
+                                    if( array_key_exists('Date', $ThemeItem) )
+                                    {
+                                        $DateObject = date_create($ThemeItem['Date']);
+                                        if( !is_bool( $DateObject ) )
+                                            $DateEntry = date_format( $DateObject, "m/d/Y" );
+                                    }
                                 ?>
                                 <tr>
                                     <td><?php echo $ThemeItem['Name'] ?></td>
@@ -167,6 +170,7 @@ function FindBuildFromKey( $cat,  $Item, $Key )
                                 </tr>
                                 <?php
                                     }
+                                }
                                 ?>
                             </tbody>
                         </table>

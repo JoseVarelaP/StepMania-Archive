@@ -53,7 +53,7 @@
         "Name": "Dance Dance Evolution 386",
         "Description": "DDR Simulation program made for FM-TOWNS 386 computers.",
         "Sources" : [
-            { "Name": "Dance With Intensity - snls library", "Link": "http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" }
+            { "Name": "Dance Dance Evolution 486 (The name gets mixed up a lot)", "Link": "https://web.archive.org/web/20010422115309fw_/http://www.rnac.ne.jp/~nekomimi/ddr/dde386.html" }
         ],
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DDEvolution386/200img.png",
         "Listing": [
@@ -65,12 +65,12 @@
             { "Name": "Dance Dance Evolution v1.20", "Date": "1999-01-24" },
             { "Name": "Dance Dance Evolution v1.21", "Date": "1999-02-06" },
             { "Name": "Dance Dance Evolution v1.30", "Date": "1999-02-08" },
-            { "Name": "Dance Dance Evolution v1.31", "Date": "1999-02-11" }
+            { "Name": "Dance Dance Evolution v1.31", "Date": "1999-02-11", "Windows": "dde3_131.lzh" }
         ]
     },
     "DazzleDazzleRealization" : {
         "Name": "Dazzle Dazzle Realization",
-        "Description": "Seems to the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
+        "Description": "Seems to be the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleReduplication/d2r.gif",
         "Sources" : [
             { "Name": "DDRシミュレータ[Dazzle Dazzle Realization]", "Link": "https://web.archive.org/web/19991007105305/http://gauss.takamatsu-nct.ac.jp:80/~iguchi/ddr/ddr2.htm" }
@@ -159,6 +159,30 @@
 			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
 		]
 	},
+    "nazobmplay" : {
+		"Name": "nazobmplay",
+		"Listing" : [
+			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
+		]
+	},
+    "DanceParanoia2008" : {
+        "Name": "DANCE PARANOiA 2nd Mix",
+        "Description": "The successor/sequel to DANCE PARANOiA, it plays Solo files, and includes a built-in editor. We have no builds for this game, or screenshots apart from a <a href='https://www.nicovideo.jp/watch/sm5352455'>single video available in niconico showcasing it</a>.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia2008/videoframe.png",
+        "Sources": [
+            { "Name": "bemani and Music Game Simulator File Types - AJ187", "Link": "https://www.ajworld.net/simfile_types.txt" },
+            { "Name": "DANCEPARANOiA online", "Link": "https://web.archive.org/web/20000311224336/http://www.linkclub.or.jp:80/~digix/danpara/index.html" }
+        ],
+        "Listing" : [
+            { "Name": "DANCE PARANOiA Version 2.00" },
+            { "Name": "DANCE PARANOiA Version 2.10" },
+            { "Name": "DANCE PARANOiA Version 2.21" },
+            { "Name": "DANCE PARANOiA Version 2.20" },
+            { "Name": "DANCE PARANOiA Version 2.30" },
+            { "Name": "DANCE PARANOiA Version 2.31" },
+            { "Name": "DANCE PARANOiA Version 2.32" }
+        ]
+    },
     "DDRPlay" : {
 		"Name": "DDRPlay",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
