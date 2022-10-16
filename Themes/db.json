@@ -386,8 +386,20 @@
 
 	"OutFox" : {
 		"Name": "Project OutFox",
+		"AccelBeat": { "Name": "AccelBeat", "Author": "Luizsan", "Link": "https://github.com/luizsan/AccelBeat/archive/refs/heads/master.zip" },
 		"GN": { "Name": "In The Groove - GrooveNights", "Date": "2021-05-23", "Author": "Jose_Varela", "Link": "https://github.com/JoseVarelaP/SM5-GrooveNights/archive/refs/heads/master.zip" },
-		"Infinitesimal": { "Name": "Infinitesimal", "Date": "2021-05-07", "Author": "dj505", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
+		"Infinitesimal": {
+			"Name": "Infinitesimal",
+			"Date": "2021-05-07",
+			"Author": "dj505",
+			"Link": [
+				{ "Name": "Latest (Github)", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
+				{ "Name": "Infinitesimal 1.1", "Date": "2022-07-03", "Link": "Infinitesimal/Infinitesimal-1.1.zip" },
+				{ "Name": "Infinitesimal 1.0", "Date": "2022-05-24", "Link": "Infinitesimal/Infinitesimal-1.0.zip" },
+				{ "Name": "Infinitesimal r337", "Date": "2021-12-29", "Link": "Infinitesimal/Infinitesimal-r337.zip" },
+				{ "Name": "Infinitesimal r300", "Date": "2021-03-14", "Link": "Infinitesimal/Infinitesimal-r300.zip" }
+			]
+		},
 		"SoundWaves": { "Name": "SoundWaves (Community Version)", "Author": "Tiny-Foxes",
 			"Link": [
 				{ "Name": "a4.10.0", "Date": "2021-09-24", "Link": "https://github.com/Tiny-Foxes/smtheme-soundwaves-community/archive/refs/tags/a4.9.10.zip"},
@@ -411,50 +423,51 @@
 				{ "Name": "XX_-starlight-_V2.0.0", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.0.zip" }
 			]
 		},
+		"ITG3Encore" : {
+			"Name": "In The Groove 3 Encore",
+			"Author": "DarkBahamut162",
+			"Link": "https://github.com/DarkBahamut162/itg3encore/archive/refs/heads/master.zip"
+		},
+		"MusicMemories" : {
+			"Name": "Music Memories",
+			"Author": "Nepumi-Jr",
+			"Link": "https://github.com/Nepumi-Jr/MusicMemories/archive/refs/heads/main.zip"
+		},
+		"EKS-D" : {
+			"Name": "EKS-D ParaMania",
+			"Author": "EKS-D",
+			"Link": [
+				{ "Name": "EKS-D ParaMania (Alpha 3.5)", "Date": "2021-07-17", "Link": "EKS-D/%5B2021-07-17%5D%20EKS-D%20ParaMania%20%28Alpha%203.5%29.7z" },
+				{ "Name": "EKS-D ParaMania (Alpha 3.0)", "Date": "2021-02-14", "Link": "EKS-D/%5B2021-02-14%5D%20EKS-D%20ParaMania%20%28Alpha%203.0%29.7z" },
+				{ "Name": "EKS-D ParaMania (Alpha 2.1)", "Date": "2020-09-29", "Link": "EKS-D/%5B2020-09-29%5D%20EKS-D%20ParaMania%20%28Alpha%202.1%29.7z" },
+				{ "Name": "EKS-D ParaMania (Alpha 2.0)", "Date": "2020-09-26", "Link": "EKS-D/%5B2020-09-26%5D%20EKS-D%20ParaMania%20%28Alpha%202.0%29.7z" },
+				{ "Name": "EKS-D ParaMania (Alpha 1.5)", "Date": "2020-09-11", "Link": "EKS-D/%5B2020-09-11%5D%20EKS-D%20ParaMania%20%28Alpha%201.5%29.7z" }
+			]
+		},
 		"Superuser": {
 			"Name": "superuser",
 			"Author": "Sudospective",
 			"Link": [
-				{
-					"Name": "v1.2.2",
-					"Date": "2021-10-08",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.2.2.zip"
-				},
-				{
-					"Name": "v1.2.1",
-					"Date": "2021-10-07",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.2.1.zip"
-				},
-				{
-					"Name": "v1.2.0",
-					"Date": "2021-10-07",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.2.0.zip"
-				},
-				{
-					"Name": "v1.1.1",
-					"Date": "2021-10-01",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.1.1.zip"
-				},
-				{
-					"Name": "v1.1.0",
-					"Date": "2021-08-11",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.1.0.zip"
-				},
-				{
-					"Name": "v1.0.2",
-					"Date": "2021-08-05",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.2.zip"	
-				},
-				{
-					"Name": "v1.0.1",
-					"Date": "2021-08-05",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.1.zip"
-				},
-				{
-					"Name": "v1.0.0",
-					"Date": "2021-08-05",
-					"Link": "https://github.com/Sudospective/superuser-outfox/archive/refs/tags/v1.0.0.zip"
-				}
+				{ "Name": "v1.5.0", "Date": "2022-10-08", "Link": "superuser/v1.5.0.zip" },
+				{ "Name": "v1.4.0", "Date": "2022-09-21", "Link": "superuser/v1.4.0.zip" },
+				{ "Name": "v1.3.0-hf1", "Date": "2022-07-05", "Link": "superuser/v1.3.0-hf1.zip" },
+				{ "Name": "v1.3.0", "Date": "2022-07-05", "Link": "superuser/v1.3.0.zip" },
+				{ "Name": "v1.2.2", "Date": "2021-10-08", "Link": "superuser/v1.2.2.zip" },
+				{ "Name": "v1.2.1", "Date": "2021-10-07", "Link": "superuser/v1.2.1.zip" },
+				{ "Name": "v1.2.0", "Date": "2021-10-07", "Link": "superuser/v1.2.0.zip" },
+				{ "Name": "v1.1.1", "Date": "2021-10-01", "Link": "superuser/v1.1.1.zip" },
+				{ "Name": "v1.1.0", "Date": "2021-08-11", "Link": "superuser/v1.1.0.zip" },
+				{ "Name": "v1.0.2", "Date": "2021-08-05", "Link": "superuser/v1.0.2.zip" },
+				{ "Name": "v1.0.1", "Date": "2021-08-05", "Link": "superuser/v1.0.1.zip" },
+				{ "Name": "v1.0.0", "Date": "2021-08-05", "Link": "superuser/v1.0.0.zip" }
+			]
+		},
+		"Virtua-Steps" : {
+			"Name": "Virtua Steps",
+			"Author": "Ryuto Setsujin",
+			"Link": [
+				{ "Name": "Latest (Github)", "Link": "https://github.com/Tiny-Foxes/Virtua-Steps/archive/refs/heads/Release.zip" },
+				{ "Name": "v0.1 - Virtuality", "Date": "2022-08-01", "Link": "virtua-steps/Virtua-Steps-Virtuality-Release.zip" }
 			]
 		}
 	}

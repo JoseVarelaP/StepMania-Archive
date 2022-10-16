@@ -181,6 +181,10 @@
 		"Name": "Not In The Groove Version 4.2.0",
 		"HTMLParse": "OITG/NITG/v4.2.0.md"
 	},
+    "NITG430" : {
+		"Name": "Not In The Groove Version 4.3.0",
+		"HTMLParse": "OITG/NITG/v4.3.0.md"
+	},
 
 	"SM5.0.5" : { "Name":"StepMania 5.0.5", "HTMLParse" : "SM5/5.0.5.md" },
 	"SM5.0.6" : { "Name":"StepMania 5.0.6", "HTMLParse" : "SM5/5.0.6.md" },
