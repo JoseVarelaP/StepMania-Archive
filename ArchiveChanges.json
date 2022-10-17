@@ -1,5 +1,32 @@
 [
 	{
+		"Date": "16/Oct/22",
+		"Changes" : [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added the following themes:",
+					null,
+					"<a href='../Themes/ThemePreview.html?Category=OutFox&ID=AccelBeat'>AccelBeat</a>",
+					"<a href='../Themes/ThemePreview.html?Category=OutFox&ID=ITG3Encore'>In The Groove 3 Encore</a>",
+					"<a href='../Themes/ThemePreview.html?Category=OutFox&ID=MusicMemories'>Music Memories</a>",
+					"<a href='../Themes/ThemePreview.html?Category=OutFox&ID=EKS-D'>EKS-D ParaMania</a>",
+					"<a href='../Themes/ThemePreview.html?Category=OutFox&ID=Virtua-Steps'>Virtua Steps</a>",
+					null,
+					"Added more releases for <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Superuser'>superuser</a> and <a href='../Themes/ThemePreview.html?Category=OutFox&ID=Infinitesimal'>Infinitesimal</a>."
+				]
+			},
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.3.0-UpgradePack-EarlyAccess.zip'>NotITG v4.3.0 (Early Access).</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "14/Aug/22",
 		"Changes" : [
 			{
