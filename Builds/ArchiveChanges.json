@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "29/Oct/22",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-32bit-date-20221026.exe'>Alpha LTS 4.18.0</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "16/Oct/22",
 		"Changes" : [
 			{

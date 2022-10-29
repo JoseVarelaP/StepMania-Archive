@@ -1494,6 +1494,23 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-alpha-0.4.16.0HF2-RPi64-arm64v8-date-20220801.tar.gz"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.16.0HF2-RPi32-arm32v7-date-20220801.tar.gz"}
                 ]
+            },
+            { "ID": "OUTFOX4.18.0", "Name": "Project OutFox Alpha LTS 4.18.0", "Date": "2022-10-26",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-32bit-date-20221026.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe" }
+                ],
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-LTS-0.4.18.0-MacOS-date-20221026.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i386", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-LTS-0.4.18-Linux32bit-i386-legacy-date-20221026.tar.gz" },
+					{ "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-LTS-0.4.18-Linux-amd64-date-20221026.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-LTS-0.4.18-Linux-amd64-legacy-date-20221026.tar.gz" },
+                    { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-LTS-0.4.18-Linux-ARM-64bit-arm64v8-date-20221027.tar.gz"},
+                    { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-LTS-0.4.18-Linux-ARM-32bit-arm32v7-date-20221027.tar.gz"},
+                    { "Name": "Legacy arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-LTS-0.4.18-Linux-Legacy-ARM-32bit-arm32v7-date-20221027.tar.gz"}
+                ]
             }
         ]
     },
