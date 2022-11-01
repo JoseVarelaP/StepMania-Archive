@@ -1,12 +1,24 @@
 [
 	{
+		"Date": "1/Nov/22",
+		"Changes" : [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-64bit-date-20221031.exe'>Alpha LTS 4.18.1</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "29/Oct/22",
 		"Changes" : [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-32bit-date-20221026.exe'>Alpha LTS 4.18.0</a>."
+					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe'>Alpha LTS 4.18.0</a>."
 				]
 			}
 		]

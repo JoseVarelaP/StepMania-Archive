@@ -352,6 +352,10 @@
         "Name": "OutFox-alpha.4.18.0 Build - 26th October 2022 \"LTS Status Engaged - Damnit Jim, I'm a doctor!\"",
         "HTMLParse" : "OUTFOX/A4.18.0.md"
     },
+    "OUTFOX4.18.1" : {
+        "Name": "OutFox-alpha.4.18.1 Build - 31st October 2022 \"Winnie Sanderson: \"I want my book!\"\"",
+        "HTMLParse" : "OUTFOX/A4.18.1.md"
+    },
 
     "ITGM0.5.1" : {
         "Name": "ITGmania v0.5.1",
