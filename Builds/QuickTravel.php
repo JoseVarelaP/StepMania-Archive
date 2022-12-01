@@ -4,7 +4,7 @@
 foreach( $decoded_data as $category=>$itm ) {
 ?>
 <li style="margin-bottom: 6px;">
-	<a href="#<?php echo $category ?>"><?php echo $itm['Name'] ?></a><br>
+	<a href="#div<?php echo $category ?>"><?php echo $itm['Name'] ?></a><br>
 </li>
 <?php } ?>
 </ul>

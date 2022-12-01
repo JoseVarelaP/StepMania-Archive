@@ -360,7 +360,9 @@
             {
                 "Name": "StepMania 3.9+ Final",
                 "Date": "2008-07-06",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9_plus/Windows/StepMania.exe",
+                "Windows": [
+                    { "Name": "Available\n(Program Only)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9_plus/Windows/StepMania.exe"}
+                ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Final.zip"
             },
             { "Name": "StepMania 3.9+ Redux", "Date": "2011-04-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9%2B_redux_Win.zip" },
