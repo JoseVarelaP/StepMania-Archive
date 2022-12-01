@@ -104,6 +104,7 @@ function FindBuildFromKey( $cat,  $Item, $Key )
             </div>
         </div>
         <div class="content-container">
+            <?php include '../Builds/ArchiveHistoryQuick.php' ?> 
             <div class="content" id="BuildListing">
                 <h1>Special Thanks</h1>
                 <div>

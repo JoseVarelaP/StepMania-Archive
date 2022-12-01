@@ -78,6 +78,7 @@ function FindBuildFromKey( $cat,  $Item, $Key )
             </div>
         </div>
         <div class="content-container">
+            <?php include '../Builds/ArchiveHistoryQuick.php' ?> 
             <div class="content" id="BuildListing">
                 <?php foreach( $decoded_data as $category=>$itemCat ) {  ?>
                     <div>

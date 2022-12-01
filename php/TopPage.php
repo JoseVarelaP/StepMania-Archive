@@ -5,7 +5,7 @@ $TopPage_LinkList = array(
 		"Name" => "Builds",
 		"Color" => "#F1CD00",
 		"Subpages" => array(
-			"Builds Listing" => "index.php",
+			"Builds Listing" => "",
 			"Credits" => "Credits.php"
 		)
 	),
@@ -14,7 +14,7 @@ $TopPage_LinkList = array(
 		"Name" => "Themes",
 		"Color" => "#001177",
 		"Subpages" => array(
-			"Theme List" => "index.php",
+			"Theme List" => "",
 			"Theme Update (WIP)" => "ThemeUpdate.php"
 		)
 	),
@@ -24,7 +24,7 @@ $TopPage_LinkList = array(
 		"Name" => "Tools",
 		"Color" => "#005599",
 		"Subpages" => array(
-			"Tools List" => "index.php",
+			"Tools List" => "",
 			"Font Conversion Guide" => "FontConversionGuide.php"
 		)
 	),
@@ -50,7 +50,7 @@ function GetName($Item)
 		<div class="PageList">
 			<?php foreach( $TopPage_LinkList as $Entries ) { ?>
 				<li>
-					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/index.php">
+					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/">
 					<?php echo GetName($Entries) ?>
 					<?php if( array_key_exists('Subpages', $Entries) ) { ?>
 						<ul>

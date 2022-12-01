@@ -35,6 +35,7 @@ function GetAuthor($item)
     <div id="container">
         <?php include '../php/TopPage.php' ?>
         <div id="content-container" class="wide-container">
+            <?php include '../Builds/ArchiveHistoryQuick.php' ?> 
             <div class="content" id="BuildListing">
                 <h1>Announcer List</h1>
                 <table>
