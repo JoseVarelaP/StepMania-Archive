@@ -49,11 +49,14 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 				<h1 id="HeaderTitle"><?php echo $Entry['Name'] ?></h1>
 				<div>
 					<div class="Download-Theme">
-						<p style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo $DownloadItem['Link'] ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
+						<?php
+							$DownloadBaseLink = "https://objects-us-east-1.dream.io/smthemes/" . $Category . "/"
+						?>
+						<p style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
 						<?php if( is_array( $Entry['Link'] ) ) { ?>
 							<select onchange="toggleVersionData(this)" id="Version-Chooser">
 							<?php foreach( $Entry['Link'] as $Item ) { ?>
-							<option value="<?php echo $Item['Link'] ?>"><?php echo $Item['Name'] ?></option>
+							<option value="<?php echo ($DownloadBaseLink . $Item['Link']) ?>"><?php echo $Item['Name'] ?></option>
 							<?php } ?>
 							</select>
 						<?php } ?>
@@ -64,9 +67,14 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 				<center>
 					<br>
 					<div id="imageset" class="ThemeFlexSet">
-						<?php for( $x = 1; $x <= 6; $x++ ) { ?>
-							<img style="order: <?php echo $x ?>" src="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
-						<?php } ?>
+						<?php
+							// Get the number for possible images before iterating.
+							$NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 6;
+							if( array_key_exists('HasImages', $Entry) )
+								for( $x = 1; $x <= $NumImages; $x++ ) {
+							?>
+								<img style="order: <?php echo $x ?>" src="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+							<?php } ?>
 					</div>
 				</center>
 			</div>
@@ -87,7 +95,7 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 			Date.textContent = `Release Date: ${entry.Date || "????-??-??"}`
 
 			let Dwn = document.getElementById("DownloadButton")
-			Dwn.href = entry.Link
+			Dwn.href = `https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/${entry.Link}`
 		}
 	</script>
 </body>
