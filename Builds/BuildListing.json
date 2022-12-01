@@ -344,7 +344,25 @@
             { "Icon": "NEONFM.png", "Name": "NeonFM: Dance Radio", "Date": "2007-08-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/neonfm-danceradio.zip" },
             { "Name": "ERICth the 3rd", "Date": "2003-12-31", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ERICth%20the%203rd.zip" },
             { "Name": "StepManiaCOIL", "Date": "2007-12-31", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepmaniaCOIL.zip" },
-            { "Name": "StepMania 3.9+ Release Candidate 1", "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/3.9plus-rc1-LINUX.zip" },
+            { "Name": "StepMania 3.9+ Beta 1", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Beta%201.zip" },
+            { "Name": "StepMania 3.9+ Beta 2", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Beta%202.zip" },
+            { "Name": "StepMania 3.9+ Beta 3", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Beta%203.zip" },
+            { "Name": "StepMania 3.9+ Beta 4", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Beta%204.zip" },
+            {
+                "Name": "StepMania 3.9+ Release Candidate 1",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/3.9plus-rc1-LINUX.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_RC1.zip"
+            },
+            { "Name": "StepMania 3.9+ Release Candidate 2", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_RC2.zip" },
+            { "Name": "StepMania 3.9+ Release Candidate 3", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_RC3.zip" },
+            { "Name": "StepMania 3.9+ Release Candidate 4", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_RC%204.zip" },
+            { "Name": "StepMania 3.9+ Release Candidate 5", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_RC%205.zip" },
+            {
+                "Name": "StepMania 3.9+ Final",
+                "Date": "2008-07-06",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9_plus/Windows/StepMania.exe",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Final.zip"
+            },
             { "Name": "StepMania 3.9+ Redux", "Date": "2011-04-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9%2B_redux_Win.zip" },
             { "Name": "StepMania 3.9 (Ridiculous Timing)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/SMR_Beta01.ZIP" },
             { "Name": "Xsoft DDRX ver1.01", "Date": "2011-03-01",
@@ -365,7 +383,8 @@
             { "Name": "StepMania 3.95 CVS", "Date": "2005-05-22",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/stepmania_3.95_cvs__06-19-2005_.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/StepMania-3.95-CVS%2806-18-2005%29.dmg",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/StepMania-3.95-CVS-05-22-2005_i586.tar.bz2"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/StepMania-3.95-CVS-05-22-2005_i586.tar.bz2",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/stepmania-cvs-06-19-05-src.zip"
             },
             { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar" },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
