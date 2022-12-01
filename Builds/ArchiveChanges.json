@@ -1,5 +1,29 @@
 [
 	{
+		"Date": "18/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added source packages for 3.9+ builds. Thanks to Archer for these!",
+					null,
+					"The following have been added:",
+					"StepMania 3.9+ Beta 1",
+					"StepMania 3.9+ Beta 2",
+					"StepMania 3.9+ Beta 3",
+					"StepMania 3.9+ Beta 4",
+					"StepMania 3.9+ Release Candidate 1",
+					"StepMania 3.9+ Release Candidate 2",
+					"StepMania 3.9+ Release Candidate 3",
+					"StepMania 3.9+ Release Candidate 4",
+					"StepMania 3.9+ Release Candidate 5",
+					"StepMania 3.9+ Final"
+				]
+			}
+		]
+	},
+	{
 		"Date": "05/Jan/23",
 		"Changes" : [
 			{
