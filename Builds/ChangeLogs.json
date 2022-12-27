@@ -360,5 +360,10 @@
     "ITGM0.5.1" : {
         "Name": "ITGmania v0.5.1",
         "HTMLParse" : "ITGM/ITGM0.5.1.md"
+    },
+
+    "SP1v101" : {
+        "Name": "StepP1 1.0.1 Release",
+        "HTMLParse" : "STEPP1/v1.0.1.md"
     }
 }
