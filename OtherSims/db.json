@@ -165,6 +165,33 @@
 			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
 		]
 	},
+    "beatarranger" : {
+        "Name": "beatarranger",
+        "Description": "Developed by EleGa in 2000. Seems to have been in development alongside working with DiGiX on <a href='#DanceParanoia2008'>DANCE PARANOiA</a>.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/beatarranger/ba01play.gif",
+        "Listing": [
+            { "Name": "beat arranger ver0.0" },
+            { "Name": "beat arranger ver0.1", "Date": "2000-01-23" },
+            { "Name": "beat arranger ver0.1a", "Date": "2000-01-27" },
+            { "Name": "beat arranger ver0.1b", "Date": "2000-01-29" },
+            { "Name": "beat arranger ver0.1c", "Date": "2000-02-24" },
+            { "Name": "beat arranger ver0.1d", "Date": "2000-02-17" },
+            { "Name": "beat arranger ver0.2", "Date": "2000-03-07" },
+            { "Name": "beat arranger ver0.2a", "Date": "2000-03-28" },
+            { "Name": "beat arranger ver0.2b", "Date": "2000-05-20" },
+            { "Name": "beat arranger ver0.2c", "Date": "2000-06-10" },
+            { "Name": "beat arranger ver0.3", "Date": "2000-06-29", "Windows": "ba.lzh" }
+        ]
+    },
+    "DanceParanoia" : {
+        "Name": "DANCE PARANOiA",
+        "Description": "Developed by DiGiX in 1998. It runs its own charting format called DPR. There's no builds available of this game.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia/HC_DANP_2.jpg",
+        "Sources": [
+        ],
+        "Listing" : [
+        ]
+    },
     "DanceParanoia2008" : {
         "Name": "DANCE PARANOiA 2nd Mix",
         "Description": "The successor/sequel to DANCE PARANOiA, it plays Solo files, and includes a built-in editor. We have no builds for this game, or screenshots apart from a <a href='https://www.nicovideo.jp/watch/sm5352455'>single video available in niconico showcasing it</a>.",
