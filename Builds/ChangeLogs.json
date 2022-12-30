@@ -65,169 +65,47 @@
 
 	"SP23.3" : { "Name": "StepP2 V3.3", "HTMLParse" : "STEPP2/v3.3.md" },
 
-	"OUTFOX4" : {
-		"Name":"Alpha 4 Build - December 16 2019",
-		"HTMLParse" : "OUTFOX/A4.0.md"
-	},
-	"OUTFOX4.1" : {
-		"Name":"Alpha 4.1 Build - January 4 2020",
-		"HTMLParse" : "OUTFOX/A4.1.md"
-	},
-	"OUTFOX4.2" : {
-		"Name":"Alpha 4.2 Build - February 6 2020",
-		"HTMLParse" : "OUTFOX/A4.2.md"
-	},
-	"OUTFOX4.3" : {
-		"Name":"Alpha 4.3 Build - February 9 2020",
-		"HTMLParse" : "OUTFOX/A4.3.md"
-	},
-	"OUTFOX4.4" : {
-		"Name":"Alpha 4.4 Build - March 4 2020",
-		"HTMLParse" : "OUTFOX/A4.4.md"
-	},
-	"OUTFOX4.5" : {
-		"Name":"Alpha 4.5 Build - April 4 2020",
-		"HTMLParse" : "OUTFOX/A4.5.md"
-	},
-	"OUTFOX4.5.6" : {
-		"Name":"Alpha 4.5.6 Build - May 7 2020",
-		"HTMLParse" : "OUTFOX/A4.5.6.md"
-	},
-	"OUTFOX4.5.8" : {
-		"Name":"Alpha 4.5.8 Build - May 31 2020",
-		"HTMLParse" : "OUTFOX/A4.5.8.md"
-	},
-	"OUTFOX4.5.9" : {
-		"Name":"Alpha 4.5.9 Build - June 14 2020",
-		"HTMLParse" : "OUTFOX/A4.5.9.md"
-	},
-	"OUTFOX4.6.0RC1" : {
-		"Name":"Alpha 4.6.0RC1 Build - June 19 2020",
-		"HTMLParse" : "OUTFOX/A4.6.0RC1.md"
-	},
-    "OUTFOX4.6.0RC2" : {
-		"Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
-        "HTMLParse" : "OUTFOX/A4.6.0RC2.md"
-    },
-	"OUTFOX4.6.0RC3" : {
-		"Name":"Alpha 4.6.0RC3 - July 1 2020",
-		"HTMLParse" : "OUTFOX/A4.6.0RC3.md"
-	},
-	"OUTFOX4.6.0" : {
-        "Name" : "Alpha 4.6.0 Final Build - July 11 2020 \"Ogre's Have Layers\"",
-        "HTMLParse" : "OUTFOX/A4.6.0.md"
-    },
-	"OUTFOX4.8.0" : {
-        "Name" : "Alpha 4.8.0 Final Build - August 14 2020 \"Chocolate Keyboards and Frikandel\"",
-        "HTMLParse" : "OUTFOX/A4.8.0.md"
-    },
-    "OUTFOX4.8.1" : {
-        "Name" : "Alpha 4.8.1 Fixed Build - August 14 2020 \"RageFile Against the Loading Window\"",
-        "HTMLParse" : "OUTFOX/A4.8.1.md"
-    },
-    "OUTFOX4.8.2" : {
-        "Name" : "Alpha 4.8.2 Fixed Build - August 19th 2020 \"Release the (Git)Kraken!\"",
-        "HTMLParse" : "OUTFOX/A4.8.2.md"
-    },
-    "OUTFOX4.8.5" : {
-        "Name" : "Alpha 4.8.5 Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.8.5.md"
-    },
-    "OUTFOX4.9.0HF" : {
-        "Name" : "Alpha 4.9.0HF Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.9.0HF.md"
-    },
-    "OUTFOX4.9.1" : {
-        "Name" : "Alpha 4.9.1 Build - October 31st 2020 \"Spooky Scary Bugs\"",
-        "HTMLParse" : "OUTFOX/A4.9.1.md"
-    },
-    "OUTFOX4.9.5" : {
-        "Name": "Alpha 4.9.5 Build - 30th November 2020 \"Step into tha game!\"",
-        "HTMLParse" : "OUTFOX/A4.9.5.md"
-    },
-    "OUTFOX4.9.6" : {
-        "Name" : "Alpha 4.9.6 Build - 16th December 2020 \"Single-Frame Don-Chan is not amused\"",
-        "HTMLParse" : "OUTFOX/A4.9.6.md"
-    },
-    "OUTFOX4.9.7" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.7 Build - 20th February 2021 \"We're Only Human After All\"",
-        "HTMLParse" : "OUTFOX/A4.9.7.md"
-    },
-    "OUTFOX4.9.7GG" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.7GG Build - 23rd February 2021 \"Good Game, Well Played...\"",
-        "HTMLParse" : "OUTFOX/A4.9.7GG.md"
-    },
-    "OUTFOX4.9.8" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.8 Build - 25th April 2021 \"An Alpha is never late, it arrives precisely when it means to!\"",
-        "HTMLParse" : "OUTFOX/A4.9.8.md"
-    },
-    "OUTFOX4.9.9HF" : {
-        "Name": "OutFox-alpha.4.9.9HF Build - 4th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF.md"
-    },
-	"OUTFOX4.9.9HF2" : {
-        "Name": "OutFox-alpha.4.9.9HF2 Build - 6th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF2.md"
-    },
-	"OUTFOX4.9.9HF3" : {
-        "Name": "OutFox-alpha.4.9.9HF3 Build - 8th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF3.md"
-    },
-	"OUTFOX4.9.10" : {
-        "Name": "OutFox-alpha.4.9.10 Build - 27th August 2021 \"Because 4 hotfix releases goes too far…\"",
-        "HTMLParse" : "OUTFOX/A4.9.10.md"
-    },
-	"OUTFOX4.10.0" : {
-        "Name": "OutFox-alpha.4.10.0 Build - 1st October 2021 \"Believe it or not, the bus can't swim...\"",
-        "HTMLParse" : "OUTFOX/A4.10.0.md"
-    },
-	"OUTFOX4.12.0" : {
-        "Name": "OutFox-alpha.4.12.0 Build - 31st December 2021 \"Onegai Muscle!\"",
-        "HTMLParse" : "OUTFOX/A4.12.0.md"
-    },
-	"OUTFOX4.13.0" : {
-        "Name": "OutFox-alpha.4.13.0 Build - 9th February 2022 \"Back to the Normality\"",
-        "HTMLParse" : "OUTFOX/A4.13.0.md"
-    },
-    "OUTFOX4.14.0" : {
-        "Name": "OutFox-alpha.4.14.0 Build - 25th March 2022 \"You've upset the cat!\"",
-        "HTMLParse" : "OUTFOX/A4.14.0.md"
-    },
-    "OUTFOX4.14.1" : {
-        "Name": "OutFox-alpha.4.14.1 Build - 27th March 2022 \"Hot Fix Relief\"",
-        "HTMLParse" : "OUTFOX/A4.14.1.md"
-    },
-    "OUTFOX4.15.0" : {
-        "Name": "OutFox-alpha.4.15.0 Build - 14th June 2022 \"Don't matter if you tough or gruff\"",
-        "HTMLParse" : "OUTFOX/A4.15.0.md"
-    },
-    "OUTFOX4.15.1" : {
-        "Name": "OutFox-alpha.4.15.1 Build - 19th June 2022 \"Pump or Dump?\"",
-        "HTMLParse" : "OUTFOX/A4.15.1.md"
-    },
-    "OUTFOX4.16.0" : {
-        "Name": "OutFox-alpha.4.16.0 Build - 30th July 2022 \"On Course(s) for a crash\"",
-        "HTMLParse" : "OUTFOX/A4.16.0.md"
-    },
-    "OUTFOX4.18.0" : {
-        "Name": "OutFox-alpha.4.18.0 Build - 26th October 2022 \"LTS Status Engaged - Damnit Jim, I'm a doctor!\"",
-        "HTMLParse" : "OUTFOX/A4.18.0.md"
-    },
-    "OUTFOX4.18.1" : {
-        "HTMLParse" : "OUTFOX/A4.18.1.md"
-    },
+	"OUTFOX4" : { "HTMLParse" : "OUTFOX/A4.0.md" },
+	"OUTFOX4.1" : { "HTMLParse" : "OUTFOX/A4.1.md" },
+	"OUTFOX4.2" : { "HTMLParse" : "OUTFOX/A4.2.md" },
+	"OUTFOX4.3" : { "HTMLParse" : "OUTFOX/A4.3.md" },
+	"OUTFOX4.4" : { "HTMLParse" : "OUTFOX/A4.4.md" },
+	"OUTFOX4.5" : { "HTMLParse" : "OUTFOX/A4.5.md" },
+	"OUTFOX4.5.6" : { "HTMLParse" : "OUTFOX/A4.5.6.md" },
+	"OUTFOX4.5.8" : { "HTMLParse" : "OUTFOX/A4.5.8.md" },
+	"OUTFOX4.5.9" : { "HTMLParse" : "OUTFOX/A4.5.9.md" },
+	"OUTFOX4.6.0RC1" : { "HTMLParse" : "OUTFOX/A4.6.0RC1.md" },
+    "OUTFOX4.6.0RC2" : { "HTMLParse" : "OUTFOX/A4.6.0RC2.md" },
+	"OUTFOX4.6.0RC3" : { "HTMLParse" : "OUTFOX/A4.6.0RC3.md" },
+	"OUTFOX4.6.0" : { "HTMLParse" : "OUTFOX/A4.6.0.md" },
+	"OUTFOX4.8.0" : { "HTMLParse" : "OUTFOX/A4.8.0.md" },
+    "OUTFOX4.8.1" : { "HTMLParse" : "OUTFOX/A4.8.1.md" },
+    "OUTFOX4.8.2" : { "HTMLParse" : "OUTFOX/A4.8.2.md" },
+    "OUTFOX4.8.5" : { "HTMLParse" : "OUTFOX/A4.8.5.md" },
+    "OUTFOX4.9.0HF" : { "HTMLParse" : "OUTFOX/A4.9.0HF.md" },
+    "OUTFOX4.9.1" : { "HTMLParse" : "OUTFOX/A4.9.1.md" },
+    "OUTFOX4.9.5" : { "HTMLParse" : "OUTFOX/A4.9.5.md" },
+    "OUTFOX4.9.6" : { "HTMLParse" : "OUTFOX/A4.9.6.md" },
+    "OUTFOX4.9.7" : { "HTMLParse" : "OUTFOX/A4.9.7.md" },
+    "OUTFOX4.9.7GG" : { "HTMLParse" : "OUTFOX/A4.9.7GG.md" },
+    "OUTFOX4.9.8" : { "HTMLParse" : "OUTFOX/A4.9.8.md" },
+    "OUTFOX4.9.9HF" : { "HTMLParse" : "OUTFOX/A4.9.9HF.md" },
+	"OUTFOX4.9.9HF2" : { "HTMLParse" : "OUTFOX/A4.9.9HF2.md" },
+	"OUTFOX4.9.9HF3" : { "HTMLParse" : "OUTFOX/A4.9.9HF3.md" },
+	"OUTFOX4.9.10" : { "HTMLParse" : "OUTFOX/A4.9.10.md" },
+	"OUTFOX4.10.0" : { "HTMLParse" : "OUTFOX/A4.10.0.md" },
+	"OUTFOX4.12.0" : { "HTMLParse" : "OUTFOX/A4.12.0.md" },
+	"OUTFOX4.13.0" : { "HTMLParse" : "OUTFOX/A4.13.0.md" },
+    "OUTFOX4.14.0" : { "HTMLParse" : "OUTFOX/A4.14.0.md" },
+    "OUTFOX4.14.1" : { "HTMLParse" : "OUTFOX/A4.14.1.md" },
+    "OUTFOX4.15.0" : { "HTMLParse" : "OUTFOX/A4.15.0.md" },
+    "OUTFOX4.15.1" : { "HTMLParse" : "OUTFOX/A4.15.1.md" },
+    "OUTFOX4.16.0" : { "HTMLParse" : "OUTFOX/A4.16.0.md" },
+    "OUTFOX4.18.0" : { "HTMLParse" : "OUTFOX/A4.18.0.md" },
+    "OUTFOX4.18.1" : { "HTMLParse" : "OUTFOX/A4.18.1.md" },
 
-    "ITGM0.5.1" : {
-        "Name": "ITGmania v0.5.1",
-        "HTMLParse" : "ITGM/ITGM0.5.1.md"
-    },
-
-    "SP1v101" : {
-        "Name": "StepP1 1.0.1 Release",
-        "HTMLParse" : "STEPP1/v1.0.1.md"
-    },
-    "SP1v102" : {
-        "Name": "StepP1 1.0.2 Release",
-        "HTMLParse" : "STEPP1/v1.0.2.md"
-    }
+    "ITGM0.5.1" : { "HTMLParse" : "ITGM/ITGM0.5.1.md" },
+    
+    "SP1v101" : { "HTMLParse" : "STEPP1/v1.0.1.md" },
+    "SP1v102" : { "HTMLParse" : "STEPP1/v1.0.2.md" }
 }
