@@ -29,7 +29,28 @@
 			const Container = el.parentNode.children[1]
 			const state = Container.style.display
 			Container.style.display = state !== "none" ? "none" : "block"
-			// document.location.href = `#${Version}`
+
+			// TODO: Make this work again!
+			// Right now as it is, it will reload the page entirely!
+			// if(Container.style.display === "block")
+				// document.location.href = `${el.parentNode.children[1].parentNode.id}`
+		}
+	</script>
+	<script defer>
+		// Get the url, and check if there's a valid ID to find.
+		window.onload = function(){
+			const url = window.location.href
+			if( url.lastIndexOf('#') !== -1 )
+			{
+				const GroupOpen = url.substring( url.lastIndexOf('#') + 1 )
+				const divGrp = `div${GroupOpen}`
+				if( GroupOpen.length > 1 && document.getElementById(divGrp) )
+				{
+					const base = document.getElementById(divGrp)
+					base.getElementsByTagName("div")[0].style.display = "block"
+					document.getElementById(divGrp).scrollIntoView(true)
+				}
+			}
 		}
 	</script>
 </head>
@@ -103,7 +124,7 @@ $decoded_data = json_decode($JSONContent, true);
 				?>
 				<div id="div<?php echo $category ?>">
 					<h1 onclick="toggleHeader(this)" class="VersionTitle" style="cursor: pointer; color: white;">▸ <?php echo $itemCat['Name'] ?></h1>
-					<div id="ContentContainer">
+					<div id="ContentContainer" style="display: none">
 						<?php if( array_key_exists('Description', $itemCat) ) { ?>
 							<p><?php echo $itemCat['Description'] ?></p>
 						<?php } ?>
