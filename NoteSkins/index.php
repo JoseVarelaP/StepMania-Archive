@@ -7,25 +7,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <title>StepMania NoteSkins Archive</title>
 </head>
-<script> let CurrentPage = 'NoteSkins'; </script>
+<?php $CurrentPage = "NoteSkins"; ?>
 <body>
     <div id="container">
-        <div id="menu-box">
-            <div id="site-logo"></div>
-            <div class="top-menu" id="top-menu"></div>
-        </div>
+        <?php include '../php/TopPage.php' ?>
         <div class="content-container wide-container">
             <div class="content" id="BuildListing">
                 <center>
-                    <p id="JavaMessage">You need JavaScript for this site to load correctly!</p>
-                    Hey! This part of the archive is still being developed.
+                   <p> Hey! This part of the archive is still being developed.</p>
+                   <p>If you have NoteSkins you want to send, <a href="josevarela@tutanota.com?subject=NoteSkin%20Submission%20Request">please email me!</a></p>
                 </center>
             </div>
         </div>
-        <div class="footer" id="Footer"></div>
+        <?php include '../php/Footer.php' ?>
     </div>
 </body>
-<script src="../js/TopMenu.js"></script>
-<script src="../js/functions.js"></script>
-<script src="script.js"></script>
 </html>

@@ -18,12 +18,12 @@ if (array_key_exists('Container', $VideoContainerPath))
 else
     $VideoLink = "https://objects-us-east-1.dream.io/smarchivefootage/" . $VideoContainerPath[$VidID]["VideoLink"];
 
-function GetTitle( $Path )
+function GetTitle( $Cont, $Path )
 {
-    if( !array_key_exists('Name', $Path) )
+    if( !array_key_exists('Name', $Cont[$Path]) )
         return "";
 
-    return $Path["Name"];
+    return $Cont["Name"] . " - " . $Cont[$Path]["Name"];
 }
 
 function GenerateMatchStats( $Path )
@@ -67,7 +67,7 @@ function GetItemForFootage( $Item, $ID, $NameItem )
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?php echo GetTitle($VideoContainerPath[$VidID]) ?>StepMania Footage Archive</title>
+    <title><?php echo GetTitle($VideoContainerPath, $VidID) ?>StepMania Footage Archive</title>
 </head>
 <style>
     table {
@@ -79,7 +79,7 @@ function GetItemForFootage( $Item, $ID, $NameItem )
         <?php include '../php/TopPage.php' ?>
         <div class="content-container wide-container">
             <div class="content" id="BuildListing">
-                <h1 id="VideoTitle"><?php echo GetTitle( $VideoContainerPath[$VidID] ) ?></h1>
+                <h1 id="VideoTitle"><?php echo GetTitle($VideoContainerPath, $VidID) ?></h1>
                 <img class="VideoIcon" src="../static/news_icon_movie.png" style="position: absolute;">
                 <div class="Video-InfoBoard">
                     <h3>Information</h3>

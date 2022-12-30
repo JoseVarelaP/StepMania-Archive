@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <link type="text/css" href="../theme.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="../Builds/VersionIcon/SM40.png"/>
+<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 <?php
 $JSONContent = file_get_contents( "db.json" );
 $decoded_data = json_decode($JSONContent, true);
