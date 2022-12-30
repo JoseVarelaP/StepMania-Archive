@@ -756,6 +756,8 @@
 			{ "Name": "StepPrime Beta 0.94.5", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.5.zip" },
 			{ "ID": "SP23.3", "Name": "StepP2 V3.3", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2%20-%20Release%20V3.3.zip" },
 			{ "Name": "STEP P1 V1.00", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/STEP_P1_V1_00.zip" },
+            { "ID": "SP1v101", "Name": "STEP P1 V1.0.1", "Date": "2022-12-27", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.1.7z" },
+            { "ID": "SP1v102", "Name": "STEP P1 V1.0.2", "Date": "2022-12-29", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.2.7z" },
 			{ "Name": "StepMania PRO2 Beta Test", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/StepmaniaPRO2Beta.rar" },
 			{ "Name": "PUMP IT UP MX REVOLUTION 2 2021 (V2.01)", "Date": "2021-06-04", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/PIU%20MXR2%20(BASE%202.01).rar" },
 			{ "Name": "Step Fex 1.4.1", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" },
@@ -1140,6 +1142,15 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.71.2-Darwin.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.71.2-Linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.2.tar.gz"
+            },
+            { "Name": "Etterna 0.72.0", "Date": "2022-12-25",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win64.exe" }
+                ],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.0-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.0-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.0.tar.gz"
             }
         ]
     },

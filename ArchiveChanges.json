@@ -1,5 +1,36 @@
 [
 	{
+		"Date": "29/Dec/22",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.2.7z'>StepP1 V1.0.2</a>."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win64.exe'>Etterna 0.72.0</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "27/Dec/22",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.1.7z'>StepP1 V1.0.1</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "1/Nov/22",
 		"Changes" : [
 			{
