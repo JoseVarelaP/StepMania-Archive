@@ -464,6 +464,8 @@
 		"EKS-D" : {
 			"Name": "EKS-D ParaMania",
 			"Author": "EKS-D",
+			"NumImages": 4,
+			"HasImages": true,
 			"Link": [
 				{ "Name": "EKS-D ParaMania (Alpha 3.5)", "Date": "2021-07-17", "Link": "EKS-D/%5B2021-07-17%5D%20EKS-D%20ParaMania%20%28Alpha%203.5%29.7z" },
 				{ "Name": "EKS-D ParaMania (Alpha 3.0)", "Date": "2021-02-14", "Link": "EKS-D/%5B2021-02-14%5D%20EKS-D%20ParaMania%20%28Alpha%203.0%29.7z" },

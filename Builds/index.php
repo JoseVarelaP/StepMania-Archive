@@ -42,13 +42,12 @@
 			const url = window.location.href
 			if( url.lastIndexOf('#') !== -1 )
 			{
-				const GroupOpen = url.substring( url.lastIndexOf('#') + 1 )
-				const divGrp = `div${GroupOpen}`
-				if( GroupOpen.length > 1 && document.getElementById(divGrp) )
+				const GroupOpen = `div${url.substring( url.lastIndexOf('#') + 1 )}`
+				if( GroupOpen.length > 1 && document.getElementById(GroupOpen) )
 				{
-					const base = document.getElementById(divGrp)
+					const base = document.getElementById(GroupOpen)
 					base.getElementsByTagName("div")[0].style.display = "block"
-					document.getElementById(divGrp).scrollIntoView(true)
+					document.getElementById(GroupOpen).scrollIntoView(true)
 				}
 			}
 		}
