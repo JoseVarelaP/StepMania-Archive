@@ -664,6 +664,7 @@
             { "Icon": "STEPF2UPD.png", "Name": "StepF2 V1.16.1 Update Package", "Date": "2018-04-28", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEP_F2_V1_16_1_UPDATE.exe" },
             { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 (Demo)", "Date": "2018-06-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Sushi%20Violation%202018%20DEMO%20VERSION.zip" },
             { "Icon": "SUSHI.png", "Name": "Sushi Violation 2018 v2 (Demo)", "Date": "2020-09-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/SV2018%20DEMO%20v2.zip" },
+            { "ID": "SushiFinal", "Icon": "SUSHI.png", "Name": "Sushi Violation Final", "Date": "2023-01-02", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/SushiViolationFINAL.7z" },
             { "Name": "Rave It Out: The Infusion", "Date": "2017-01-29", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/RaveItOut-TheInfusion.7z" },
             { "Name": "StepMania NX v5.1-nx1", "Date": "2019-04-27",
                 "Windows": [
