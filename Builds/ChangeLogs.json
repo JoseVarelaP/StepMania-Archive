@@ -1,4 +1,8 @@
 {
+    "SM050" : {
+        "Name": "StepMania 0.50",
+        "HTMLParse" : "SM095/050.md"
+    },
     "SM091" : {
         "Name": "StepMania 0.91",
         "Changes": [

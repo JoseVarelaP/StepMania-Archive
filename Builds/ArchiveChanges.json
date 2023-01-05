@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "05/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM164.png",
+				"Name": "DDR PC Edition",
+				"List": [
+					"Added images of StepMania 0.50, which was still named DDR PC Edition, and contains the graphics from the initial version of DDR PC Edition.",
+					"Moved StepMania 0.50 to the category, as the game wouldn't be rebranded to StepMania until 0.6x."
+				]
+			}
+		]
+	},
+	{
 		"Date": "04/Jan/23",
 		"Changes" : [
 			{

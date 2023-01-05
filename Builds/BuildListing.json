@@ -2,9 +2,10 @@
     "DDRPC" : {
         "Name": "DDR PC Edition ",
         "DefaultIcon": "SM164.png",
-        "Description": "Before StepMania 0.5, it was named DDR PC Edition. This was the beginning.",
+        "Description": "Before StepMania 0.5, it was named DDR PC Edition. This was the beginning. After version 0.6x, the game would be rebranded to StepMania.",
         "Listing": [
-            { "Name": "DDR PC Edition m1", "Date": "2001-08-21" }
+            { "Name": "DDR PC Edition m1", "Date": "2001-08-21" },
+            { "ID": "SM050", "Name": "DDR PC Edition (StepMania 0.5 Alpha)", "Date": "2001-09-27" }
         ]
     },
     
@@ -13,7 +14,6 @@
         "DefaultIcon": "SM164.png",
         "Description": "StepMania 0.9x was released only for Windows. So, you won't find a Linux and Mac version in here. It's mostly remembered because of the graphics of that version, that some were made with the WordArt tool in Office PowerPoint.",
         "Listing": [
-            { "Name": "StepMania 0.5 Alpha", "Date": "2001-09-27" },
             { "Name": "StepMania 0.64", "Date": "2001-10-17" },
             { "Name": "StepMania 0.90", "Date": "2001-12-18" },
             { "ID": "SM091", "Name": "StepMania 0.91", "Date": "2001-12-20" },
