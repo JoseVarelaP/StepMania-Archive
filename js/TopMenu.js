@@ -67,7 +67,7 @@ function TemporaryShortageWarning( incidentID )
 	const WarningText = document.createElement("p");
 	// WarningText.innerHTML = `&#9888; The archive's bucket provider is currently experiencing an outage. For more information, <a href='${MoreInfoSite}'>please visit this page.</a>`;
 	// WarningText.innerHTML = WarningText.innerHTML + "<br>Due to this, images from the site and big downloads may fail to complete.<p></p>";
-	WarningText.innerHTML = `&#9888; The entire Jose_Varela website will soon be transfered to a .net domain by mid-january 2023. If you'd like, you can switch to <a href="https://josevarela.net/SMArchive/Builds">josevarela.net</a>.`;
+	WarningText.innerHTML = `&#9888; The entire Jose_Varela website will soon be transfered to a .net domain by January 20th 2023. If you'd like, you can switch to <a href="https://josevarela.net/SMArchive/Builds">josevarela.net</a>.`;
 	Container.appendChild( WarningText );
 	return Container;
 }

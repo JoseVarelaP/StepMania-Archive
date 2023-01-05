@@ -1,5 +1,79 @@
 [
 	{
+		"Date": "05/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM164.png",
+				"Name": "DDR PC Edition",
+				"List": [
+					"Added images of StepMania 0.50, which was still named DDR PC Edition, and contains the graphics from the initial version of DDR PC Edition.",
+					"Moved StepMania 0.50 to the category, as the game wouldn't be rebranded to StepMania until 0.6x."
+				]
+			}
+		]
+	},
+	{
+		"Date": "04/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.0",
+				"List": [
+					"Found more builds from the 3.0 days on CVS. This completes the logging of the transition from 3.0 to 3.9. The following is the list.",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030327a.exe'>20030327a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030420a.exe'>20030420a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030422.exe'>20030422</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030528a.exe'>20030528a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030531a.exe'>20030531a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030611b.exe'>20030611b</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030618a.exe'>20030618a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030623.exe'>20030623</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030630.exe'>20030630</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030715.exe'>20030715</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030718a.exe'>20030718a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030718a.exe'>20030718a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030731.exe'>20030731</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030803.exe'>20030803</a>",
+					"Added date for the final official release of StepMania 3.0 (2002-10-23)."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Fixed date for StepMania 3.9 Release Candidate 2. It was in November.",
+					"Added source for StepMania 3.9 Release Candidate 2.",
+					"Added StepMania 3.9 Release Candidate 2a, released the same day as RC2."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4.0",
+				"List": [
+					"Found more builds for 4.0 on CVS. Possible changelogs were present on the StepMania website, which I'll try to find. The following is the list.",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060621.exe'>(20060621)</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060625.exe'>(20060625)</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060716-mac.zip'>Intermediate (20060716) [mac]</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0-CVS-20060717.exe'>Intermediate (20060717)</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060729-mac.zip'>Intermediate (20060729) [mac]</a>",
+					"Fixed Mac build for StepMania 4.0 CVS (20060613). Mixed up as the source."
+				]
+			}
+		]
+	},
+	{
+		"Date": "02/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/SushiViolationFINAL.7z'>Sushi Violation Final</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "29/Dec/22",
 		"Changes" : [
 			{
@@ -1558,7 +1632,7 @@
 				"List": [ "StepMania 4.0 Beta 10 has finally been restored and it's back up for download." ]
 			},
 			{
-				"Icon": "SM30.png",
+				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [ "Added Touch Input demonstration video for StepMania AMX Beta 5.9.2." ]
 			},
