@@ -1,5 +1,29 @@
 [
 	{
+		"Date": "18/Jan/23",
+		"Changes" : [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added source packages for 3.9+ builds. Thanks to Archer for these!",
+					null,
+					"The following have been added:",
+					"StepMania 3.9+ Beta 1",
+					"StepMania 3.9+ Beta 2",
+					"StepMania 3.9+ Beta 3",
+					"StepMania 3.9+ Beta 4",
+					"StepMania 3.9+ Release Candidate 1",
+					"StepMania 3.9+ Release Candidate 2",
+					"StepMania 3.9+ Release Candidate 3",
+					"StepMania 3.9+ Release Candidate 4",
+					"StepMania 3.9+ Release Candidate 5",
+					"StepMania 3.9+ Final"
+				]
+			}
+		]
+	},
+	{
 		"Date": "05/Jan/23",
 		"Changes" : [
 			{
@@ -8,6 +32,13 @@
 				"List": [
 					"Added images of StepMania 0.50, which was still named DDR PC Edition, and contains the graphics from the initial version of DDR PC Edition.",
 					"Moved StepMania 0.50 to the category, as the game wouldn't be rebranded to StepMania until 0.6x."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.0",
+				"List": [
+					"<b>Update</b>: Fixed links for 20030715a and 20030728a. Thanks to Nhan for pointing this out."
 				]
 			}
 		]
@@ -29,9 +60,8 @@
 					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030618a.exe'>20030618a</a>",
 					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030623.exe'>20030623</a>",
 					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030630.exe'>20030630</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030715.exe'>20030715</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030718a.exe'>20030718a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030718a.exe'>20030718a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030715a.exe'>20030715a</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030728a.exe'>20030728a</a>",
 					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030731.exe'>20030731</a>",
 					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030803.exe'>20030803</a>",
 					"Added date for the final official release of StepMania 3.0 (2002-10-23)."
