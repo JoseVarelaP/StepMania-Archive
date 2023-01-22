@@ -6,6 +6,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>StepMania Build Archive</title>
+	<link rel="canonical" href="https://josevarela.net/SMArchive/Builds" />
 	<meta property="og:image" content="https://jose.heysora.net/SMArchive/VersionIcon/SM40.png" />
 	<meta property="og:site_name" content="StepMania Archive" />
 	<meta property="og:description" content="A continuously growing collection of StepMania builds from 2001 up to today; Official and Unofficial Fan made builds."/>

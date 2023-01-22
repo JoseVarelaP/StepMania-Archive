@@ -18,6 +18,12 @@ body {
 	border-radius: 8px;
 }
 
+/* The new version of Center, as it's being deprecated from browsers for whatever reason. */
+.CenterItem {
+	display:block;
+	text-align: center;
+}
+
 .TransferMessage{
 	padding: 2px 6px;
 	background-color: white;
@@ -456,7 +462,10 @@ only screen and (max-width:660px) {
 		padding: 2px;
 	}
 	
-	#site-logo img { width: 90vw; }
+	#site-logo {
+		display:block;
+		text-align: center;
+	}
 
 	.VideoFrame{
 		/*float: center;*/
@@ -516,9 +525,15 @@ only screen and (max-width:660px) {
 	h2 { color: #fff; border-top: 1px dotted gray; }
 	h3 { color: #fff; }
 
-	h1 {
-		background-color: #000;
-		border-bottom: 0px solid #000;
+	h1 {
+		/* border-bottom: 1px solid #333; */
+		border: #333 2px solid;
+		background: none !important;
+	}
+
+	.content-Changelog h5{
+		/* border-bottom: 1px solid #333; */
+		border: #333 2px solid;
 		background: none !important;
 	}
 

@@ -14,6 +14,7 @@
         }
     </style>
     <title>StepMania Archive</title>
+    <link rel="canonical" href="https://josevarela.net/SMArchive/About" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="StepMania Archive">
     <meta name="description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
@@ -67,7 +68,7 @@
                         <small>*You may be asked if at least theme information/overview/history/screenshots can remain on the archive upon a takedown request, you may choose to deny this as well.</small>
 
                         <center>
-                            <a href="mailto:josevarela@tutanota.com?subject=Submission Request" target="_top">Request a submission</a> | <a href="mailto:josevarela@tutanota.com?subject=Submission Takedown Request" target="_top">Request a takedown</a>
+                            <a href="mailto:jose@josevarela.net?subject=Submission Request" target="_top">Request a submission</a> | <a href="mailto:jose@josevarela.net?subject=Submission Takedown Request" target="_top">Request a takedown</a>
                         </center>
                 </p>
             </div>

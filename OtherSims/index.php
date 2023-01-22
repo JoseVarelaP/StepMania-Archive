@@ -6,11 +6,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>StepMania Other Simulators Archive</title>
-	<meta property="og:image" content="https://josevarela.xyz/SMArchive/VersionIcon/SM40.png" />
+    <link rel="canonical" href="https://josevarela.net/SMArchive/OtherSims" />
+	<meta property="og:image" content="https://josevarela.net/SMArchive/VersionIcon/SM40.png" />
 	<meta property="og:site_name" content="StepMania Archive" />
 	<meta property="og:description" content="An archive of other rhythm game simulators that released before StepMania."/>
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://josevarela.xyz/SMArchive" />
+	<meta property="og:url" content="https://josevarela.net/SMArchive" />
 
 	<meta name="title" content="Other Simulators" />
 	<meta name="description" content="An archive of other rhythm game simulators that released before StepMania."/>

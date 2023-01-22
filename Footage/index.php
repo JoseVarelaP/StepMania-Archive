@@ -5,6 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://josevarela.net/SMArchive/Footage" />
     <title>StepMania Footage Archive</title>
 </head>
 <?php

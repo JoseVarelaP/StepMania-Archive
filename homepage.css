@@ -1,0 +1,20 @@
+@import url("./theme.css");
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.content img {
+	width: 300px;
+	padding: 20px 50px;
+}
+.content img:hover {
+	background-color: #222;
+	box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.67);
+}
+
+#container {
+	max-width: 1100px;
+}

@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<link type="text/css" href="../theme.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
-<head>
-	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>StepMania Build Archive</title>
-</head>
 <?php
     $CurrentPage = 'Builds';
 
@@ -20,6 +13,14 @@
 
     $EntryToLook = $EntriesPath . $decoded_data[ $_GET['Version'] ];
 ?>
+<head>
+    <link type="text/css" href="../theme.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://josevarela.net/SMArchive/Builds/BuildChangeLogs.php" />
+    <title>StepMania Build Archive</title>
+</head>
 <body>
     <div id="container">
         <?php include '../php/TopPage.php' ?>
