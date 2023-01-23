@@ -38,6 +38,7 @@
 <?php
 $JSONContent = file_get_contents( "db.json" );
 $decoded_data = json_decode($JSONContent, true);
+
 ?>
 <body>
 	<div id="container">
@@ -120,6 +121,17 @@ $decoded_data = json_decode($JSONContent, true);
 					$SMArchiveLinkLocation = CheckForHttp( $LinkSet, $cat );
 
 					return "<a href='". $SMArchiveLinkLocation ."'>Available</a>";
+				}
+
+				// Sort the data so it's alphabetically sorted.
+				foreach( $decoded_data as $itemCat=>$table ) {
+					uasort( $decoded_data[$itemCat], function($a,$b){
+						if( is_string($a) || is_string($b) )
+							return 0;
+	
+						return strcasecmp($a["Name"], $b["Name"]);
+					   }
+					);
 				}
 
 				foreach( $decoded_data as $category=>$itemCat ) {
