@@ -96,7 +96,37 @@ function GetItemForFootage( $Item, $ID, $NameItem )
                             echo $VideoContainerPath[$VidID]['Description'];
                     ?>
                 </p>
-                <?php GenerateMatchStats( $VideoContainerPath[$VidID] ) ?>
+                <!-- Generate match stats if available. -->
+                <?php
+                    if( array_key_exists('ScoreInfo', $VideoContainerPath[$VidID]) ) {
+                ?>
+                    <table id="MatchInfo">
+                        <tr>
+                            <td>Song</td>
+                            <!-- Get each participant -->
+                            <?php foreach( $VideoContainerPath[$VidID]['ScoreInfo']['Participants'] as $participant  ) { ?>
+                                <td><?php echo $participant ?></td>
+                            <?php } ?>
+                        </tr>
+                        <?php foreach( $VideoContainerPath[$VidID]['ScoreInfo']['Stages'] as $Stage  ) { ?>
+                            <tr>
+                                <td><?php echo $Stage['Song'] ?></td>
+                                <?php
+                                    $HighestScore = 0;
+                                    foreach( $Stage['Scores'] as $Percentage ) {
+                                        if ($Percentage > $HighestScore)
+                                            $HighestScore = $Percentage;
+                                    }
+                                    foreach( $Stage['Scores'] as $Percentage ) {
+                                ?>
+                                    <td class="matchinfo-<?php echo $Percentage == $HighestScore ? "winner" : "loser" ?>"><?php echo $Percentage ?></td>
+                                <?php } ?>
+                            </tr>
+                        <?php } ?>
+                    </table>
+                <?php
+                   }
+                ?>
                 <div class="VideoFrame">
                     <video id="VideoActor" controls>
                         <source id="VideoSource" type="video/mp4" src="<?php echo $VideoLink ?>">

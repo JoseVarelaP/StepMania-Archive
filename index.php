@@ -30,6 +30,7 @@
 			<div class="content">
 				<a href="About/">About the archive</a>
 			</div>
+            <br>
             <div class="content">
                 <a href="Announcers"><img src="Headers/Announcers.png"></a>
 				<a href="Builds"><img src="Headers/Builds.png"></a>

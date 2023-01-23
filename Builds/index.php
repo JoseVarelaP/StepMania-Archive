@@ -129,7 +129,7 @@ $decoded_data = json_decode($JSONContent, true);
 							<p><?php echo $itemCat['Description'] ?></p>
 						<?php } ?>
 						<?php if( array_key_exists('Website', $itemCat) ) { ?>
-							<a src="<?php echo $itemCat['Website'] ?>">Visit Website (<?php echo $itemCat['Website'] ?>)</a>
+							<a href="<?php echo $itemCat['Website'] ?>">Visit Website (<?php echo $itemCat['Website'] ?>)</a>
 						<?php } ?>
 						<table class="TableBuildSet">
 							<thead>
