@@ -5,17 +5,20 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>StepMania Build Archive</title>
     <link rel="canonical" href="https://josevarela.net/SMArchive/Tools" />
-	<meta property="og:image" content="https://josevarela.net/SMArchive/VersionIcon/SM40.png" />
-	<meta property="og:site_name" content="StepMania Archive" />
-	<meta property="og:description" content="A continuously growing collection of StepMania builds from 2001 up to today; Official and Unofficial Fan made builds."/>
-	<meta property="og:type" content="article" />
-	<meta property="og:url" content="https://josevarela.net/SMArchive/Tools" />
+    
+    <!-- Primary Meta Tags -->
+    <title>StepMania Tools Archive</title>
+    <meta name="title" content="StepMania Tools Archive">
+    <meta name="description" content="Tools and utilities that can help your StepMania experience.">
 
-	<meta name="title" content="Builds Archive" />
-	<meta name="description" content="A continuously growing collection of StepMania builds from 2001 up to today; Official and Unofficial Fan made builds."/>
-	<meta name="theme-color" content="#f0d01f" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://josevarela.net/SMArchive/Tools/">
+    <meta property="og:title" content="StepMania Tools Archive">
+    <meta property="og:description" content="Tools and utilities that can help your StepMania experience.">
+    <meta property="og:image" content="">
+
+	<meta name="theme-color" content="#005599" />
 
 	<style>
         body {

@@ -18,6 +18,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="StepMania Archive">
     <meta name="description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://josevarela.net/SMArchive/About/">
+    <meta property="og:title" content="StepMania Archive">
+    <meta property="og:description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
+    <meta property="og:image" content="">
 </head>
 <body>
 	<div id="container">

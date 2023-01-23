@@ -6,7 +6,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://josevarela.net/SMArchive/Footage" />
+
+    <!-- Primary Meta Tags -->
     <title>StepMania Footage Archive</title>
+    <meta name="title" content="StepMania Footage Archive">
+    <meta name="description" content="Footage from multiple points in StepMania history.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://josevarela.net/SMArchive/Footage/">
+    <meta property="og:title" content="StepMania Footage Archive">
+    <meta property="og:description" content="Footage from multiple points in StepMania history.">
+    <meta property="og:image" content="">
 </head>
 <?php
 $CurrentPage = "Footage";

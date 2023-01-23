@@ -14,14 +14,19 @@
         }
     </style>
     <title>StepMania Archive</title>
-    <link rel="canonical" href="https://josevarela.net/SMArchive" />
+    <link rel="canonical" href="https://josevarela.net/SMArchive/" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="StepMania Archive">
     <meta name="description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://josevarela.net/SMArchive/">
+    <meta property="og:title" content="StepMania Archive">
+    <meta property="og:description" content="A project to collect and preserve almost everything from StepMania, and the contents made by the community itself.">
+    <meta property="og:image" content="">
 </head>
 <body>
 	<div id="container">
-		<!-- <?php include 'php/TopPage.php' ?> -->
 		<div class="content-container wide-container">
 			<!-- Rip Center, as it's being phased out. have to use this instead. -->
 			<div class="CenterItem">
