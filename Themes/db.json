@@ -337,6 +337,15 @@
 		},
 		"SM4Alpha" : { "Name": "Stepmania 4 Alpha theme", "Date": "2017-07-16", "Link": "SM4Alpha-master.zip" },
 		"SMCOREX" : { "Name": "SM-CORE X", "Author": "Th3_Ov3rHell_3XoduZ", "NumImages": 6, "Date": "2013-12-12" },
+		"MeltyBlood" : {
+			"Name": "Melty Blood Actress Again Current Code",
+			"Author": "ZTS",
+			"NumImages": 5,
+			"Date": "2015-02-05",
+			"Link": [
+				{ "Name": "Melty Blood Theme - v2.7", "Date": "2018-07-25", "Link": "Melty%20Blood%20Theme%20-%20v2.7z" }
+			]
+		},
 		"MithrasGoneWild" : { "Name": "Mithras Gone Wild", "Author": "Supreeeme", "Date": "2015-02-05", "Link": "mithras-gone-wild-master.zip" },
 		"D3NEX" : { "Name": "D3NEX", "Version": "7", "Link": "D3NEX%20%5BSM5%5D.zip" },
 		"D3NEXM" : { "Name": "D3NEX MAXIMUM", "Version": "7", "Link": "D3NEX_MAXIMUM_Theme_20150401.zip" },
@@ -391,6 +400,11 @@
 				{ "Name": "Simply.Love.v1", "Date":"2014-08-11", "Link": "Simply-Love/Simply.Love.v1.zip" }
 			]
 		},
+		"DokiDoki" : { "Name": "Doki Doki Dancing All Night!", "Author": "Giovanni Shawn", "Link": "DDDAN-master.zip" },
+		"DragonNest" : { "Name": "DRAGON NEST", "NumImages": 6, "Author": "GHR" },
+		"drunkenshame" : { "Name": "drunken-shame", "Author": "kyzentun", "Link": "drunken-shame-master.zip" },
+		"Gothic" : { "Name": "GothicTheme", "Author": "nlstrong", "Link": "StepMania%205.0GothicTheme.zip" },
+		"PXII" : { "Name": "IIDX Gold 14th Style (Project XII)", "Link": "projektgold.zip" },
 		"SMSuperNova" : { "Name": "StepMania SuperNova V3", "Link": "StepMania%20Supernova%20Version%203.zip" },
 		"SMPREX3" : { "Name": "SMPREX3 cvs 1.1.1", "Link": "SMPREX3%20cvs%201.1.1.zip" },
 		"StRev" : { "Name": "Project Diva Stepping Revision", "HasImages": true, "NumImages": 5, "Author": "Jose_Varela", "Link": [
@@ -498,6 +512,40 @@
 				{ "Name": "Obelisk Beta 2", "Date": "2015-06-04" }
 			]
 		},
+		"fiftyOne": {
+			"Name": "Lambda",
+			"Author": "Lirodon",
+			"Date": "2017-01-12",
+			"Link": [
+				{ "Name": "v2.3.1 \"Radisson\" ", "Date": "2018-09-27", "Link": "smtheme-fiftyOne/v2.3.1.zip" },
+				{ "Name": "v2.3 \"Radisson\" ", "Date": "2018-08-27", "Link": "smtheme-fiftyOne/v2.3.zip" },
+				{ "Name": "v2.2 \"Borden\" ", "Date": "2018-07-23", "Link": "smtheme-fiftyOne/v2.2.zip" },
+				{ "Name": "v2.1 \"Langham\" ", "Date": "2018-07-17", "Link": "smtheme-fiftyOne/v2.1.zip" },
+				{ "Name": "v2.0.3 \"Saskatoon\" ", "Date": "2018-02-25", "Link": "smtheme-fiftyOne/v2.0.3.zip" },
+				{ "Name": "v2.0.2 \"Saskatoon\" ", "Date": "2018-02-20", "Link": "smtheme-fiftyOne/v2.0.2.zip" },
+				{ "Name": "v2.0.1 \"Saskatoon\" ", "Date": "2018-02-09", "Link": "smtheme-fiftyOne/v2.0.1.zip" },
+				{ "Name": "v2.0 \"Saskatoon\" ", "Date": "2018-02-05", "Link": "smtheme-fiftyOne/v2.0.zip" },
+				{ "Name": "v2.0 \"Saskatoon\" Beta 1 ", "Date": "2018-02-02", "Link": "smtheme-fiftyOne/v2.0-b1.zip" },
+				{ "Name": "v1.3.4", "Date": "2018-01-26", "Link": "smtheme-fiftyOne/v1.3.4.zip" },
+				{ "Name": "v1.3.3 \"Regina\" ", "Date": "2018-01-18", "Link": "smtheme-fiftyOne/v1.3.3.zip" },
+				{ "Name": "v1.3.2 \"Regina\" ", "Date": "2018-01-15", "Link": "smtheme-fiftyOne/v1.3.2.zip" },
+				{ "Name": "v1.3.1 \"Regina\" ", "Date": "2018-01-08", "Link": "smtheme-fiftyOne/v1.3.1.zip" },
+				{ "Name": "v1.3 \"Regina\" ",  "Date": "2018-01-08", "Link": "smtheme-fiftyOne/v1.3.zip" },
+				{ "Name": "v1.2 \"Emerald Park\" ", "Date": "2018-01-02", "Link": "smtheme-fiftyOne/v1.2.zip" },
+				{ "Name": "v1.1.1.1 \"Balgonie\" ", "Date": "2017-12-30", "Link": "smtheme-fiftyOne/v1.1.1.1.zip" },
+				{ "Name": "v1.1.1 \"Balgonie\" ", "Date": "2017-12-30",  "Link": "smtheme-fiftyOne/v1.1.1.zip" },
+				{ "Name": "v1.1 \"Balgonie\" ",  "Date": "2017-12-29", "Link": "smtheme-fiftyOne/v1.1.zip" },
+				{ "Name": "v1.0.6 \"Wolseley\" ", "Date": "2017-09-19", "Link": "smtheme-fiftyOne/v1.0.6.zip" },
+				{ "Name": "v1.0.5.1 \"Grenfell\" ", "Date": "2017-09-17", "Link": "smtheme-fiftyOne/v1.0.5.1.zip" },
+				{ "Name": "v1.0.5 \"Grenfell\" ", "Date": "2017-09-15", "Link": "smtheme-fiftyOne/v1.0.5.zip" },
+				{ "Name": "v1.0.4 \"Broadview\" ", "Date": "2017-08-19", "Link": "smtheme-fiftyOne/v1.0.4.zip" },
+				{ "Name": "v1.0.3 \"Whitewood\" ", "Date": "2017-08-12", "Link": "smtheme-fiftyOne/v1.0.3.zip" },
+				{ "Name": "v1.0.2 \"Wapella\" ", "Date": "2017-08-11", "Link": "smtheme-fiftyOne/1.0.2.zip" },
+				{ "Name": "v1.0.1 \"Moosomin\" ", "Date": "2017-08-08", "Link": "smtheme-fiftyOne/v1.0.1.zip" },
+				{ "Name": "v1.0 RC ", "Date": "2017-08-08", "Link": "smtheme-fiftyOne/v1.0.zip" }
+			]
+		},
+		"Jounin": { "Name": "Jounin - SM Creation XXIV", "NumImages": 3, "Author": "Lirodon", "Date": "2016-10-28", "Link": "RX%2017.01.zip" },
 		"RX": { "Name": "ResurrecXion Proyect", "Author": "sharechk", "Date": "2017-01-12", "Link": "RX%2017.01.zip" },
 		"RhythmMania": { "Name": "RhythmMania", "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
 		"QuadIIDX": { "Name": "QuadIIDX", "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },

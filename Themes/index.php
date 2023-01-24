@@ -68,8 +68,9 @@ $decoded_data = json_decode($JSONContent, true);
 					$Date = FetchDateForLatestEntry( $Item );
 					$Result = $Date;
 
-					if( is_array( $Item['Link'] ) && array_key_exists('Name', $Item['Link'][0]) )
-						$Result = $Result . "<br><small>(" . $Item['Link'][0]['Name'] . ")</small>";
+					if( array_key_exists('Link', $Item) )
+						if( is_array( $Item['Link'] ) && array_key_exists('Name', $Item['Link'][0]) )
+							$Result = $Result . "<br><small>(" . $Item['Link'][0]['Name'] . ")</small>";
 
 					return $Result;
 				}
@@ -77,7 +78,7 @@ $decoded_data = json_decode($JSONContent, true);
 				function FetchDateForLatestEntry( $Item )
 				{
 					// So the key exists, check how many entries are available.
-					if( is_array( $Item['Link'] ) )
+					if( array_key_exists('Link', $Item) && is_array( $Item['Link'] ) )
 					{
 						if( array_key_exists('Date', $Item['Link'][0]) )
 							return $Item['Link'][0]['Date'];
