@@ -101,7 +101,7 @@ $decoded_data = json_decode($JSONContent, true);
 							return $convtext;
 					}
 					} else if( strpos( $convtext, 'Category=' ) !== false ) {
-						return "ThemePreview.html?".$convtext;
+						return "ThemePreview/?".$convtext;
 					}
 
 					return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
@@ -148,7 +148,7 @@ $decoded_data = json_decode($JSONContent, true);
 											// echo $ThemeID;
 											$DateEntry = DecorateDate($ThemeItem);
 											?><tr>
-												<td><a href='ThemePreview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
+												<td><a href='ThemePreview/?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
 												<td><?php echo $DateEntry ?></td>
 												<td><?php echo FindThemeFromKey( $ThemeItem, $category ) ?>
 											</tr>

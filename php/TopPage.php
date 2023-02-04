@@ -42,20 +42,20 @@ function GetName($Item)
 ?>
 <div id="menu-box">
     <div id="site-logo">
-		<a href="index.php"><img src="../Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
+		<a href="index.php"><img src="/SMArchive/Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
 	</div>
     <div class="top-menu" id="top-menu">
-		<a href="https://discord.gg/uMkVUrr"><img src="../static/discord_icon.png" id="toprighticon"></a>
-		<a href="https://github.com/JoseVarelaP/StepMania-Archive"><img src="../static/GitHub-Mark-Light-120px-plus.png" id="toprighticon"></a>
+		<a href="https://discord.gg/uMkVUrr"><img src="/SMArchive/static/discord_icon.png" id="toprighticon"></a>
+		<a href="https://github.com/JoseVarelaP/StepMania-Archive"><img src="/SMArchive/static/GitHub-Mark-Light-120px-plus.png" id="toprighticon"></a>
 		<div class="PageList">
 			<?php foreach( $TopPage_LinkList as $Entries ) { ?>
 				<li>
-					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="../<?php echo $Entries['Name']  ?>/">
+					<a id="<?php echo $CurrentPage == $Entries['Name'] ? "current" : "" ?>" href="/SMArchive/<?php echo $Entries['Name']  ?>/">
 					<?php echo GetName($Entries) ?>
 					<?php if( array_key_exists('Subpages', $Entries) ) { ?>
 						<ul>
 							<?php foreach( $Entries['Subpages'] as $SubPageTitle=>$SubPageLink ) { ?>
-								<a href="../<?php echo $Entries['Name']."/".$SubPageLink ?>"><?php echo $SubPageTitle ?></a>
+								<a href="/SMArchive/<?php echo $Entries['Name']."/".$SubPageLink ?>"><?php echo $SubPageTitle ?></a>
 							<?php } ?>
 						</ul>
 					<?php } ?>

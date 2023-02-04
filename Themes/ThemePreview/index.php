@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<link type="text/css" href="../theme.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
+<link type="text/css" href="../../theme.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="../../VersionIcon/SM40.png"/>
 <?php
-$JSONContent = file_get_contents( "db.json" );
+$JSONContent = file_get_contents( "../db.json" );
 $decoded_data = json_decode($JSONContent, true);
 $CurrentPage = "Themes";
 
@@ -43,7 +43,7 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 <script> let CurrentPage = 'Themes'; </script>
 <body>
 	<div id="container">
-		<?php include '../php/TopPage.php' ?>
+		<?php include '../../php/TopPage.php' ?>
 		<div class="content-container wide-container">
 			<div class="content" id="BuildListing">
 				<h1 id="HeaderTitle"><?php echo $Entry['Name'] ?></h1>
@@ -53,7 +53,7 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 							<?php
 								$DownloadBaseLink = "https://objects-us-east-1.dream.io/smthemes/" . $Category . "/"
 							?>
-							<p id="Download-Area" style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
+							<p id="Download-Area" style="padding: 6px"><img src="../../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
 							<?php if( is_array( $Entry['Link'] ) ) { ?>
 								<select onchange="toggleVersionData(this)" id="Version-Chooser">
 								<?php foreach( $Entry['Link'] as $Item ) {
@@ -91,7 +91,7 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 					</div>
 				</center>
 			</div>
-			<?php include '../php/Footer.php'?>
+			<?php include '../../php/Footer.php'?>
 		</div>
 	</div>
 	<script type="text/javascript">
