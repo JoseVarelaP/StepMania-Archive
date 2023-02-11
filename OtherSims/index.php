@@ -113,6 +113,7 @@ function FindBuildFromKey( $cat,  $Item, $Key )
                     <ul>
                         <li><a href="https://github.com/Assimileafy">Assimileafy</a></li>
                         <li><a href="https://twitter.com/skoshche">Skoshche</a></li>
+                        <li><a href="https://twitter.com/srglfeet">SparksFox</a></li>
                     </ul>
                     <p>Sources of information will be included alongside the description for each item.</p>
                     <br>
