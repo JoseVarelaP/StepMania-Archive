@@ -37,14 +37,14 @@
 			</div>
             <br>
             <div class="content">
-                <a href="Announcers"><img src="Headers/Announcers.png"></a>
-				<a href="Builds"><img src="Headers/Builds.png"></a>
-				<a href="NoteSkins"><img src="Headers/NoteSkins.png"></a>
-				<a href="Themes"><img src="Headers/Themes.png"></a>
-				<a href="Characters"><img src="Headers/Characters.png"></a>
-				<a href="Footage"><img src="Headers/Footage.png"></a>
-				<a href="Tools"><img src="Headers/Tools.png"></a>
-				<a href="OtherSims"><img src="Headers/OtherSims.png"></a>
+                <a href="Announcers/"><img src="Headers/Announcers.png"></a>
+				<a href="Builds/"><img src="Headers/Builds.png"></a>
+				<a href="NoteSkins/"><img src="Headers/NoteSkins.png"></a>
+				<a href="Themes/"><img src="Headers/Themes.png"></a>
+				<a href="Characters/"><img src="Headers/Characters.png"></a>
+				<a href="Footage/"><img src="Headers/Footage.png"></a>
+				<a href="Tools/"><img src="Headers/Tools.png"></a>
+				<a href="OtherSims/"><img src="Headers/OtherSims.png"></a>
             </div>
             <?php include 'php/Footer.php' ?>
         </div>

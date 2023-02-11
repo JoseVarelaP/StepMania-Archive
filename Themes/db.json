@@ -352,8 +352,14 @@
 		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "HasImages": true, "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "2018-01-15", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
-		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19", "Link": "https://github.com/Curilang/DDR-A/archive/refs/heads/main.zip" },
+		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
 		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "HasImages": true, "NumImages": 5, "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
+		"DDRA3Curilang": { "Name":"DDR-A3 (Curilang Edit)", "Author": "Inorizushi, Curilang", "Link": [
+			{ "Name": "v1.3b1", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.3b1.zip" },
+			{ "Name": "v1.2", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.2.zip" },
+			{ "Name": "v1.1", "Date": "2022-05-05", "Link": "Curilang-A3/DDR.A3.V.1.1.zip" },
+			{ "Name": "v1.0", "Date": "2022-05-05", "Link": "Curilang-A3/DDR.A3.V.1.0.zip" }
+		] },
 		"DDRA20M" : { "Name": "DDR A20 Minus", "Author": "pupsi", "Date": "2021-05-08", "Link": "DanceDanceRevolution%20A20%20Minus.rar" },
 		"DDR5th" : { "Name": "DDR 5th Mix", "HasImages": true, "NumImages": 5, "Date": "2014-07-23", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
 		"DDRNG" : { "Name": "DDR Next Generation", "Date": "2014-07-23", "Version": "7", "Link": "DDRNG.zip" },
