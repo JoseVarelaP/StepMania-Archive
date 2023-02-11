@@ -1,5 +1,40 @@
 [
 	{
+		"Date": "11/Feb/23",
+		"Changes" : [
+			{
+				"Icon": "SMSSC.png",
+				"Name": "SM-SSC",
+				"List": [
+					"Added the entire changelog history. Each entry contains a timeline for the changes of the builds."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added the Alpha 4.11 build that I've forgot to add.."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added the 4 versions of Curilang's DDR-A3 theme.",
+					"DDR-A is now tagged as unavailable. Need to find it again.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=MeltyBlood'>Melty Blood Actress Again Current Code</a>.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=DokiDoki'>Doki Doki Dancing All Night</a>!",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=DragonNest'>entry for DRAGON NEST</a> (still unavailable).",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=drunkenshame'>drunken-shame</a>.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=Gothic'>GothicTheme</a>.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=PXII'>Project XII</a>.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=fiftyOne'>the Lambda theme series</a>.",
+					"Added <a href='../Themes/ThemePreview/?Category=StepMania%205&ID=Jounin'>Jounin</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "18/Jan/23",
 		"Changes" : [
 			{
