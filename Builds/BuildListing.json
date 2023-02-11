@@ -1478,7 +1478,7 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-date-20210827.tar.gz" }
                 ]
             },
-			{ "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "2021-10-01",
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "2021-10-01",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.10.0-Win32-HF1-date-20211001.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.10.0-MacOS-HF1-date-20211001.dmg" }
@@ -1490,7 +1490,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.10.0-HF1-arm32v7-date-20211001.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.11.0", "Name": "Project OutFox Alpha 4.11.0", "Date": "2021-12-13",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.11.0", "Name": "Project OutFox Alpha 4.11.0", "Date": "2021-12-13",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.11.0-Win32-date-20211213.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.11-MacOS-date-20211212.dmg" }
@@ -1501,7 +1501,7 @@
 					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.11.0-arm64v8-date-20211215.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.12.0", "Name": "Project OutFox Alpha 4.12.0", "Date": "2021-12-31",
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.12.0", "Name": "Project OutFox Alpha 4.12.0", "Date": "2021-12-31",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.12.0-Win32-date-20211231.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.12.0-MacOS-date-20211231.dmg" }
@@ -1513,7 +1513,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.12.0-arm32v7-date-20211231.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.13.0-MacOS-date-20220209.dmg" }
@@ -1526,7 +1526,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.13.0-arm32v7-RaspberryPi-date-20220209.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.14.0", "Name": "Project OutFox Alpha 4.14.0", "Date": "2022-03-25",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.14.0", "Name": "Project OutFox Alpha 4.14.0", "Date": "2022-03-25",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.0-MacOS-date-20220325.dmg" }
@@ -1537,7 +1537,7 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.14.0-Linux-amd64-date-20220325.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.14.1", "Name": "Project OutFox Alpha 4.14.1", "Date": "2022-03-27",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.14.1", "Name": "Project OutFox Alpha 4.14.1", "Date": "2022-03-27",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.1HF-Win32-date-20220327.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1550,7 +1550,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm32v7-date-20220327.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.15.0", "Name": "Project OutFox Alpha 4.15.0", "Date": "2022-06-14",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.15.0", "Name": "Project OutFox Alpha 4.15.0", "Date": "2022-06-14",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.0-Win32-date-20220614.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1563,7 +1563,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.0-arm32v7-date-20220614.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.15.1", "Name": "Project OutFox Alpha 4.15.1", "Date": "2022-06-19",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.15.1", "Name": "Project OutFox Alpha 4.15.1", "Date": "2022-06-19",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.1-Win32-date-20220619.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1576,7 +1576,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.1-arm32v7-date-20220619.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.16.0", "Name": "Project OutFox Alpha 4.16.0", "Date": "2022-07-30",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.16.0", "Name": "Project OutFox Alpha 4.16.0", "Date": "2022-07-30",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows32bit-date-20220801.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe" }
@@ -1592,7 +1592,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.16.0HF2-RPi32-arm32v7-date-20220801.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.18.0", "Name": "Project OutFox Alpha LTS 4.18.0", "Date": "2022-10-26",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.18.0", "Name": "Project OutFox Alpha LTS 4.18.0", "Date": "2022-10-26",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-32bit-date-20221026.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe" }
@@ -1609,7 +1609,7 @@
                     { "Name": "Legacy arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-LTS-0.4.18-Linux-Legacy-ARM-32bit-arm32v7-date-20221027.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.18.1", "Name": "Project OutFox Alpha LTS 4.18.1", "Date": "2022-10-31",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.18.1", "Name": "Project OutFox Alpha LTS 4.18.1", "Date": "2022-10-31",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-32bit-date-20221031.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-64bit-date-20221031.exe" }
