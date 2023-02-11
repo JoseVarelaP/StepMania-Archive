@@ -138,7 +138,10 @@ $decoded_data = json_decode($JSONContent, true);
 				foreach( $decoded_data as $category=>$itemCat ) {
 				?>
 				<div id="div<?php echo $category ?>">
-					<h1 class="VersionTitle" style="cursor: pointer; color: white;"><?php echo $itemCat['Name'] ?></h1>
+					<h1 class="VersionTitle" style="cursor: pointer; color: white; position: sticky; top: 0; display: flex; justify-content: center">
+						<img style="width: 18px; margin-right: 6px" src="../VersionIcon/<?php echo $itemCat['DefaultIcon'] ?>">
+						<?php echo $itemCat['Name'] ?>
+					</h1>
 					<div id="ContentContainer">
 						<table class="TableBuildSet">
 							<tbody>

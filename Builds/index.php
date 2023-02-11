@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<link type="text/css" href="/SMArchive/theme.css" rel="stylesheet">
+<link type="text/css" href="../theme.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 <head>
 	<meta charset="UTF-8">

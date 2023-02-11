@@ -1,5 +1,6 @@
 {
 	"SM3.9" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.9",
 		"AceComb" : { "Name": "Ace Combat 3", "Link": "Ace_Combat_3.smzip" },
 		"BlazMix" : { "Name": "Blazin Mix", "Link": "Blazin%20Mix.smzip" },
@@ -93,6 +94,7 @@
 	},
 
 	"SM3.9_Plus" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.9 Plus",
 		"DDRA" : {
 			"Name": "DDR A20",
@@ -146,6 +148,7 @@
 	},
 		
 	"SM3.95" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
 		"Altitude" : { "Name": "Altitude", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar" },
 		"CUEv5" : { "Name": "ChaosUnown Edition v5", "Link": "ChaosUnown%20Edition%20v5.zip" },
@@ -184,6 +187,7 @@
 	},
 
 	"SM4" : {
+		"DefaultIcon": "SM40.png",
 		"Name": "StepMania 4",
 		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "AJ 187", "Version": "pb1", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
 		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "dubai11DX.zip" },
@@ -201,6 +205,7 @@
 
 	"OITG" : {
 		"Name": "OpenITG",
+		"DefaultIcon": "OITG.png",
 		"Industrial": { "Name": "DDR Industrial", "Author": "DivinElegy", "Link": "ddr%20industrial.zip" },
 		"GrooveNightsiss19": { "Name": "In The Groove GrooveNights (iss19)", "Link": "GrooveNights-iss19.zip" },
 		"GrooveNightswuo": { "Name": "In The Groove GrooveNights (wip)", "Link": "GrooveNights-wip.zip" },
@@ -253,11 +258,13 @@
 
 	"NITG" : {
 		"Name": "NotITG",
+		"DefaultIcon": "NITG4.png",
 		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "HasImages": true, "NumImages": 5, "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
 	},
 
 	"SM-SSC": {
 		"Name": "SM-SSC",
+		"DefaultIcon": "SMSSC.png",
 		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
 		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
@@ -267,6 +274,7 @@
 
 	"StepMania 5" : {
 		"Name": "StepMania 5",
+		"DefaultIcon": "SM5.png",
 		"Barebone" : { "Name": "Barebone", "HasImages": true, "NumImages": 5, "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
 		"CS7MS" : {
 			"Name": "Cyberia Style 7 -metal system-",
@@ -567,6 +575,7 @@
 
 	"OutFox" : {
 		"Name": "Project OutFox",
+		"DefaultIcon": "OUTFOXA4.png",
 		"AccelBeat": { "Name": "AccelBeat", "Author": "Luizsan", "Link": "https://github.com/luizsan/AccelBeat/archive/refs/heads/master.zip" },
 		"GN": {
 			"Name": "In The Groove - GrooveNights",
