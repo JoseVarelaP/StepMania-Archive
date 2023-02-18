@@ -472,14 +472,14 @@
                 "Icon": "NITG3.ico", "Name": "NotITG Version 3", "Date": "2018-06-17",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V3.zip" },
-                    { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start.zip" }
+                    { "Name": "QuickStart", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/quick-start.zip" }
                 ]
             },
             {
                 "Icon": "NITG3.ico", "Name": "NotITG Version 3.1", "Date": "2018-09-09",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V3.1.zip" },
-                    { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-3.1.zip" }
+                    { "Name": "QuickStart", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/quick-start-3.1.zip" }
                 ]
             },
             {
@@ -487,7 +487,7 @@
                 "Icon": "NITG4.png", "Name": "NotITG Version 4", "Date": "2020-01-12",
                 "Windows": [
                     { "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-V4.zip" },
-                    { "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/quick-start-V4.0.zip" }
+                    { "Name": "QuickStart", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/quick-start-V4.0.zip" }
                 ]
             },
             { "ID": "NITG401" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.0.1", "Date": "2020-01-26", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.0.1.zip" },
@@ -495,7 +495,7 @@
 			{ "ID": "NITG420", "Icon": "NITG4.png", "Name": "NotITG Version 4.2.0", "Date": "2021-04-20",
 				"Windows": [
 					{ "Name": "Program File", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip"},
-					{ "Name": "QuickStart", "Link": "https://notitg.heysora.net/files/NotITG-4.2.0-QuickStart.zip"}
+					{ "Name": "QuickStart", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG-v4.2.0-QuickStart-With-Bonus.zip"}
 				]
 			},
             { "ID": "NITG430" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.3.0", "Date": "2022-09-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.3.0-UpgradePack-EarlyAccess.zip" },
