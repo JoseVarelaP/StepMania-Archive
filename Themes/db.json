@@ -48,7 +48,7 @@
 		"ITG2" : { "Name": "In The Groove 2", "Link": "In%20The%20Groove%202.smzip" },
 		"InvSM" : { "Name": "Inverted StepMania", "Link": "Inverted%20StepMania.smzip" },
 		"KzUM" : { "Name": "Katze Ultramix", "Link": "KatzeUltramix.smzip" },
-		"MM" : { "Name": "minimalia", "Link": "minimalia.smzip" },
+		"MM" : { "Name": "minimalia", "Author": "AJ 187", "Date": "2007-07-26", "NumImages": 6, "Link": "minimalia.smzip" },
 		"NPREX3" : {"Name": "N.PREX3 NeoStyle", "Link": [
 			{ "Name": "1.8 (=_=)", "Date": "2008-04-10", "Link": "N.PREX3%20NeoStyle%20v1.8.zip" }
 		]},
@@ -56,14 +56,14 @@
 		"NCRx11" : { "Name": "NCR ex11", "Link": "NCR_ex11.smzip" },
 		"NocN" : { "Name": "Nocturnal Night", "Link": "Nocturnal%20Dream.smzip" },
 		"NAKeT" : { "Name": "Not Another K--eternal Theme", "Link": "Not%20Another%20keternal%20Theme.smzip" },
-		"oni4" : { "Name": "oni4", "Link": "oni4.rar" },
+		"oni4" : { "Name": "Original Nascence Interface 4", "Date": "2007-04-10", "NumImages": 8, "Author": "onigumochan37 (AJ 187 with tweak)", "Link": "oni4.rar" },
 		"paint" : { "Name": "Paintmania", "Link": "Paintmania.smzip" },
 		"panzer2nd" : { "Name": "PanzerForce 2nd Mix", "Link": "panzerforce2ndmix.zip" },
 		"panzer3rd" : { "Name": "PanzerForce 3rd Mix", "Link": "panzerforce3rdmix.zip" },
 		"panzer4th" : { "Name": "PanzerForce 4th Mix", "Link": "panzerforce4thmix.zip" },
 		"panzer5th" : { "Name": "PanzerForce 5th Mix", "Link": "panzerforce5thmix.zip" },
 		"Parn4th" : { "Name": "Partynite 4th", "Date": "2014-08-09", "Link": "partynite-4th.zip" },
-		"PDNG" : { "Name": "Plasma Dance New Generation", "Link": "PlasmaDanceNewGeneration_v1.4.smzip" },
+		"PDNG" : { "Name": "Plasma Dance New Generation", "Date": "2004-08-23", "Author": "Deluxe", "Link": "PlasmaDanceNewGeneration_v1.4.smzip", "NumImages": 6 },
 		"pcd1" : { "Name": "pop*candy", "Link": "popcandy_theme.smzip" },
 		"pcd2" : { "Name": "pop*candy 2", "Date": "2005-??-09", "Link": "popcandy2.zip" },
 		"PIUP" : { "Name": "Pump It Up Premiere", "Link": "Pump%20It%20Up%20Premiere%203.smzip" },
@@ -80,7 +80,7 @@
 		"SBS" : { "Name": "StrawberrySteps", "Date": "27-01-2008", "Link": "StrawberrySteps.smzip" },
 		"SSB" : { "Name": "Super Step Brothers", "Link": "Super%20Step%20Brothers.smzip" },
 		"SMlp": { "Name": "StepMania Pony Mix", "Author": "Myst(^^)v", "Date": "2011-01-13", "Link": "StepMania%20Pony%20Mix.rar" },
-		"SZero" : { "Name": "system zero", "Link": "syszero_1.0.smzip" },
+		"SZero" : { "Name": "system zero", "Date": "2006-05-23", "Link": "syszero_1.0.smzip" },
 		"TF2.9" : { "Name": "Techno Fiend 2.9", "Link": "Techno%20Fiend%202.9.smzip" },
 		"TF3.1" : { "Name": "Techno Fiend 3.1", "Link": "Techno%20Fiend%203.1.smzip" },
 		"Simpsons" : { "Name": "The Simpsons", "Link": "The%20Simpsons.smzip" },
@@ -189,10 +189,17 @@
 	"SM4" : {
 		"DefaultIcon": "SM40.png",
 		"Name": "StepMania 4",
-		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "AJ 187", "Version": "pb1", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
+		"beatman" : { "Name": "beat man - THE THEME", "Author": "AJ 187", "Date": "2007-09-05", "Link": "beatman_20070905.rar" },
+		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "Midiman", "Version": "pb1", "Link": [
+			{ "Name" : "Public Beta 1", "Date": "2009-11-08", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
+			{ "Name" : "v1.1 HotFix", "Date": "2009-07-22", "Link": "tt-CS2-hotfix-1.1.zip" },
+			{ "Name" : "v1.0", "Date": "2009-03-28", "Link": "tt-CS2-1.0.zip" }
+		] },
 		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "dubai11DX.zip" },
-		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Link": "DWI_xmas2007.rar" },
+		"departure" : { "Name": "departure", "Author": "AJ 187", "Date": "2008-10-12", "Link": "departure_20081002-xxxx.zip" },
+		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Date": "2007-12-25", "Link": "DWI_xmas2007.rar" },
 		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
+		"dubaiOne" : { "Name": "dubaiOne", "Author": "freem", "Link": "dubaiOne_v1.5.zip", "NumImages": 6 },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
 		"Moonlight" : { "Name": "Moonlight", "HasImages": true, "Author": "AJ 187", "Link": [
 			{ "Name": "moonlight Public Alpha 7", "Date": "2010-03-14", "Link": "moonlight/moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
@@ -231,7 +238,7 @@
 		"PrismRhythm15": {
 			"Name": "PrismRhythm 15",
 			"Date": "2019-07-04",
-			"Version": "15-RT",
+			"Author": "AceOfArrows",
 			"Link": [
 				{ "Name": "(Adept) Revised Timing", "Link": "PrismRhythm%2015%20%28Adept%29%20%5BRevised%20Timing%5D.zip" },
 				{ "Name": "(Standard) Revised Timing", "Link": "PrismRhythm%2015%20%28Standard%29%20%5BRevised%20Timing%5D.zip" }
@@ -240,10 +247,17 @@
 		"PrismRhythm16": {
 			"Name": "PrismRhythm 16",
 			"Date": "2020-11-20",
+			"Author": "AceOfArrows",
 			"Link": "PrismRhythm%2016.zip"
 		},
-		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "HasImages": true, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
-		"Tactics": { "Name": "In The Groove Tactics", "HasImages": true, "Link": "tactics.rar" },
+		"PrismRhythm17": {
+			"Name": "PrismRhythm 17",
+			"Date": "2023-02-19",
+			"Author": "AceOfArrows",
+			"Link": "PrismRhythm%2017%20Plus.zip"
+		},
+		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Author": "Jose_Varela", "NumImages": 6, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
+		"Tactics": { "Name": "In The Groove Tactics", "NumImages": 6, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
 			{ "Name": "Source", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" },
@@ -268,8 +282,9 @@
 		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
 		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
+		"SOMS2": { "Name": "Selling Out Made Simple 2", "Author": "freem", "NumImages": 6 },
 		"IIDX15": { "Name": "IIDX 15", "Date": "2011-10-02", "Author": "DJ.Tony", "Link": "%5BSM5%5D%20IIDX15%20theme%20and%20noteskin%20V1.0.zip" },
-		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip" }
+		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip", "NumImages": 5 }
 	},
 
 	"StepMania 5" : {
@@ -357,7 +372,7 @@
 		"MithrasGoneWild" : { "Name": "Mithras Gone Wild", "Author": "Supreeeme", "Date": "2015-02-05", "Link": "mithras-gone-wild-master.zip" },
 		"D3NEX" : { "Name": "D3NEX", "Version": "7", "Link": "D3NEX%20%5BSM5%5D.zip" },
 		"D3NEXM" : { "Name": "D3NEX MAXIMUM", "Version": "7", "Link": "D3NEX_MAXIMUM_Theme_20150401.zip" },
-		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "HasImages": true, "Link": "DDR%202013.zip" },
+		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "NumImages": 6, "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "2018-01-15", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
 		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
@@ -380,7 +395,7 @@
 		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "NumImages": 2, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
 		"O2ManiaEX" : { "Name": "O2Mania EX", "Date": "2014-05-27", "Author": "arvinkent098", "Version": "5", "Link": "O2Mania%20EX.zip" },
 		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "NumImages": 4, "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
-		"SMXG" : { "Name": "SMXG ReEvolution", "Author": "Lirodon", "HasImages": true, "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
+		"SMXG" : { "Name": "SMXG ReEvolution", "Author": "Lirodon", "NumImages": 6, "HasImages": true, "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
@@ -452,13 +467,14 @@
 			]
 		},
 		"TKMix" : { "Name": "TK Mix", "HasImages": true, "NumImages": 5, "Link": "TK%20Mix.zip" },
-		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "HasImages": true, "Link": "Tacvicom%20Edition%20v2.0.zip" },
+		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "NumImages": 6, "HasImages": true, "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2015-02-21", "Author": "AJ 187", "Link": "moonlight_1.03-o.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
 		"Optical" : { "Name": "Optical", "Link": "optical-master.zip" },
 		"XV" : {
 			"Name": "XV",
 			"HasImages": true,
+			"NumImages": 5,
 			"Author": "k//eternal, DM Ashura, neo, shakesoda, AJ 187",
 			"Link": [
 				{ "Name": "XV r6", "Date": "2014-07-23", "Link":"XV/XV_20140723-r6.zip"},
