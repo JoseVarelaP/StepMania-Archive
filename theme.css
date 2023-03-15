@@ -250,7 +250,7 @@ h3 {
 	margin: 0;
 }
 .top-menu > .PageList > li > a{
-		background: url('static/top-menu-link-bg.png') top left repeat-x;
+		background: url('/SMArchive/static/top-menu-link-bg.png') top left repeat-x;
 }
 
 .top-menu li a{
@@ -265,7 +265,7 @@ h3 {
 }
 .top-menu li a:hover{
 	color:#fff;
-	background:url('static/top-menu-current-bg.png') top left repeat-x;
+	background:url('/SMArchive/static/top-menu-current-bg.png') top left repeat-x;
 }
 .top-menu li ul{
 	background:#f8faf8;
@@ -298,7 +298,7 @@ h3 {
 }
 
 .top-menu #current{
-	background:url('static/top-menu-current-bg.png') top left repeat-x;
+	background:url('/SMArchive/static/top-menu-current-bg.png') top left repeat-x;
 	color:#fff;
 }
 

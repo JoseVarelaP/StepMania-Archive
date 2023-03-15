@@ -648,7 +648,10 @@
 					{ "Name": "Main Build (r1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/In%20The%20Groove%20PC.iso" },
                     { "Name": "r2 Patch", "Date": "2006-09-29", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/itg-full-patch-r2_packa.exe" }
 				],
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
+                "Mac": [
+                    { "Name": "Main Build (r1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso" },
+                    { "Name": "r2 Patch", "Date": "2006-09-29", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-full-patch-r2_packa-mac.zip" }
+                ]
             },
 			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
             { "Icon": "ITG1.png", "Name": "mDawg's ITG2PC", "Date": "2006-11-04",

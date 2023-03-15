@@ -151,7 +151,7 @@ $decoded_data = json_decode($JSONContent, true);
 											// echo $ThemeID;
 											$DateEntry = DecorateDate($ThemeItem);
 											?><tr>
-												<td><a href='ThemePreview/?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
+												<td><a href='ThemePreview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
 												<td><?php echo $DateEntry ?></td>
 												<td><?php echo FindThemeFromKey( $ThemeItem, $category ) ?>
 											</tr>

@@ -107,6 +107,11 @@ function FindBuildFromKey( $cat,  $Item, $Key )
         <div class="content-container">
             <?php include '../Builds/ArchiveHistoryQuick.php' ?> 
             <div class="content" id="BuildListing">
+                <h1>About this section</h1>
+                <div>
+                    <p>Before StepMania, there were multiple simulators that recreated the rhythm game experience. This page serves as a landing ground for the ones we can find.</p>
+                    <br>
+                </div>
                 <h1>Special Thanks</h1>
                 <div>
                     <p>I would like to thank the following people for helping find this information:</p>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<link type="text/css" href="../../theme.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="../../VersionIcon/SM40.png"/>
+<link type="text/css" href="../theme.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 <head>
 	<meta charset="UTF-8">
 	<title>StepMania Themes Archive</title>
@@ -18,12 +18,13 @@
 <?php $CurrentPage = "Themes"; ?>
 <body>
 	<div id="container">
-		<?php include '../../php/TopPage.php' ?>
+		<?php include '../php/TopPage.php' ?>
 		<div class="content-container wide-container">
 			<div class="content" id="BuildListing">
 				<h1>StepMania Archive Theme Update</h1>
 				<center>
 					<p>The purpose of this site is to provide information about the themes that are currentlty being worked on, and their status.</p>
+					<p>Please note that the process on this website might change and could be merged to the main themes page.</p>
 				</center>
 
 				<h3>Legend</h3>
@@ -299,7 +300,7 @@
 				</table>
 				<?php } ?>
 			</div>
-		<?php include '../../php/Footer.php' ?>
+		<?php include '../php/Footer.php' ?>
 	</div>
 </body>
 </html>

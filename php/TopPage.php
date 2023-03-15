@@ -29,7 +29,13 @@ $TopPage_LinkList = array(
 		)
 	),
 	array("Name" => "OtherSims", "Text" => "Other Sims", "Color" => "#550055"),
-	array("Name" => "About", "Color" => "#002211"),
+	array(
+		"Name" => "About",
+		"Color" => "#002211",
+		"Subpages" => array(
+			"Archive Changelog" => "../PastUpdates/"
+		)
+	),
 );
 
 function GetName($Item)

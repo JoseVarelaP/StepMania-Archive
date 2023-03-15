@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <link type="text/css" href="../theme.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,7 +36,12 @@ $CurrentPage = "About";
 					}
 					else
 						foreach( $CurrentChanges['Changes'] as $Changes ) { ?>
-						<h2><img style="width: 24px" src="../VersionIcon/<?php echo $Changes['Icon'] ?>"> <?php echo$Changes['Name'] ?></h2>
+						<h2>
+							<?php if( array_key_exists('Icon', $Changes) ) { ?>
+								<img style="width: 24px" src="../VersionIcon/<?php echo $Changes['Icon'] ?>">
+							<?php } ?>
+							<?php echo$Changes['Name'] ?>
+						</h2>
 						<ul>
 							<?php foreach( $Changes['List'] as $Points ) { ?>
 								<li><?php echo $Points ?></li>
