@@ -61,5 +61,4 @@
         </div>
     </div>
 </body>
-<script src="db.js"></script>
 </html>
