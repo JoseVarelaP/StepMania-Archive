@@ -305,6 +305,14 @@
         "Picture": "https://objects-us-east-1.dream.io/smtools/Stepmania-TranslatorViewMaker/toolmaker.jpg",
         "Listing": []
     },
+    "ddrviewer" : {
+        "Name": "DDR Step Viewer of DDR",
+        "Description": "Utility to view charts from .DDR or .MSD files.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/ddrviewer/menu.gif",
+        "Listing": [
+            { "Name": "ddrv146", "Date": "1999-11-21",  "Windows": "ddrv146.exe" }
+        ] 
+    },
     "Tiny-Webini": {
         "Name": "Tiny-Webini",
         "Description": "Translate Project Moondance with the same style StepMania uses for its translations.",
@@ -388,6 +396,33 @@
                 "Src": "Tiny-Webini-1.9-alpha.tar.gz",
                 "Windows": "Tiny-Webini-1.9-bin.rar"
             }
+        ]
+    },
+
+    "xstep": {
+        "Name": "XStep",
+        "Description": "A <abbr title='Dance With Intensity'>DWI</abbr> Chart Creator, not editor. It doesn't have the ability to import <abbr title='Dance With Intensity'>DWI</abbr> simfiles, although it can save and load in its own format (.xstep). Requires Winamp 2.x (Audio playback) and DWI/StepMania (Play testing) to run.",
+        "Picture": "https://objects-us-east-1.dream.io/smtools/xstep/xstepedit.png",
+        "Listing": [
+            { "Name": "XStep 1.0.1", "Date": "", "Windows": "xstep.zip" },
+            { "Name": "XStep 1.0", "Date": "" },
+            { "Name": "XStep RC4 (0.99.4)", "Date": "" },
+            { "Name": "XStep RC3 (0.99.3)", "Date": "" },
+            { "Name": "XStep RC2 (0.99.2)", "Date": "" },
+            { "Name": "XStep RC1 (0.99.1)", "Date": "" },
+            { "Name": "XStep pre-1.0 beta (0.99.0)", "Date": "" },
+            { "Name": "XStep 0.10.1", "Date": "" },
+            { "Name": "XStep 0.10.0", "Date": "" },
+            { "Name": "XStep 0.9.4", "Date": "" },
+            { "Name": "XStep 0.9.3", "Date": "" },
+            { "Name": "XStep 0.9.2", "Date": "" },
+            { "Name": "XStep 0.9.1", "Date": "" },
+            { "Name": "XStep 0.8.4", "Date": "" },
+            { "Name": "XStep 0.8.3", "Date": "" },
+            { "Name": "XStep 0.8.2", "Date": "" },
+            { "Name": "XStep 0.6.9", "Date": "" },
+            { "Name": "XStep 0.5.1", "Date": "" },
+            { "Name": "XStep 0.1.2", "Date": "" }
         ]
     }
 }

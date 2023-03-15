@@ -1,382 +1,112 @@
 {
-    "SM050" : {
-        "Name": "StepMania 0.50",
-        "HTMLParse" : "SM095/050.md"
-    },
-    "SM091" : {
-        "Name": "StepMania 0.91",
-        "Changes": [
-            "Bug fix: Good and Boo arrows not being drawn."
-        ]
-    },
-    "SM092" : {
-        "Name": "StepMania 0.92",
-        "Changes": [
-            "Bug fix: Sounds files with commas now load",
-            "Bug fix: Freezes in Telephone Operator are now correct",
-            "Bug fix: Nonsense help messages fixed",
-            "Bug fix: D3D init failure now opens browser to correct troubleshooting page",
-            "Optimization:  Drawing of freeze arrows is much more efficient",
-            "Optimization:  In SelectSong, only one preview graphic is drawn.\nThis saves fill rate and leaves room for group/sort/BPM text.",
-            "Change: DWI files now use the DWI directory structure.\nStepMania also automatically crop and rotate the song banner.\nBMS files still reside in the Songs folder.",
-            "Change: Now hold Next to get to PlayerOptions and SongOptions menus (Previously, you would hold Next to bypass these menus).",
-            "New feautre: FPS counter.  Can toggle from GameOptions.",
-            "New feature: Disable joystick d-pad (for DirectPad Pro and NTPad).",
-            "New Feature: Song background movies",
-            "New Feature: random visualization movies",
-            "New feature: song groups by folder",
-            "New feature: song sorting by Title, BPM, and Artist",
-            "New: Caution screen to hide texture load time",
-            "New: Logo appears between screens as a keepalive indicator"
-        ]
-    },
-    "SM095" : {
-        "Name": "StepMania 0.95",
-        "Changes": [
-            "Bug fix: Sounds files with commas now load",
-            "Bug fix: Freezes in Telephone Operator are now correct",
-            "Bug fix: Nonsense help messages fixed",
-            "Bug fix: D3D init failure now opens browser to correct troubleshooting page",
-            "Optimization:  Drawing of freeze arrows is much more efficient",
-            "Optimization:  In SelectSong, only one preview graphic is drawn.  This saves fill rate and leaves room for group/sort/BPM text.",
-            "Change: DWI files now use the DWI directory structure.  StepMania also automatically crop and rotate the song banner.  BMS files still reside in the Songs folder.",
-            "Change: Now hold Next to get to PlayerOptions and SongOptions menus  (Previously, you would hold Next to bypass these menus).",
-            "New feautre: FPS counter.  Can toggle from GameOptions.",
-            "New feature: Disable joystick d-pad (for DirectPad Pro and NTPad).",
-            "New Feature: Song background movies",
-            "New Feature: random visualization movies",
-            "New feature: song groups by folder",
-            "New feature: song sorting by Title, BPM, and Artist",
-            "New: Caution screen to hide texture load time",
-            "New: Logo appears between screens as a keepalive indicator"
-        ]
-    },
-    "SM096" : {
-        "Name": "StepMania 0.96",
-        "Changes": [
-            "Change: Removed background movies showing in SelectSong (this was causing crashes).",
-            "Bug fix: No longer crashes when loading Max300 from DWI support directory.",
-            "Bug fix: Timing is now correct for freeze in Max300.",
-            "Bug fix: Freeze arrows now are correct in Mirror/Left/Right/Shuffle.\nAlso, I added an article about movie support to the articles section."
-        ]
-    },
-    "SM096b" : {
-        "Name": "StepMania 0.96b",
-        "Changes": [
-            "Change: Removed background movies showing in SelectSong (this was causing crashes)",
-            "Bug fix: No longer crashes when loading Max300 from DWI support directory.",
-            "Bug fix: Timing is now correct for freeze in Max300.",
-            "Bug fix: Freeze arrows now are correct in Mirror/Left/Right/Shuffle."
-        ]
-    },
-    "SM097" : {
-        "Name": "StepMania 0.97",
-        "Changes": [
-            "Bug fix: Songs with same title no longer change positions while scrolling.",
-            "Bug fix: Wrong group name for DWI files in the Songs folder.",
-            "Bug fix: Fixed a problem that caused the music to become out of sync if many sound effect are played. This was causing the song to become out of sync near the end. Note that this change makes the music much more accurate, and some BMS files may be out of sync if they appeared in sync before.",
-            "Bug fix: Dancing waits 2 seconds before starting music playback. This allows some slower systems to catch up.",
-            "Bug fix: Little now works correctly. It is accessible from the PlayerOptions menu.",
-            "Optimization: Lower priority for movie decoding, which is a major speed boost on slower computers.",
-            "Change: Freeze arrow scoring now matches DDR MAX. The start of a freeze arrow is judged as other steps are (perfect, great, good, etc). Missing the start of a freeze will should break your combo, but NG'ing the freeze arrow will not.",
-            "New feature: Basic song statistics tracking. Times played, top score, top combo, and top grade are shown on SelectSong screen.",
-            "New feature: Assist tick, accessible from the SongOptions menu.",
-            "New feature: Music Rate, accessible from the SongOptions menu. You can speed up or slow down the rate of music playback. Great for practicing hard step patterns.",
-            "New feature: Freeze arrow scores are now shown on the Results screen.",
-            "Change: Arrow ghost now appear different depending on the combo length (roughly matches DDR MAX).",
-            "Change: Added some animation to the Results screen.",
-            "Change: Revamped input mapping to allow assignment and clearing of specific slots.\nCheck out the background movie for Festival Japan included in the zip. It matches the static background very well."
-        ]
-    },
-    "SM150" : {
-        "Name": "StepMania 1.50",
-        "Changes": [
-            "Bug fix: No longer crashes on foreign chars in BMS files. Please report all songs that still cause a crash.",
-            "Change: Added sepatate background movie property to Song. Now status backgrounds will display in SelectMusic if the Song has a movie background.",
-            "Change: Asset directory structure has completely changed in preparation for theme support.",
-            "Optimization: BitmapText is now ~80% faster.",
-            "New Feature: 5th Mix style SelectMusic and auto-generated text banners. Loads 100x faster than the previous SelectSong screen.",
-            "Change: Error messages in Release builds no longer show source file line and number.",
-            "Bug Fix: Fade transition now fades all the way to black (doesn't leave a \"hazy\" screen).",
-            "Bug Fix: Multiple joysticks now work again."
-        ]
-    },
-    "SM155" : {
-        "Name": "StepMania 1.55",
-        "Changes": [
-            "BUG FIX: \"4nd Stage\" is now \"4th Stage\"",
-            "BUG FIX: 496315 ragescreen.cpp error for 16bit-only cards",
-            "BUG FIX: 500342 - wave volume changes to 100% on startup",
-            "BUG FIX: Fixed \"visualization movie files go here\" trying to be loaded as a texture",
-            "BUG FIX: Mini banner now tweens on and off screen",
-            "BUG FIX: MusicWheel now tweens off screen and Music comment plays",
-            "BUG FIX: Stage count not incremented until song is passed",
-            "CHANGE: Added longer delay before song start",
-            "CHANGE: Assist tick now louder and timing improved",
-            "CHANGE: cleaned up debug messages",
-            "OPTIMIZATION: Improved texture loading time",
-            "CHANGE: Maximize button no longer toggles fullscreen.",
-            "CHANGE: MusicWheel response to user input is improved",
-            "OPTIMIZATION: Preview in SelectMusic now uses banner instead of background for faster loading",
-            "NEW FEATURE: Change resolution, display color depth, texture color depth, and toggle texture filtering",
-            "NEW FEATURE: Check at startup time that all required theme elements are present",
-            "NEW FEATURE: installer",
-            "NEW FEATURE: motion blur \"Failed\" effect",
-            "NEW FEATURE: MusicWheel remembers previously selected song.",
-            "BUG FIX: Back from Result screen no longer leads to black screen",
-            "CHANGE: All documentation is now in \"Docs\" folder",
-            "CHANGE: New \"Danger\" animation"
-        ]
-    },
-    "SM161" : {
-        "Name": "StepMania 1.61",
-        "Changes": [
-            "BUG FIX:  Players' Best crowns not displaying.",
-            "BUG FIX:  #506751 - \"Assist\" Ticks off-beat",
-            "BUG FIX:  Crash switching sort",
-            "NEW FEATURE:  Synchronize mode!  Can write BMS and DWI formats."
-        ]
-    },
-    "SM164" : {
-        "Name": "StepMania 1.64",
-        "Changes": [
-            "crash fixes",
-            "faster wait between menus",
-            "new effects \"drunk\", \"dizzy\", \"space\"",
-            "Group banners on Select Music screen. Just put a banner in the group folder.",
-            "Faster music loading",
-            "more accurate synching at song rates other than 100%",
-            "Assist tick calibrated automatically by detecting sound card play latency",
-            "Improved quality of sounds while dancing",
-            "Fixed DWI parsing error that often caused the last note to not appear",
-            "More resolution presets in GameOptions menu"
-        ]
-    },
+	"SM050":"SM095/0.50.md",
+	"SM091":"SM095/0.91.md",
+	"SM092":"SM095/0.92.md",
+	"SM095":"SM095/0.95.md",
+	"SM096":"SM095/0.96.md",
+	"SM096b":"SM095/0.96b.md",
+	"SM097":"SM095/0.97.md",
+	"SM150":"SM164/1.50.md",
+	"SM155":"SM164/1.55.md",
+	"SM161":"SM164/1.61.md",
+	"SM164":"SM164/1.64.md",
 
-	"ITGA05132003" : {
-        "Name": "In The Groove 1 (May 2003 Alpha)",
-        "HTMLParse" : "SM30/ITGA05132003.md"
-    },
+	"ITGA05132003":"SM30/ITGA05132003.md" ,
+	"iSTEP":"SM395/iSTEP.md" ,
+	"ITGB01072004":"SM39/ITGB01072004.md" ,
+	
+	"OpGr2":"OITG/OpenGroove/r2.md",
+	"OpGr3":"OITG/OpenGroove/r3.md",
+	"OpGr4":"OITG/OpenGroove/r4.md",
+	"OpGr5":"OITG/OpenGroove/r5.md",
 
-	"iSTEP" : {
-        "Name": "Positive Gaming iSTEP",
-        "HTMLParse" : "SM395/iSTEP.md"
-    },
+	"NITG40":"OITG/NITG/v4.0.0.md",
+	"NITG401":"OITG/NITG/v4.0.1.md",
+	"NITG420":"OITG/NITG/v4.2.0.md",
+	"NITG430":"OITG/NITG/v4.3.0.md",
 
-	"ITGB01072004" : {
-        "Name": "In The Groove 1 (January 2004 Beta)",
-        "HTMLParse" : "SM39/ITGB01072004.md"
-    },
+	"SM-SSC1prvb1":"SMSSC/1.0prvb1.md",
+	"SM-SSC1prvb1.1":"SMSSC/1.0prvb1.1.md",
+	"SM-SSC1prvb1.2":"SMSSC/1.0prvb1.2.md",
+	"SM-SSC1prvb1.3":"SMSSC/1.0prvb1.3.md",
+	"SM-SSC1prvb1.4":"SMSSC/1.0prvb1.4.md",
+	"SM-SSC1pb1":"SMSSC/1.0pb1.md",
+	"SM-SSC1pb2":"SMSSC/1.0pb2.md",
+	"SM-SSC1b3":"SMSSC/1.0b3.md",
+	"SM-SSC1b4":"SMSSC/1.0b4.md",
+	"SM-SSC1rc1":"SMSSC/1.0rc1.md",
+	"SM-SSC1rc1.5":"SMSSC/1.0rc1.5.md",
+	"SM-SSC1rc2":"SMSSC/1.0rc2.md",
+	"SM-SSC1":"SMSSC/1.0.md",
+	"SMSSC1.1":"SMSSC/1.1.md",
+	"SMSSC1.2":"SMSSC/1.2.md",
+	"SMSSC1.2.1":"SMSSC/1.2.1.md",
+	"SMSSC1.2.2":"SMSSC/1.2.2.md",
+	"SMSSC1.2.3":"SMSSC/1.2.3.md",
+	"SMSSC1.2.4":"SMSSC/1.2.4.md",
+	"SMSSC1.2.5":"SMSSC/1.2.5.md",
 
-	"OpGr2" : { "Name": "OpenGroove r2", "HTMLParse": "OITG/OpenGroove/r2.md" },
-	"OpGr3" : { "Name": "OpenGroove r3", "HTMLParse": "OITG/OpenGroove/r3.md" },
-	"OpGr4" : { "Name": "OpenGroove r4", "HTMLParse": "OITG/OpenGroove/r4.md" },
-	"OpGr5" : { "Name": "OpenGroove r5", "HTMLParse": "OITG/OpenGroove/r5.md" },
+	"SM5.0.5":"SM5/5.0.5.md",
+	"SM5.0.6":"SM5/5.0.6.md",
+	"SM5.0.7rc":"SM5/5.0.7rc.md",
+	"SM5.0.7":"SM5/5.0.7.md",
+	"SM5.0.8":"SM5/5.0.8.md",
+	"SM5.0.9":"SM5/5.0.9.md",
+	"SM5.0.10":"SM5/5.0.10.md",
+	"SM5.1.0A":"SM5/5.1.0A.md",
+	"SM5.0.11":"SM5/5.0.11.md",
+	"SM5.1.0A2":"SM5/5.1.0A2.md",
+	"SM5.0.12RC":"SM5/5.0.12RC.md",
+	"SM5.0.12":"SM5/5.0.12.md",
+	"SM5.1-3":"SM5/5.1-3.md",
+	"SM5.1B1":"SM5/5.1B1.md",
+	"SM5.1B2":"SM5/5.1B2.md",
 
-	"NITG40" : {
-		"Name": "Not In The Groove Version 4",
-		"HTMLParse": "OITG/NITG/v4.0.0.md"
-	},
-	"NITG401" : {
-		"Name": "Not In The Groove Version 4.0.1",
-		"HTMLParse": "OITG/NITG/v4.0.1.md"
-	},
-	"NITG420" : {
-		"Name": "Not In The Groove Version 4.2.0",
-		"HTMLParse": "OITG/NITG/v4.2.0.md"
-	},
-    "NITG430" : {
-		"Name": "Not In The Groove Version 4.3.0",
-		"HTMLParse": "OITG/NITG/v4.3.0.md"
-	},
+	"SP23.3":"STEPP2/v3.3.md",
+	
+	"OUTFOX4":"OUTFOX/A4.0.md",
+	"OUTFOX4.1":"OUTFOX/A4.1.md",
+	"OUTFOX4.2":"OUTFOX/A4.2.md",
+	"OUTFOX4.3":"OUTFOX/A4.3.md",
+	"OUTFOX4.4":"OUTFOX/A4.4.md",
+	"OUTFOX4.5":"OUTFOX/A4.5.md",
+	"OUTFOX4.5.6":"OUTFOX/A4.5.6.md",
+	"OUTFOX4.5.8":"OUTFOX/A4.5.8.md",
+	"OUTFOX4.5.9":"OUTFOX/A4.5.9.md",
+	"OUTFOX4.6.0RC1":"OUTFOX/A4.6.0RC1.md",
+	"OUTFOX4.6.0RC2":"OUTFOX/A4.6.0RC2.md",
+	"OUTFOX4.6.0RC3":"OUTFOX/A4.6.0RC3.md",
+	"OUTFOX4.6.0":"OUTFOX/A4.6.0.md",
+	"OUTFOX4.8.0":"OUTFOX/A4.8.0.md",
+	"OUTFOX4.8.1":"OUTFOX/A4.8.1.md",
+	"OUTFOX4.8.2":"OUTFOX/A4.8.2.md",
+	"OUTFOX4.8.5":"OUTFOX/A4.8.5.md",
+	"OUTFOX4.9.0HF":"OUTFOX/A4.9.0HF.md",
+	"OUTFOX4.9.1":"OUTFOX/A4.9.1.md",
+	"OUTFOX4.9.5":"OUTFOX/A4.9.5.md",
+	"OUTFOX4.9.6":"OUTFOX/A4.9.6.md",
+	"OUTFOX4.9.7":"OUTFOX/A4.9.7.md",
+	"OUTFOX4.9.7GG":"OUTFOX/A4.9.7GG.md",
+	"OUTFOX4.9.8":"OUTFOX/A4.9.8.md",
+	"OUTFOX4.9.9HF":"OUTFOX/A4.9.9HF.md",
+	"OUTFOX4.9.9HF2":"OUTFOX/A4.9.9HF2.md",
+	"OUTFOX4.9.9HF3":"OUTFOX/A4.9.9HF3.md",
+	"OUTFOX4.9.10":"OUTFOX/A4.9.10.md",
+	"OUTFOX4.10.0":"OUTFOX/A4.10.0.md",
+	"OUTFOX4.11.0":"OUTFOX/A4.11.0.md",
+	"OUTFOX4.12.0":"OUTFOX/A4.12.0.md",
+	"OUTFOX4.13.0":"OUTFOX/A4.13.0.md",
+	"OUTFOX4.14.0":"OUTFOX/A4.14.0.md",
+	"OUTFOX4.14.1":"OUTFOX/A4.14.1.md",
+	"OUTFOX4.15.0":"OUTFOX/A4.15.0.md",
+	"OUTFOX4.15.1":"OUTFOX/A4.15.1.md",
+	"OUTFOX4.16.0":"OUTFOX/A4.16.0.md",
+	"OUTFOX4.18.0":"OUTFOX/A4.18.0.md",
+	"OUTFOX4.18.1":"OUTFOX/A4.18.1.md",
 
-	"SM5.0.5" : { "Name":"StepMania 5.0.5", "HTMLParse" : "SM5/5.0.5.md" },
-	"SM5.0.6" : { "Name":"StepMania 5.0.6", "HTMLParse" : "SM5/5.0.6.md" },
-	"SM5.0.7rc" : { "Name":"StepMania 5.0.7 Release Candidate", "HTMLParse" : "SM5/5.0.7rc.md" },
-    "SM5.0.7" : { "Name":"StepMania 5.0.7", "HTMLParse" : "SM5/5.0.7.md" },
-	"SM5.0.8" : { "Name":"StepMania 5.0.8", "HTMLParse" : "SM5/5.0.8.md" },
-    "SM5.0.9" : { "Name":"StepMania 5.0.9", "HTMLParse" : "SM5/5.0.9.md" },
-    "SM5.0.10" : { "Name":"StepMania 5.0.10", "HTMLParse" : "SM5/5.0.10.md" },
-    "SM5.1.0A" : { "Name":"StepMania 5.1.0 Alpha", "HTMLParse" : "SM5/5.1.0A.md" },
-    "SM5.0.11" : { "Name":"StepMania 5.0.11", "HTMLParse" : "SM5/5.0.11.md" },
-    "SM5.1.0A2" : { "Name":"StepMania 5.1.0 Alpha 2", "HTMLParse" : "SM5/5.1.0A2.md" },
-    "SM5.0.12RC" : { "Name":"StepMania 5.0.12 Release Candidate", "HTMLParse" : "SM5/5.0.12RC.md" },
-    "SM5.0.12" : { "Name":"StepMania 5.0.12", "HTMLParse" : "SM5/5.0.12.md" },
-    "SM5.1-3" : { "Name":"StepMania 5.1-3", "HTMLParse" : "SM5/5.1-3.md" },
-    "SM5.1B1" : { "Name" : "StepMania 5.1 Beta 1", "HTMLParse" : "SM5/5.1B1.md" },
-    "SM5.1B2" : { "Name": "StepMania 5.1 Beta 2", "HTMLParse" : "SM5/5.1B2.md" },
+	"ITGM0.5.1":"ITGM/ITGM0.5.1.md",
+	"SP1v101":"STEPP1/v1.0.1.md",
+	"SP1v102":"STEPP1/v1.0.2.md",
 
-	"SP23.3" : { "Name": "StepP2 V3.3", "HTMLParse" : "STEPP2/v3.3.md" },
-
-	"OUTFOX4" : {
-		"Name":"Alpha 4 Build - December 16 2019",
-		"HTMLParse" : "OUTFOX/A4.0.md"
-	},
-	"OUTFOX4.1" : {
-		"Name":"Alpha 4.1 Build - January 4 2020",
-		"HTMLParse" : "OUTFOX/A4.1.md"
-	},
-	"OUTFOX4.2" : {
-		"Name":"Alpha 4.2 Build - February 6 2020",
-		"HTMLParse" : "OUTFOX/A4.2.md"
-	},
-	"OUTFOX4.3" : {
-		"Name":"Alpha 4.3 Build - February 9 2020",
-		"HTMLParse" : "OUTFOX/A4.3.md"
-	},
-	"OUTFOX4.4" : {
-		"Name":"Alpha 4.4 Build - March 4 2020",
-		"HTMLParse" : "OUTFOX/A4.4.md"
-	},
-	"OUTFOX4.5" : {
-		"Name":"Alpha 4.5 Build - April 4 2020",
-		"HTMLParse" : "OUTFOX/A4.5.md"
-	},
-	"OUTFOX4.5.6" : {
-		"Name":"Alpha 4.5.6 Build - May 7 2020",
-		"HTMLParse" : "OUTFOX/A4.5.6.md"
-	},
-	"OUTFOX4.5.8" : {
-		"Name":"Alpha 4.5.8 Build - May 31 2020",
-		"HTMLParse" : "OUTFOX/A4.5.8.md"
-	},
-	"OUTFOX4.5.9" : {
-		"Name":"Alpha 4.5.9 Build - June 14 2020",
-		"HTMLParse" : "OUTFOX/A4.5.9.md"
-	},
-	"OUTFOX4.6.0RC1" : {
-		"Name":"Alpha 4.6.0RC1 Build - June 19 2020",
-		"HTMLParse" : "OUTFOX/A4.6.0RC1.md"
-	},
-    "OUTFOX4.6.0RC2" : {
-		"Name" : "Alpha 4.6.0RC2 Build - June 23 2020 \"Jous, Jous, Jous & Jous Big Sur.....prise Edition\"",
-        "HTMLParse" : "OUTFOX/A4.6.0RC2.md"
-    },
-	"OUTFOX4.6.0RC3" : {
-		"Name":"Alpha 4.6.0RC3 - July 1 2020",
-		"HTMLParse" : "OUTFOX/A4.6.0RC3.md"
-	},
-	"OUTFOX4.6.0" : {
-        "Name" : "Alpha 4.6.0 Final Build - July 11 2020 \"Ogre's Have Layers\"",
-        "HTMLParse" : "OUTFOX/A4.6.0.md"
-    },
-	"OUTFOX4.8.0" : {
-        "Name" : "Alpha 4.8.0 Final Build - August 14 2020 \"Chocolate Keyboards and Frikandel\"",
-        "HTMLParse" : "OUTFOX/A4.8.0.md"
-    },
-    "OUTFOX4.8.1" : {
-        "Name" : "Alpha 4.8.1 Fixed Build - August 14 2020 \"RageFile Against the Loading Window\"",
-        "HTMLParse" : "OUTFOX/A4.8.1.md"
-    },
-    "OUTFOX4.8.2" : {
-        "Name" : "Alpha 4.8.2 Fixed Build - August 19th 2020 \"Release the (Git)Kraken!\"",
-        "HTMLParse" : "OUTFOX/A4.8.2.md"
-    },
-    "OUTFOX4.8.5" : {
-        "Name" : "Alpha 4.8.5 Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.8.5.md"
-    },
-    "OUTFOX4.9.0HF" : {
-        "Name" : "Alpha 4.9.0HF Build - October 07th 2020 \"The new Glyph System pleases Imhotep\"",
-        "HTMLParse" : "OUTFOX/A4.9.0HF.md"
-    },
-    "OUTFOX4.9.1" : {
-        "Name" : "Alpha 4.9.1 Build - October 31st 2020 \"Spooky Scary Bugs\"",
-        "HTMLParse" : "OUTFOX/A4.9.1.md"
-    },
-    "OUTFOX4.9.5" : {
-        "Name": "Alpha 4.9.5 Build - 30th November 2020 \"Step into tha game!\"",
-        "HTMLParse" : "OUTFOX/A4.9.5.md"
-    },
-    "OUTFOX4.9.6" : {
-        "Name" : "Alpha 4.9.6 Build - 16th December 2020 \"Single-Frame Don-Chan is not amused\"",
-        "HTMLParse" : "OUTFOX/A4.9.6.md"
-    },
-    "OUTFOX4.9.7" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.7 Build - 20th February 2021 \"We're Only Human After All\"",
-        "HTMLParse" : "OUTFOX/A4.9.7.md"
-    },
-    "OUTFOX4.9.7GG" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.7GG Build - 23rd February 2021 \"Good Game, Well Played...\"",
-        "HTMLParse" : "OUTFOX/A4.9.7GG.md"
-    },
-    "OUTFOX4.9.8" : {
-        "Name": "OutFox 5.3.0-alpha.4.9.8 Build - 25th April 2021 \"An Alpha is never late, it arrives precisely when it means to!\"",
-        "HTMLParse" : "OUTFOX/A4.9.8.md"
-    },
-    "OUTFOX4.9.9HF" : {
-        "Name": "OutFox-alpha.4.9.9HF Build - 4th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF.md"
-    },
-	"OUTFOX4.9.9HF2" : {
-        "Name": "OutFox-alpha.4.9.9HF2 Build - 6th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF2.md"
-    },
-	"OUTFOX4.9.9HF3" : {
-        "Name": "OutFox-alpha.4.9.9HF3 Build - 8th August 2021 \"How's that new feature coming along?\"",
-        "HTMLParse" : "OUTFOX/A4.9.9HF3.md"
-    },
-	"OUTFOX4.9.10" : {
-        "Name": "OutFox-alpha.4.9.10 Build - 27th August 2021 \"Because 4 hotfix releases goes too far…\"",
-        "HTMLParse" : "OUTFOX/A4.9.10.md"
-    },
-	"OUTFOX4.10.0" : {
-        "Name": "OutFox-alpha.4.10.0 Build - 1st October 2021 \"Believe it or not, the bus can't swim...\"",
-        "HTMLParse" : "OUTFOX/A4.10.0.md"
-    },
-	"OUTFOX4.12.0" : {
-        "Name": "OutFox-alpha.4.12.0 Build - 31st December 2021 \"Onegai Muscle!\"",
-        "HTMLParse" : "OUTFOX/A4.12.0.md"
-    },
-	"OUTFOX4.13.0" : {
-        "Name": "OutFox-alpha.4.13.0 Build - 9th February 2022 \"Back to the Normality\"",
-        "HTMLParse" : "OUTFOX/A4.13.0.md"
-    },
-    "OUTFOX4.14.0" : {
-        "Name": "OutFox-alpha.4.14.0 Build - 25th March 2022 \"You've upset the cat!\"",
-        "HTMLParse" : "OUTFOX/A4.14.0.md"
-    },
-    "OUTFOX4.14.1" : {
-        "Name": "OutFox-alpha.4.14.1 Build - 27th March 2022 \"Hot Fix Relief\"",
-        "HTMLParse" : "OUTFOX/A4.14.1.md"
-    },
-    "OUTFOX4.15.0" : {
-        "Name": "OutFox-alpha.4.15.0 Build - 14th June 2022 \"Don't matter if you tough or gruff\"",
-        "HTMLParse" : "OUTFOX/A4.15.0.md"
-    },
-    "OUTFOX4.15.1" : {
-        "Name": "OutFox-alpha.4.15.1 Build - 19th June 2022 \"Pump or Dump?\"",
-        "HTMLParse" : "OUTFOX/A4.15.1.md"
-    },
-    "OUTFOX4.16.0" : {
-        "Name": "OutFox-alpha.4.16.0 Build - 30th July 2022 \"On Course(s) for a crash\"",
-        "HTMLParse" : "OUTFOX/A4.16.0.md"
-    },
-    "OUTFOX4.18.0" : {
-        "Name": "OutFox-alpha.4.18.0 Build - 26th October 2022 \"LTS Status Engaged - Damnit Jim, I'm a doctor!\"",
-        "HTMLParse" : "OUTFOX/A4.18.0.md"
-    },
-    "OUTFOX4.18.1" : {
-        "Name": "OutFox-alpha.4.18.1 Build - 31st October 2022 \"Winnie Sanderson: \"I want my book!\"\"",
-        "HTMLParse" : "OUTFOX/A4.18.1.md"
-    },
-
-    "ITGM0.5.1" : {
-        "Name": "ITGmania v0.5.1",
-        "HTMLParse" : "ITGM/ITGM0.5.1.md"
-    },
-
-    "SushiFinal": {
-        "Name": "Sushi Violation Final",
-        "HTMLParse": "SUSHI/Final.md"
-    },
-
-    "SP1v101" : {
-        "Name": "StepP1 1.0.1 Release",
-        "HTMLParse" : "STEPP1/v1.0.1.md"
-    },
-    "SP1v102" : {
-        "Name": "StepP1 1.0.2 Release",
-        "HTMLParse" : "STEPP1/v1.0.2.md"
-    }
+	"SushiFinal":"SUSHI/Final.md"
 }

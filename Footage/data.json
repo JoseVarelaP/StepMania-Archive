@@ -865,11 +865,12 @@
         "Collections" : {
             "SMTV" : {
                 "Name" : "StepMania on Television",
+                "Container" : "StepMania",
                 "TVCfH" : {
                     "Name": "StepMania 3.9 on Call for Help with Leo Laporte",
                     "Description": "StepMania being demonstrated on Leo Laportes show, Call for Help, which was broadcasted on the How To channel.",
-                    "VideoLink": "StepMania/StepMania%20on%20Call%20for%20Help%20with%20Leo%20Laporte.mp4",
-                    "RecordDate": "08-11-2006",
+                    "VideoLink": "StepMania%20on%20Call%20for%20Help%20with%20Leo%20Laporte_presegment.mp4",
+                    "RecordDate": "2006-08-11",
                     "Game": "StepMania 3.9",
                     "Src": {
                         "Name": "Call For Help with Leo Laporte - Episode 406"
@@ -878,22 +879,23 @@
             },
             "SMGuides" : {
                 "Name" : "Legacy Guides",
+                "Container" : "StepMania",
                 "BuildCVS" : {
                     "Name": "StepMania - Configure Anonymous CVS Access",
                     "Description": "A tutorial made by Chris Danford that shows how to clone the StepMania repository back when it was on CVS.",
-                    "VideoLink": "StepMania/StepMania%20-%20Configure%20Anonymous%20CVS%20Access.mp4",
-                    "RecordDate": "11-24-2006",
+                    "VideoLink": "StepMania%20-%20Configure%20Anonymous%20CVS%20Access.mp4",
+                    "RecordDate": "2006-11-24",
                     "Game": "StepMania 3.9",
                     "Src": {
                         "Name": "Chris Danford",
                         "Link": "https://www.youtube.com/watch?v=S2EPc0xgWGs"
                     }
                 },
-                "BuildVisualC++2005" : {
+                "BuildVisualCpp2005" : {
                     "Name": "StepMania - Build in Windows with Visual C++ 2005 Express",
                     "Description": "A tutorial made by Chris Danford that shows how to build StepMania in Microsoft Visual C++ 2005 Express.",
-                    "VideoLink": "StepMania/StepMania%20-%20Build%20in%20Windows%20with%20Visual%20C%2B%2B%202005%20express.mp4",
-                    "RecordDate": "11-24-2006",
+                    "VideoLink": "StepMania%20-%20Build%20in%20Windows%20with%20Visual%20C%2B%2B%202005%20express.mp4",
+                    "RecordDate": "2006-11-24",
                     "Game": "StepMania 3.9",
                     "Src": {
                         "Name": "Chris Danford",

@@ -383,7 +383,9 @@
             {
                 "Name": "StepMania 3.9+ Final",
                 "Date": "2008-07-06",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9_plus/Windows/StepMania.exe",
+                "Windows": [
+                    { "Name": "Available\n(Program Only)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9_plus/Windows/StepMania.exe"}
+                ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/3.9%2B_Final.zip"
             },
             { "Name": "StepMania 3.9+ Redux", "Date": "2011-04-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3.9%2B_redux_Win.zip" },
@@ -646,14 +648,17 @@
 					{ "Name": "Main Build (r1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/In%20The%20Groove%20PC.iso" },
                     { "Name": "r2 Patch", "Date": "2006-09-29", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/itg-full-patch-r2_packa.exe" }
 				],
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso"
+                "Mac": [
+                    { "Name": "Main Build (r1)", "Link": "https://objects-us-east-1.dream.io/smbuilds/In%20The%20Groove%20PC.iso" },
+                    { "Name": "r2 Patch", "Date": "2006-09-29", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Mac/itg-full-patch-r2_packa-mac.zip" }
+                ]
             },
 			{ "ID":"iSTEP", "Icon": "ITG1.png", "Name": "iSTEP", "Date": "2012-10-09" },
             { "Icon": "ITG1.png", "Name": "mDawg's ITG2PC", "Date": "2006-11-04",
                 "Windows": [
-                    { "Name": "Main Package (r3)", "Date": "2006-11-04", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/In%20The%20Groove%20r3.7z" },
-                    { "Name": "r5 Patch", "Date": "2006-12-24", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r5.7z" },
-                    { "Name": "r9 Patch", "Date": "2007-01-08", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r9.7z" }
+                    { "Name": "Main Package (r3)", "Date": "2006-11-04", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/In%20The%20Groove%202%20r3.7z" },
+                    { "Name": "r5 Patch", "Date": "2006-12-24", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r5.exe" },
+                    { "Name": "r9 Patch", "Date": "2007-01-08", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/ITG2r3/r9.exe" }
                 ]
             }
         ]
@@ -664,24 +669,29 @@
         "DefaultIcon": "SMSSC.png",
         "Description": "Earlier versions of SM-SSC are Source only, so you'll need to compile them yourself.",
         "Listing": [
-            { "Name": "SM-SSC 1.0 Public Beta 1", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-1.tar.gz" },
-            { "Name": "SM-SSC 1.0 Public Beta 2", "Date": "2010-03-31", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-2.tar.gz" },
-            { "Name": "SM-SSC 1.0 Beta 3", "Date": "2010-04-30", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_beta-3.tar.gz" },
-            { "Name": "SM-SSC 1.0 Beta 4", "Date": "2010-05-30", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_beta-4.tar.gz" },
-            { "Name": "SM-SSC 1.0 Release Candidate 1", "Date": "2010-06-27",
+            { "ID": "SM-SSC1prvb1", "Name": "SM-SSC Private Beta Wave 1", "Date": "2009-12-01" },
+            { "ID": "SM-SSC1prvb1.1", "Name": "SM-SSC Private Beta Wave 1.1", "Date": "2009-12-08" },
+            { "ID": "SM-SSC1prvb1.2", "Name": "SM-SSC Private Beta Wave 1.2", "Date": "2009-12-19" },
+            { "ID": "SM-SSC1prvb1.3", "Name": "SM-SSC Private Beta Wave 1.3", "Date": "2010-01-06" },
+            { "ID": "SM-SSC1prvb1.4", "Name": "SM-SSC Private Beta Wave 1.4", "Date": "2010-01-25" },
+            { "ID": "SM-SSC1pb1", "Name": "SM-SSC 1.0 Public Beta 1", "Date": "2010-03-01", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-1.tar.gz" },
+            { "ID": "SM-SSC1pb2", "Name": "SM-SSC 1.0 Public Beta 2", "Date": "2010-03-31", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_public-beta-2.tar.gz" },
+            { "ID": "SM-SSC1b3", "Name": "SM-SSC 1.0 Beta 3", "Date": "2010-04-30", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_beta-3.tar.gz" },
+            { "ID": "SM-SSC1b4", "Name": "SM-SSC 1.0 Beta 4", "Date": "2010-05-31", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_beta-4.tar.gz" },
+            { "ID": "SM-SSC1rc1", "Name": "SM-SSC 1.0 Release Candidate 1", "Date": "2010-06-27",
 				"Windows": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Windows/sm-ssc_v1.0_rc1.exe",
 				"Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.tar.gz"
 			},
-            { "Name": "SM-SSC 1.0 Release Candidate 1.5", "Date": "2010-07-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.5.tar.gz" },
-            { "Name": "SM-SSC 1.0 Release Candidate 2", "Date": "2010-08-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_rc2.tar.gz" },
-            { "Name": "SM-SSC 1.0 Final", "Date": "2010-10-09", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_final.tar.gz" },
-            { "Name": "SM-SSC 1.1", "Date": "2010-11-32", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.1.tar.gz" },
-            { "Name": "SM-SSC 1.2", "Date": "2011-01-07", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.tar.gz" },
-            { "Name": "SM-SSC 1.2.1", "Date": "2011-02-10", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.1.tar.gz" },
-            { "Name": "SM-SSC 1.2.2", "Date": "2011-02-20", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.2.tar.gz" },
-            { "Name": "SM-SSC 1.2.3", "Date": "2011-04-13", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.3.tar.gz" },
-            { "Name": "SM-SSC 1.2.4", "Date": "2011-04-27", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.4.tar.gz" },
-            { "Name": "SM-SSC 1.2.5", "Date": "2011-05-01", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.5.tar.gz" },
+            { "ID": "SM-SSC1rc1.5", "Name": "SM-SSC 1.0 Release Candidate 1.5", "Date": "2010-07-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/stepmania-1.0_rc1.5.tar.gz" },
+            { "ID": "SM-SSC1rc2", "Name": "SM-SSC 1.0 Release Candidate 2", "Date": "2010-08-22", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_rc2.tar.gz" },
+            { "ID": "SM-SSC1", "Name": "SM-SSC 1.0 Final", "Date": "2010-10-09", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.0_final.tar.gz" },
+            { "ID": "SM-SSC1.1", "Name": "SM-SSC 1.1", "Date": "2010-11-20", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.1.tar.gz" },
+            { "ID": "SM-SSC1.2", "Name": "SM-SSC 1.2", "Date": "2011-01-07", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.tar.gz" },
+            { "ID": "SM-SSC1.2.1", "Name": "SM-SSC 1.2.1", "Date": "2011-02-10", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.1.tar.gz" },
+            { "ID": "SM-SSC1.2.2", "Name": "SM-SSC 1.2.2", "Date": "2011-02-20", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.2.tar.gz" },
+            { "ID": "SMSSC1.2.3", "Name": "SM-SSC 1.2.3", "Date": "2011-03-23", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.3.tar.gz" },
+            { "ID": "SMSSC1.2.4", "Name": "SM-SSC 1.2.4", "Date": "2011-03-27", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.4.tar.gz" },
+            { "ID": "SMSSC1.2.5", "Name": "SM-SSC 1.2.5", "Date": "2011-05-01", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM-SSC/Source/v1.2.5.tar.gz" },
             { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1", "Date": "2011-05-29", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1.zip" },
             { "Icon": "SM5.png", "Name": "StepMania 5 Preview 1a", "Date": "2011-06-03", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-vSM5-Preview1a.zip" },
             { "Icon": "SM5.png", "Name": "StepMania 5 Preview 2", "Date": "2011-07-03", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-SM5-Preview2.zip" },
@@ -1471,7 +1481,7 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.9.10-amd64-date-20210827.tar.gz" }
                 ]
             },
-			{ "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "2021-10-01",
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.10.0", "Name": "Project OutFox Alpha 4.10.0", "Date": "2021-10-01",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.10.0-Win32-HF1-date-20211001.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.10.0-MacOS-HF1-date-20211001.dmg" }
@@ -1483,7 +1493,18 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.10.0-HF1-arm32v7-date-20211001.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.12.0", "Name": "Project OutFox Alpha 4.12.0", "Date": "2021-12-31",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.11.0", "Name": "Project OutFox Alpha 4.11.0", "Date": "2021-12-13",
+                "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.11.0-Win32-date-20211213.exe",
+                "Mac": [
+					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.11-MacOS-date-20211212.dmg" }
+				],
+                "Linux": [
+                    { "Name": "i686", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.11-amd64-legacy-date-20211212.tar.gz" },
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-5.3.0-alpha-4.11-amd64-date-20211212.tar.gz" },
+					{ "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-5.3.0-alpha-4.11.0-arm64v8-date-20211215.tar.gz"}
+                ]
+            },
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.12.0", "Name": "Project OutFox Alpha 4.12.0", "Date": "2021-12-31",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.12.0-Win32-date-20211231.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.12.0-MacOS-date-20211231.dmg" }
@@ -1495,7 +1516,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.12.0-arm32v7-date-20211231.tar.gz"}
                 ]
             },
-			{ "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
+			{ "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.13.0", "Name": "Project OutFox Alpha 4.13.0", "Date": "2022-02-09",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-5.3.0-alpha-4.13.0-MacOS-date-20220209.dmg" }
@@ -1508,7 +1529,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-5.3.0-alpha-4.13.0-arm32v7-RaspberryPi-date-20220209.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.14.0", "Name": "Project OutFox Alpha 4.14.0", "Date": "2022-03-25",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.14.0", "Name": "Project OutFox Alpha 4.14.0", "Date": "2022-03-25",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.0-MacOS-date-20220325.dmg" }
@@ -1519,7 +1540,7 @@
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.4.14.0-Linux-amd64-date-20220325.tar.gz" }
                 ]
             },
-            { "ID": "OUTFOX4.14.1", "Name": "Project OutFox Alpha 4.14.1", "Date": "2022-03-27",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.14.1", "Name": "Project OutFox Alpha 4.14.1", "Date": "2022-03-27",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.1HF-Win32-date-20220327.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1532,7 +1553,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm32v7-date-20220327.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.15.0", "Name": "Project OutFox Alpha 4.15.0", "Date": "2022-06-14",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.15.0", "Name": "Project OutFox Alpha 4.15.0", "Date": "2022-06-14",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.0-Win32-date-20220614.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1545,7 +1566,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.0-arm32v7-date-20220614.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.15.1", "Name": "Project OutFox Alpha 4.15.1", "Date": "2022-06-19",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.15.1", "Name": "Project OutFox Alpha 4.15.1", "Date": "2022-06-19",
                 "Windows": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.1-Win32-date-20220619.exe",
                 "Mac": [
 					{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-alpha-0.4.14.1HF-MacOS-date-20220327.dmg" }
@@ -1558,7 +1579,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.15.1-arm32v7-date-20220619.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.16.0", "Name": "Project OutFox Alpha 4.16.0", "Date": "2022-07-30",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.16.0", "Name": "Project OutFox Alpha 4.16.0", "Date": "2022-07-30",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows32bit-date-20220801.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe" }
@@ -1574,7 +1595,7 @@
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-alpha-0.4.16.0HF2-RPi32-arm32v7-date-20220801.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.18.0", "Name": "Project OutFox Alpha LTS 4.18.0", "Date": "2022-10-26",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.18.0", "Name": "Project OutFox Alpha LTS 4.18.0", "Date": "2022-10-26",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-32bit-date-20221026.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe" }
@@ -1591,7 +1612,7 @@
                     { "Name": "Legacy arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-LTS-0.4.18-Linux-Legacy-ARM-32bit-arm32v7-date-20221027.tar.gz"}
                 ]
             },
-            { "ID": "OUTFOX4.18.1", "Name": "Project OutFox Alpha LTS 4.18.1", "Date": "2022-10-31",
+            { "Icon": "OUTFOXA4.png", "ID": "OUTFOX4.18.1", "Name": "Project OutFox Alpha LTS 4.18.1", "Date": "2022-10-31",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-32bit-date-20221031.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-64bit-date-20221031.exe" }

@@ -1,3 +1,7 @@
+---
+title: "Positive Gaming iSTEP"
+---
+
 Before starting with this document, it is worth pointing out, iDANCE and iDANCE 2 are **NOT StepMania**.
 Those use a completely different engine, which according to sources was chosen due to how "it could render 3D stuff for the backgrounds".
 

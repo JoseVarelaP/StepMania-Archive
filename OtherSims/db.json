@@ -1,0 +1,255 @@
+{
+    "DWI" : {
+        "Name": "Dance With Intensity",
+        "Description": "Dance With Intensity (DWI) is a PC-based simulator of Dance Dance Revolution (DDR) by the Konami company.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DWI/dwi2-game.jpg",
+        "Sources": [
+            { "Name": "Dance With Intensity - snls library", "Link": "http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" },
+            { "Name": "Dance With Intensity - README / User Manual", "Link": "http://dwi.ddruk.com/readme.php" }
+        ],
+        "Listing": [
+            { "Name": "Dance With Intensity v1.06", "Date" : "2017-02-25", "Windows": "Dance%20With%20Intensity%201.06.7z" },
+            { "Name": "Dance With Intensity v1.00", "Date" : "2001-12-14" },
+            { "Name": "Dance With Intensity v1.01", "Date" : "2001-12-16" },
+            { "Name": "Dance With Intensity v1.02", "Date" : "2001-12-21" },
+            { "Name": "Dance With Intensity v1.03", "Date" : "2001-12-22" },
+            { "Name": "Dance With Intensity v1.04", "Date" : "2001-12-22" },
+            { "Name": "Dance With Intensity v1.05", "Date" : "2001-12-26" },
+            { "Name": "Dance With Intensity v1.10", "Date" : "2001-12-31" },
+            { "Name": "Dance With Intensity v1.20", "Date" : "2002-01-07" },
+            { "Name": "Dance With Intensity v1.25", "Date" : "2002-01-13" },
+            { "Name": "Dance With Intensity v1.26", "Date" : "2002-01-15" },
+            { "Name": "Dance With Intensity v1.27", "Date" : "2002-01-19", "Windows": "DWI-v127-full.zip" },
+            { "Name": "Dance With Intensity v1.50", "Date" : "2002-02-03" },
+            { "Name": "Dance With Intensity v1.51", "Date" : "2002-02-08" },
+            { "Name": "Dance With Intensity v1.60", "Date" : "2002-03-05" },
+            { "Name": "Dance With Intensity v1.61", "Date" : "2002-04-05" },
+            { "Name": "Dance With Intensity v1.62", "Date" : "2002-04-10" },
+            { "Name": "Dance With Intensity v1.62.20", "Date" : "2002-04-18" },
+            { "Name": "Dance With Intensity v1.62.30", "Date" : "2002-05-06" },
+            { "Name": "Dance With Intensity v1.65", "Date" : "2002-05-26" },
+            { "Name": "Dance With Intensity v1.65.50", "Date" : "2002-06-07" },
+            { "Name": "Dance With Intensity v1.70", "Date" : "2002-06-17" },
+            { "Name": "Dance With Intensity v2.00", "Date" : "2002-07-22" },
+            { "Name": "Dance With Intensity v2.00.30", "Date" : "2002-07-25" },
+            { "Name": "Dance With Intensity v2.00.50", "Date" : "2002-08-02" },
+            { "Name": "Dance With Intensity v2.00.52", "Date" : "2002-08-02" },
+            { "Name": "Dance With Intensity v2.01", "Date" : "2002-08-11" },
+            { "Name": "Dance With Intensity v2.01.10", "Date" : "2002-08-12" },
+            { "Name": "Dance With Intensity v2.02", "Date" : "2002-08-16" },
+            { "Name": "Dance With Intensity v2.03", "Date" : "2002-09-12" },
+            { "Name": "Dance With Intensity v2.10", "Date" : "2002-11-12" },
+            { "Name": "Dance With Intensity v2.20.00", "Date" : "2002-11-20" },
+            { "Name": "Dance With Intensity v2.20.10", "Date" : "2002-11-21" },
+            { "Name": "Dance With Intensity v2.20.30", "Date" : "2002-11-30" },
+            { "Name": "Dance With Intensity v2.30", "Date" : "2003-01-01" },
+            { "Name": "Dance With Intensity v2.30.01", "Date" : "2003-01-03" },
+            { "Name": "Dance With Intensity v2.40", "Date" : "2003-02-02" },
+            { "Name": "Dance With Intensity v2.49", "Date" : "2003-05-22" },
+            { "Name": "Dance With Intensity v2.50", "Date" : "2003-08-14", "Windows": "DWI-v250-full.zip" }
+        ]
+    },
+    "DanceDanceEvolution386" : {
+        "Name": "Dance Dance Evolution 386",
+        "Description": "DDR Simulation program made for FM-TOWNS 386 computers.",
+        "Sources" : [
+            { "Name": "Dance Dance Evolution 486 (The name gets mixed up a lot)", "Link": "https://web.archive.org/web/20010422115309fw_/http://www.rnac.ne.jp/~nekomimi/ddr/dde386.html" }
+        ],
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDEvolution386/200img.png",
+        "Listing": [
+            { "Name": "Dance Dance Evolution v1.00", "Date": "1999-01-05" },
+            { "Name": "Dance Dance Evolution v1.01", "Date": "1999-01-06" },
+            { "Name": "Dance Dance Evolution v1.10", "Date": "1999-01-09" },
+            { "Name": "Dance Dance Evolution v1.11", "Date": "1999-01-15" },
+            { "Name": "Dance Dance Evolution v1.12", "Date": "1999-01-21" },
+            { "Name": "Dance Dance Evolution v1.20", "Date": "1999-01-24" },
+            { "Name": "Dance Dance Evolution v1.21", "Date": "1999-02-06" },
+            { "Name": "Dance Dance Evolution v1.30", "Date": "1999-02-08" },
+            { "Name": "Dance Dance Evolution v1.31", "Date": "1999-02-11", "Windows": "dde3_131.lzh" }
+        ]
+    },
+    "DazzleDazzleRealization" : {
+        "Name": "Dazzle Dazzle Realization",
+        "Description": "Seems to be the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleReduplication/d2r.gif",
+        "Sources" : [
+            { "Name": "DDRシミュレータ[Dazzle Dazzle Realization]", "Link": "https://web.archive.org/web/19991007105305/http://gauss.takamatsu-nct.ac.jp:80/~iguchi/ddr/ddr2.htm" }
+        ],
+        "Listing": [
+            { "Name": "Sulfur01", "Date": "1998-10-22" },
+            { "Name": "Sulfur02", "Date": "1998-10-27" },
+            { "Name": "Sulfur03", "Date": "1998-10-28" },
+            { "Name": "Sulfur04", "Date": "1998-10-29" },
+            { "Name": "Sulfur05", "Date": "1998-10-30" },
+            { "Name": "Sulfur06", "Date": "1998-11-02" },
+            { "Name": "Sulfur07", "Date": "1998-11-04" },
+            { "Name": "Sulfur07a", "Date": "1998-11-04" },
+            { "Name": "Dazzle Dazzle Realization α1", "Date": "1998-11-10" },
+            { "Name": "Dazzle Dazzle Realization α2", "Date": "1998-11-11" },
+            { "Name": "Sulfur07b", "Date": "1998-11-12" },
+            { "Name": "Dazzle Dazzle Realization α3", "Date": "1998-11-13" },
+            { "Name": "Dazzle Dazzle Realization α4", "Date": "1998-11-13" },
+            { "Name": "Dazzle Dazzle Realization β1", "Date": "1998-11-17" },
+            { "Name": "Dazzle Dazzle Realization β1a", "Date": "1998-12-10" },
+            { "Name": "Dazzle Dazzle Realization β1b", "Date": "1999-01-08" },
+            { "Name": "Dazzle Dazzle Realization β2", "Date": "1999-01-11" },
+            { "Name": "Dazzle Dazzle Realization β3", "Date": "1999-01-19" },
+            { "Name": "Dazzle Dazzle Realization β3a", "Date": "1999-01-20" },
+            { "Name": "Dazzle Dazzle Realization β4 (FinalBeta)", "Date": "1999-01-25" },
+            { "Name": "Dazzle Dazzle Realization v1.00", "Date": "1999-02-27" },
+            { "Name": "Dazzle Dazzle Realization v2.00 α1", "Date": "1999-02-28" },
+            { "Name": "Dazzle Dazzle Realization v1.10", "Date": "1999-03-10" },
+            { "Name": "Dazzle Dazzle Realization v1.20", "Date": "1999-04-19" },
+            { "Name": "Dazzle Dazzle Realization 2ndMIX β1", "Date": "1999-06-18", "Windows": "d2r2b1_Dazzle_Dazzle_2ndMix.lzh" },
+            { "Name": "Dazzle Dazzle Realization Solo BASS MIX β1", "Date": "1999-09-09" },
+            { "Name": "Dazzle Dazzle Realization Solo BASS MIX β2", "Date": "1999-09-14" },
+            { "Name": "Dazzle Dazzle Realization Solo BASS MIX β3", "Date": "1999-09-22" },
+            { "Name": "Dazzle Dazzle Realization Solo BASS MIX β3 - plus -", "Date": "1999-09-27" },
+            { "Name": "Dazzle Dazzle Realization Solo BASS MIX β3 - plus2 -", "Date": "1999-09-29" }
+        ]
+    },
+    "DietDietRevolution" : {
+		"Name": "Diet Diet Revolution'99",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/ddr99.png",
+        "Sources" : [
+            { "Name": "Diet Diet Revolution V2.3 User Manual" }
+        ],
+		"Listing" : [
+            { "Name": "ddr99v23", "Date" : "1999-06-01", "Windows": "ddr99v23.zip" },
+            { "Name": "ddr99v21", "Date" : "1999-03-12" },
+            { "Name": "ddr99v20", "Date" : "1999-03-05" },
+            { "Name": "ddr99v16", "Date" : "1999-02-12", "Windows": "ddr99v16.lzh" },
+            { "Name": "ddr99v15", "Date" : "1999-02-05" },
+            { "Name": "ddr99v14", "Date" : "1999-01-29" },
+            { "Name": "ddr99v13a", "Date" : "1999-01-25" },
+            { "Name": "ddr99v13", "Date" : "1999-01-22" },
+            { "Name": "ddr99v12a", "Date" : "1999-01-16" },
+            { "Name": "ddr99v12", "Date" : "1999-01-15" },
+            { "Name": "ddr99v11", "Date" : "1999-01-08" },
+            { "Name": "ddr99v10", "Date" : "1999-01-01" }
+		]
+	},
+	"DelightDelightReduplication" : {
+		"Name": "Delight Delight Reduplication",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DelightDelightReduplication/cap_ddr_s.jpg",
+        "Sources" : [
+            { "Name": "Delight Delight Reduplication Support Page", "Link": "https://delight.airytail.co/index.html" }
+        ],
+		"Listing" : [
+			{ "Name": "DDR 0.36b", "Date" : "2021-10-10", "Windows": "DDR036b.lzh" },
+            { "Name": "DDR 0.50b3.1", "Date" : "2021-10-10", "Windows": "DDR0503.1.lzh" },
+            { "Name": "DDR 0.50b4.1", "Date" : "2021-10-10", "Windows": "DDR0504.1.lzh" },
+            { "Name": "DDR 0.50b4.2", "Date" : "2021-10-10", "Windows": "DDR050beta4.2.lzh" },
+            { "Name": "DDR 0.50b5", "Date" : "2021-10-10", "Windows": "DDR050beta5.lzh", "Src": "DDR-src.tar.gz" }
+		]
+	},
+    "BM98" : {
+		"Name": "BM98",
+        "Sources" : [
+            { "Name": "BM98RING", "Link": "https://web.archive.org/web/20000914062842/http://bm98ring.w3.to/" }
+        ],
+		"Listing" : [
+			{ "Name": "BM98 v3.28", "Date": "1999-02-18", "Windows": "bm98k328.lzh" },
+            { "Name": "BM98 v3.30 R4.2", "Date": "1999-02-18", "Windows": "bm98k330r42.zip" }
+		]
+	},
+    "typemania" : {
+		"Name": "typemania",
+		"Listing" : [
+			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
+		]
+	},
+    "nazobmplay" : {
+		"Name": "nazobmplay",
+		"Listing" : [
+			{ "Name": "typemania v1.14", "Date": "1999-02-18", "Windows": "tm114.lzh" }
+		]
+	},
+    "beatarranger" : {
+        "Name": "beatarranger",
+        "Description": "Developed by EleGa in 2000. Seems to have been in development alongside working with DiGiX on <a href='#DanceParanoia2008'>DANCE PARANOiA</a>.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/beatarranger/ba01play.gif",
+        "Listing": [
+            { "Name": "beat arranger ver0.0" },
+            { "Name": "beat arranger ver0.1", "Date": "2000-01-23" },
+            { "Name": "beat arranger ver0.1a", "Date": "2000-01-27" },
+            { "Name": "beat arranger ver0.1b", "Date": "2000-01-29" },
+            { "Name": "beat arranger ver0.1c", "Date": "2000-02-24" },
+            { "Name": "beat arranger ver0.1d", "Date": "2000-02-17" },
+            { "Name": "beat arranger ver0.2", "Date": "2000-03-07" },
+            { "Name": "beat arranger ver0.2a", "Date": "2000-03-28" },
+            { "Name": "beat arranger ver0.2b", "Date": "2000-05-20" },
+            { "Name": "beat arranger ver0.2c", "Date": "2000-06-10" },
+            { "Name": "beat arranger ver0.3", "Date": "2000-06-29", "Windows": "ba.lzh" }
+        ]
+    },
+    "Maniyari" : {
+        "Name": "BEAT魔にやり",
+        "Description": "A beatmania simulator made by Polygon Love International Office in 1998. It uses its own format to play charts. It doesn't come with an editor. The game was built in x86 assembly <a href='https://web.archive.org/web/19990922081253/http://www.fscn.ne.jp/~maniyari/'>according to the support website</a>.<br>A collection of songs are available <a href='https://objects-us-east-1.dream.io/smothersims/beatmaniyari/song/beatmaniyari_Songs.tar.gz'>here</a>.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/beatmaniyari/beat_gameplay.png",
+        "Sources": [
+            { "Name": "BEAT魔にやり Support Page", "Link": "https://web.archive.org/web/19990922081253/http://www.fscn.ne.jp/~maniyari/" }
+        ],
+        "Listing": [
+            { "Name": "Beat魔にやり本体 Ver2.50", "Date": "1999-03-10" },
+            { "Name": "Beat魔にやり本体 Ver1.10", "Date": "1999-11-15", "Windows": [
+                { "Name": "Available<br>(Update Package, needs 1.08 downloaded)", "Link": "BMNY110S.ZIP" }
+            ] },
+            { "Name": "Beat魔にやり本体 Ver1.08", "Date": "1999-12-05", "Windows": "BEATM108.ZIP" },
+            { "Name": "Beat魔にやり Data help<br>(Writing chart guide)", "Date": "1998-11-12", "Windows": [
+                { "Name": "Help document", "Link": "MANI_H10.ZIP" }
+            ] }
+        ]
+    },
+    "DanceParanoia" : {
+        "Name": "DANCE PARANOiA",
+        "Description": "Developed by DiGiX in 1998. It runs its own charting format called DPR. There's no builds available of this game.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia/HC_DANP_2.jpg",
+        "Sources": [
+        ],
+        "Listing" : [
+        ]
+    },
+    "DanceParanoia2008" : {
+        "Name": "DANCE PARANOiA 2nd Mix",
+        "Description": "The successor/sequel to DANCE PARANOiA, it plays Solo files, and includes a built-in editor. We have no builds for this game, or screenshots apart from a <a href='https://www.nicovideo.jp/watch/sm5352455'>single video available in niconico showcasing it</a>.",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia2008/videoframe.png",
+        "Sources": [
+            { "Name": "bemani and Music Game Simulator File Types - AJ187", "Link": "https://www.ajworld.net/simfile_types.txt" },
+            { "Name": "DANCEPARANOiA online", "Link": "https://web.archive.org/web/20000311224336/http://www.linkclub.or.jp:80/~digix/danpara/index.html" }
+        ],
+        "Listing" : [
+            { "Name": "DANCE PARANOiA Version 2.00" },
+            { "Name": "DANCE PARANOiA Version 2.10" },
+            { "Name": "DANCE PARANOiA Version 2.21" },
+            { "Name": "DANCE PARANOiA Version 2.20" },
+            { "Name": "DANCE PARANOiA Version 2.30" },
+            { "Name": "DANCE PARANOiA Version 2.31" },
+            { "Name": "DANCE PARANOiA Version 2.32" }
+        ]
+    },
+    "DDRPlay" : {
+		"Name": "DDRPlay",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
+        "Description": "Playback program that reads DDR-based MSD files.",
+        "Sources" : [
+            { "Name": "ＤＤＲプレイヤー解説", "Link": "http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" },
+            { "Name": "VA011972 Down Load Corner", "Link": "https://web.archive.org/web/20000919032334/http://hp.vector.co.jp/authors/VA011972/" }
+        ],
+		"Listing" : [
+            { "Name": "ddrplay 0.01" },
+            { "Name": "ddrplay 0.02" },
+            { "Name": "ddrplay 0.03" },
+            { "Name": "ddrplay 0.04" },
+            { "Name": "ddrplay 0.05" },
+            { "Name": "ddrplay 0.06" },
+            { "Name": "ddrplay 0.07" },
+            { "Name": "ddrplay 0.08" },
+            { "Name": "ddrplay 0.09" },
+            { "Name": "ddrplay 0.10" },
+            { "Name": "ddrplay 0.11" },
+            { "Name": "ddrplay 0.12" },
+			{ "Name": "ddrplay 0.13", "Date": "2000-02-02", "Windows": "ddrplay.lzh" }
+		]
+	}
+}

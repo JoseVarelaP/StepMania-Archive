@@ -18,6 +18,12 @@ body {
 	border-radius: 8px;
 }
 
+/* The new version of Center, as it's being deprecated from browsers for whatever reason. */
+.CenterItem {
+	display:block;
+	text-align: center;
+}
+
 .TransferMessage{
 	padding: 2px 6px;
 	background-color: white;
@@ -244,7 +250,7 @@ h3 {
 	margin: 0;
 }
 .top-menu > .PageList > li > a{
-		background: url('static/top-menu-link-bg.png') top left repeat-x;
+		background: url('/SMArchive/static/top-menu-link-bg.png') top left repeat-x;
 }
 
 .top-menu li a{
@@ -259,7 +265,7 @@ h3 {
 }
 .top-menu li a:hover{
 	color:#fff;
-	background:url('static/top-menu-current-bg.png') top left repeat-x;
+	background:url('/SMArchive/static/top-menu-current-bg.png') top left repeat-x;
 }
 .top-menu li ul{
 	background:#f8faf8;
@@ -274,9 +280,10 @@ h3 {
 	opacity:0.95;
 	position:absolute;
 	width: 225px;
-	margin-top: 26px;
+	/* margin-top: 26px; */
+	margin-top: 0px;
 	/* Reset position made by the padding on (.top-menu li a) */
-	margin-left: -10px;
+	/* margin-left: -10px; */
 	/* top:1em; */
 	/* left:0; */
 }
@@ -291,7 +298,7 @@ h3 {
 }
 
 .top-menu #current{
-	background:url('static/top-menu-current-bg.png') top left repeat-x;
+	background:url('/SMArchive/static/top-menu-current-bg.png') top left repeat-x;
 	color:#fff;
 }
 
@@ -455,7 +462,10 @@ only screen and (max-width:660px) {
 		padding: 2px;
 	}
 	
-	#site-logo img { width: 90vw; }
+	#site-logo {
+		display:block;
+		text-align: center;
+	}
 
 	.VideoFrame{
 		/*float: center;*/
@@ -515,9 +525,15 @@ only screen and (max-width:660px) {
 	h2 { color: #fff; border-top: 1px dotted gray; }
 	h3 { color: #fff; }
 
-	h1 {
-		background-color: #000;
-		border-bottom: 0px solid #000;
+	h1 {
+		/* border-bottom: 1px solid #333; */
+		border: #333 2px solid;
+		background: none !important;
+	}
+
+	.content-Changelog h5{
+		/* border-bottom: 1px solid #333; */
+		border: #333 2px solid;
 		background: none !important;
 	}
 

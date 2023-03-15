@@ -1,5 +1,6 @@
 {
 	"SM3.9" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.9",
 		"AceComb" : { "Name": "Ace Combat 3", "Link": "Ace_Combat_3.smzip" },
 		"BlazMix" : { "Name": "Blazin Mix", "Link": "Blazin%20Mix.smzip" },
@@ -47,7 +48,7 @@
 		"ITG2" : { "Name": "In The Groove 2", "Link": "In%20The%20Groove%202.smzip" },
 		"InvSM" : { "Name": "Inverted StepMania", "Link": "Inverted%20StepMania.smzip" },
 		"KzUM" : { "Name": "Katze Ultramix", "Link": "KatzeUltramix.smzip" },
-		"MM" : { "Name": "minimalia", "Link": "minimalia.smzip" },
+		"MM" : { "Name": "minimalia", "Author": "AJ 187", "Date": "2007-07-26", "NumImages": 6, "Link": "minimalia.smzip" },
 		"NPREX3" : {"Name": "N.PREX3 NeoStyle", "Link": [
 			{ "Name": "1.8 (=_=)", "Date": "2008-04-10", "Link": "N.PREX3%20NeoStyle%20v1.8.zip" }
 		]},
@@ -55,14 +56,14 @@
 		"NCRx11" : { "Name": "NCR ex11", "Link": "NCR_ex11.smzip" },
 		"NocN" : { "Name": "Nocturnal Night", "Link": "Nocturnal%20Dream.smzip" },
 		"NAKeT" : { "Name": "Not Another K--eternal Theme", "Link": "Not%20Another%20keternal%20Theme.smzip" },
-		"oni4" : { "Name": "oni4", "Link": "oni4.rar" },
+		"oni4" : { "Name": "Original Nascence Interface 4", "Date": "2007-04-10", "NumImages": 8, "Author": "onigumochan37 (AJ 187 with tweak)", "Link": "oni4.rar" },
 		"paint" : { "Name": "Paintmania", "Link": "Paintmania.smzip" },
 		"panzer2nd" : { "Name": "PanzerForce 2nd Mix", "Link": "panzerforce2ndmix.zip" },
 		"panzer3rd" : { "Name": "PanzerForce 3rd Mix", "Link": "panzerforce3rdmix.zip" },
 		"panzer4th" : { "Name": "PanzerForce 4th Mix", "Link": "panzerforce4thmix.zip" },
 		"panzer5th" : { "Name": "PanzerForce 5th Mix", "Link": "panzerforce5thmix.zip" },
 		"Parn4th" : { "Name": "Partynite 4th", "Date": "2014-08-09", "Link": "partynite-4th.zip" },
-		"PDNG" : { "Name": "Plasma Dance New Generation", "Link": "PlasmaDanceNewGeneration_v1.4.smzip" },
+		"PDNG" : { "Name": "Plasma Dance New Generation", "Date": "2004-08-23", "Author": "Deluxe", "Link": "PlasmaDanceNewGeneration_v1.4.smzip", "NumImages": 6 },
 		"pcd1" : { "Name": "pop*candy", "Link": "popcandy_theme.smzip" },
 		"pcd2" : { "Name": "pop*candy 2", "Date": "2005-??-09", "Link": "popcandy2.zip" },
 		"PIUP" : { "Name": "Pump It Up Premiere", "Link": "Pump%20It%20Up%20Premiere%203.smzip" },
@@ -74,12 +75,12 @@
 		"SMU" : { "Name": "sm.urbanized", "Link": "sm.urbanized.smzip" },
 		"SMLB" : { "Name": "SMLiteBlue", "Link": "SMLiteBlue.smzip" },
 		"SOMS" : { "Name": "Selling Out Made Simple", "Date": "2007-01-09", "Link": "soms_final.smzip" },
-		"SSR" : { "Name": "Sonic Sonic Revolution", "Link": "Sonic%20Sonic%20Revolution.smzip" },
+		"SSR" : { "Name": "Sonic Sonic Revolution", "HasImages": true, "Link": "Sonic%20Sonic%20Revolution.smzip" },
 		"SMSD" : { "Name": "StepMania Stardance", "Link": "StepMania%20Stardance.smzip" },
 		"SBS" : { "Name": "StrawberrySteps", "Date": "27-01-2008", "Link": "StrawberrySteps.smzip" },
 		"SSB" : { "Name": "Super Step Brothers", "Link": "Super%20Step%20Brothers.smzip" },
 		"SMlp": { "Name": "StepMania Pony Mix", "Author": "Myst(^^)v", "Date": "2011-01-13", "Link": "StepMania%20Pony%20Mix.rar" },
-		"SZero" : { "Name": "system zero", "Link": "syszero_1.0.smzip" },
+		"SZero" : { "Name": "system zero", "Date": "2006-05-23", "Link": "syszero_1.0.smzip" },
 		"TF2.9" : { "Name": "Techno Fiend 2.9", "Link": "Techno%20Fiend%202.9.smzip" },
 		"TF3.1" : { "Name": "Techno Fiend 3.1", "Link": "Techno%20Fiend%203.1.smzip" },
 		"Simpsons" : { "Name": "The Simpsons", "Link": "The%20Simpsons.smzip" },
@@ -93,6 +94,7 @@
 	},
 
 	"SM3.9_Plus" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.9 Plus",
 		"DDRA" : {
 			"Name": "DDR A20",
@@ -146,17 +148,32 @@
 	},
 		
 	"SM3.95" : {
+		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
+		"Altitude" : { "Name": "Altitude", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar" },
 		"CUEv5" : { "Name": "ChaosUnown Edition v5", "Link": "ChaosUnown%20Edition%20v5.zip" },
+		"Chroma" : { "Name": "Chromatic", "Link": [
+			{ "Name": "Chromatic v2", "Link": "Chromatic%20v2.rar" },
+			{ "Name": "Chromatic", "Link": "Chromatic.rar" }
+		] },
 		"Staiainv2" : { "Name": "Staiainv2", "Link": "Staiainv2.rar" },
 		"Xoon3" : { "Name": "Xoon 3", "Link": "Xoon%203.rar" },
 		"Xoon4" : { "Name": "Xoon 4", "Link": "Xoon%204.rar" },
+		"ITG355" : { "Name": "In The Groove 355", "Link": "ITG355.rar" },
 		"ITGPRO" : { "Name": "In The Groove Pro", "Link": "In%20The%20Groove%20Pro.rar" },
-		"ITG2UE" : { "Name": "In The Groove 2 -Ultimate Edition-", "Link": "In%20The%20Groove%203.rar" },
-		"HG2" : { "Name": "Hardcore Groove 2", "Link": "In%20The%20Groove%203.rar" },
+		"ITG2H4X": { "Name": "In The Groove H4X Edition", "Link": "ITG%20H4X%20Edition.zip" },
+		"ITG2UE" : { "Name": "In The Groove 2 -Ultimate Edition-", "Link": "In%20The%20Groove%202%20-Ultimate%20Edition-.rar" },
+		"ITG2Sub" : { "Name": "In the Groove 2 Sublime", "Link": [
+			{ "Name": "ITG Sublime r2", "Link": "ITG%20Sublime%20r2.rar" },
+			{ "Name": "ITG Sublime", "Link": "ITG%20Sublime.rar" }
+		] },
+		"MB" : { "Name": "Mario_Blue", "Link": "Mario_Blue.rar" },
+		"HG2" : { "Name": "Hardcore Groove 2", "Link": "Hardcore%20Groove%202.rar" },
+		"Katt" : { "Name": "Katt Theme", "Link": "Katt-theme.rar" },
 		"ITG3" : { "Name": "In The Groove 3", "Link": "In%20The%20Groove%203.rar" },
-		"G3.0" : { "Name": "Groove 3.0", "Link": "In%20The%20Groove%203.rar" },
+		"Glass" : { "Name": "Glass", "Link": "Glass.rar" },
 		"G2" : { "Name": "Groove 2", "Link": [
+			{ "Name": "Groove 3.0", "Link": "Groove%203.0.rar" },
 			{ "Name": "Groove 2.4", "Link": "Groove%202.4.rar" },
 			{ "Name": "Groove 2.3 public-beta1", "Link": "Groove%202.3%20public-beta1.rar" },
 			{ "Name": "Groove 2.2", "Link": "Groove%202.2.rar" },
@@ -165,17 +182,26 @@
 		"ITG3GOLD" : { "Name": "In The Groove 3 GOLD", "Link": "ITG3%20GOLD.rar" },
 		"ITG2Pink" : { "Name": "In The Groove 2 Pink", "Link": "ITG2%20Pink.rar" },
 		"ITG2GOLD" : { "Name": "In The Groove 2 GOLD", "Link": "ITG2%20GOLD.rar" },
-		"ITG500Z" : { "Name": "ITG 500Zb4", "Link": "ITG%20500Zb4.smzip" }
+		"ITG500Z" : { "Name": "ITG 500Zb4", "Link": "ITG%20500Zb4.smzip" },
+		"Secks" : { "Name": "Secks", "Link": "secks.zip" }
 	},
 
 	"SM4" : {
+		"DefaultIcon": "SM40.png",
 		"Name": "StepMania 4",
-		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "AJ 187", "Version": "pb1", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
+		"beatman" : { "Name": "beat man - THE THEME", "Author": "AJ 187", "Date": "2007-09-05", "Link": "beatman_20070905.rar" },
+		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "Midiman", "Version": "pb1", "Link": [
+			{ "Name" : "Public Beta 1", "Date": "2009-11-08", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
+			{ "Name" : "v1.1 HotFix", "Date": "2009-07-22", "Link": "tt-CS2-hotfix-1.1.zip" },
+			{ "Name" : "v1.0", "Date": "2009-03-28", "Link": "tt-CS2-1.0.zip" }
+		] },
 		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "dubai11DX.zip" },
-		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Link": "DWI_xmas2007.rar" },
+		"departure" : { "Name": "departure", "Author": "AJ 187", "Date": "2008-10-12", "Link": "departure_20081002-xxxx.zip" },
+		"DWI" : { "Name": "Dance With Intensity", "Author": "AJ 187", "Date": "2007-12-25", "Link": "DWI_xmas2007.rar" },
 		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
+		"dubaiOne" : { "Name": "dubaiOne", "Author": "freem", "Link": "dubaiOne_v1.5.zip", "NumImages": 6 },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
-		"Moonlight" : { "Name": "Moonlight", "Author": "AJ 187", "Link": [
+		"Moonlight" : { "Name": "Moonlight", "HasImages": true, "Author": "AJ 187", "Link": [
 			{ "Name": "moonlight Public Alpha 7", "Date": "2010-03-14", "Link": "moonlight/moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
 			{ "Name": "moonlight Public Alpha Va", "Date": "2009-09-01", "Link": "moonlight/moonlight_alpha5a_20090901-1520.zip" }
 		] },
@@ -186,14 +212,15 @@
 
 	"OITG" : {
 		"Name": "OpenITG",
-		"Industrial": { "Name": "DDR Industrial", "Link": "ddr%20industrial.zip" },
+		"DefaultIcon": "OITG.png",
+		"Industrial": { "Name": "DDR Industrial", "Author": "DivinElegy", "Link": "ddr%20industrial.zip" },
 		"GrooveNightsiss19": { "Name": "In The Groove GrooveNights (iss19)", "Link": "GrooveNights-iss19.zip" },
 		"GrooveNightswuo": { "Name": "In The Groove GrooveNights (wip)", "Link": "GrooveNights-wip.zip" },
 		"ITG3Encore": { "Name": "In The Groove 3 Encore", "Link": "ITG%203%20-%20Encore.rar" },
 		"ITGParty": { "Name": "In The Groove Party", "Link": "ITG%20Party.rar" },
 		"Deco": { "Name": "In The Groove Deco", "HasImages": true, "Link": "ITG%20Deco.rar" },
 		"Empress": { "Name": "In The Groove 2 Empress", "HasImages": true, "Link": "ITG2Empress1.1.zip" },
-		"Retro": { "Name": "In The Groove Retro", "Link": "ITGretro.zip" },
+		"Retro": { "Name": "In The Groove Retro", "Author": "DivinElegy", "HasImages": true, "Link": "ITGretro.zip" },
 		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "Link": "Meat.rar" },
 		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "My%20Little%20Pony.zip" },
 		"Obscurity": { "Name": "Obscurity", "HasImages": true, "Link": "Obscurity.smzip" },
@@ -211,7 +238,7 @@
 		"PrismRhythm15": {
 			"Name": "PrismRhythm 15",
 			"Date": "2019-07-04",
-			"Version": "15-RT",
+			"Author": "AceOfArrows",
 			"Link": [
 				{ "Name": "(Adept) Revised Timing", "Link": "PrismRhythm%2015%20%28Adept%29%20%5BRevised%20Timing%5D.zip" },
 				{ "Name": "(Standard) Revised Timing", "Link": "PrismRhythm%2015%20%28Standard%29%20%5BRevised%20Timing%5D.zip" }
@@ -220,10 +247,17 @@
 		"PrismRhythm16": {
 			"Name": "PrismRhythm 16",
 			"Date": "2020-11-20",
+			"Author": "AceOfArrows",
 			"Link": "PrismRhythm%2016.zip"
 		},
-		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "HasImages": true, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
-		"Tactics": { "Name": "In The Groove Tactics", "HasImages": true, "Link": "tactics.rar" },
+		"PrismRhythm17": {
+			"Name": "PrismRhythm 17",
+			"Date": "2023-02-19",
+			"Author": "AceOfArrows",
+			"Link": "PrismRhythm%2017%20Plus.zip"
+		},
+		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Author": "Jose_Varela", "NumImages": 6, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
+		"Tactics": { "Name": "In The Groove Tactics", "NumImages": 6, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
 			{ "Name": "Source", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" },
@@ -238,25 +272,31 @@
 
 	"NITG" : {
 		"Name": "NotITG",
-		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "HasImages": true, "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
+		"DefaultIcon": "NITG4.png",
+		"SLOat" : { "Name": "SIMPLY LOVE (Oat vs Rya's Fork)", "HasImages": true, "NumImages": 5, "Date":"2021-04-26", "Author": "oatmealine", "Link": "https://github.com/oatmealine/simply-love-oat-fork/archive/refs/heads/master.zip" }
 	},
 
 	"SM-SSC": {
 		"Name": "SM-SSC",
+		"DefaultIcon": "SMSSC.png",
 		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
 		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
+		"SOMS2": { "Name": "Selling Out Made Simple 2", "Author": "freem", "NumImages": 6 },
 		"IIDX15": { "Name": "IIDX 15", "Date": "2011-10-02", "Author": "DJ.Tony", "Link": "%5BSM5%5D%20IIDX15%20theme%20and%20noteskin%20V1.0.zip" },
-		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip" }
+		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip", "NumImages": 5 }
 	},
 
 	"StepMania 5" : {
 		"Name": "StepMania 5",
-		"Barebone" : { "Name": "Barebone", "HasImages": true, "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
+		"DefaultIcon": "SM5.png",
+		"Barebone" : { "Name": "Barebone", "HasImages": true, "NumImages": 5, "Author": "Jousway", "Version": "1.0a", "Link": "Barebone.zip" },
 		"CS7MS" : {
 			"Name": "Cyberia Style 7 -metal system-",
 			"Author": "gl_yukt",
 			"Version": "7",
+			"HasImages": true,
+			"NumImages": 5,
 			"Link": [
 				{ "Name": "Standard", "Date": "2012-02-26", "Link": "CyberiaStyle%207%20-metal%20system-.zip"},
 				{ "Name": "Preview 3 Version", "Link": "CyberiaStyle7%20MS%20for%20SM5P3.zip", "NeedsImageUpdate": true}
@@ -267,11 +307,44 @@
 			"Author": "gl_yukt",
 			"Version": "8.5",
 			"HasImages": true,
+			"NumImages": 5,
 			"Link": [
 				{ "Name": "v8.5", "Date": "2015-02-23", "Link": "CS8/CyberiaStyle8_Solid_031_v085.rar" },
 				{ "Name": "v8.4 Rev 01 Standard", "Date": "2015-01-26", "Link": "CyberiaStyle%208%20-solid-.zip" },
 				{ "Name": "v8.4 Rev 01 LowRes", "Date": "2015-01-26", "Link": "CyberiaStyle8_low.zip" },
-				{ "Name": "v8.3_Rev 07", "Date": "2014-08-31", "Link": "CS8/CyberiaStyle8_Solid_028_v083.rar" }
+				{ "Name": "v8.4", "Date": "2015-01-25" },
+				{ "Name": "v8.3_Rev 07", "Date": "2014-08-31", "Link": "CS8/CyberiaStyle8_Solid_028_v083.rar" },
+				{ "Name": "v8.3_Rev 06", "Date": "2014-06-22" },
+				{ "Name": "v8.3_Rev 05", "Date": "2014-06-15" },
+				{ "Name": "v8.3_Rev 04", "Date": "2014-04-06" },
+				{ "Name": "v8.3_Rev 03", "Date": "2014-03-27" },
+				{ "Name": "v8.3_Rev 02", "Date": "2014-03-20" },
+				{ "Name": "v8.3_Rev 01", "Date": "2014-03-09" },
+				{ "Name": "v8.3", "Date": "2014-03-03" },
+				{ "Name": "v8.2_Rev03", "Date": "2014-01-23" },
+				{ "Name": "v8.2_Rev02", "Date": "2014-01-19" },
+				{ "Name": "v8.2_Rev01", "Date": "2014-01-06" },
+				{ "Name": "v8.2", "Date": "2013-12-31" },
+				{ "Name": "v8.1_Rev03", "Date": "2013-12-10" },
+				{ "Name": "v8.1_Rev02", "Date": "2013-12-08" },
+				{ "Name": "v8.1_Rev01", "Date": "2013-11-18" },
+				{ "Name": "v8.1", "Date": "2013-11-24" },
+				{ "Name": "Rev12", "Date": "2013-09-27" },
+				{ "Name": "Rev11", "Date": "2013-09-03" },
+				{ "Name": "Rev10", "Date": "2013-08-23" },
+				{ "Name": "Rev09", "Date": "2013-08-19" },
+				{ "Name": "Rev08", "Date": "2013-08-15" },
+				{ "Name": "Rev07", "Date": "2013-07-30" },
+				{ "Name": "Rev06", "Date": "2013-07-20" },
+				{ "Name": "Rev05", "Date": "2013-06-15" },
+				{ "Name": "Rev04", "Date": "2013-06-03" },
+				{ "Name": "Rev03", "Date": "2013-06-02" },
+				{ "Name": "Rev02", "Date": "2013-05-19" },
+				{ "Name": "Rev01", "Date": "2013-05-14" },
+				{ "Name": "Rev00", "Date": "2013-05-12" },
+				{ "Name": "Pre02", "Date": "2013-01-03" },
+				{ "Name": "Pre01", "Date": "2013-01-02" },
+				{ "Name": "Pre00", "Date": "2012-12-31" }
 			]
 		},
 		"CS8LA" : {
@@ -279,20 +352,39 @@
 			"Author": "gl_yukt",
 			"Version": "L-12",
 			"HasImages": true,
+			"NumImages": 5,
 			"Link": [
 				{ "Name": "L-12_Rev 37","Date": "2018-03-14", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_037_vL12.zip" },
 				{ "Name": "L-6_Rev 27", "Date": "2016-05-08", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_027_vL06.rar" }
 			]
 		},
+		"SM4Alpha" : { "Name": "Stepmania 4 Alpha theme", "Date": "2017-07-16", "Link": "SM4Alpha-master.zip" },
+		"SMCOREX" : { "Name": "SM-CORE X", "Author": "Th3_Ov3rHell_3XoduZ", "NumImages": 6, "Date": "2013-12-12" },
+		"MeltyBlood" : {
+			"Name": "Melty Blood Actress Again Current Code",
+			"Author": "ZTS",
+			"NumImages": 5,
+			"Date": "2015-02-05",
+			"Link": [
+				{ "Name": "Melty Blood Theme - v2.7", "Date": "2018-07-25", "Link": "Melty%20Blood%20Theme%20-%20v2.7z" }
+			]
+		},
+		"MithrasGoneWild" : { "Name": "Mithras Gone Wild", "Author": "Supreeeme", "Date": "2015-02-05", "Link": "mithras-gone-wild-master.zip" },
 		"D3NEX" : { "Name": "D3NEX", "Version": "7", "Link": "D3NEX%20%5BSM5%5D.zip" },
 		"D3NEXM" : { "Name": "D3NEX MAXIMUM", "Version": "7", "Link": "D3NEX_MAXIMUM_Theme_20150401.zip" },
-		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "Link": "DDR%202013.zip" },
+		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "NumImages": 6, "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "2018-01-15", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
-		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19", "Link": "https://github.com/Curilang/DDR-A/archive/refs/heads/main.zip" },
-		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
+		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
+		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "HasImages": true, "NumImages": 5, "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
+		"DDRA3Curilang": { "Name":"DDR-A3 (Curilang Edit)", "Author": "Inorizushi, Curilang", "Link": [
+			{ "Name": "v1.3b1", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.3b1.zip" },
+			{ "Name": "v1.2", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.2.zip" },
+			{ "Name": "v1.1", "Date": "2022-05-05", "Link": "Curilang-A3/DDR.A3.V.1.1.zip" },
+			{ "Name": "v1.0", "Date": "2022-05-05", "Link": "Curilang-A3/DDR.A3.V.1.0.zip" }
+		] },
 		"DDRA20M" : { "Name": "DDR A20 Minus", "Author": "pupsi", "Date": "2021-05-08", "Link": "DanceDanceRevolution%20A20%20Minus.rar" },
-		"DDR5th" : { "Name": "DDR 5th Mix", "HasImages": true, "Date": "2014-07-23", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
+		"DDR5th" : { "Name": "DDR 5th Mix", "HasImages": true, "NumImages": 5, "Date": "2014-07-23", "Author": "AJ 187", "Version": "7", "Link": "DDR5th_r7.smzip" },
 		"DDRNG" : { "Name": "DDR Next Generation", "Date": "2014-07-23", "Version": "7", "Link": "DDRNG.zip" },
 		"DDRNMini" : { "Name": "DDR Mini", "Author": "pupsi", "Date": "2021-03-08", "Link": "DanceDanceRevolution%20Mini.zip" },
 		"DDR7th" : { "Name": "DDR 7th Mix (DDR MAX2)", "Date": "2014-07-08", "Version": "7", "Link": [
@@ -300,10 +392,10 @@
 			{ "Name": "HD Version", "Link": "Dance%20Dance%20Revolution%207th%20Mix%20-HDDR%20MAX2-.zip" }
 		] },
 		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Dance%20Dance%20Revolution%207th%20mix%20-DDR%20MAX2-.rar" },
-		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
-		"02ManiaEX" : { "Name": "02Mania EX", "Date": "2014-05-27", "Version": "5", "Link": "O2Mania%20EX.zip" },
-		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
-		"SMXG" : { "Name": "SMXG ReEvolution", "Author": "Lirodon", "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
+		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "NumImages": 2, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
+		"O2ManiaEX" : { "Name": "O2Mania EX", "Date": "2014-05-27", "Author": "arvinkent098", "Version": "5", "Link": "O2Mania%20EX.zip" },
+		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "NumImages": 4, "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
+		"SMXG" : { "Name": "SMXG ReEvolution", "Author": "Lirodon", "NumImages": 6, "HasImages": true, "Date": "2018-05-27", "Link": "SMXG%20ReEvolution%20v1.0.4.zip" },
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
@@ -337,19 +429,52 @@
 				{ "Name": "Simply.Love.v1", "Date":"2014-08-11", "Link": "Simply-Love/Simply.Love.v1.zip" }
 			]
 		},
+		"DokiDoki" : { "Name": "Doki Doki Dancing All Night!", "Author": "Giovanni Shawn", "Link": "DDDAN-master.zip" },
+		"DragonNest" : { "Name": "DRAGON NEST", "NumImages": 6, "Author": "GHR" },
+		"drunkenshame" : { "Name": "drunken-shame", "Author": "kyzentun", "Link": "drunken-shame-master.zip" },
+		"Gothic" : { "Name": "GothicTheme", "Author": "nlstrong", "Link": "StepMania%205.0GothicTheme.zip" },
+		"PXII" : { "Name": "IIDX Gold 14th Style (Project XII)", "Link": "projektgold.zip" },
 		"SMSuperNova" : { "Name": "StepMania SuperNova V3", "Link": "StepMania%20Supernova%20Version%203.zip" },
 		"SMPREX3" : { "Name": "SMPREX3 cvs 1.1.1", "Link": "SMPREX3%20cvs%201.1.1.zip" },
-		"StRev" : { "Name": "Project Diva Stepping Revision", "HasImages": true, "Author": "Jose_Varela", "Link": [
+		"StRev" : { "Name": "Project Diva Stepping Revision", "HasImages": true, "NumImages": 5, "Author": "Jose_Varela", "Link": [
 			{ "Name": "Latest", "Date": "2018-11-07", "Link":"SteppingRevision/PD-Stepping-Revision-master.zip"},
 			{ "Name": "SR Classic", "Date": "2018-08-30", "Link":"SteppingRevision/PD-Stepping-Revision-Classic-DIVA.zip"}
 		] },
-		"TKMix" : { "Name": "TK Mix", "Link": "TK%20Mix.zip" },
-		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "Link": "Tacvicom%20Edition%20v2.0.zip" },
+		"Trotmania1" : {
+			"Name": "TrotMania",
+			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania.7z"
+		},
+		"Trotmania2" : {
+			"Name": "TrotMania II: Chrystalize",
+			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania2-final%20theme.zip"
+		},
+		"Trotmania3" : {
+			"Name": "TrotMania III: Aeternum Obscurum",
+			"Link": [
+				{ "Name": "v1.6", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20III%20Theme%20v1.6.zip" }
+			]
+		},
+		"Trotmania4" : {
+			"Name": "TrotMania IV: Euphorius",
+			"Link": [
+				{ "Name": "v1.5", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TM4%20Theme%201.5.zip" }
+			]
+		},
+		"Trotmania5" : {
+			"Name": "TrotMania V: Shrive",
+			"Link": [
+				{ "Name": "v1.0.1", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20V%20Theme%201.0.1.zip" }
+			]
+		},
+		"TKMix" : { "Name": "TK Mix", "HasImages": true, "NumImages": 5, "Link": "TK%20Mix.zip" },
+		"SMTvE" : { "Name": "StepMania Tacvicom Edition", "NumImages": 6, "HasImages": true, "Link": "Tacvicom%20Edition%20v2.0.zip" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2015-02-21", "Author": "AJ 187", "Link": "moonlight_1.03-o.zip" },
 		"TimeRift" : { "Name": "TimeRift", "Link": "TimeRift-sm5-1.0.1a.zip" },
 		"Optical" : { "Name": "Optical", "Link": "optical-master.zip" },
 		"XV" : {
 			"Name": "XV",
+			"HasImages": true,
+			"NumImages": 5,
 			"Author": "k//eternal, DM Ashura, neo, shakesoda, AJ 187",
 			"Link": [
 				{ "Name": "XV r6", "Date": "2014-07-23", "Link":"XV/XV_20140723-r6.zip"},
@@ -362,10 +487,13 @@
 		"starlight" : {
 			"Name": "XX -starlight-",
 			"HasImages": true,
+			"NumImages": 4,
 			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
 			"Link": [
+				{ "Name": "XX_-starlight-_V1.4.1", "Date": "2021-08-05", "Link":"XX-starlight-/XX_-starlight-_V1.4.1_20210805.zip"},
 				{ "Name": "XX_-starlight-_V1.4.0", "Date": "2021-03-17", "Link":"XX-starlight-/XX_-starlight-_V1.4.0_2021-03-17.zip"},
 				{ "Name": "XX_-starlight-_V1.3.0", "Date": "2020-08-20", "Link":"XX-starlight-/XX_-starlight-_V1.3.0_2020-08-20.zip"},
+				{ "Name": "XX -starlight- V1.2.1c", "Date": "2020-06-18", "Link":"XX-starlight-/XX -starlight- V1.2.1c 2020-06-18.zip"},
 				{ "Name": "XX_-starlight-_V1.2.1c_hotfix", "Link":"XX-starlight-/XX_-starlight-_V1.2.1c_hotfix.zip"},
 				{ "Name": "XX_-starlight-_V1.2.1b_hotfix", "Link":"XX-starlight-/XX_-starlight-_V1.2.1b_hotfix.zip"},
 				{ "Name": "XX_-starlight-_V1.2.1a_hotfix", "Link":"XX-starlight-/XX_-starlight-_V1.2.1a_hotfix.zip"},
@@ -373,21 +501,106 @@
 				{ "Name": "XX_-starlight-_V1.2.0_to_V1.2.1a", "Link":"XX-starlight-/XX_-starlight-_V1.2.0_to_V1.2.1a.zip"},
 				{ "Name": "XX_-starlight-_V1.2.0", "Date": "2020-05-05", "Link":"XX-starlight-/XX_-starlight-_V1.2.0_2020-05-05.zip"},
 				{ "Name": "XX_-starlight-_V1.1.3_hotfix", "Link":"XX-starlight-/XX_-starlight-_V1.1.3_hotfix.zip"},
-				{ "Name": "XX_-starlight-_V1.1.3", "Date": "2020-04-19", "Link":"XX-starlight-/XX_-starlight-_V1.1.3_2020-04-19.zip"},
-				{ "Name": "XX -starlight- V1.2.1c", "Date": "2020-06-18", "Link":"XX-starlight-/XX -starlight- V1.2.1c 2020-06-18.zip"}
+				{ "Name": "XX_-starlight-_V1.1.3", "Date": "2020-04-19", "Link":"XX-starlight-/XX_-starlight-_V1.1.3_2020-04-19.zip"}
 			]
 		},
+		"SimplySpud": {
+			"Name": "Simply Spud (Potato)",
+			"Author": "48productions",
+			"Link": [
+				{ "Name": "Simply Spud Russet v1.0", "Date": "2022-09-24", "Link":"Simply-Potato/Simply-Potato-SM5-1.0.0.zip"},
+				{ "Name": "Simply Spud Russet v0.8", "Date": "2021-04-07", "Link":"Simply-Potato/Simply-Potato-SM5-0.8.zip"}
+			]
+		},
+		"SimplyMeme": {
+			"Name": "Simply Meme",
+			"Author": "cracingbozo7, PCBoyGames",
+			"Link": [
+				{ "Name": "Simply Meme (SM5)", "Date": "2018-03-14", "Link":"Simply-Meme/Simply%20Meme.zip"},
+				{ "Name": "Simply Meme (SM5.2)", "Date": "2018-03-14", "Link":"Simply-Meme/Simply%20Meme%205.2.zip"}
+			]
+		},
+		"Obelisk": {
+			"Name": "Obelisk",
+			"Author": "Lirodon",
+			"Date": "2017-01-12",
+			"NumImages": 3,
+			"Link": [
+				{ "Name": "Obelisk 1.4", "Date": "2015-04-05", "Link": "Obelisk/Obelisk%201.4.zip" },
+				{ "Name": "Obelisk 1.3" },
+				{ "Name": "Obelisk 1.2" },
+				{ "Name": "Obelisk 1.0", "Date": "2015-01-11" }
+			]
+		},
+		"ObeliskPro": {
+			"Name": "Obelisk Pro",
+			"Author": "Lirodon",
+			"Date": "2017-01-12",
+			"NumImages": 3,
+			"Link": [
+				{ "Name": "Obelisk Beta 2.2", "Date": "2015-06-09", "Link": "Obelisk/Obelisk%20Pro%20Beta%202.2.zip" },
+				{ "Name": "Obelisk Beta 2", "Date": "2015-06-04" }
+			]
+		},
+		"fiftyOne": {
+			"Name": "Lambda",
+			"Author": "Lirodon",
+			"Date": "2017-01-12",
+			"Link": [
+				{ "Name": "v2.3.1 \"Radisson\" ", "Date": "2018-09-27", "Link": "smtheme-fiftyOne/v2.3.1.zip" },
+				{ "Name": "v2.3 \"Radisson\" ", "Date": "2018-08-27", "Link": "smtheme-fiftyOne/v2.3.zip" },
+				{ "Name": "v2.2 \"Borden\" ", "Date": "2018-07-23", "Link": "smtheme-fiftyOne/v2.2.zip" },
+				{ "Name": "v2.1 \"Langham\" ", "Date": "2018-07-17", "Link": "smtheme-fiftyOne/v2.1.zip" },
+				{ "Name": "v2.0.3 \"Saskatoon\" ", "Date": "2018-02-25", "Link": "smtheme-fiftyOne/v2.0.3.zip" },
+				{ "Name": "v2.0.2 \"Saskatoon\" ", "Date": "2018-02-20", "Link": "smtheme-fiftyOne/v2.0.2.zip" },
+				{ "Name": "v2.0.1 \"Saskatoon\" ", "Date": "2018-02-09", "Link": "smtheme-fiftyOne/v2.0.1.zip" },
+				{ "Name": "v2.0 \"Saskatoon\" ", "Date": "2018-02-05", "Link": "smtheme-fiftyOne/v2.0.zip" },
+				{ "Name": "v2.0 \"Saskatoon\" Beta 1 ", "Date": "2018-02-02", "Link": "smtheme-fiftyOne/v2.0-b1.zip" },
+				{ "Name": "v1.3.4", "Date": "2018-01-26", "Link": "smtheme-fiftyOne/v1.3.4.zip" },
+				{ "Name": "v1.3.3 \"Regina\" ", "Date": "2018-01-18", "Link": "smtheme-fiftyOne/v1.3.3.zip" },
+				{ "Name": "v1.3.2 \"Regina\" ", "Date": "2018-01-15", "Link": "smtheme-fiftyOne/v1.3.2.zip" },
+				{ "Name": "v1.3.1 \"Regina\" ", "Date": "2018-01-08", "Link": "smtheme-fiftyOne/v1.3.1.zip" },
+				{ "Name": "v1.3 \"Regina\" ",  "Date": "2018-01-08", "Link": "smtheme-fiftyOne/v1.3.zip" },
+				{ "Name": "v1.2 \"Emerald Park\" ", "Date": "2018-01-02", "Link": "smtheme-fiftyOne/v1.2.zip" },
+				{ "Name": "v1.1.1.1 \"Balgonie\" ", "Date": "2017-12-30", "Link": "smtheme-fiftyOne/v1.1.1.1.zip" },
+				{ "Name": "v1.1.1 \"Balgonie\" ", "Date": "2017-12-30",  "Link": "smtheme-fiftyOne/v1.1.1.zip" },
+				{ "Name": "v1.1 \"Balgonie\" ",  "Date": "2017-12-29", "Link": "smtheme-fiftyOne/v1.1.zip" },
+				{ "Name": "v1.0.6 \"Wolseley\" ", "Date": "2017-09-19", "Link": "smtheme-fiftyOne/v1.0.6.zip" },
+				{ "Name": "v1.0.5.1 \"Grenfell\" ", "Date": "2017-09-17", "Link": "smtheme-fiftyOne/v1.0.5.1.zip" },
+				{ "Name": "v1.0.5 \"Grenfell\" ", "Date": "2017-09-15", "Link": "smtheme-fiftyOne/v1.0.5.zip" },
+				{ "Name": "v1.0.4 \"Broadview\" ", "Date": "2017-08-19", "Link": "smtheme-fiftyOne/v1.0.4.zip" },
+				{ "Name": "v1.0.3 \"Whitewood\" ", "Date": "2017-08-12", "Link": "smtheme-fiftyOne/v1.0.3.zip" },
+				{ "Name": "v1.0.2 \"Wapella\" ", "Date": "2017-08-11", "Link": "smtheme-fiftyOne/1.0.2.zip" },
+				{ "Name": "v1.0.1 \"Moosomin\" ", "Date": "2017-08-08", "Link": "smtheme-fiftyOne/v1.0.1.zip" },
+				{ "Name": "v1.0 RC ", "Date": "2017-08-08", "Link": "smtheme-fiftyOne/v1.0.zip" }
+			]
+		},
+		"Jounin": { "Name": "Jounin - SM Creation XXIV", "NumImages": 3, "Author": "Lirodon", "Date": "2016-10-28", "Link": "RX%2017.01.zip" },
+		"RX": { "Name": "ResurrecXion Proyect", "Author": "sharechk", "Date": "2017-01-12", "Link": "RX%2017.01.zip" },
+		"RhythmMania": { "Name": "RhythmMania", "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
+		"QuadIIDX": { "Name": "QuadIIDX", "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },
+		"Britney": { "Name": "Britney's Dance Beat", "Author": "MadkaT182", "Date": "2018-06-15", "Link": "Britney%201.0.0.rar" },
+		"Tournament": { "Name": "Tournament", "Author": "MadkaT182", "Date": "2018-12-01", "Link": "Tournament-master.zip" },
+		"Touhou-Hisoutensoku": { "Name": "Touhou-Hisoutensoku", "Author": "Jousway", "Date": "2019-06-14", "Link": "Touhou-Hisoutensoku-master.zip" },
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
 		"ultralight" : { "Name": "ultralight", "HasImages": true, "Link": "ultralight_20141006-r13.zip" },
 		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "Link": "UPSRT.zip" },
-		"XIX.SUPER" : { "Name": "XIX Laconia", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
+		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
 	},
 
 	"OutFox" : {
 		"Name": "Project OutFox",
+		"DefaultIcon": "OUTFOXA4.png",
 		"AccelBeat": { "Name": "AccelBeat", "Author": "Luizsan", "Link": "https://github.com/luizsan/AccelBeat/archive/refs/heads/master.zip" },
-		"GN": { "Name": "In The Groove - GrooveNights", "Date": "2021-05-23", "Author": "Jose_Varela", "Link": "https://github.com/JoseVarelaP/SM5-GrooveNights/archive/refs/heads/master.zip" },
+		"GN": {
+			"Name": "In The Groove - GrooveNights",
+			"Date": "2021-05-23",
+			"HasImages": true,
+			"NumImages": 5,
+			"Author": "Jose_Varela",
+			"Link": "https://github.com/JoseVarelaP/SM5-GrooveNights/archive/refs/heads/master.zip"
+		},
 		"Infinitesimal": {
 			"Name": "Infinitesimal",
 			"Date": "2021-05-07",
@@ -436,6 +649,8 @@
 		"EKS-D" : {
 			"Name": "EKS-D ParaMania",
 			"Author": "EKS-D",
+			"NumImages": 4,
+			"HasImages": true,
 			"Link": [
 				{ "Name": "EKS-D ParaMania (Alpha 3.5)", "Date": "2021-07-17", "Link": "EKS-D/%5B2021-07-17%5D%20EKS-D%20ParaMania%20%28Alpha%203.5%29.7z" },
 				{ "Name": "EKS-D ParaMania (Alpha 3.0)", "Date": "2021-02-14", "Link": "EKS-D/%5B2021-02-14%5D%20EKS-D%20ParaMania%20%28Alpha%203.0%29.7z" },
@@ -447,6 +662,8 @@
 		"Superuser": {
 			"Name": "superuser",
 			"Author": "Sudospective",
+			"NumImages": 4,
+			"HasImages": true,
 			"Link": [
 				{ "Name": "v1.5.0", "Date": "2022-10-08", "Link": "superuser/v1.5.0.zip" },
 				{ "Name": "v1.4.0", "Date": "2022-09-21", "Link": "superuser/v1.4.0.zip" },
