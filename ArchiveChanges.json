@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "18/Mar/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=chiprev'>Chip.Revolution</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "17/Mar/23",
 		"Changes" : [
 			{
@@ -20,7 +32,7 @@
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
 				"List": [
-					"Added Simply Love 5.1.2.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=SimplyLove'>Simply Love 5.2.0</a>.",
 					"Split ITGM versions of Simply Love to their own category."
 				]
 			}

@@ -358,6 +358,21 @@
 				{ "Name": "L-6_Rev 27", "Date": "2016-05-08", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_027_vL06.rar" }
 			]
 		},
+		"chiprev": {
+			"Name": "Chip.Revolution",
+			"Author": "Orien-S",
+			"Link": [
+				{ "Name": "Chip.Revolution (Beta Indef.) LIVE-DEV 3-14-23 (R2)", "Date": "2023-03-14", "Link": "chip.revolution/Chip.Revolution%20LIVE-DEV%203-14-23%20%28R2%29.7z" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC10", "Date": "2023-03-14", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC10.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC9", "Date": "2020-12-16", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC9.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC8", "Date": "2020-11-18", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC8.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC7", "Date": "2020-04-16", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC7.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC6", "Date": "2020-04-14", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC6.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC5", "Date": "2020-01-25", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC5.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) RC4", "Date": "2020-01-24", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC4.zip" },
+				{ "Name": "Chip.Revolution (Beta Indef.) Release 2", "Date": "2020-01-12", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29.zip" }
+			]
+		},
 		"SM4Alpha" : { "Name": "Stepmania 4 Alpha theme", "Date": "2017-07-16", "Link": "SM4Alpha-master.zip" },
 		"SMCOREX" : { "Name": "SM-CORE X", "Author": "Th3_Ov3rHell_3XoduZ", "NumImages": 6, "Date": "2013-12-12" },
 		"MeltyBlood" : {
@@ -399,6 +414,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
+				{ "Name": "Simply-Love-v5.2.0", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0.zip"},
 				{ "Name": "Simply-Love-v5.1.2", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2.zip"},
 				{ "Name": "Simply-Love-v5.1.1", "Date":"2022-03-26", "Link": "Simply-Love/Simply-Love-v5.1.1.zip"},
 				{ "Name": "Simply-Love-v5.1.0v2", "Date":"2022-03-24", "Link": "Simply-Love/Simply-Love-v5.1.0v2.zip"},
@@ -694,7 +710,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love (for ITGMania)",
 			"Link": [
-				{ "Name": "Simply-Love-v5.5.2-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
+				{ "Name": "Simply-Love-v5.2.0-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"}
 			]
 		}
