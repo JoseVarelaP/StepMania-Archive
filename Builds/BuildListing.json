@@ -819,6 +819,7 @@
 			{ "Name": "PUMP IT UP MX REVOLUTION 2 2021 (V2.01)", "Date": "2021-06-04", "Windows": "https://smbuilds.objects-us-east-1.dream.io/SM5/Windows/PIU%20MXR2%20(BASE%202.01).rar" },
 			{ "Name": "Step Fex 1.4.1", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar" },
 			{ "Name": "STEP MOD 2020 (StepP1 Mod)", "Date": "2021-11-01", "Windows": "https://drive.google.com/file/d/13bOKxHjW-2P5tw6AQ2gfMSJd6h8A1zGe/view" },
+			{ "Name": "STEP MOD 1.2 (StepP1 Mod)", "Date": "2022-12-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEPMOD__1.2.zip" },
             { "Name": "SM L-TEK r1.1", "Date": "2021-09-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania_L-TEK_r1.1.exe" }
         ]
     },
@@ -1209,7 +1210,7 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.1-Linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.1.tar.gz"
             },
-            { "ID": "ETT0.72.2", "Name": "Etterna 0.72.2", "Date": "2022-03-01",
+            { "ID": "ETT0.72.2", "Name": "Etterna 0.72.2", "Date": "2023-03-01",
                 "Windows": [
                     { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.2-win32.exe" },
                     { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.2-win64.exe" }

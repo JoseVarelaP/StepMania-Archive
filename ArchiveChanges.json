@@ -8,6 +8,20 @@
 				"List": [
 					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=chiprev'>Chip.Revolution</a>."
 				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"Fixed download links for BEAT魔にやり."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEPMOD__1.2.zip'>STEP MOD 1.2</a>."
+				]
 			}
 		]
 	},
