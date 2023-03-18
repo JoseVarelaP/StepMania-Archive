@@ -14,7 +14,7 @@
 	"ITGA05132003":"SM30/ITGA05132003.md" ,
 	"iSTEP":"SM395/iSTEP.md" ,
 	"ITGB01072004":"SM39/ITGB01072004.md" ,
-	
+
 	"OpGr2":"OITG/OpenGroove/r2.md",
 	"OpGr3":"OITG/OpenGroove/r3.md",
 	"OpGr4":"OITG/OpenGroove/r4.md",
@@ -63,7 +63,7 @@
 	"SM5.1B2":"SM5/5.1B2.md",
 
 	"SP23.3":"STEPP2/v3.3.md",
-	
+
 	"OUTFOX4":"OUTFOX/A4.0.md",
 	"OUTFOX4.1":"OUTFOX/A4.1.md",
 	"OUTFOX4.2":"OUTFOX/A4.2.md",
@@ -104,7 +104,11 @@
 	"OUTFOX4.18.0":"OUTFOX/A4.18.0.md",
 	"OUTFOX4.18.1":"OUTFOX/A4.18.1.md",
 
+	"ETT0.72.1": "ETT/ETT0.72.1.md",
+	"ETT0.72.2": "ETT/ETT0.72.2.md",
+
 	"ITGM0.5.1":"ITGM/ITGM0.5.1.md",
+	"ITGM0.6.0":"ITGM/ITGM0.6.0.md",
 	"SP1v101":"STEPP1/v1.0.1.md",
 	"SP1v102":"STEPP1/v1.0.2.md",
 

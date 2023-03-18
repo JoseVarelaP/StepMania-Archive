@@ -26,7 +26,7 @@
     </style>
 
 	<?php $CurrentPage = "Themes"; ?>
-	
+
 	<script>
 		function getOption(el) {
 			const option = el.value
@@ -60,7 +60,7 @@ $decoded_data = json_decode($JSONContent, true);
 						This is also referenced below the date to indicate the most recent version.</li>
 					<li>If you need a specific version, click on the theme name to have a list of available versions.</li>
 				</ul>
-				<?php include '../Builds/ArchiveHistoryQuick.php' ?> 
+				<?php include '../Builds/ArchiveHistoryQuick.php' ?>
 				<?php
 
 				function DecorateDate( $Item )
@@ -93,7 +93,7 @@ $decoded_data = json_decode($JSONContent, true);
 
 					return $Item['Date'];
 				}
-				
+
 				function CheckForHttp( $convtext, $location )  {
 					$parse = parse_url($convtext);
 					if( array_key_exists('scheme', $parse) ) {
@@ -113,7 +113,7 @@ $decoded_data = json_decode($JSONContent, true);
 					if( !array_key_exists('Link', $Item) )
 						// Nothing, so just return the dash.
 						return "-";
-					
+
 					// Find which version of the theme to download.
 					// So if the key exists, check how many entries are available and fetch the latest available version
 					// of the theme to be shown.
@@ -129,7 +129,7 @@ $decoded_data = json_decode($JSONContent, true);
 					uasort( $decoded_data[$itemCat], function($a,$b){
 						if( is_string($a) || is_string($b) )
 							return 0;
-	
+
 						return strcasecmp($a["Name"], $b["Name"]);
 					   }
 					);
@@ -137,7 +137,7 @@ $decoded_data = json_decode($JSONContent, true);
 
 				foreach( $decoded_data as $category=>$itemCat ) {
 				?>
-				<div id="div<?php echo $category ?>">
+				<div id="<?php echo $category ?>">
 					<h1 class="VersionTitle" style="cursor: pointer; color: white; position: sticky; top: 0; display: flex; justify-content: center">
 						<img style="width: 18px; margin-right: 6px" src="../VersionIcon/<?php echo $itemCat['DefaultIcon'] ?>">
 						<?php echo $itemCat['Name'] ?>

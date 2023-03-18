@@ -146,7 +146,7 @@
 		"PArS" : { "Name": "Project ArS XV I", "Link": "Projekt%20ArS-XV-l.7z" },
 		"PXIII" : { "Name": "Project XIII+ SECOND STRIKERS", "Link": "Projekt%20XIII%2B%20SECOND%20STRIKERS.zip" }
 	},
-		
+
 	"SM3.95" : {
 		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
@@ -400,7 +400,6 @@
 			"Name": "Simply Love",
 			"Link": [
 				{ "Name": "Simply-Love-v5.1.2", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2.zip"},
-				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.1.1", "Date":"2022-03-26", "Link": "Simply-Love/Simply-Love-v5.1.1.zip"},
 				{ "Name": "Simply-Love-v5.1.0v2", "Date":"2022-03-24", "Link": "Simply-Love/Simply-Love-v5.1.0v2.zip"},
 				{ "Name": "Simply-Love-v5.0.1", "Date":"2021-05-28", "Link": "Simply-Love/Simply-Love-v5.0.1.zip"},
@@ -685,6 +684,18 @@
 			"Link": [
 				{ "Name": "Latest (Github)", "Link": "https://github.com/Tiny-Foxes/Virtua-Steps/archive/refs/heads/Release.zip" },
 				{ "Name": "v0.1 - Virtuality", "Date": "2022-08-01", "Link": "virtua-steps/Virtua-Steps-Virtuality-Release.zip" }
+			]
+		}
+	},
+
+	"ITGM": {
+		"Name": "ITGMania",
+		"DefaultIcon": "ITGM.png",
+		"SimplyLove" : {
+			"Name": "Simply Love (for ITGMania)",
+			"Link": [
+				{ "Name": "Simply-Love-v5.5.2-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
+				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"}
 			]
 		}
 	}

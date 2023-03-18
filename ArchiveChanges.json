@@ -1,5 +1,32 @@
 [
 	{
+		"Date": "17/Mar/23",
+		"Changes" : [
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGmania",
+				"List": [
+					"Added version 0.6.0."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added versions 0.72.1 and 0.72.2."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added Simply Love 5.1.2.",
+					"Split ITGM versions of Simply Love to their own category."
+				]
+			}
+		]
+	},
+	{
 		"Date": "11/Feb/23",
 		"Changes" : [
 			{
@@ -790,7 +817,7 @@
 					"Added <a href='../Themes/ThemePreview.html?Category=StepMania 5&ID=DDRA20M'>Dance Dance Revolution A20 Minus</a>."
 				]
 			}
-		]	
+		]
 	},
 	{
 		"Date": "3/Jun/21",

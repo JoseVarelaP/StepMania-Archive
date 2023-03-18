@@ -8,7 +8,7 @@
             { "ID": "SM050", "Name": "DDR PC Edition (StepMania 0.5 Alpha)", "Date": "2001-09-27" }
         ]
     },
-    
+
     "SM095" : {
         "Name": "StepMania 0.9x",
         "DefaultIcon": "SM164.png",
@@ -23,7 +23,7 @@
             { "ID": "SM095", "Name": "StepMania 0.95", "Date": "2001-12-24", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM0.95/SM0.95.zip" },
             { "ID": "SM096", "Name": "StepMania 0.96", "Date": "2001-12-25" },
             { "ID": "SM096b", "Name": "StepMania 0.96b", "Date": "2001-12-25" },
-            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }  
+            { "ID": "SM097", "Name": "StepMania 0.97", "Date": "2001-12-27" }
         ]
     },
 
@@ -332,7 +332,7 @@
             },
             { "Icon": "MUN3.png", "Name": "Mungyodance 3", "Date": "2008-08-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance%203.rar" },
             { "Name": "StepMania 3.9a", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9a.zip" },
-        
+
             { "Name": "StepmaniaX v5", "Date": "2003-10-17",
                 "Windows": [
                     { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/StepmaniaX%20v5.zip"}
@@ -1200,14 +1200,23 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.71.2-Linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.71.2.tar.gz"
             },
-            { "Name": "Etterna 0.72.0", "Date": "2022-12-25",
+            { "ID": "ETT0.72.1", "Name": "Etterna 0.72.1", "Date": "2023-01-09",
                 "Windows": [
-                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win32.exe" },
-                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win64.exe" }
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.1-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.1-win64.exe" }
                 ],
-                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.0-Darwin.dmg",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.0-Linux.tar.gz",
-                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.0.tar.gz"
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.1-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.1-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.1.tar.gz"
+            },
+            { "ID": "ETT0.72.2", "Name": "Etterna 0.72.2", "Date": "2022-03-01",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.2-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.2-win64.exe" }
+                ],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.2-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.2-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.2.tar.gz"
             }
         ]
     },
@@ -1645,6 +1654,15 @@
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.5.1-Linux-no-songs.tar.gz",
                 "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.5.1.tar.gz"
+            },
+            { "ID": "ITGM0.6.0", "Name": "ITGmania v0.6.0", "Date": "2023-03-17",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.6.0-Windows-no-songs.exe",
+                "Mac": [
+					{ "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.6.0-macOS-M1-no-songs.dmg" },
+					{ "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.6.0-macOS-Intel-no-songs.dmg" }
+				],
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.6.0-Linux-no-songs.tar.gz",
+                "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.0.tar.gz"
             }
         ]
     }
