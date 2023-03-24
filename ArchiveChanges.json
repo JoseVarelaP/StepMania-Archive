@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "23/Mar/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=SimplyLove'>Simply Love 5.2.1</a>.",
+					"Added the original <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=SimplyLove'>Simply Love</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "18/Mar/23",
 		"Changes": [
 			{

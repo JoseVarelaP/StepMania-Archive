@@ -170,6 +170,7 @@
 		"MB" : { "Name": "Mario_Blue", "Link": "Mario_Blue.rar" },
 		"HG2" : { "Name": "Hardcore Groove 2", "Link": "Hardcore%20Groove%202.rar" },
 		"Katt" : { "Name": "Katt Theme", "Link": "Katt-theme.rar" },
+		"SimplyLove" : { "Name": "Simply Love", "Date": "2014-05-11", "Author": "hurtpiggypig & Mad Matt", "Link": "Simply%20Love%20FINAL.zip" },
 		"ITG3" : { "Name": "In The Groove 3", "Link": "In%20The%20Groove%203.rar" },
 		"Glass" : { "Name": "Glass", "Link": "Glass.rar" },
 		"G2" : { "Name": "Groove 2", "Link": [
@@ -414,6 +415,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
+				{ "Name": "Simply-Love-v5.2.1", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1.zip"},
 				{ "Name": "Simply-Love-v5.2.0", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0.zip"},
 				{ "Name": "Simply-Love-v5.1.2", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2.zip"},
 				{ "Name": "Simply-Love-v5.1.1", "Date":"2022-03-26", "Link": "Simply-Love/Simply-Love-v5.1.1.zip"},
@@ -710,6 +712,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love (for ITGMania)",
 			"Link": [
+				{ "Name": "Simply-Love-v5.2.1-for-ITGmania", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.0-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"}
 			]
