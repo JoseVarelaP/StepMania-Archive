@@ -19,16 +19,18 @@ $Entry = $decoded_data[$Category][$ID];
 
 function GetFirstAvailableItem( $Entry )
 {
+	if( !array_key_exists('Link', $Entry) )
+		return null;
+
 	if( is_array( $Entry['Link'] ) ) {
  	       	return $Entry['Link'][0];
 	}
 	return $Entry;
-}	
-
+}
 
 $DownloadItem = GetFirstAvailableItem($Entry);
 $Author = array_key_exists('Author', $Entry) ? $Entry['Author'] : "";
-$Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-??-??";
+$Date = $DownloadItem && array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-??-??";
 ?>
 <head>
 	<meta charset="UTF-8">
@@ -51,10 +53,11 @@ $Date = array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-
 					<?php if( array_key_exists( 'Link', $Entry ) ) { ?>
 						<div class="Download-Theme">
 							<?php
-								$DownloadBaseLink = "https://objects-us-east-1.dream.io/smthemes/" . $Category . "/"
+								$DownloadBaseLink = "https://objects-us-east-1.dream.io/smthemes/" . $Category . "/";
+								if ( array_key_exists('Link', $Entry) ) {
 							?>
-							<p id="Download-Area" style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
-							<?php if( is_array( $Entry['Link'] ) ) { ?>
+								<p id="Download-Area" style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
+							<?php } if( is_array( $Entry['Link'] ) ) { ?>
 								<select onchange="toggleVersionData(this)" id="Version-Chooser">
 								<?php foreach( $Entry['Link'] as $Item ) {
 									$HasInternalLink = array_key_exists('Link', $Item);
