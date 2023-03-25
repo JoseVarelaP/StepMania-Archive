@@ -60,6 +60,15 @@ $decoded_data = json_decode($JSONContent, true);
 						This is also referenced below the date to indicate the most recent version.</li>
 					<li>If you need a specific version, click on the theme name to have a list of available versions.</li>
 				</ul>
+				<h2>Need images!</h2>
+				<p>
+					Most items in the themes archive do not have images to showcase the theme in action! You can see
+					these by the following icon: <img src="../static/missingitem.svg" width="18px">.<br>
+					You can help out by sending an <a href="https://github.com/JoseVarelaP/In-The-Groove2-SM5/issues">
+					issue with images to the StepMania Archive's Github Repository</a>
+					or sending the images on <a href="https://discord.gg/uMkVUrr">The archive's discord server</a>.
+				</p>
+				<p><br></p>
 				<?php include '../Builds/ArchiveHistoryQuick.php' ?>
 				<?php
 
@@ -124,6 +133,11 @@ $decoded_data = json_decode($JSONContent, true);
 					return "<a href='". $SMArchiveLinkLocation ."'>Available</a>";
 				}
 
+				function NeedsImages( $Item )
+				{
+					return !array_key_exists('HasImages', $Item) or !array_key_exists('NumImages', $Item);
+				}
+
 				// Sort the data so it's alphabetically sorted.
 				foreach( $decoded_data as $itemCat=>$table ) {
 					uasort( $decoded_data[$itemCat], function($a,$b){
@@ -152,6 +166,11 @@ $decoded_data = json_decode($JSONContent, true);
 											$DateEntry = DecorateDate($ThemeItem);
 											?><tr>
 												<td><a href='ThemePreview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
+												<td>
+													<?php if( NeedsImages($ThemeItem) ) { ?>
+														<img src="../static/missingitem.svg" width="14px" title="This theme listing has no screenshots!" alt="This theme listing has no screenshots!">
+													<?php } ?>
+												</td>
 												<td><?php echo $DateEntry ?></td>
 												<td><?php echo FindThemeFromKey( $ThemeItem, $category ) ?>
 											</tr>

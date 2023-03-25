@@ -202,7 +202,7 @@
 		"EZDC2" : { "Name": "EZDC 2ndMove", "Link": "EZDC%202ndMove.rar" },
 		"dubaiOne" : { "Name": "dubaiOne", "Author": "freem", "Link": "dubaiOne_v1.5.zip", "NumImages": 6 },
 		"EyeBlue" : { "Name": "Eye Blue", "Link": "Eye%20blue.zip" },
-		"Moonlight" : { "Name": "Moonlight", "HasImages": true, "Author": "AJ 187", "Link": [
+		"Moonlight" : { "Name": "Moonlight", "HasImages": true, "NumImages": 6, "Author": "AJ 187", "Link": [
 			{ "Name": "moonlight Public Alpha 7", "Date": "2010-03-14", "Link": "moonlight/moonlight_alpha7_20100314-0100_pulse-i3011.zip" },
 			{ "Name": "moonlight Public Alpha Va", "Date": "2009-09-01", "Link": "moonlight/moonlight_alpha5a_20090901-1520.zip" }
 		] },
@@ -219,12 +219,18 @@
 		"GrooveNightswuo": { "Name": "In The Groove GrooveNights (wip)", "Link": "GrooveNights-wip.zip" },
 		"ITG3Encore": { "Name": "In The Groove 3 Encore", "Link": "ITG%203%20-%20Encore.rar" },
 		"ITGParty": { "Name": "In The Groove Party", "Link": "ITG%20Party.rar" },
-		"Deco": { "Name": "In The Groove Deco", "HasImages": true, "Link": "ITG%20Deco.rar" },
-		"Empress": { "Name": "In The Groove 2 Empress", "HasImages": true, "Link": "ITG2Empress1.1.zip" },
-		"Retro": { "Name": "In The Groove Retro", "Author": "DivinElegy", "HasImages": true, "Link": "ITGretro.zip" },
-		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "Link": "Meat.rar" },
-		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "Link": "My%20Little%20Pony.zip" },
-		"Obscurity": { "Name": "Obscurity", "HasImages": true, "Link": "Obscurity.smzip" },
+		"Deco": { "Name": "In The Groove Deco", "HasImages": true, "NumImages": 6, "Link": "ITG%20Deco.rar" },
+		"Empress": { "Name": "In The Groove 2 Empress", "HasImages": true, "NumImages": 6, "Link": "ITG2Empress1.1.zip" },
+		"Retro": { "Name": "In The Groove Retro", "Author": "DivinElegy", "HasImages": true, "NumImages": 6, "Link": "ITGretro.zip" },
+		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "NumImages": 6, "Link": "Meat.rar" },
+		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "NumImages": 6, "Link": "My%20Little%20Pony.zip" },
+		"Obscurity": { "Name": "Obscurity", "HasImages": true, "NumImages": 6, "Link": "Obscurity.smzip" },
+		"ITGAlpha": { "Name": "In the Groove 1 Alpha", "Date":"2018-05-29", "Author": "Jose_Varela, Assimleafy", "Link": "ITG1-Alpha.zip" },
+		"CaveStory": { "Name": "Cave Story", "Date": "2017-11-08", "Author": "Jose_Varela", "Link": "Cave%20Story.7z" },
+		"Girouette": { "Name": "Girouette", "Date": "2018-08-06", "Author": "Jose_Varela", "Link": "Girouette.7z" },
+		"Ikachan": { "Name": "Ikachan", "Date": "2017-01-17", "Author": "Jose_Varela", "Link": "Ikachan.7z" },
+		"MegaGroove": { "Name": "MegaGroove Network", "Date": "2017-06-29", "Author": "Jose_Varela", "Link": "MegaGroove%20Network.7z" },
+		"SatellaView": { "Name": "SatellaView", "Date": "2018-07-15", "Author": "Jose_Varela", "Link": "SatellaView.7z" },
 		"NewNovaE": { "Name": "DDR NewNovaE", "Author": "Jose_Varela", "Date": "2018-02-13", "Link": [
 			{ "Name": "v28", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" },
 			{ "Name": "v27", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" }
@@ -407,7 +413,8 @@
 			{ "Name": "Standard", "Link": "Dance%20Dance%20Revolution%207th%20mix%20-DDR%20MAX2-.rar" },
 			{ "Name": "HD Version", "Link": "Dance%20Dance%20Revolution%207th%20Mix%20-HDDR%20MAX2-.zip" }
 		] },
-		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Dance%20Dance%20Revolution%207th%20mix%20-DDR%20MAX2-.rar" },
+		"ITG2" : { "Name": "In The Groove 2", "Author": "Jose_Varela", "Link": "In-The-Groove2-SM5-master.zip" },
+		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Kuro%20Project.zip" },
 		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "NumImages": 2, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
 		"O2ManiaEX" : { "Name": "O2Mania EX", "Date": "2014-05-27", "Author": "arvinkent098", "Version": "5", "Link": "O2Mania%20EX.zip" },
 		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "NumImages": 4, "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
@@ -601,9 +608,9 @@
 		"Touhou-Hisoutensoku": { "Name": "Touhou-Hisoutensoku", "Author": "Jousway", "Date": "2019-06-14", "Link": "Touhou-Hisoutensoku-master.zip" },
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
-		"ultralight" : { "Name": "ultralight", "HasImages": true, "Link": "ultralight_20141006-r13.zip" },
-		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "Link": "UPSRT.zip" },
-		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
+		"ultralight" : { "Name": "ultralight", "HasImages": true, "NumImages": 5, "Link": "ultralight_20141006-r13.zip" },
+		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "NumImages": 5, "Link": "UPSRT.zip" },
+		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "NumImages": 6, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
 	},
 
 	"OutFox" : {

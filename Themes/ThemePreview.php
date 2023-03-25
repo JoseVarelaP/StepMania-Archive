@@ -81,11 +81,24 @@ $Date = $DownloadItem && array_key_exists('Date', $DownloadItem) ? $DownloadItem
 					<p id="Date">Release Date: <? echo $Date ?></p>
 				</div>
 				<center>
+					<?php
+						// Get the number for possible images before iterating.
+						$NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
+
+						if( $NumImages == 0 ) {
+					?>
+					<!-- Message for non-present images. -->
+					<div style="max-width: 400px; padding: 12px; color:white; background:#000;">
+						<div>
+							<img src="../static/missingitem.svg" width="64">
+							<p>There are no images for this theme!</p>
+							<a style="color:#FFD123" href="https://github.com/JoseVarelaP/StepMania-Archive/issues/">Could you help out by contributing to the archive?</a>
+						</div>
+					</div>
+					<?php } ?>
 					<br>
 					<div id="imageset" class="ThemeFlexSet">
 						<?php
-							// Get the number for possible images before iterating.
-							$NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 							if( $NumImages > 0 )
 								for( $x = 1; $x <= $NumImages; $x++ ) {
 							?>
