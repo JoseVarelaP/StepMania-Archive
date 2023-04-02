@@ -31,6 +31,8 @@ function GetFirstAvailableItem( $Entry )
 $DownloadItem = GetFirstAvailableItem($Entry);
 $Author = array_key_exists('Author', $Entry) ? $Entry['Author'] : "";
 $Date = $DownloadItem && array_key_exists('Date', $DownloadItem) ? $DownloadItem['Date'] : "????-??-??";
+// Get the number for possible images before iterating.
+$NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 ?>
 <head>
 	<meta charset="UTF-8">
@@ -41,6 +43,14 @@ $Date = $DownloadItem && array_key_exists('Date', $DownloadItem) ? $DownloadItem
         }
     </style>
 	<title><?php echo $Entry['Name'] ?> - StepMania Themes Archive</title>
+	<meta property="og:type" content="website">
+	<link rel="canonical" href="https://josevarela.net/SMArchive/Themes/ThemePreview.php?Category=<?php echo $Category ?>&ID=<?php echo $ID ?>" />
+	<meta property="og:url" content="https://josevarela.net/SMArchive/Themes">
+	<meta property="og:title" content="<?php echo $Entry['Name'] ?>">
+	<meta property="og:description" content="A theme for <?php echo $decoded_data[$Category]['Name'] ?>.">
+	<?php if( $NumImages > 0 ) { ?>
+		<meta property="og:image" content="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen1.png">
+	<?php } ?>
 </head>
 <script> let CurrentPage = 'Themes'; </script>
 <body>
@@ -82,9 +92,6 @@ $Date = $DownloadItem && array_key_exists('Date', $DownloadItem) ? $DownloadItem
 				</div>
 				<center>
 					<?php
-						// Get the number for possible images before iterating.
-						$NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
-
 						if( $NumImages == 0 ) {
 					?>
 					<!-- Message for non-present images. -->

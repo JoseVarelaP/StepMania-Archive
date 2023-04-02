@@ -44,7 +44,11 @@ $CurrentPage = "About";
 						</h2>
 						<ul>
 							<?php foreach( $Changes['List'] as $Points ) { ?>
-								<li><?php echo $Points ?></li>
+								<?php if( $Points == null) { ?>
+									<br>
+								<?php } else { ?>
+									<li><?php echo $Points ?></li>
+								<?php } ?>
 							<?php } ?>
 						</ul>
 						<?php } ?>
