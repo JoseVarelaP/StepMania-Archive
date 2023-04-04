@@ -1,5 +1,32 @@
 [
 	{
+		"Date": "3/Apr/23",
+		"Changes": [
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania",
+				"List": [
+					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-16-final.zip'>v0.16</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.9:</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=XIBlack'>XI Black R2+</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=TermSoc'>Terminal社会Society</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=NEM'>NEMura Theme</a>",
+					null,
+					"<h2>StepMania 3.95:</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Staiainv12'>Staiainv12</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass11'>Glass 1.1</a>, which is a mod of <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass'>Glass.</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Staiainv12'>Conductor's Theme</a>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "2/Apr/23",
 		"Changes": [
 			{
@@ -10,9 +37,9 @@
 					null,
 					"Thanks to <a href='https://twitter.com/_AR2K'>Frondal</a>, there are new themes.",
 					"<h2>StepMania 3.95:</h2>",
-					"Added <a href=''>PINK</a>",
-					"Added <a href=''>salAndy3.95</a>",
-					"Added <a href=''>ITG PHILLLLLLL</a> (explicit language)",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=PINK'>PINK</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=SalAndy'>salAndy3.95</a>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=PHIL'>ITG PHILLLLLLL</a> (explicit language)",
 					null,
 					"<h2>OpenITG:</h2>",
 					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=foxymix'>foxymix</a>",
@@ -636,7 +663,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip'>v14</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip'>v15</a>."
+					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip'>v0.14</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip'>v0.15</a>."
 				]
 			},
 			{
@@ -1254,7 +1281,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip'>v12</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip'>v13</a>."
+					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip'>v0.12</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip'>v0.13</a>."
 				]
 			}
 		]

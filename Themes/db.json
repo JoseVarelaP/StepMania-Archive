@@ -90,6 +90,9 @@
 		"XXM2" : { "Name": "XXmiX 2nd Act", "Date": "??-08-2006", "Link": "XXmiX%202nd%20act.zip" },
 		"YS" : { "Name": "Ya Style", "Link": "Ya%20Style.smzip" },
 		"ZSM" : {"Name": "ZeroSM+", "Author": "Daisuke Master", "Link": "ZeroSM%2B.zip"},
+		"XIBlack" : { "Name": "XI Black R2+", "Author": "Xiaounlimited", "Link": "XI%20Black%20r2%2B%20.rar" },
+		"TermSoc" : { "Name": "Terminal社会Society", "Author": "ScylaX", "Link": "Terminal%20-SHAKAI-%20Society.zip" },
+		"NEM" : { "Name": "NEMura Theme ([A] edit of XI-Black R2)", "Author": "ScylaX", "Link": "NEMura.zip" },
 		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" }
 	},
 
@@ -158,6 +161,7 @@
 			{ "Name": "Chromatic", "Link": "Chromatic.rar" }
 		] },
 		"Staiainv2" : { "Name": "Staiainv2", "Link": "Staiainv2.rar" },
+		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar" },
 		"Xoon3" : { "Name": "Xoon 3", "Link": "Xoon%203.rar" },
 		"Xoon4" : { "Name": "Xoon 4", "Link": "Xoon%204.rar" },
 		"ITG355" : { "Name": "In The Groove 355", "Link": "ITG355.rar" },
@@ -173,7 +177,12 @@
 		"Katt" : { "Name": "Katt Theme", "Link": "Katt-theme.rar" },
 		"SimplyLove" : { "Name": "Simply Love", "Date": "2014-05-11", "Author": "hurtpiggypig & Mad Matt", "Link": "Simply%20Love%20FINAL.zip" },
 		"ITG3" : { "Name": "In The Groove 3", "Link": "In%20The%20Groove%203.rar" },
-		"Glass" : { "Name": "Glass", "Link": "Glass.rar" },
+		"Glass" : { "Name": "Glass", "Author": "nick", "Link": "Glass.rar" },
+		"Glass11" : { "Name": "Glass 1.1 (Edit of Glass)", "Date": "2009-05-19", "Author": "Sargon", "Link": "Glass%201.1.rar" },
+		"ConductorLight" : { "Name": "Conductor's Theme", "Author": "conductor", "Link": [
+			{ "Name": "Shahar (Light)", "Date": "2011-10-06", "Link": "Shahar.rar" },
+			{ "Name": "Shalim (Dark)", "Date": "2011-10-06", "Link": "Shalim.rar" }
+		] },
 		"G2" : { "Name": "Groove 2", "Link": [
 			{ "Name": "Groove 3.0", "Link": "Groove%203.0.rar" },
 			{ "Name": "Groove 2.4", "Link": "Groove%202.4.rar" },
@@ -187,7 +196,7 @@
 		"ITG500Z" : { "Name": "ITG 500Zb4", "Link": "ITG%20500Zb4.smzip" },
 		"Secks" : { "Name": "Secks", "Link": "secks.zip" },
 		"PINK": { "Name": "PINK", "Link": "PINK.rar" },
-		"SalAndy": { "Name": "salAndy3.95", "Link": "salAndy3.95.zip" },
+		"SalAndy": { "Name": "salAndy3.95", "Author": "salAndy", "Link": "salAndy3.95.zip" },
 		"PHIL": { "Name": "ITG PHILLLLLLL", "Link": "ITG%20PHILLLLLLL.rar", "Explicit": true }
 	},
 

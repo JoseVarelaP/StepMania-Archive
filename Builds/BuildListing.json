@@ -755,49 +755,49 @@
                 ],
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Source/stepmania-nx-5.1-nx2.tar.gz"
             },
-            { "Name": "In The Groove System Image V1", "Date": "??-??-2020",
+            { "ID": "SI01", "Name": "In The Groove System Image V0.1", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-1.zip" } ]
             },
-            { "Name": "In The Groove System Image V2", "Date": "??-??-2020",
+            { "ID": "SI02", "Name": "In The Groove System Image V0.2", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-2.zip" } ]
             },
-            { "Name": "In The Groove System Image V3", "Date": "??-??-2020",
+            { "ID": "SI03", "Name": "In The Groove System Image V0.3", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-3.zip" } ]
             },
-            { "Name": "In The Groove System Image V4", "Date": "??-??-2020",
+            { "ID": "SI04", "Name": "In The Groove System Image V0.4", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-4.zip" } ]
             },
-            { "Name": "In The Groove System Image V5", "Date": "??-??-2020",
+            { "ID": "SI05", "Name": "In The Groove System Image V0.5", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-5.zip" } ]
             },
-            { "Name": "In The Groove System Image V6", "Date": "??-??-2020",
+            { "ID": "SI06", "Name": "In The Groove System Image V0.6", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-6.zip" } ]
             },
-            { "Name": "In The Groove System Image V7", "Date": "??-??-2020",
+            { "ID": "SI07", "Name": "In The Groove System Image V0.7", "Date": "??-??-2020",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-7.zip" } ]
             },
-            { "Name": "In The Groove System Image V8", "Date": "2020-01-11",
+            { "ID": "SI08", "Name": "In The Groove System Image V0.8", "Date": "2020-01-11",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-8.zip" } ]
             },
-            { "Name": "In The Groove System Image V9", "Date": "2020-04-12",
+            { "ID": "SI09", "Name": "In The Groove System Image V0.9", "Date": "2020-04-12",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-9.zip" } ]
             },
-            { "Name": "In The Groove System Image V10", "Date": "2020-05-15",
+            { "ID": "SI010", "Name": "In The Groove System Image V0.10", "Date": "2020-05-15",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-10.zip" } ]
             },
-            { "Name": "In The Groove System Image V11", "Date": "2020-05-18",
+            { "ID": "SI011", "Name": "In The Groove System Image V0.11", "Date": "2020-05-18",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-11.zip" } ]
             },
-            { "Name": "In The Groove System Image V12", "Date": "2020-11-11",
+            { "ID": "SI012", "Name": "In The Groove System Image V0.12", "Date": "2020-11-11",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip" } ]
             },
-            { "Name": "In The Groove System Image V13", "Date": "2021-02-17",
+            { "ID": "SI013", "Name": "In The Groove System Image V0.13", "Date": "2021-02-17",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip" } ]
             },
-			{ "Name": "In The Groove System Image V14", "Date": "2021-05-16",
+			{ "ID": "SI014", "Name": "In The Groove System Image V0.14", "Date": "2021-05-16",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip" } ]
             },
-			{ "Name": "In The Groove System Image V15 (wip)", "Date": "2021-05-31",
+			{ "ID": "SI015", "Name": "In The Groove System Image V0.15 (wip)", "Date": "2021-05-31",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip" } ]
             },
             { "Name": "Club Fantastic: Synthetic Dance 2020", "Date": "2020-11-05",
@@ -1664,6 +1664,16 @@
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.6.0-Linux-no-songs.tar.gz",
                 "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.0.tar.gz"
+            }
+        ]
+    },
+
+    "ITGMCUSTOM" : {
+        "Name": "ITGmania Custom Builds",
+        "DefaultIcon": "ITGM.png",
+        "Listing" : [
+            { "ID": "SI016", "Name": "In The Groove System Image V0.16", "Date": "2023-04-02",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-16-final.zip" } ]
             }
         ]
     }
