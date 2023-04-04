@@ -75,7 +75,7 @@
 		"SMU" : { "Name": "sm.urbanized", "Link": "sm.urbanized.smzip" },
 		"SMLB" : { "Name": "SMLiteBlue", "Link": "SMLiteBlue.smzip" },
 		"SOMS" : { "Name": "Selling Out Made Simple", "Date": "2007-01-09", "Link": "soms_final.smzip" },
-		"SSR" : { "Name": "Sonic Sonic Revolution", "HasImages": true, "Link": "Sonic%20Sonic%20Revolution.smzip" },
+		"SSR" : { "Name": "Sonic Sonic Revolution", "HasImages": true, "NumImages": 6, "Link": "Sonic%20Sonic%20Revolution.smzip" },
 		"SMSD" : { "Name": "StepMania Stardance", "Link": "StepMania%20Stardance.smzip" },
 		"SBS" : { "Name": "StrawberrySteps", "Date": "27-01-2008", "Link": "StrawberrySteps.smzip" },
 		"SSB" : { "Name": "Super Step Brothers", "Link": "Super%20Step%20Brothers.smzip" },
@@ -161,7 +161,7 @@
 			{ "Name": "Chromatic", "Link": "Chromatic.rar" }
 		] },
 		"Staiainv2" : { "Name": "Staiainv2", "Link": "Staiainv2.rar" },
-		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar" },
+		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar", "NumImages": 5 },
 		"Xoon3" : { "Name": "Xoon 3", "Link": "Xoon%203.rar" },
 		"Xoon4" : { "Name": "Xoon 4", "Link": "Xoon%204.rar" },
 		"ITG355" : { "Name": "In The Groove 355", "Link": "ITG355.rar" },
@@ -179,7 +179,7 @@
 		"ITG3" : { "Name": "In The Groove 3", "Link": "In%20The%20Groove%203.rar" },
 		"Glass" : { "Name": "Glass", "Author": "nick", "Link": "Glass.rar" },
 		"Glass11" : { "Name": "Glass 1.1 (Edit of Glass)", "Date": "2009-05-19", "Author": "Sargon", "Link": "Glass%201.1.rar" },
-		"ConductorLight" : { "Name": "Conductor's Theme", "Author": "conductor", "Link": [
+		"Conductor" : { "Name": "Conductor's Theme", "Author": "conductor", "Link": [
 			{ "Name": "Shahar (Light)", "Date": "2011-10-06", "Link": "Shahar.rar" },
 			{ "Name": "Shalim (Dark)", "Date": "2011-10-06", "Link": "Shalim.rar" }
 		] },
@@ -531,7 +531,7 @@
 				{ "Name": "XV r3", "Date": "2011-01-10", "Link":"XV/XV_20120110-r3.zip"}
 			]
 		},
-		"sw2" : { "Name": "soda*sweets 2", "HasImages": true, "Link": "sodasweets2.rar" },
+		"sw2" : { "Name": "soda*sweets 2", "HasImages": true, "NumImages": 6, "Link": "sodasweets2.rar" },
 		"starlight" : {
 			"Name": "XX -starlight-",
 			"HasImages": true,

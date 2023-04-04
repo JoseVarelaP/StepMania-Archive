@@ -64,7 +64,7 @@ $decoded_data = json_decode($JSONContent, true);
 				<p>
 					Most items in the themes archive do not have images to showcase the theme in action! You can see
 					these by the following icon: <img src="../static/missingitem.svg" width="18px">.<br>
-					You can help out by sending an <a href="https://github.com/JoseVarelaP/In-The-Groove2-SM5/issues">
+					You can help out by sending an <a href="https://github.com/JoseVarelaP/StepMania-Archive/issues">
 					issue with images to the StepMania Archive's Github Repository</a>
 					or sending the images on <a href="https://discord.gg/uMkVUrr">The archive's discord server</a>.
 				</p>
@@ -135,7 +135,7 @@ $decoded_data = json_decode($JSONContent, true);
 
 				function NeedsImages( $Item )
 				{
-					return !array_key_exists('HasImages', $Item) or !array_key_exists('NumImages', $Item);
+					return !array_key_exists('HasImages', $Item) && !array_key_exists('NumImages', $Item);
 				}
 
 				// Sort the data so it's alphabetically sorted.

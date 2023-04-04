@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "4/Apr/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"I've mistakenly left the Contribute link to point to my ITG 2 theme's issue section instead of the archives. That's fixed now. Thanks to Nhan for pointing this out."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip'>M4A1-Chan 2023</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "3/Apr/23",
 		"Changes": [
 			{
@@ -21,7 +40,7 @@
 					"<h2>StepMania 3.95:</h2>",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Staiainv12'>Staiainv12</a>",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass11'>Glass 1.1</a>, which is a mod of <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass'>Glass.</a>",
-					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Staiainv12'>Conductor's Theme</a>"
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Conductor'>Conductor's Theme</a>"
 				]
 			}
 		]
