@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "17/Apr/23",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip'>PumpSanity Beta 0.95</a>. This is only the base game, you'll have to find the rest of the data."
+				]
+			}
+		]
+	},
+	{
 		"Date": "16/Apr/23",
 		"Changes": [
 			{
