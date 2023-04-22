@@ -637,6 +637,36 @@
 		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "NumImages": 6, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
 	},
 
+	"ETT": {
+		"Name": "Etterna",
+		"DefaultIcon": "ETT.png",
+		"Ett-uni": { "Name": "etterna-united", "Author": "Jolomann", "Date": "2020-08-08", "Link": "etterna-united.zip" },
+		"small-celeb": { "Name": " small-celebration", "Author": "poco0317", "Date": "2020-08-08", "Link": "small-celebration.zip" },
+		"midnight": { "Name": "Midnight", "Author": "nico-abram", "Date": "2018-04-05", "Link": "Midnight.zip" },
+		"mistryl": { "Name": "mistryl", "Author": "Ayrlin-Renata", "Date": "2020-10-10", "Link": "mistryl.zip" },
+		"Zenith": { "Name": "Zenith", "Author": "PPProviden", "Date": "2019-01-31", "Link": "Zenith.zip" },
+		"Rebith-kl": { "Name": "Rebirth-kl", "Author": "kurulen", "Link": "https://github.com/kurulen/Rebirth-kl/archive/refs/heads/main.zip" },
+		"keyblind": { "Name": "keyblind", "Author": "Ayrlin-Renata", "Date": "2020-10-10", "Link": "keyblind.zip" },
+		"ref-pancake": { "Name": "refactored-pancake", "Author": "ca25nada", "Date": "2019-07-07", "Link": "refactored-pancake.zip" },
+		"bareframes": { "Name": "bare-frames", "Author": "poco0317", "Date": "2020-01-09", "Link": "bare-frames.zip" },
+		"quark": { "Name": "Quark", "Author": "kurulen", "Link": "https://github.com/kurulen/Quark/archive/refs/heads/main.zip" },
+		"ettmax": { "Name": "EttMax", "Author": "poco0317", "Link": "EttMax.zip" },
+		"spawncamping": {
+			"Name": "spawncamping-wallhack",
+			"Author": "ca25nada, poco0317",
+			"Link": [
+				{ "Name": "spawncamping-wallhack-2.2.7 (Etterna 0.72.0)", "Date": "2022-12-25", "Link": "spawncamping/spawncamping-wallhack-2.2.7.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.6 (Etterna 0.71.0)", "Date": "2022-12-10", "Link": "spawncamping/spawncamping-wallhack-2.2.6.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.5 (Etterna 0.70.1)", "Date": "2020-07-09", "Link": "spawncamping/spawncamping-wallhack-2.2.5.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.4 (Etterna 0.69.1)", "Date": "2020-05-29", "Link": "spawncamping/spawncamping-wallhack-2.2.4.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.3 (Etterna 0.68.1)", "Date": "2020-02-24", "Link": "spawncamping/spawncamping-wallhack-2.2.3.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.2 (Etterna 0.67.1)", "Date": "2020-01-08", "Link": "spawncamping/spawncamping-wallhack-2.2.2.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.1 (Etterna 0.66.1)", "Date": "2019-06-23", "Link": "spawncamping/spawncamping-wallhack-2.2.1.zip"},
+				{ "Name": "spawncamping-wallhack-2.2.0 (Etterna 0.65.1)", "Date": "2019-04-04", "Link": "spawncamping/spawncamping-wallhack-2.2.0.zip"}
+			]
+		}
+	},
+
 	"OutFox" : {
 		"Name": "Project OutFox",
 		"DefaultIcon": "OUTFOXA4.png",

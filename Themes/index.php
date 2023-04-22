@@ -34,6 +34,21 @@
 			return option
 		}
 	</script>
+	<script defer>
+		// Get the url, and check if there's a valid ID to find.
+		window.onload = function(){
+			const url = window.location.href
+			if( url.lastIndexOf('#') !== -1 )
+			{
+				const GroupOpen = `${url.substring( url.lastIndexOf('#') + 1 )}`
+				if( GroupOpen.length > 1 && document.getElementById(GroupOpen) )
+				{
+					const base = document.getElementById(GroupOpen)
+					document.getElementById(GroupOpen).scrollIntoView(true)
+				}
+			}
+		}
+	</script>
 </head>
 <?php
 $JSONContent = file_get_contents( "db.json" );

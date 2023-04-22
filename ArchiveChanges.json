@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "21/Apr/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added the <img width=16 src='../VersionIcon/ETT.png'> <a href='../Themes/#ETT'>Etterna section</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "17/Apr/23",
 		"Changes": [
 			{
