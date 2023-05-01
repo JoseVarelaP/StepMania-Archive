@@ -109,7 +109,9 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 							if( $NumImages > 0 )
 								for( $x = 1; $x <= $NumImages; $x++ ) {
 							?>
-								<img style="order: <?php echo $x ?>" src="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+								<a href="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+									<img style="order: <?php echo $x ?>" src="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+								</a>
 							<?php } ?>
 					</div>
 				</center>

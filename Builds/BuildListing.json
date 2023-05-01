@@ -825,7 +825,8 @@
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip"
             },
-            { "Name": "PumpSanity Beta 0.95", "Date": "2023-04-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip" }
+            { "Name": "PumpSanity Beta 0.95", "Date": "2023-04-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip" },
+            { "Name": "PumpSanity Beta 0.95.1", "Date": "2023-04-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" }
         ]
     },
 

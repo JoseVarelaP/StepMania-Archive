@@ -4,8 +4,8 @@
         "Description": "Dance With Intensity (DWI) is a PC-based simulator of Dance Dance Revolution (DDR) by the Konami company.",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DWI/dwi2-game.jpg",
         "Sources": [
-            { "Name": "Dance With Intensity - snls library", "Link": "http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" },
-            { "Name": "Dance With Intensity - README / User Manual", "Link": "http://dwi.ddruk.com/readme.php" }
+            { "Name": "Dance With Intensity - snls library", "Link": "https://web.archive.org/web/20220726114214/http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" },
+            { "Name": "Dance With Intensity - README / User Manual", "Link": "https://web.archive.org/web/20230102202712/http://dwi.ddruk.com/readme.php" }
         ],
         "Listing": [
             { "Name": "Dance With Intensity v1.06", "Date" : "2017-02-25", "Windows": "Dance%20With%20Intensity%201.06.7z" },
@@ -133,7 +133,7 @@
 		"Name": "Delight Delight Reduplication",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DelightDelightReduplication/cap_ddr_s.jpg",
         "Sources" : [
-            { "Name": "Delight Delight Reduplication Support Page", "Link": "https://delight.airytail.co/index.html" }
+            { "Name": "Delight Delight Reduplication Support Page", "Link": "https://web.archive.org/web/20200204100821/https://delight.airytail.co/index.html" }
         ],
 		"Listing" : [
 			{ "Name": "DDR 0.36b", "Date" : "2021-10-10", "Windows": "DDR036b.lzh" },
@@ -206,6 +206,7 @@
         "Description": "Developed by DiGiX in 1998. It runs its own charting format called DPR. There's no builds available of this game.",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia/HC_DANP_2.jpg",
         "Sources": [
+            { "Name": "ＤＤＲプレイヤー解説", "Link": "https://web.archive.org/web/20220921172019/http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" }
         ],
         "Listing" : [
         ]
@@ -215,7 +216,7 @@
         "Description": "The successor/sequel to DANCE PARANOiA, it plays Solo files, and includes a built-in editor. We have no builds for this game, or screenshots apart from a <a href='https://www.nicovideo.jp/watch/sm5352455'>single video available in niconico showcasing it</a>.",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia2008/videoframe.png",
         "Sources": [
-            { "Name": "bemani and Music Game Simulator File Types - AJ187", "Link": "https://www.ajworld.net/simfile_types.txt" },
+            { "Name": "bemani and Music Game Simulator File Types - AJ187", "Link": "https://web.archive.org/web/20160920190841/http://www.ajworld.net/simfile_types.txt" },
             { "Name": "DANCEPARANOiA online", "Link": "https://web.archive.org/web/20000311224336/http://www.linkclub.or.jp:80/~digix/danpara/index.html" }
         ],
         "Listing" : [
@@ -233,7 +234,7 @@
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
         "Description": "Playback program that reads DDR-based MSD files.",
         "Sources" : [
-            { "Name": "ＤＤＲプレイヤー解説", "Link": "http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" },
+            { "Name": "ＤＤＲプレイヤー解説", "Link": "https://web.archive.org/web/20220921172019/http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" },
             { "Name": "VA011972 Down Load Corner", "Link": "https://web.archive.org/web/20000919032334/http://hp.vector.co.jp/authors/VA011972/" }
         ],
 		"Listing" : [

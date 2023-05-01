@@ -1,12 +1,70 @@
 [
 	{
+		"Date": "1/May/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added more themes for StepMania 5.",
+					null,
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DeltaNEX'>Pump It Up Delta NEX Rebirth</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=minimalist'>minimalist</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=PDR'>PONY DANCE REVOLUTION -1st Party-</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=ultimate'>Ultimate</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=spooky_theme'>Simplicity Theme</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=optics'>optics</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=paddyco_theme'>Stepmania Theme With No Name Yet</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=otchill'>StepMania: On The Chill</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=miquote'>miquote-adventure</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "29/Apr/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added themes for StepMania 5 thanks to an individual who would like to remain anonymous.",
+					null,
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=MetroQuadX'>Metro Quad X</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=MetroQuadX-Ridiculous'>Metro Quad X (Ridiculous Mod)</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Consensual'>Consensual</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Consensual-Ridiculous'>Consensual (Ridiculous Mod)</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "24/Apr/23",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip'>PumpSanity Beta 0.95.1</a>. This is only the base game, you'll have to find the rest of the data."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"Updated source links to use Internet Archive instances to perserve their contents."
+				]
+			}
+		]
+	},
+	{
 		"Date": "21/Apr/23",
 		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
 				"List": [
-					"Added the <img width=16 src='../VersionIcon/ETT.png'> <a href='../Themes/#ETT'>Etterna section</a>."
+					"Added the <img width=16 src='../VersionIcon/ETT.png'> <a href='../Themes/#ETT'>Etterna section</a>. Sorry for taking so long to add it!"
 				]
 			}
 		]

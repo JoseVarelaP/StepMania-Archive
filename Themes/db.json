@@ -421,6 +421,12 @@
 		"D3NEXM" : { "Name": "D3NEX MAXIMUM", "Version": "7", "Link": "D3NEX_MAXIMUM_Theme_20150401.zip" },
 		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "NumImages": 6, "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "2018-01-15", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
+		"DeltaNEX" : { "Name": "Pump It Up Delta NEX Rebirth", "Author": "RhythmLunatic", "Link": "Delta-NEX-Rebirth.zip" },
+		"minimalist": { "Name": "minimalist", "Author": "halo", "Date": "2021-03-01", "Link": "minimalist-master.zip" },
+		"PDR": { "Name": "PONY DANCE REVOLUTION -1st Party-", "Author": "Retropony", "Date": "2016-08-23", "Link": "PonyDanceRevolution-master.zip" },
+		"ultimate": { "Name":"Ultimate", "Author": "Luizsan", "Date": "2017-08-28", "Link": "ultimate.zip" },
+		"spooky_theme": { "Name": "Simplicity Theme", "Author": "SpoOkyMagician", "Date": "2018-11-23", "Link": "spookys_theme-master.zip" },
+		"optics": { "Name": "optics", "Author": "shakesoda", "Date": "2013-10-07", "Link": "optics-master.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
 		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
 		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "HasImages": true, "NumImages": 5, "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
@@ -633,8 +639,36 @@
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
 		"ultralight" : { "Name": "ultralight", "HasImages": true, "NumImages": 5, "Link": "ultralight_20141006-r13.zip" },
+		"paddyco_theme": { "Name": "Stepmania Theme With No Name Yet", "Author": "PaddyCo", "Date": "2018-02-25", "Link": "paddyco-stepmania-theme-master.zip" },
 		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "NumImages": 5, "Link": "UPSRT.zip" },
-		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "NumImages": 6, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" }
+		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "NumImages": 6, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" },
+		"otchill" : { "Name": "StepMania: On The Chill", "Author": "psmay", "Link": "stepmania-on-the-chill-theme.zip" },
+		"miquote" : { "Name": "miquote-adventure", "Author": "Midiman", "Link": "miqote-adventure.zip" },
+		"Consensual" : {
+			"Name": "Consensual", "Author": "kyzentun",
+			"NumImages": 18,
+			"Link": [
+				{ "Name": "consensual-2016.3.31", "Date": "2016-03-31", "Link": "Consensual/Consensual%20(2016.3.31).zip" },
+				{ "Name": "consensual-2015.10.10", "Date": "2015-10-10", "Link": "Consensual/Old%20Version%20%282015.10.10%29.zip" }
+			]
+		},
+		"Consensual-Ridiculous" : {
+			"Name": "Consensual (Ridiculous mod)", "Author": "arcaneAgilmente, kyzentun",
+			"Link": [
+				{ "Name": "consensual-ridiculous-2016.4.2", "Date": "2016-04-02", "Link": "Consensual/Ridiculous%20Mod%20(2016.4.2).zip" },
+				{ "Name": "consensual-ridiculous-2015.10.17", "Date": "2015-10-17", "Link": "Consensual/Ridiculous%20v1.0%20(2015.10.17).zip" }
+			]
+		},
+		"MetroQuadX": {
+			"Name": "MetroQuadX", "Author": "Th3_Ov3rHell_3XoduZ", "NumImages": 24, "Link": [
+				{ "Name": "Metro Quad X REVISION 9.6.0", "Date": "2016-03-28", "Link": "MetroQuadX/Metro%20Quad%20X%20REVISION%209.6.0%20%282016.3.28%29.zip" }
+			]
+		},
+		"MetroQuadX-Ridiculous": {
+			"Name": "MetroQuadX (Ridiculous mod)", "Author": "arcaneAgilmente, Th3_Ov3rHell_3XoduZ", "Link": [
+				{ "Name": "Metro Quad X REVISION 7 (Ridiculous mod)", "Date": "2015-11-05", "Link": "MetroQuadX/Metro%20Quad%20REVISION%207%20Ridiculous%20Mod%20%282015.11.5%29.zip" }
+			]
+		}
 	},
 
 	"ETT": {
@@ -777,6 +811,8 @@
 				{ "Name": "Simply-Love-v5.2.0-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"}
 			]
-		}
+		},
+		"simplychq" : { "Name": "Simply-CHQ", "Author": "barrysir", "Link": "https://github.com/barrysir/Simply-CHQ/archive/refs/heads/release.zip" },
+		"simplygen" : { "Name": "Simply-Gensokyo", "Author": "sorae42", "Link": "https://github.com/barrysir/Simply-CHQ/archive/refs/heads/release.zip" }
 	}
 }
