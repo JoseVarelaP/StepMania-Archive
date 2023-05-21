@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "20/May/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>Etterna</h2>",
+					"Removed Zenith, Rebith-kl and quark upon request from the author."
+				]
+			}
+		]
+	},	
+	{
 		"Date": "1/May/23",
 		"Changes": [
 			{

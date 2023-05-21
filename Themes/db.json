@@ -678,12 +678,9 @@
 		"small-celeb": { "Name": " small-celebration", "Author": "poco0317", "Date": "2020-08-08", "Link": "small-celebration.zip" },
 		"midnight": { "Name": "Midnight", "Author": "nico-abram", "Date": "2018-04-05", "Link": "Midnight.zip" },
 		"mistryl": { "Name": "mistryl", "Author": "Ayrlin-Renata", "Date": "2020-10-10", "Link": "mistryl.zip" },
-		"Zenith": { "Name": "Zenith", "Author": "PPProviden", "Date": "2019-01-31", "Link": "Zenith.zip" },
-		"Rebith-kl": { "Name": "Rebirth-kl", "Author": "kurulen", "Link": "https://github.com/kurulen/Rebirth-kl/archive/refs/heads/main.zip" },
 		"keyblind": { "Name": "keyblind", "Author": "Ayrlin-Renata", "Date": "2020-10-10", "Link": "keyblind.zip" },
 		"ref-pancake": { "Name": "refactored-pancake", "Author": "ca25nada", "Date": "2019-07-07", "Link": "refactored-pancake.zip" },
 		"bareframes": { "Name": "bare-frames", "Author": "poco0317", "Date": "2020-01-09", "Link": "bare-frames.zip" },
-		"quark": { "Name": "Quark", "Author": "kurulen", "Link": "https://github.com/kurulen/Quark/archive/refs/heads/main.zip" },
 		"ettmax": { "Name": "EttMax", "Author": "poco0317", "Link": "EttMax.zip" },
 		"spawncamping": {
 			"Name": "spawncamping-wallhack",
@@ -813,6 +810,6 @@
 			]
 		},
 		"simplychq" : { "Name": "Simply-CHQ", "Author": "barrysir", "Link": "https://github.com/barrysir/Simply-CHQ/archive/refs/heads/release.zip" },
-		"simplygen" : { "Name": "Simply-Gensokyo", "Author": "sorae42", "Link": "https://github.com/barrysir/Simply-CHQ/archive/refs/heads/release.zip" }
+		"simplygen" : { "Name": "Simply-Gensokyo", "Author": "sorae42", "Link": "Simply-Gensokyo-main.zip" }
 	}
 }

@@ -18,7 +18,7 @@
     <link rel="shortcut icon" type="image/png" href="../VersionIcon/SM40.png"/>
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://josevarela.net/SMArchive/Builds/BuildChangeLogs.php" />
+    <link rel="canonical" href="https://josevarela.net/SMArchive/Builds/BuildChangeLogs.php?Version=<?php echo $_GET['Version']?>" />
     <title>StepMania Build Archive</title>
 </head>
 <body>
