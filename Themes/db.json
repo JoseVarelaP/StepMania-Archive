@@ -276,7 +276,12 @@
 			"Author": "AceOfArrows",
 			"Link": "PrismRhythm%2017%20Plus.zip"
 		},
-		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Author": "Jose_Varela", "NumImages": 6, "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
+		"SLGJUVM": { "Name": "Simply Love Gooder (Jose's Unofficial Visual Modification)", "Author": "Jose_Varela", "NumImages": 6, "Link": [
+			{ "Name": "Version 7 - Fixes and Fixes", "Date": "2018-04-02", "Link": "SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29.zip" },
+			{ "Name": "Version 5 - The Birthdays", "Date": "2017-01-02", "Link": "SLGJUVM/SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29-5.zip" },
+			{ "Name": "Version 4 - Material Design", "Date": "2016-11-12", "Link": "SLGJUVM/SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29-4-material-design.zip" },
+			{ "Name": "Version 3.77 - The Redesign", "Date": "2016-11-06", "Link": "SLGJUVM/SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29-3.77.zip" }
+		] },
 		"Tactics": { "Name": "In The Groove Tactics", "NumImages": 6, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [

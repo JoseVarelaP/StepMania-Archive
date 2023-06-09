@@ -826,7 +826,9 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip"
             },
             { "Name": "PumpSanity Beta 0.95", "Date": "2023-04-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip" },
-            { "Name": "PumpSanity Beta 0.95.1", "Date": "2023-04-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" }
+            { "ID": "PSANITY0.95.1", "Name": "PumpSanity Beta 0.95.1", "Date": "2023-04-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" },
+            { "ID": "PSANITY0.95.2", "Name": "PumpSanity Beta 0.95.2", "Date": "2023-05-01" },
+            { "ID": "PSANITY0.95.2P", "Name": "PumpSanity Beta 0.95.2 (Patched)", "Date": "2023-05-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" }
         ]
     },
 
@@ -1224,6 +1226,15 @@
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.2-Darwin.dmg",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.2-Linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.2.tar.gz"
+            },
+            { "ID": "ETT0.72.3", "Name": "Etterna 0.72.3", "Date": "2023-03-21",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.3-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.3-win64.exe" }
+                ],
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.3-Darwin.dmg",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.3-Linux.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.3.tar.gz"
             }
         ]
     },
@@ -1659,6 +1670,18 @@
                     { "Name": "arm64v8", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm64v8/OutFox-0.4.19-LTS-Linux-Rpi64bit-arm64v8-modern-date-20230415.tar"},
                     { "Name": "arm32v7", "Link": "https://objects-us-east-1.dream.io/outfox/ARM/arm32v7/OutFox-0.4.19-LTS-Linux-RPi32bit-arm32v7-modern-date-20230415.tar"}
                 ]
+            },
+            { "Icon": "OUTFOXA5.png", "ID": "OUTFOX5.pre041", "Name": "Project OutFox Alpha V Playtest Public Build pre041", "Date": "2023-05-02",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre041-Win32-date-20230501" },
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre041-Win64-date-20230501" }
+                ],
+                "Mac": [
+                	{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-AlphaV-0.5.0.0-pre041-MacOS-date-20230501.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-0.4.19-LTS-Linux-amd64-.20.04+.-modern-date-20230415.tar" }
+                ]
             }
         ]
     },
@@ -1676,7 +1699,7 @@
                     { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.5.1-macOS-Intel-no-songs.dmg" }
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.5.1-Linux-no-songs.tar.gz",
-                "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.5.1.tar.gz"
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.5.1.tar.gz"
             },
             { "ID": "ITGM0.6.0", "Name": "ITGmania v0.6.0", "Date": "2023-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.6.0-Windows-no-songs.exe",
@@ -1685,7 +1708,16 @@
 					{ "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.6.0-macOS-Intel-no-songs.dmg" }
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.6.0-Linux-no-songs.tar.gz",
-                "Source": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.0.tar.gz"
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.0.tar.gz"
+            },
+            { "ID": "ITGM0.6.1", "Name": "ITGmania v0.6.1", "Date": "2023-03-25",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.6.1-Windows-no-songs.exe",
+                "Mac": [
+					{ "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.6.1-macOS-M1-no-songs.dmg" },
+					{ "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.6.1-macOS-Intel-no-songs.dmg" }
+				],
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.6.1-Linux-no-songs.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.1.tar.gz"
             }
         ]
     },

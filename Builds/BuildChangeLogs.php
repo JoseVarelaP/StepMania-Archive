@@ -52,6 +52,10 @@
                     <h5><?php echo $data["title"] ?></h5>
                 <?php } ?>
                 <div style="width: 98%; margin-left: 10px; margin-top: 10px;">
+                    <?php if( array_key_exists("source", $data) ) { ?>
+                        <small>Changelog sourced from: <a href="<?php echo $data["source"] ?>"><?php echo $data["source"] ?></a></small>
+                        <hr>
+                    <?php } ?>
                     <?php
                         echo $TextContent;
                     ?>

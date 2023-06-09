@@ -1,5 +1,52 @@
 [
 	{
+		"Date": "21/May/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Builds Archive",
+				"List": [
+					"Added view for sources in changelogs. Now you can see the link where the changelog was sourced from. Only a few builds right now have them as I have to populate them."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Theme Archive",
+				"List": [
+					"Added more versions of <a href='../Themes/ThemePreview.php?Category=OITG&ID=SLGJUVM'>SLGJUVM</a> that I recovered from my hard drives. A tip: don't override previous versions, they can become useful later."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Added Etterna 0.72.3."
+				]
+			},
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added Project OutFox Alpha V Playtest Public Build pre041."
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania",
+				"List": [
+					"Added ITGMania 0.6.1."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added Pumpsanity 0.95.2. Also added changelog info to them."
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/May/23",
 		"Changes": [
 			{

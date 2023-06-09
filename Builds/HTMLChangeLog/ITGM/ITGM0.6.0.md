@@ -1,5 +1,6 @@
 ---
 title: "ITGmania v0.6.0"
+source: "https://github.com/itgmania/itgmania/releases/tag/v0.6.0"
 ---
 
 About

@@ -1,5 +1,6 @@
 ---
 title: "Etterna 0.72.2"
+source: "https://github.com/etternagame/etterna/releases/tag/v0.72.2"
 ---
 
 **\[0.72.2\] - 2023-03-01**
