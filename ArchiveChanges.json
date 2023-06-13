@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "13/Jun/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania Archive",
+				"List": [
+					"Added a preliminary version of the <a href='../NoteSkins/'>noteskins archive</a>. It does not contain all items I've been sent so far, as I have to go through all of the submissions. Also I need to check origins for some of these submissions, due to the 3.9-SM5 conversions with multiple code segments from other authors."
+				]
+			}
+		]
+	},
+	{
 		"Date": "21/May/23",
 		"Changes": [
 			{

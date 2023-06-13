@@ -1,0 +1,53 @@
+{
+	"SM3.9" : {
+		"DefaultIcon": "SM39.png",
+		"Name": "StepMania 3.9",
+		"sunflower": { "Name": "sunflower", "Author": "yoroiball", "Link": "sunflower.rar" },
+		"colorfulstick": { "Name": "Colorfulstick", "Author": "yoroiball", "Link": "Colorfulstick.rar" },
+        "spookyNoteskins": { "Name": "Spooky's Noteskins", "Author": "SpoOky_Magician", "isCollection": [
+            "Aquatic", "BlackRed", "Blackwhite", "Dimension", "Experimental", "Rainbow"
+        ] },
+        "custom": { "Name": "Custom", "Link": "Custom.zip" },
+        "diamond-dust": { "Name": "Diamond-dust", "Link": "Diamond-dust.zip" },
+        "sketchy": { "Name": "sketchy", "Link": "sketchy.zip" },
+        "circuits": { "Name": "Circuits", "Author": "macgravel", "Link": "Circuits.zip" },
+        "circuitsov": { "Name": "CircuitsOV", "Author": "macgravel", "Link": "CircuitsOV.zip" },
+        "engelarrows": { "Name": "EnGelArRoWs", "Author": "SeeTheMasterPlay", "Link": "EnGelArRoWs.smzip", "isCollection": ["EnGelArRoWs"] },
+        "salandyplus": { "Name": "salAndy+", "Author": "salAndy", "Link": "salAndy+.zip" },
+        "lsolo": { "Name": "LSolo", "Link": "LSolo-ver0.1.1for3.9.rar" }
+	},
+
+    "SM3.95": {
+        "DefaultIcon": "SM39.png",
+		"Name": "StepMania 3.95",
+        "pixel": { "Name": "pixel", "Author": "salAndy", "Link": "pixel.zip" },
+        "salandy": { "Name": "salAndy", "Author": "salAndy", "Link": "salAndy.zip" }
+    },
+
+    "SM4": {
+        "DefaultIcon": "SM40.png",
+        "Name": "StepMania 4",
+        "dirty": { "Name": "Dirty", "Author": "Mr.Roob", "Link": "dirty.zip" },
+        "crayon": { "Name": "Crayon", "Link": "crayon.zip" },
+        "apple": { "Name": "apple", "Link": "apple.zip" },
+        "buttons": { "Name": "Buttons", "Author": "Knoedels", "Link": "Buttons.zip" },
+        "guilty": { "Name": "guilty", "Author": "Mr.Roob", "Link": "guilty.zip" }
+    },
+
+    "SSC": {
+        "DefaultIcon": "SMSSC.png",
+		"Name": "SM-SSC",
+        "engelarrows": { "Name": "EnGelArRoWs", "Author": "SeeTheMasterPlay", "Link": "EnGelArRoWs.smzip", "isCollection": ["EnGelArRoWs"] }
+    },
+
+    "SM5": {
+        "DefaultIcon": "SM5.png",
+		"Name": "StepMania 5",
+        "colorfulstick": { "Name": "Colorfulstick", "Author": "yoroiball, 1033Forest", "Link": "Colorfulstick.zip" },
+        "point": { "Name": "Point", "Author": "AeonAkei", "Link": "Point.zip" },
+        "Playstation": { "Name": "Playstation", "Author": "AeonAkei", "Link": "Playstation.rar" },
+        "Pastel": { "Name": "Pastel", "Author": "AeonAkei", "Link": "Pastel.zip" },
+        "akensalienbar": { "Name": "Akens Alienbar", "Author": "AeonAkei", "Link": "Akens%20Alienbar.rar" },
+        "yinyang": { "Name": "Yin&Yang", "Author": "AeonAkei", "Link": "519b2-yin-yang.zip" }
+    }
+}
