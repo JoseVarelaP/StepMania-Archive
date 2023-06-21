@@ -1,5 +1,19 @@
 [
 	{
+		"Date": "20/Jun/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "NoteSkins Archive",
+				"List": [
+					"More noteskins have been added.",
+					"Link system has been fixed.",
+					"Quick travel has been added."
+				]
+			}
+		]
+	},
+	{
 		"Date": "13/Jun/23",
 		"Changes": [
 			{
@@ -220,7 +234,7 @@
 				"List": [
 					"Entries now contain meta tags. This allows you to have <a href='https://josevarela.net/img/archive-embed-demo.png'>embeds</a> when linking the archive's pages.",
 					null,
-					"Thanks to <a href='https://twitter.com/_AR2K'>Frondal</a>, there are new themes.",
+					"Thanks to <a href='https://twitter.com/rpa2k'>Frondal</a>, there are new themes.",
 					"<h2>StepMania 3.95:</h2>",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=PINK'>PINK</a>",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=SalAndy'>salAndy3.95</a>",

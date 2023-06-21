@@ -27,7 +27,15 @@ $decoded_data = json_decode($JSONContent, true);
 <body>
     <div id="container">
         <?php include '../php/TopPage.php' ?>
-        <div class="content-container wide-container">
+		<div class="rightBox">
+            <div style="padding:0 10px">
+                <h2>Quick Travel</h2>
+                <div id="quickaccess">
+                    <?php include 'QuickTravel.php' ?>
+                </div>
+            </div>
+        </div>
+        <div class="content-container">
             <div class="content" id="BuildListing">
 				<div>
 					<center>
@@ -100,7 +108,7 @@ $decoded_data = json_decode($JSONContent, true);
 												</td>
 												<td><a href='Preview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
 												<td><?php echo $ThemeItem['Author'] ?? "?" ?></td>
-												<td><a href="https://objects-us-east-1.dream.io/smnoteskins/<?php echo $Category ?>/Screenshots/<?php echo $category ?>/<?php echo $$ThemeItem['Link'] ?>.png">
+												<td><a href="https://objects-us-east-1.dream.io/smnoteskins/<?php echo $category ?>/<?php echo $ThemeItem['Link'] ?>">
 														Download
 												</a></td>
 											</tr>
