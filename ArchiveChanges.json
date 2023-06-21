@@ -10,6 +10,13 @@
 					"Link system has been fixed.",
 					"Quick travel has been added."
 				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip'>Super Dancer Offline Xtreme</a>."
+				]
 			}
 		]
 	},
