@@ -398,7 +398,8 @@
             { "Name": "Freezy 3.9", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Freezy-3.9.7z" },
 			{ "Name": "舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
 			{ "Name": "DSS (Dance Super Station)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar" },
-            { "Icon": "SDOX.png", "Name": "Super Dancer Offline Xtreme", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip" }
+            { "Icon": "SDOX.png", "Name": "Super Dancer Offline Xtreme", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip" },
+            { "Name": "Electronic Beats", "Date": "2010-05-10", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip" }
         ]
     },
 

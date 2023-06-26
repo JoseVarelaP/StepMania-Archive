@@ -15,6 +15,13 @@
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DracuRiot'>StepMania - DRACU-RIOT! -</a>.",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=PIUPAN2'>PIU Paradise NEXT2</a>."
 				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip'>Electronic Beats</a>."
+				]
 			}
 		]
 	},

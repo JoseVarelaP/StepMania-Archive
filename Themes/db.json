@@ -97,7 +97,7 @@
 		"Mashiphoni" : { "Name": "StepMania - ましろ色シンフォニー - Re-make Ver.", "Author": "Lion, Ruto, Hina", "Link": "Mashiphoni_Re.rar" },
 		"KeyEdit3rd" : { "Name": "StepMania - Key Edition - 3rd", "Author": "Lion, Ruto, Hina", "Link": "Key_Edition_3rd.rar" },
 		"Natsuyume" : { "Name": "StepMania - NATSUYUME Edition -", "Author": "Lion, Ruto, Hina", "Link": "NATSUYUME_Edition.rar" },
-		"Lillian2.5" : { "Name": "StepMania lillian ver2.5", "Link": "lillian-ver2.5.rar" },
+		"Lillian2.5" : { "Name": "StepMania lillian ver2.5", "HasImages": true, "NumImages": 7, "Link": "lillian-ver2.5.rar" },
 		"Lillian3" : { "Name": "StepMania lillian ver3.0", "HasImages": true, "NumImages": 12, "Link": "lillian2011B.rar" },
 		"DracuRiot" : { "Name": "StepMania - DRACU-RIOT! -", "Link": "DRACU-RIOT.rar" },
 		"PIUPAN2": { "Name": "PIU Paradise NEXT2", "Date": "2007-12-23" ,"HasImages": true, "NumImages": 5, "Author": "PARADISE", "Link": "PNEXT2_1.0.zip" }
