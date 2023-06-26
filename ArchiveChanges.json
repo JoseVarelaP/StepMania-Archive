@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "25/Jun/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.9</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Mashiphoni'>StepMania - ましろ色シンフォニー - Re-make Ver.</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=KeyEdit3rd'>StepMania - Key Edition - 3rd</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Natsuyume'>StepMania - NATSUYUME Edition -</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Lillian2.5'>StepMania lillian ver2.5</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Lillian3'>StepMania lillian ver3.0</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DracuRiot'>StepMania - DRACU-RIOT! -</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=PIUPAN2'>PIU Paradise NEXT2</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "20/Jun/23",
 		"Changes": [
 			{

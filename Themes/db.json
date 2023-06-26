@@ -41,7 +41,7 @@
 		"FMP" : { "Name": "Foonmod PLUS", "Link": "Foonmod%20PLUS.smzip" },
 		"FM" : { "Name": "Foonmod", "Link": "Foonmod.smzip" },
 		"FB2" : { "Name": "ForeverBlue2", "Link": "ForeverBlue2.smzip" },
-		"IIDX12" : { "Name": "IIDX 12 Happy Sky", "Link": "beatmaniaIIDX12_Happysky_theme_for_stepmania_3_9_and_plus.smzip" },
+		"IIDX12" : { "Name": "IIDX 12 Happy Sky", "Author": "DJ.Tony", "HasImages": true, "NumImages": 9, "Link": "beatmaniaIIDX12_Happysky_theme_for_stepmania_3_9_and_plus.smzip" },
 		"IIDX14" : { "Name": "IIDX 14", "Author": "DJ.Tony", "Date": "2011-05-05", "Link": "iidx14_SM3.9_V1.0.smzip" },
 		"IIDX15" : { "Name": "IIDX 15", "Author": "DJ.Tony", "Date": "2011-02-15", "Link": "iidx15_SM3.9_V1.0.smzip" },
 		"ITG1" : { "Name": "In The Groove", "Link": "In%20The%20Groove.smzip" },
@@ -93,7 +93,14 @@
 		"XIBlack" : { "Name": "XI Black R2+", "Author": "Xiaounlimited", "Link": "XI%20Black%20r2%2B%20.rar" },
 		"TermSoc" : { "Name": "Terminal社会Society", "Author": "ScylaX", "Link": "Terminal%20-SHAKAI-%20Society.zip" },
 		"NEM" : { "Name": "NEMura Theme ([A] edit of XI-Black R2)", "Author": "ScylaX", "Link": "NEMura.zip" },
-		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" }
+		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" },
+		"Mashiphoni" : { "Name": "StepMania - ましろ色シンフォニー - Re-make Ver.", "Author": "Lion, Ruto, Hina", "Link": "Mashiphoni_Re.rar" },
+		"KeyEdit3rd" : { "Name": "StepMania - Key Edition - 3rd", "Author": "Lion, Ruto, Hina", "Link": "Key_Edition_3rd.rar" },
+		"Natsuyume" : { "Name": "StepMania - NATSUYUME Edition -", "Author": "Lion, Ruto, Hina", "Link": "NATSUYUME_Edition.rar" },
+		"Lillian2.5" : { "Name": "StepMania lillian ver2.5", "Link": "lillian-ver2.5.rar" },
+		"Lillian3" : { "Name": "StepMania lillian ver3.0", "HasImages": true, "NumImages": 12, "Link": "lillian2011B.rar" },
+		"DracuRiot" : { "Name": "StepMania - DRACU-RIOT! -", "Link": "DRACU-RIOT.rar" },
+		"PIUPAN2": { "Name": "PIU Paradise NEXT2", "Date": "2007-12-23" ,"HasImages": true, "NumImages": 5, "Author": "PARADISE", "Link": "PNEXT2_1.0.zip" }
 	},
 
 	"SM3.9_Plus" : {
