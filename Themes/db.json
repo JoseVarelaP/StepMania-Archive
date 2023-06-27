@@ -4,7 +4,7 @@
 		"Name": "StepMania 3.9",
 		"AceComb" : { "Name": "Ace Combat 3", "Link": "Ace_Combat_3.smzip" },
 		"BlazMix" : { "Name": "Blazin Mix", "Link": "Blazin%20Mix.smzip" },
-		"BLEACH" : { "Name": "BLEACH", "Link": "BLEACH.smzip" },
+		"BLEACH" : { "Name": "BLEACH", "NumImages": 8, "Link": "BLEACH.smzip" },
 		"CS1" : { "Name": "CyberiaStyle", "Date": "2005-01-08", "Link": "CyberiaStyle.rar" },
 		"CS2" : { "Name": "CyberiaStyle 2", "Date": "2005-03-11", "Link": "CyberiaStyle%202.rar" },
 		"CS2.5" : { "Name": "CyberiaStyle 2.5", "Date": "2005-04-02", "Link": "CyberiaStyle%202.5.rar" },
@@ -16,7 +16,7 @@
 		"CS5" : { "Name": "CyberiaStyle 5 -neo cyber-", "Date": "2008-12-24", "Link": "cyberiastyle_5_neo_cyber.zip" },
 		"CS6" : { "Name": "CyberiaStyle 6 -consciousness to cyber-", "Date": "2009-12-30", "Link": "cyberiastyle_6_consciousness_to_cyber.zip" },
 		"CitySc" : { "Name": "Cityscape", "Link": "Cityscape.smzip" },
-		"D3M" : { "Name": "D3Mania", "Link": "D3Mania.smzip" },
+		"D3M" : { "Name": "D3Mania", "HasImages": true, "NumImages": 8, "Link": "D3Mania.smzip" },
 		"D3Mix" : { "Name": "D3MIX COMPLETE", "Link": "D3MIX%20COMPLETE%20%5BSM3.9%5D.zip" },
 		"D3Mix2" : { "Name": "D3MIX2", "Link": "D3MIX2%20%5BSM3.9%5D.zip" },
 		"D3Mix3" : { "Name": "D3MIX3", "Link": "D3MIX3%20%5BSM3.9%5D.zip" },
@@ -58,14 +58,18 @@
 		"NAKeT" : { "Name": "Not Another K--eternal Theme", "Link": "Not%20Another%20keternal%20Theme.smzip" },
 		"oni4" : { "Name": "Original Nascence Interface 4", "Date": "2007-04-10", "NumImages": 8, "Author": "onigumochan37 (AJ 187 with tweak)", "Link": "oni4.rar" },
 		"paint" : { "Name": "Paintmania", "Link": "Paintmania.smzip" },
-		"panzer2nd" : { "Name": "PanzerForce 2nd Mix", "Link": "panzerforce2ndmix.zip" },
-		"panzer3rd" : { "Name": "PanzerForce 3rd Mix", "Link": "panzerforce3rdmix.zip" },
-		"panzer4th" : { "Name": "PanzerForce 4th Mix", "Link": "panzerforce4thmix.zip" },
-		"panzer5th" : { "Name": "PanzerForce 5th Mix", "Link": "panzerforce5thmix.zip" },
+		"panzer2nd" : { "Name": "PanzerForce 2nd Mix", "Author": "Team Panzer Force", "Link": "panzerforce2ndmix.zip" },
+		"panzer3rd" : { "Name": "PanzerForce 3rd Mix", "Author": "Team Panzer Force", "Link": "panzerforce3rdmix.zip" },
+		"panzer4th" : { "Name": "PanzerForce 4th Mix", "Author": "Team Panzer Force", "Link": "panzerforce4thmix.zip" },
+		"panzer5th" : { "Name": "PanzerForce 5th Mix", "Author": "Team Panzer Force", "NumImages": 8, "Link": "panzerforce5thmix.zip" },
 		"Parn4th" : { "Name": "Partynite 4th", "Date": "2014-08-09", "Link": "partynite-4th.zip" },
 		"PDNG" : { "Name": "Plasma Dance New Generation", "Date": "2004-08-23", "Author": "Deluxe", "Link": "PlasmaDanceNewGeneration_v1.4.smzip", "NumImages": 6 },
-		"pcd1" : { "Name": "pop*candy", "Link": "popcandy_theme.smzip" },
-		"pcd2" : { "Name": "pop*candy 2", "Date": "2005-??-09", "Link": "popcandy2.zip" },
+		"pcd1" : { "Name": "pop*candy", "Author": "_LOLO_, Hirose Madoka, fether", "NumImages": 8, "Link": [
+			{ "Name": "v1.3", "Date": "2005-06-30", "Link": "popcandy_theme.smzip" }
+		] },
+		"pcd2" : { "Name": "pop*candy 2", "Author": "_LOLO_, Hirose Madoka, fether", "NumImages": 9, "Link": [
+			{ "Name": "v2.10", "Date": "2005-??-09", "Link": "popcandy2.zip" }
+		] },
 		"PIUP" : { "Name": "Pump It Up Premiere", "Link": "Pump%20It%20Up%20Premiere%203.smzip" },
 		"PIUMIL" : {"Name": "Pump It Up Millenium", "Link": "Pump%20It%20Up%20Millenium.zip" },
 		"RLoung" : { "Name": "R-Lounge", "Link": "R-Lounge.smzip" },
@@ -87,20 +91,21 @@
 		"TDRMix" : { "Name": "TDR-Mix -Original Edition-", "Date": "2013-02-03", "Link": "TDR-Mix%20-Original%20Edition-.zip" },
 		"TM3" : { "Name": "Trance Machina 3 Heavy Metal Machine", "Link": "Trance%20Machina%203%20Heavy%20Metal%20Machine.smzip" },
 		"TM5" : { "Name": "Trance Machina 5 Zen Rebirth", "Link": "Trance%20Machina%205%20Zen%20Rebirth.smzip" },
-		"XXM2" : { "Name": "XXmiX 2nd Act", "Date": "??-08-2006", "Link": "XXmiX%202nd%20act.zip" },
+		"XXM2" : { "Name": "XXmiX 2nd Act", "Date": "??-08-2006", "HasImages": true, "NumImages": 7, "Link": "XXmiX%202nd%20act.zip" },
 		"YS" : { "Name": "Ya Style", "Link": "Ya%20Style.smzip" },
 		"ZSM" : {"Name": "ZeroSM+", "Author": "Daisuke Master", "Link": "ZeroSM%2B.zip"},
 		"XIBlack" : { "Name": "XI Black R2+", "Author": "Xiaounlimited", "Link": "XI%20Black%20r2%2B%20.rar" },
 		"TermSoc" : { "Name": "Terminal社会Society", "Author": "ScylaX", "Link": "Terminal%20-SHAKAI-%20Society.zip" },
 		"NEM" : { "Name": "NEMura Theme ([A] edit of XI-Black R2)", "Author": "ScylaX", "Link": "NEMura.zip" },
-		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" },
+		"DDel" : { "Name": "東方踊々夢 ～ Dancing Delusion", "HasImages": true, "NumImages": 8, "Author": "Orina", "Date": "2011-04-03", "Link": "%E6%9D%B1%E6%96%B9%E8%B8%8A%E3%80%85%E5%A4%A2%20%EF%BD%9E%20Dancing%20Delusion%20%5BSM%203.9%5D.zip" },
 		"Mashiphoni" : { "Name": "StepMania - ましろ色シンフォニー - Re-make Ver.", "Author": "Lion, Ruto, Hina", "Link": "Mashiphoni_Re.rar" },
 		"KeyEdit3rd" : { "Name": "StepMania - Key Edition - 3rd", "Author": "Lion, Ruto, Hina", "Link": "Key_Edition_3rd.rar" },
 		"Natsuyume" : { "Name": "StepMania - NATSUYUME Edition -", "Author": "Lion, Ruto, Hina", "Link": "NATSUYUME_Edition.rar" },
 		"Lillian2.5" : { "Name": "StepMania lillian ver2.5", "HasImages": true, "NumImages": 7, "Link": "lillian-ver2.5.rar" },
 		"Lillian3" : { "Name": "StepMania lillian ver3.0", "HasImages": true, "NumImages": 12, "Link": "lillian2011B.rar" },
 		"DracuRiot" : { "Name": "StepMania - DRACU-RIOT! -", "Link": "DRACU-RIOT.rar" },
-		"PIUPAN2": { "Name": "PIU Paradise NEXT2", "Date": "2007-12-23" ,"HasImages": true, "NumImages": 5, "Author": "PARADISE", "Link": "PNEXT2_1.0.zip" }
+		"PIUPAN2": { "Name": "PIU Paradise NEXT2", "Date": "2007-12-23" ,"HasImages": true, "NumImages": 5, "Author": "PARADISE", "Link": "PNEXT2_1.0.zip" },
+		"Hisoutenmai" : { "Name": "Touhou Hisoutenmai", "Author": "Onistepper, PingWing", "Date": "2009-09-11", "HasImages": true, "NumImages": 5, "Link": "Touhou_Hisoutenmai_v_1.01.rar" }
 	},
 
 	"SM3.9_Plus" : {
@@ -147,15 +152,22 @@
 				{ "Name": "DDR A With X2 UI", "Link" : "DDRA/DDR A With X2 UI.zip" }
 			]
 		},
+		"IIDX13" : { "Name": "beatmaniaIIDX13-DistorteD", "Author": "DJHaku", "Date": "2011-05-18", "HasImages": true, "NumImages": 8, "Link": "beatmaniaIIDX13-DistorteD (3.9+ Redux).rar" },
 		"IIDX14" : { "Name": "IIDX14", "Author": "DJ.Tony", "Date": "2011-05-15", "Link": "iidx14_SM3.9_Plus_Redux_V1.0.smzip" },
 		"IIDX15" : { "Name": "IIDX15", "Author": "DJ.Tony", "Date": "2011-02-15", "Link": "iidx15_SM3.9_Plus_Redux_V1.0.smzip" },
-		"PXIV" : { "Name": "Project XVI Anarch", "Link": "Project%20XIV%20Anarch.zip" },
+		"PXIV" : { "Name": "Project XVI Anarch", "Date": "2009-05-27", "Author": "k//eternal, DM Ashura, neo", "HasImages": true, "NumImages": 7, "Link": [
+			{ "Name": "v1.45a (the oops release 2)", "Link": "Project%20XIV%20Anarch.zip" }
+		] },
 		"PXVI" : { "Name": "Project XIV Beach Party", "Link": "Project%20XVI%20Beach%20Party.zip" },
 		"PXVII" : { "Name": "Project XVII FIUNT", "Link": "Project%20XVII%20FIUNT.zip" },
 		"PXVIII" : { "Name": "Project XVIII RFK", "Link": "Project%20XVIII%20RFK.zip" },
 		"PArS" : { "Name": "Project ArS XV I", "Link": "Projekt%20ArS-XV-l.7z" },
 		"PXII" : { "Name": "IIDX Gold 14th Style (Project XII)", "Link": "projektgold.zip" },
-		"PXIII" : { "Name": "Project XIII+ SECOND STRIKERS", "Link": "Projekt%20XIII%2B%20SECOND%20STRIKERS.zip" }
+		"PXIII" : { "Name": "Project XIII+ SECOND STRIKERS", "Link": "Projekt%20XIII%2B%20SECOND%20STRIKERS.zip" },
+		"IIDXGold" : { "Name": "IIDX GOLD", "Link": "solidsnake.zip" },
+		"IIDXLincle" : { "Name": "IIDX Lincle", "Link": "XVIIe2.0.zip" },
+		"IIDXTricoro" : { "Name": "IIDX Tricoro", "Link": "XVIII%20COMPLETE.zip" },
+		"AOI-sapphire" : { "Name": "AOI-sapphire", "Link": "dongsnopw.zip" }
 	},
 
 	"SM3.95" : {

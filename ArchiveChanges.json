@@ -6,6 +6,34 @@
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
 				"List": [
+					"Added theme screenshots for the following themes. Thanks to Wrland for the images!",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=BLEACH'>BLEACH</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=D3M'>D3Mania</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=panzer5th'>PanzerForce 5th Mix</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=pcd1'>pop*candy</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=pcd2'>pop*candy 2</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=XXM2'>XXmiX 2nd Act</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DDel'>東方踊々夢 ～ Dancing Delusion</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=PXIV'>Project XVI Anarch</a>.",
+					"<h2>StepMania 3.9</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Hisoutenmai'>Touhou Hisoutenmai</a>.",
+					"<h2>StepMania 3.9 Plus</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=AOI-sapphire'>AOI sapphire</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=IIDX13'>IIDX13-DistorteD</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=IIDXGold'>IIDX GOLD</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=IIDXLincle'>IIDX Lincle</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=IIDXTricoro'>IIDX Tricoro</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "25/Jun/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
 					"<h2>StepMania 3.9</h2>",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Mashiphoni'>StepMania - ましろ色シンフォニー - Re-make Ver.</a>.",
 					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=KeyEdit3rd'>StepMania - Key Edition - 3rd</a>.",
