@@ -56,6 +56,7 @@
 		"NCRx11" : { "Name": "NCR ex11", "Link": "NCR_ex11.smzip" },
 		"NocN" : { "Name": "Nocturnal Night", "Link": "Nocturnal%20Dream.smzip" },
 		"NAKeT" : { "Name": "Not Another K--eternal Theme", "Link": "Not%20Another%20keternal%20Theme.smzip" },
+		"oni3" : { "Name": "Original Nascence Interface 3", "Date": "2007-04-07", "NumImages": 6, "Author": "oni91", "Link": "O.N.I. 3.zip" },
 		"oni4" : { "Name": "Original Nascence Interface 4", "Date": "2007-04-10", "NumImages": 8, "Author": "onigumochan37 (AJ 187 with tweak)", "Link": "oni4.rar" },
 		"paint" : { "Name": "Paintmania", "Link": "Paintmania.smzip" },
 		"panzer2nd" : { "Name": "PanzerForce 2nd Mix", "Author": "Team Panzer Force", "Link": "panzerforce2ndmix.zip" },
@@ -105,7 +106,14 @@
 		"Lillian3" : { "Name": "StepMania lillian ver3.0", "HasImages": true, "NumImages": 12, "Link": "lillian2011B.rar" },
 		"DracuRiot" : { "Name": "StepMania - DRACU-RIOT! -", "Link": "DRACU-RIOT.rar" },
 		"PIUPAN2": { "Name": "PIU Paradise NEXT2", "Date": "2007-12-23" ,"HasImages": true, "NumImages": 5, "Author": "PARADISE", "Link": "PNEXT2_1.0.zip" },
-		"Hisoutenmai" : { "Name": "Touhou Hisoutenmai", "Author": "Onistepper, PingWing", "Date": "2009-09-11", "HasImages": true, "NumImages": 5, "Link": "Touhou_Hisoutenmai_v_1.01.rar" }
+		"Hisoutenmai" : { "Name": "Touhou Hisoutenmai", "Author": "Onistepper, PingWing", "Date": "2009-09-11", "HasImages": true, "NumImages": 5, "Link": "Touhou_Hisoutenmai_v_1.01.rar" },
+		"NewNovaE" : { "Name": "DDR NewNovaE", "Author": "is06", "HasImages": true, "NumImages": 5, "Link": "NewNOVAE_alpha2_29522715.smzip" },
+		"NeonM2" : { "Name": "NeonMANIA v2", "HasImages": true, "NumImages": 5, "Link": "NEONmania%20v2.zip" },
+		"HMZe" : { "Name": "Hopscotch Mix 'Zenith'", "HasImages": true, "NumImages": 5, "Author": "Charles Farce (Credesign)", "Link": "HSM_Zenith_beta.zip" },
+		"HMEn" : { "Name": "Hopscotch Mix 'Encore'", "HasImages": true, "NumImages": 5, "Author": "Charles Farce (Credesign)", "Link": "Hopscotch_Encore_beta.zip" },
+		"HMEx" : { "Name": "Hopscotch Mix 'Excel'", "HasImages": true, "NumImages": 5, "Author": "Charles Farce (Credesign)", "Link": "Hopscotch_3_Theme.zip" },
+		"Shuffle" : { "Name": "Shuffle", "HasImages": true, "NumImages": 5, "Link": "Shuffle.zip" },
+		"Cobalite" : { "Name": "Cobalite", "HasImages": true, "NumImages": 4, "Link": "Cobalite.smzip" }
 	},
 
 	"SM3.9_Plus" : {
@@ -319,11 +327,20 @@
 		"ebony": { "Name": "In The Groove 2 - Ebony edition", "Link": "Ebony.zip" },
 		"Submetal": { "Name": "ITG Submetal 2.0", "Link": "ITG%20Submetal%202.0.zip" },
 		"REDux": { "Name": "ITG REDux", "Link": "ITG%20REDux.zip" },
+		"ITGAh4x": { "Name": "In The Groove ANOTHER H4X EDITION", "HasImages": true, "NumImages": 7, "Link": "Blue%20rome.rar" },
 		"ITG3h4x": { "Name": "In The Groove 3 -h4x edition-", "Link": "in%20the%20groove%203%20-h4x%20edition-.zip" },
 		"ITG3Shadow": { "Name": "In The Groove Shadow 3", "Link": "ITGShadow3.zip" },
 		"halloween": { "Name": "Aurora Halloween", "Link": "halloween.zip" },
 		"futurex": { "Name": "futurex", "Link": "futurex.zip" },
-		"ITG3": { "Name": "In The Groove 3", "Link": "itg3.zip" }
+		"ITG3": { "Name": "In The Groove 3", "Link": "itg3.zip" },
+		"ITGWolfRec": { "Name": "ITG RECOLOR", "HasImages": true, "NumImages": 6, "Author": "Wolf", "Link": "ITG%20WoLf%20recolor.rar" },
+		"ITGICE": { "Name": "In The Groove ICE", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Cyan%20Recolor.rar" },
+		"DDR5th" : { "Name": "DanceDanceRevolution 5th Mix", "HasImages": true, "NumImages": 9, "Link": "DDR%205th%20Mix.rar" },
+		"DearSis" : { "Name": "Dear Sister", "HasImages": true, "NumImages": 7, "Link": "Dear%20Sister.rar" },
+		"Moogle" : { "Name": "Moogle", "HasImages": true, "NumImages": 7, "Link": "MOOOOOOOOOGLE.rar" },
+		"Orange" : { "Name": "Orange", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Orange%20Recolor.rar" },
+		"PurpleDrank" : { "Name": "Purple DRANK", "Explicit": true, "HasImages": true, "NumImages": 8, "Link": "Purple%20DRANK.rar" },
+		"Tribal" : { "Name": "Tribal", "HasImages": true, "NumImages": 8, "Link": "Tribal.rar" }
 	},
 
 	"NITG" : {

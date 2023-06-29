@@ -1,6 +1,37 @@
 [
 	{
-		"Date": "25/Jun/23",
+		"Date": "29/Jun/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Thanks to <a href='https://twitter.com/rpa2k'>Frondal</a>, there are new themes.",
+					"<h2>StepMania 3.9</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=oni3'>Original Nascence Interface 3</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=NewNovaE'>DDR NewNovaE</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=NeonM2'>NeonMANIA v2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=HMZe'>Hopscotch Mix 'Zenith'</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=HMEn'>Hopscotch Mix 'Encore'</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=HMEx'>Hopscotch Mix 'Excel'</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Shuffle'>Shuffle</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Cobalite'>Cobalite</a>.",
+					"<h2>OpenITG</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=ITGAh4x'>In The Groove ANOTHER H4X EDITION</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=ITGWolfRec'>ITG RECOLOR</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=ITGICE'>In The Groove ICE</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=DDR5th'>DanceDanceRevolution 5th Mix</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=DearSis'>Dear Sister</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=Moogle'>Moogle</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=Orange'>Orange</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=PurpleDrank'>Purple DRANK</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=Tribal'>Tribal</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "27/Jun/23",
 		"Changes": [
 			{
 				"Icon": "SM40.png",
