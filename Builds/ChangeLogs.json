@@ -114,6 +114,7 @@
 	"ITGM0.5.1":"ITGM/ITGM0.5.1.md",
 	"ITGM0.6.0":"ITGM/ITGM0.6.0.md",
 	"ITGM0.6.1":"ITGM/ITGM0.6.1.md",
+	"ITGM0.7.0":"ITGM/ITGM0.7.0.md",
 	"SP1v101":"STEPP1/v1.0.1.md",
 	"SP1v102":"STEPP1/v1.0.2.md",
 
@@ -137,6 +138,7 @@
 	"SI014":"SM5/ITGSI/SI014.md",
 	"SI015":"SM5/ITGSI/SI015.md",
 	"SI016":"ITGM/ITGSI/SI016.md",
+	"SI017":"ITGM/ITGSI/SI017.md",
 
 	"SushiFinal":"SUSHI/Final.md"
 }

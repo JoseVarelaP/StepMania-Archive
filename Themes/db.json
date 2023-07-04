@@ -336,7 +336,7 @@
 		"ITGWolfRec": { "Name": "ITG RECOLOR", "HasImages": true, "NumImages": 6, "Author": "Wolf", "Link": "ITG%20WoLf%20recolor.rar" },
 		"ITGICE": { "Name": "In The Groove ICE", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Cyan%20Recolor.rar" },
 		"DDR5th" : { "Name": "DanceDanceRevolution 5th Mix", "HasImages": true, "NumImages": 9, "Link": "DDR%205th%20Mix.rar" },
-		"DearSis" : { "Name": "Dear Sister", "HasImages": true, "NumImages": 7, "Link": "Dear%20Sister.rar" },
+		"DearSis" : { "Name": "Dear Sister", "Author": "VivaLaMoo", "HasImages": true, "NumImages": 7, "Link": "Dear%20Sister.rar" },
 		"Moogle" : { "Name": "Moogle", "HasImages": true, "NumImages": 7, "Link": "MOOOOOOOOOGLE.rar" },
 		"Orange" : { "Name": "Orange", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Orange%20Recolor.rar" },
 		"PurpleDrank" : { "Name": "Purple DRANK", "Explicit": true, "HasImages": true, "NumImages": 8, "Link": "Purple%20DRANK.rar" },

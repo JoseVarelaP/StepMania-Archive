@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "4/Jul/23",
+		"Changes": [
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.7.0-Windows-no-songs.exe'>ITGMania v0.7.0</a>."
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania Custom Builds",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-17.zip'>In The Groove System Image V0.17</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "29/Jun/23",
 		"Changes": [
 			{

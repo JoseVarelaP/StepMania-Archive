@@ -1720,6 +1720,15 @@
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.6.1-Linux-no-songs.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.6.1.tar.gz"
+            },
+            { "ID": "ITGM0.7.0", "Name": "ITGmania v0.7.0", "Date": "2023-06-18",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.7.0-Windows-no-songs.exe",
+                "Mac": [
+					{ "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.7.0-macOS-M1-no-songs.dmg" },
+					{ "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.7.0-macOS-Intel-no-songs.dmg" }
+				],
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.7.0-Linux-no-songs.tar.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.7.0.tar.gz"
             }
         ]
     },
@@ -1730,6 +1739,9 @@
         "Listing" : [
             { "ID": "SI016", "Name": "In The Groove System Image V0.16", "Date": "2023-04-02",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-16-final.zip" } ]
+            },
+            { "ID": "SI017", "Name": "In The Groove System Image V0.17", "Date": "2023-06-19",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-17.zip" } ]
             }
         ]
     }
