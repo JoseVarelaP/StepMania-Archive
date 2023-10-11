@@ -252,5 +252,34 @@
             { "Name": "ddrplay 0.12" },
 			{ "Name": "ddrplay 0.13", "Date": "2000-02-02", "Windows": "ddrplay.lzh" }
 		]
-	}
+	},
+    "beatsportable" : {
+        "Name": "Beats Portable",
+        "Description": "A rhythm game that can run Stepmania files for Android. Developed by Philip Peng (keripo).",
+        "Listing" : [
+            { "Name": "beats-1.7b", "Linux": "beats-1.7b.apk" },
+            { "Name": "beats-1.7.5b", "Linux": "beats-1.7.5b.apk" },
+            { "Name": "beats-1.7.4b", "Linux": "beats-1.7.4b.apk" },
+            { "Name": "beats-1.7.3b", "Linux": "beats-1.7.3b.apk" },
+            { "Name": "beats-1.7.2b", "Linux": "beats-1.7.2b.apk" },
+            { "Name": "beats-1.7.1b", "Linux": "beats-1.7.1b.apk" },
+            { "Name": "beats-1.6b", "Linux": "beats-1.6b.apk" },
+            { "Name": "beats-1.6.2b", "Linux": "beats-1.6.2b.apk" },
+            { "Name": "beats-1.6.2b-lenovomm", "Linux": "beats-1.6.2b-lenovomm.apk" },
+            { "Name": "beats-1.6.1b", "Linux": "beats-1.6.1b.apk" },
+            { "Name": "beats-1.5b", "Linux": "beats-1.5b.apk" },
+            { "Name": "beats-1.5.4b", "Linux": "beats-1.5.4b.apk" },
+            { "Name": "beats-1.5.3b", "Linux": "beats-1.5.3b.apk" },
+            { "Name": "beats-1.5.2b", "Linux": "beats-1.5.2b.apk" },
+            { "Name": "beats-1.5.1b2", "Linux": "beats-1.5.1b2.apk" },
+            { "Name": "beats-1.5.1b", "Linux": "beats-1.5.1b.apk" },
+            { "Name": "beats-1.4b", "Linux": "beats-1.4b.apk" },
+            { "Name": "beats-1.4.2b", "Linux": "beats-1.4.2b.apk" },
+            { "Name": "beats-1.4.1b", "Linux": "beats-1.4.1b.apk" },
+            { "Name": "beats-1.3b", "Linux": "beats-1.3b.apk" },
+            { "Name": "beats-1.2b", "Linux": "beats-1.2b.apk" },
+            { "Name": "beats-1.1b", "Linux": "beats-1.1b.apk" },
+            { "Name": "beats-1.0b", "Linux": "beats-1.0b.apk" }
+        ]
+    }
 }

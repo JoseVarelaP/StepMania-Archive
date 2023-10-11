@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "7/Oct/23",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip'>Twekout Revolution</a>. Totally forgot this was a thing. Thanks to DancingMaractus for showing me this again."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"Added the <a href='../OtherSims/#beatsportable'>Beats Portable collection</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "4/Jul/23",
 		"Changes": [
 			{

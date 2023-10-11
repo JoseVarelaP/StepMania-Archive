@@ -830,7 +830,11 @@
             { "Name": "PumpSanity Beta 0.95", "Date": "2023-04-17", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip" },
             { "ID": "PSANITY0.95.1", "Name": "PumpSanity Beta 0.95.1", "Date": "2023-04-19", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" },
             { "ID": "PSANITY0.95.2", "Name": "PumpSanity Beta 0.95.2", "Date": "2023-05-01" },
-            { "ID": "PSANITY0.95.2P", "Name": "PumpSanity Beta 0.95.2 (Patched)", "Date": "2023-05-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" }
+            { "ID": "PSANITY0.95.2P", "Name": "PumpSanity Beta 0.95.2 (Patched)", "Date": "2023-05-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip" },
+            { "Name": "Twerkout Revolution", "Date": "2015-12-21",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip",
+                "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/MAC%20-%20Twerkout%20Revolution.zip"
+            }
         ]
     },
 
