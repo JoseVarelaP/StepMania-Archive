@@ -413,24 +413,27 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/StepMania-3.95-CVS-05-22-2005_i586.tar.bz2",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/stepmania-cvs-06-19-05-src.zip"
             },
-            { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/BBOY%27s%204.0%20CVS%20Mod%20V1.1.rar" },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
+            { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20" },
+            { "ID": "OITG-A1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1", "Date": "2007-12-02" },
+            { "ID": "OITG-A1.1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1.1", "Date": "2007-12-05" },
+            { "ID": "OITG-A2", "Icon": "OITG.png", "Name": "OpenITG Alpha 2", "Date": "2008-01-27" },
+            { "ID": "OITG-A3", "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 4", "Date": "2008-03-21",
+            { "ID": "OITG-A4", "Icon": "OITG.png", "Name": "OpenITG Alpha 4", "Date": "2008-03-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 5", "Date": "2008-04-30",
+            { "ID": "OITG-A5", "Icon": "OITG.png", "Name": "OpenITG Alpha 5", "Date": "2008-04-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 6", "Date": "2008-05-30",
+            { "ID": "OITG-A6", "Icon": "OITG.png", "Name": "OpenITG Alpha 6", "Date": "2008-05-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip"
             },
-            { "Icon": "OITG.png", "Name": "OpenITG Alpha 7", "Date": "2008-07-11",
+            { "ID": "OITG-A7", "Icon": "OITG.png", "Name": "OpenITG Alpha 7", "Date": "2008-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip",
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip"
             },
@@ -460,7 +463,13 @@
                     { "Name": "Available\n(Pass: 'Xsoft')", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/Xsoft%20ITG2%20ver1.27.exe" }
                 ]
             },
-			{ "Name": "StepMania 3.95 [Staiain's]", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe" }
+			{ "Name": "StepMania 3.95 [Staiain's]", "Date": "??-??-????", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe" },
+            { "ID": "ITGPW", "Name": "ITG PoWa!", "Date": "2008-01-09", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/ITG_PoWa.rar" },
+            { "ID": "OITG-ITG3P", "Name": "OpenITG Alpha 7 (With ITG3OG Theme Pre-Release)",
+                "Date": "2008-09-21",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITGa7%2BITG3OG-pre_release.rar",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITGa7%2BITG3OG-pre_release.rar"
+            }
         ]
     },
 

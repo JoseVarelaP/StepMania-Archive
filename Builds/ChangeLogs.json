@@ -15,6 +15,19 @@
 	"iSTEP":"SM395/iSTEP.md" ,
 	"ITGB01072004":"SM39/ITGB01072004.md" ,
 
+	"ITGPW": "SM395/ITGPW.md",
+
+	"OITG-A1": "OITG/OITG-A1.md",
+	"OITG-A1.1": "OITG/OITG-A1.1.md",
+	"OITG-A2": "OITG/OITG-A2.md",
+	"OITG-A3": "OITG/OITG-A3.md",
+	"OITG-A4": "OITG/OITG-A4.md",
+	"OITG-A5": "OITG/OITG-A5.md",
+	"OITG-A6": "OITG/OITG-A6.md",
+	"OITG-A7": "OITG/OITG-A7.md",
+
+	"OITG-ITG3P": "OITG/OITG-ITG3P.md",
+
 	"OpGr2":"OITG/OpenGroove/r2.md",
 	"OpGr3":"OITG/OpenGroove/r3.md",
 	"OpGr4":"OITG/OpenGroove/r4.md",

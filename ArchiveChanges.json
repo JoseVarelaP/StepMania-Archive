@@ -1,12 +1,33 @@
 [
 	{
+		"Date": "13/Oct/23",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/ITG_PoWa.rar'>ITG PoWa!</a>.",
+					"Added Changelogs for OpenITG builds Alpha 1 through 7."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"<h2>StepMania 3.95:</h2>",
+					"Moved ITGShadow3 to this category as it is meant to be run here."
+				]
+			}
+		]
+	},
+	{
 		"Date": "7/Oct/23",
 		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip'>Twekout Revolution</a>. Totally forgot this was a thing. Thanks to DancingMaractus for showing me this again."
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip'>Twerkout Revolution</a>. Totally forgot this was a thing. Thanks to DancingMaractus for showing me this again."
 				]
 			},
 			{

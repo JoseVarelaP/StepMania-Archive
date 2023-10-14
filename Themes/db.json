@@ -181,7 +181,7 @@
 	"SM3.95" : {
 		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
-		"Altitude" : { "Name": "Altitude", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar" },
+		"Altitude" : { "Name": "Altitude", "Date": "2011-11-02", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar" },
 		"CUEv5" : { "Name": "ChaosUnown Edition v5", "Link": "ChaosUnown%20Edition%20v5.zip" },
 		"Chroma" : { "Name": "Chromatic", "Link": [
 			{ "Name": "Chromatic v2", "Link": "Chromatic%20v2.rar" },
@@ -217,6 +217,7 @@
 			{ "Name": "Groove 2.2", "Link": "Groove%202.2.rar" },
 			{ "Name": "Groove 2.1", "Link": "Groove%202.1%20%28ITG%202%20Theme%29.smzip" }
 		] },
+		"ITG3Shadow": { "Name": "In The Groove Shadow 3", "Link": "ITGShadow3.zip" },
 		"ITG3GOLD" : { "Name": "In The Groove 3 GOLD", "Link": "ITG3%20GOLD.rar" },
 		"ITG2Pink" : { "Name": "In The Groove 2 Pink", "Link": "ITG2%20Pink.rar" },
 		"ITG2GOLD" : { "Name": "In The Groove 2 GOLD", "Link": "ITG2%20GOLD.rar" },
@@ -329,7 +330,6 @@
 		"REDux": { "Name": "ITG REDux", "Link": "ITG%20REDux.zip" },
 		"ITGAh4x": { "Name": "In The Groove ANOTHER H4X EDITION", "HasImages": true, "NumImages": 7, "Link": "Blue%20rome.rar" },
 		"ITG3h4x": { "Name": "In The Groove 3 -h4x edition-", "Link": "in%20the%20groove%203%20-h4x%20edition-.zip" },
-		"ITG3Shadow": { "Name": "In The Groove Shadow 3", "Link": "ITGShadow3.zip" },
 		"halloween": { "Name": "Aurora Halloween", "Link": "halloween.zip" },
 		"futurex": { "Name": "futurex", "Link": "futurex.zip" },
 		"ITG3": { "Name": "In The Groove 3", "Link": "itg3.zip" },
@@ -778,7 +778,7 @@
 			"Name": "XX -starlight- 2.0",
 			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
 			"Link": [
-				{ "Name": "XX_-starlight-_V2.1.0HF", "Date": "2021-02-21", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip" },
+				{ "Name": "XX_-starlight-_V2.1.0HF", "Date": "2022-02-21", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0HF.zip" },
 				{ "Name": "XX_-starlight-_V2.1.0", "Date": "2022-02-17", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.1.0.zip" },
 				{ "Name": "XX_-starlight-_V2.0.2", "Date": "2021-12-06", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.2.zip" },
 				{ "Name": "XX_-starlight-_V2.0.1", "Date": "2021-11-27", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.1.zip" },
