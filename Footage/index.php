@@ -54,6 +54,33 @@ function FetchFootageInfo( $Entry, $Parent, $ID, $CollectionID )
             </div>
         </div>
         <div class="content-container" onload="GenerateFootageList()">
+            <?php include '../Builds/ArchiveHistoryQuick.php' ?>
+            <div class="content" id="ITGextras">
+                <h1>In The Groove Random Movie Packs</h1>
+                <p>This collection of packs need to be installed in the RandomMovies folder on the install folder of your preferred StepMania install.</p>
+                <table>
+                    <tr>
+                        <td>In The Groove 1</td>
+                        <td>695.8MB</td>
+                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove.7z'>Available</td>
+                    </tr>
+                    <tr>
+                        <td>In The Groove 2</td>
+                        <td>490.8MB</td>
+                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%202.7z'>Available</td>
+                    </tr>
+                    <tr>
+                        <td>In The Groove 3</td>
+                        <td>782.5MB</td>
+                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%203.7z'>Available</td>
+                    </tr>
+                    <tr>
+                        <td>In The Groove Rebith</td>
+                        <td>584.9MB</td>
+                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%20Rebirth.7z'>Available</td>
+                    </tr>
+                </table>
+            </div>
             <div class="content" id="BuildListing">
                 <?php foreach( $decoded_data as $Game=>$Category ) {  ?>
                     <h1 id="<?php echo $Game?>"><?php echo $Category['Name'] ?></h1>

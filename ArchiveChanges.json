@@ -1,5 +1,39 @@
 [
 	{
+		"Date": "21/Oct/23",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.95",
+				"List": [
+					"Added the missing segments of Changelogs for OpenITG builds Alpha 1 through 7. Thanks to Goofwear from unearthing these.",
+					"Added source packages for OpenITG builds Alpha 1 through Alpha 8."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Added dedicated section to download the <a href='../Footage/#ITGextras'>In The Groove Random Movies</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.95:</h2>",
+					"Added images for Altitude. Thanks <a href='https://github.com/Assimileafy'>Assimileafy</a>!",
+					"<h2>Project OutFox:</h2>",
+					"Fixed credits with multiple themes.",
+					"<h2>StepMania 5:</h2>",
+					"Added images to MadkaT182's Tournament.",
+					"Added new releases of DDR-A3-THEME",
+					"Added v5.3.0 release of Simply Love."
+				]
+			}
+		]
+	},
+	{
 		"Date": "13/Oct/23",
 		"Changes": [
 			{
@@ -12,7 +46,7 @@
 			},
 			{
 				"Icon": "SM40.png",
-				"Name": "Other Sims Archive",
+				"Name": "Themes Archive",
 				"List": [
 					"<h2>StepMania 3.95:</h2>",
 					"Moved ITGShadow3 to this category as it is meant to be run here."

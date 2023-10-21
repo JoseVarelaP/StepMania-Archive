@@ -3,6 +3,31 @@ title: "OpenITG, alpha 7"
 ---
 
 ```
+OpenITG, alpha 7 - July 11th, 2008
+----------------------------------
+
+This one's been a while in the making, but it'll hopefully prove to be 
+worth the wait. This is the first build that's really expanding on ITG's 
+features, and it also includes some optimizations for PC users as well.
+
+First up, we have more arcade-accurate input debounce logic. It behaves well,
+but might cause problems - if you have any troubles, contact us. The loading
+of custom songs can be cancelled by pressing "Select" or "MenuLeft+MenuRight"
+- no more of that dangerous USB drive pulling. Also, while the code needs 
+clean-up, there is basic support for lights-cabinet charts in themed .SM 
+files.
+
+Linux finally supports full-screen, with one very nasty problem - it doesn't
+resize my desktop back to normal afterwards, unless I use Alt+F4 to close it.
+Use at your own risk, and keep Ctrl+Alt+Backspace handy.
+
+If you have any questions about any of the changes, or how to use them, drop
+us a line over AIM or the BoXoRRoXoRs forums. I can't really sum up how to use
+everything in this post without quite a bit of typing.
+
+(P.S.: Tournament mode is being worked on. Poke through the source code and 
+ see for yourself what's going on, if you're so inclined.)
+ 
 -Preliminary, hacky lights-cabinet support in theme SM files
 -Barebones work on tournament mode (it's still a while away)
 -Input changes:

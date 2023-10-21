@@ -181,7 +181,7 @@
 	"SM3.95" : {
 		"DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
-		"Altitude" : { "Name": "Altitude", "Date": "2011-11-02", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar" },
+		"Altitude" : { "Name": "Altitude", "Author": "Devon", "Date": "2011-11-02", "Link": "altitude%20%28absolutely%20the%20FINAL%20revision%20so%20we%20dont%20have%20to%20deal%20with%20this%20nonsense%20anymore%29.rar", "NumImages": 6 },
 		"CUEv5" : { "Name": "ChaosUnown Edition v5", "Link": "ChaosUnown%20Edition%20v5.zip" },
 		"Chroma" : { "Name": "Chromatic", "Link": [
 			{ "Name": "Chromatic v2", "Link": "Chromatic%20v2.rar" },
@@ -263,10 +263,10 @@
 		"Deco": { "Name": "In The Groove Deco", "HasImages": true, "NumImages": 6, "Link": "ITG%20Deco.rar" },
 		"Empress": { "Name": "In The Groove 2 Empress", "HasImages": true, "NumImages": 6, "Link": "ITG2Empress1.1.zip" },
 		"Retro": { "Name": "In The Groove Retro", "Author": "DivinElegy", "HasImages": true, "NumImages": 6, "Link": "ITGretro.zip" },
-		"Meat": { "Name": "In The Groove MEAT", "HasImages": true, "NumImages": 6, "Link": "Meat.rar" },
+		"Meat": { "Name": "In The Groove MEAT", "Author": "Mad Matt", "HasImages": true, "NumImages": 6, "Link": "Meat.rar" },
 		"Mlp": { "Name": "My Little Pony: Friendship is Magic", "HasImages": true, "NumImages": 6, "Link": "My%20Little%20Pony.zip" },
 		"Obscurity": { "Name": "Obscurity", "HasImages": true, "NumImages": 6, "Link": "Obscurity.smzip" },
-		"ITGAlpha": { "Name": "In the Groove 1 Alpha", "Date":"2018-05-29", "Author": "Jose_Varela, Assimileafy", "Link": "ITG1-Alpha.zip" },
+		"ITGAlpha": { "Name": "In the Groove 1 Alpha Conversion", "Date":"2018-05-29", "Author": "Jose_Varela, Assimileafy", "Link": "ITG1-Alpha.zip" },
 		"CaveStory": { "Name": "Cave Story", "Date": "2017-11-08", "Author": "Jose_Varela", "Link": "Cave%20Story.7z" },
 		"Girouette": { "Name": "Girouette", "Date": "2018-08-06", "Author": "Jose_Varela", "Link": "Girouette.7z" },
 		"Ikachan": { "Name": "Ikachan", "Date": "2017-01-17", "Author": "Jose_Varela", "Link": "Ikachan.7z" },
@@ -274,7 +274,7 @@
 		"SatellaView": { "Name": "SatellaView", "Date": "2018-07-15", "Author": "Jose_Varela", "Link": "SatellaView.7z" },
 		"NewNovaE": { "Name": "DDR NewNovaE", "Author": "Jose_Varela", "Date": "2018-02-13", "Link": [
 			{ "Name": "v28", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" },
-			{ "Name": "v27", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V28.smzip" }
+			{ "Name": "v27", "Date": "2018-02-13", "Link":"NewNovae/DDRNewNovaE_V27.smzip" }
 		] },
 		"DWI": { "Name": "Dance With Intensity", "Author": "Jose_Varela", "Date": "2017-07-03", "Link": [
 			{ "Name": "1.6.5 (Fixes on the Goodies)", "Date": "2018-03-25", "Link":"DWI/-NotITG--Dance-With-Intensity-1.6.5.zip" },
@@ -310,7 +310,7 @@
 			{ "Name": "Version 4 - Material Design", "Date": "2016-11-12", "Link": "SLGJUVM/SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29-4-material-design.zip" },
 			{ "Name": "Version 3.77 - The Redesign", "Date": "2016-11-06", "Link": "SLGJUVM/SIMPLY%20LOVE%20GOODER%20%28Jose%27s%20Unofficial%20Visual%20Modification%29-3.77.zip" }
 		] },
-		"Tactics": { "Name": "In The Groove Tactics", "NumImages": 6, "Link": "tactics.rar" },
+		"Tactics": { "Name": "In The Groove Tactics", "Author": "Mad Matt", "NumImages": 6, "Link": "tactics.rar" },
 		"WolfNightmare": { "Name": "Wolf Nightmare", "Link": "Wolf%20Nightmare.rar" },
 		"SITG": { "Name": "Simply ITG", "Author": "Connormgs", "Link": [
 			{ "Name": "Source", "Link": "https://github.com/Connormgs/Simply-ITG/archive/refs/heads/master.zip" },
@@ -471,7 +471,10 @@
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
 		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
 		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "HasImages": true, "NumImages": 5, "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
-		"DDRA3Curilang": { "Name":"DDR-A3 (Curilang Edit)", "Author": "Inorizushi, Curilang", "Link": [
+		"DDRA3Curilang": { "Name":"DDR-A3 (Curilang Edit)", "Author": "Inorizushi, Curilang, SchneiderAFX, Faye Scarlet, MontyTheDancer, EuvoSound, Luza94, tertu", "Link": [
+			{ "Name": "v2.0.3 (V3)", "Date": "2023-09-11", "Link": "Curilang-A3/DDR.A3.V.2.0.1.zip" },
+			{ "Name": "v2.0.2", "Date": "2023-06-03", "Link": "Curilang-A3/DDR.A3.V.2.0.2.zip" },
+			{ "Name": "v2.0.1", "Date": "2023-04-02", "Link": "Curilang-A3/DDR.A3.V.2.0.3.zip" },
 			{ "Name": "v1.3b1", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.3b1.zip" },
 			{ "Name": "v1.2", "Date": "2022-08-05", "Link": "Curilang-A3/DDR.A3.V.1.2.zip" },
 			{ "Name": "v1.1", "Date": "2022-05-05", "Link": "Curilang-A3/DDR.A3.V.1.1.zip" },
@@ -494,6 +497,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
+				{ "Name": "Simply-Love-v5.3.0", "Date":"2023-06-18", "Link": "Simply-Love/Simply-Love-v5.3.0.zip"},
 				{ "Name": "Simply-Love-v5.2.1", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1.zip"},
 				{ "Name": "Simply-Love-v5.2.0", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0.zip"},
 				{ "Name": "Simply-Love-v5.1.2", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2.zip"},
@@ -675,7 +679,7 @@
 		"RhythmMania": { "Name": "RhythmMania", "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
 		"QuadIIDX": { "Name": "QuadIIDX", "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },
 		"Britney": { "Name": "Britney's Dance Beat", "Author": "MadkaT182", "Date": "2018-06-15", "Link": "Britney%201.0.0.rar" },
-		"Tournament": { "Name": "Tournament", "Author": "MadkaT182", "Date": "2018-12-01", "Link": "Tournament-master.zip" },
+		"Tournament": { "Name": "Tournament", "Author": "MadkaT182", "Date": "2018-12-01", "Link": "Tournament-master.zip", "NumImages": 2 },
 		"Touhou-Hisoutensoku": { "Name": "Touhou-Hisoutensoku", "Author": "Jousway", "Date": "2019-06-14", "Link": "Touhou-Hisoutensoku-master.zip" },
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
@@ -754,7 +758,7 @@
 		"Infinitesimal": {
 			"Name": "Infinitesimal",
 			"Date": "2021-05-07",
-			"Author": "dj505",
+			"Author": "dj505, SheepyChris",
 			"Link": [
 				{ "Name": "Latest (Github)", "Link": "https://github.com/dj505/Infinitesimal/archive/refs/heads/master.zip" },
 				{ "Name": "Infinitesimal 1.1", "Date": "2022-07-03", "Link": "Infinitesimal/Infinitesimal-1.1.zip" },
@@ -798,7 +802,7 @@
 		},
 		"EKS-D" : {
 			"Name": "EKS-D ParaMania",
-			"Author": "EKS-D",
+			"Author": "EKS-D, Riakodoadm, Neko^2",
 			"NumImages": 4,
 			"HasImages": true,
 			"Link": [
@@ -845,6 +849,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love (for ITGMania)",
 			"Link": [
+				{ "Name": "Simply-Love-v5.3.0-for-ITGmania", "Date":"2023-06-18", "Link": "Simply-Love/Simply-Love-v5.3.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.1-for-ITGmania", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.0-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.1.2-for-ITGmania", "Date":"2022-06-12", "Link": "Simply-Love/Simply-Love-v5.1.2-for-ITGmania.zip"}

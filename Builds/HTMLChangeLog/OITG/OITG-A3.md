@@ -3,6 +3,28 @@ title: "OpenITG, alpha 3"
 ---
 
 ```
+OpenITG, alpha 3 (March 17th, 2008)
+-----------------------------------
+
+Phew, it's been a while, hasn't it? Rest assured that the extra time was spent productively. :)
+I gained two team members (infamouspat, matt1360) and matt set up an SVN server for us, so an
+amazing amount of work has been done in the past ~2 months. There's a lot of new stuff - enjoy!
+
+Please note that this build will reboot if it crashes. I never thought to include a
+preference for it, but you can prevent it for now with "touch /tmp/no-crash-reboot".
+Alpha 4 will have a "RebootOnCrash" preference (for PC builds only).
+
+Patch support is fully implemented, and the Patch.rsa files are included for both ITG2 and
+future OpenITG patches. Patches of either type will work on OpenITG.
+
+Also, please note that an experimental arcade build is available. ITGIO is untested, and PIUIO
+input is borked, but the binary should at least run on arcade cabinets. You'll need a few more
+libraries, but I'm honestly not sure which. Please track them down and get back to me.
+
+You can compile arcade builds using config.h's "ITG_ARCADE" directive. configure should have a
+switch [--enable-itg-arcade], but it's been kind of spotty for me.
+
+
 -Mapping changes:
     Added PIUIO/IOW default mappings
     Added default keyboard maps for Select (P1 = right Shift, P2 = numpad 0)

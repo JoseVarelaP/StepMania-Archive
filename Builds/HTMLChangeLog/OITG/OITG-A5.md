@@ -3,6 +3,22 @@ title: "OpenITG, alpha 5"
 ---
 
 ```
+OpenITG, alpha 5 (April 30th, 2008)
+-----------------------------------
+
+Another night well-spent working on OpenITG instead of doing homework or, god
+forbid, sleeping. Ah, well, it's worth it when we get to this stage. :) Apologies
+for taking so long to get this release out - meatlife is tiring sometimes.
+
+For alpha 5, we've put more emphasis on making the program arcade-friendly.
+ITGIO input works fine, and PIUIO is completely functional. We've also backported
+4.0's InputFilter, enabling InputDebounceTime as well as improved input handling.
+ScreenArcadeStart is also functional, and a few bugs affecting arcade play have
+been fixed.
+
+Combine that with our install script, and this build is basically ready for
+dedicated cabinets (or upgrades, if you don't mind the lights stuck on). :D
+
 -New screens:
     ScreenArcadeStart - implemented, functional, does stuff
 -Code structure changes:

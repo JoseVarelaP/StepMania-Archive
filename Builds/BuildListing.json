@@ -414,32 +414,42 @@
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/stepmania-cvs-06-19-05-src.zip"
             },
             { "Name": "BBOY's 3.95 Mod", "Date": "2005-06-20" },
-            { "ID": "OITG-A1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1", "Date": "2007-12-02" },
-            { "ID": "OITG-A1.1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1.1", "Date": "2007-12-05" },
-            { "ID": "OITG-A2", "Icon": "OITG.png", "Name": "OpenITG Alpha 2", "Date": "2008-01-27" },
+            { "ID": "OITG-A1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1", "Date": "2007-12-02", "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha1.tar.gz" },
+            { "ID": "OITG-A1.1", "Icon": "OITG.png", "Name": "OpenITG Alpha 1.1", "Date": "2007-12-05",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/openitg-alpha1.1.gz"
+            },
+            { "ID": "OITG-A2", "Icon": "OITG.png", "Name": "OpenITG Alpha 2", "Date": "2008-01-27",
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Linux/openitg-alpha2.gz",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha2.tar.gz" },
             { "ID": "OITG-A3", "Icon": "OITG.png", "Name": "OpenITG Alpha 3", "Date": "2008-03-17",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha3.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha3.tar.gz"
             },
             { "ID": "OITG-A4", "Icon": "OITG.png", "Name": "OpenITG Alpha 4", "Date": "2008-03-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha4.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha4.tar.gz"
             },
             { "ID": "OITG-A5", "Icon": "OITG.png", "Name": "OpenITG Alpha 5", "Date": "2008-04-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha5.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha5.tar.gz"
             },
             { "ID": "OITG-A6", "Icon": "OITG.png", "Name": "OpenITG Alpha 6", "Date": "2008-05-30",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha6.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha6.tar.gz"
             },
             { "ID": "OITG-A7", "Icon": "OITG.png", "Name": "OpenITG Alpha 7", "Date": "2008-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha7.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha7.tar.gz"
             },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha 8", "Date": "2008-07-11",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha8.zip",
-                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha8.zip"
+                "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-alpha8.zip",
+                "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Source/OITG/src-alpha8.tar.gz"
             },
             { "Icon": "OITG.png", "Name": "OpenITG Alpha Pre-Beta", "Date": "2008-11-26",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.95/Cross/OpenITG-prebeta.zip",
