@@ -3,6 +3,14 @@
 		"Date": "21/Oct/23",
 		"Changes": [
 			{
+				"Icon": "SM164.png",
+				"Name": "DDR PC Edition",
+				"List": [
+					"<h1>ANNOUNCEMENT</h1>",
+					"<a href='../Builds/BuildChangeLogs.php?Version=DDRPCM1'>WE HAVE FOUND IMAGES AND INFORMATION ABOUT THE M1 BUILD.</a>"
+				]
+			},
+			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
 				"List": [

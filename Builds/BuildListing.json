@@ -4,7 +4,7 @@
         "DefaultIcon": "SM164.png",
         "Description": "Before StepMania 0.5, it was named DDR PC Edition. This was the beginning. After version 0.6x, the game would be rebranded to StepMania.",
         "Listing": [
-            { "Name": "DDR PC Edition m1", "Date": "2001-08-21" },
+            { "ID": "DDRPCM1", "Name": "DDR PC Edition m1", "Date": "2001-08-21" },
             { "ID": "SM050", "Name": "DDR PC Edition (StepMania 0.5 Alpha)", "Date": "2001-09-27" }
         ]
     },
@@ -89,7 +89,7 @@
         "Listing": [
             { "Name": "StepMania 3.9 Alpha 1", "Date": "2003-08-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha1.exe" },
             { "Name": "StepMania 3.9 Alpha 2", "Date": "2003-08-11", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha2.exe" },
-            { "Name": "StepMania 3.9 Alpha 3", "Date": "2003-08-06",
+            { "Name": "StepMania 3.9 Alpha 3", "Date": "2003-08-13",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9-alpha3.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha3.dmg"
             },
