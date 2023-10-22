@@ -189,6 +189,7 @@
 		] },
 		"Staiainv2" : { "Name": "Staiainv2", "Link": "Staiainv2.rar" },
 		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar", "NumImages": 5 },
+		"Xoon2" : { "Name": "Xoon 2", "Author": "Holystorm", "Link": "Xoon%202.rar" },
 		"Xoon3" : { "Name": "Xoon 3", "Link": "Xoon%203.rar" },
 		"Xoon4" : { "Name": "Xoon 4", "Link": "Xoon%204.rar" },
 		"ITG355" : { "Name": "In The Groove 355", "Link": "ITG355.rar" },
