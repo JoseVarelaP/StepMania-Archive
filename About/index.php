@@ -31,8 +31,8 @@
 		<div class="content-container wide-container">
             <div class="content">
                 <?php
-                    $Date = 'September 23rd, 2022';
-                    $Size = '226.7GB';
+                    $Date = 'October 23rd, 2023';
+                    $Size = '311.5GB';
                     $Thanks = array(
                         "Giovanni Shawn - Allowing me to archive Sushi Violation",
                         "MadkaT - Finding Club PARASTAR and Keys-Six",
@@ -61,9 +61,11 @@
                 </p>
                 <div id ="ThanksArea">
                     <h2>Special thanks to:</h2>
-                    <?php foreach( $Thanks as $Entry ) { ?>
-                        <p><?php echo $Entry ?></p>
-                    <?php } ?>
+                    <ul>
+                        <?php foreach( $Thanks as $Entry ) { ?>
+                            <li><p><?php echo $Entry ?></p></li>
+                        <?php } ?>
+                    </ul>
                 </div>
                 <h2>Submission requests</h2>
                 <p>

@@ -344,6 +344,14 @@
 		"Tribal" : { "Name": "Tribal", "HasImages": true, "NumImages": 8, "Link": "Tribal.rar" }
 	},
 
+	"ITG2PC" : {
+		"Name": "In The Groove 2 PC (mDawg)",
+		"DefaultIcon": "ITG1.png",
+		"itg2midnight": { "Name": "In The Groove 2 Midnight", "Date": "2008-08-08", "Link": "itg2midnight.zip" },
+		"itg2green": { "Name": "ITG2 Green", "Date": "2008-12-16", "Link": "ITG2_Green.rar" },
+		"itg2yellowtheme": { "Name": "ITG2 Yellow", "Date": "2008-12-16", "Link": "ITG2_Yellow_Theme.rar" }
+	},
+
 	"NITG" : {
 		"Name": "NotITG",
 		"DefaultIcon": "NITG4.png",
@@ -857,6 +865,7 @@
 			]
 		},
 		"simplychq" : { "Name": "Simply-CHQ", "Author": "barrysir", "Link": "https://github.com/barrysir/Simply-CHQ/archive/refs/heads/release.zip" },
-		"simplygen" : { "Name": "Simply-Gensokyo", "Author": "sorae42", "Link": "Simply-Gensokyo-main.zip" }
+		"simplygen" : { "Name": "Simply-Gensokyo", "Author": "sorae42", "Link": "Simply-Gensokyo-main.zip" },
+		"simplyitgmania" : { "Name": "Simply-ITGMania", "Author": "Connormgs", "Date": "2023-09-20", "HasImages": true, "NumImages": 6, "Link": "Simply-ITGMania-main-2023-11-14.zip" }
 	}
 }

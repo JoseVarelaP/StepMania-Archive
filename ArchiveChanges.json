@@ -1,5 +1,30 @@
 [
 	{
+		"Date": "27/Nov/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>ITGMania</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=ITGM&ID=simplyitgmania'>Simply-ITGMania</a>"
+				]
+			}
+		]
+	},
+	{
+		"Date": "16/Nov/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added a selection of themes made for <a href='../Themes/#ITG2PC'>mDawg's In The Groove 2 PC.</a>",
+				]
+			}
+		]
+	},
+	{
 		"Date": "21/Oct/23",
 		"Changes": [
 			{

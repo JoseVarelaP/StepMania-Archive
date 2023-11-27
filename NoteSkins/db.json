@@ -93,14 +93,20 @@
         "2ndmix-vivid": { "Name": "2ndMIX-vivid", "Link": "2ndMIX-vivid.zip"},
         "2ndmix-rainbow": { "Name": "2ndMIX-Rainbow", "Link": "2ndMIX-Rainbow.zip"},
         "2ndmix-note": { "Name": "2ndMIX-note", "Link": "2ndMIX-note.zip"},
-        "2ndmix-flat": { "Name": "2ndMIX-flat", "Link": "2ndMIX-flat.zip"}
+        "2ndmix-flat": { "Name": "2ndMIX-flat", "Link": "2ndMIX-flat.zip"},
+
+        "tdr": { "Name": "TDR", "Author": "rairin", "Link": "TDR.zip"},
+        "andy-noteskins": { "Name": "Andy Noteskins", "Author": "salAndy", "Link": "andy-noteskins.smzip", "isCollection": ["a-vivid","a-note"] },
+        "piuddr": { "Name": "PIUDDR", "Author": "Berrylicious", "Link": "PIUDDR.zip" },
+        "crystal": { "Name": "Crystal", "Link": "Crystal.rar" }
 	},
 
     "SM3.95": {
         "DefaultIcon": "SM39.png",
 		"Name": "StepMania 3.95",
         "pixel": { "Name": "pixel", "Author": "salAndy", "Link": "pixel.zip" },
-        "salandy": { "Name": "salAndy", "Author": "salAndy", "Link": "salAndy.zip" }
+        "salandy": { "Name": "salAndy", "Author": "salAndy", "Link": "salAndy.zip" },
+        "mgd": { "Name": "mgd", "Date": "2023-11-10", "Author": "Wanny", "Link": "mgd.7z" }
     },
 
     "SM4": {
@@ -154,6 +160,9 @@
         "uswrobotsm5": { "Name": "USWRobotSM5", "Author": "Jousway", "Link": "USWRobotSM5.7z" },
         "uswthirdstylesm5": { "Name": "USWThirdStyleSM5", "Author": "Jousway", "Link": "USWThirdStyleSM5.7z" },
         "uswvel3dsm5+": { "Name": "USWVel3DSM5+", "Author": "Jousway", "Link": "USWVel3DSM5%2B.7z" },
-        "uswvelsm5": { "Name": "USWVelSM5", "Author": "Jousway", "Link": "USWVelSM5.7z" }
+        "uswvelsm5": { "Name": "USWVelSM5", "Author": "Jousway", "Link": "USWVelSM5.7z" },
+
+        "Forestpro": { "Name": "Pro", "Author": "xXChaosMasterXx, ported by 1033Forest" ,"Link": "pro.zip" },
+        "skybladerAlpha": { "Name": "Alpha Noteskin Megapack", "Date": "2013-03-30", "Author": "SkyBlader07", "Link": "%5BSkyBlader07%5D%20-%20Alpha%20Noteskin%20Megapack%201.0.2.zip" }
     }
 }
