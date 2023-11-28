@@ -1,5 +1,18 @@
 [
 	{
+		"Date": "28/Nov/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"<h2><a href='../OtherSims/#DWI'>Dance With Intensity</a></h2>",
+					"We have surfaced 19 builds of the game, and are now available. Huge thanks to <a href='https://twitter.com/skoshche'>Skoshche</a> for finding these."
+				]
+			}
+		]
+	},
+	{
 		"Date": "27/Nov/23",
 		"Changes": [
 			{
@@ -19,7 +32,7 @@
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
 				"List": [
-					"Added a selection of themes made for <a href='../Themes/#ITG2PC'>mDawg's In The Groove 2 PC.</a>",
+					"Added a selection of themes made for <a href='../Themes/#ITG2PC'>mDawg's In The Groove 2 PC.</a>"
 				]
 			}
 		]
