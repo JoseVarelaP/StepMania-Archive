@@ -233,9 +233,11 @@
 		"DefaultIcon": "SM40.png",
 		"Name": "StepMania 4",
 		"beatman" : { "Name": "beat man - THE THEME", "Author": "AJ 187", "Date": "2007-09-05", "Link": "beatman_20070905.rar" },
-		"CeruleanSkies" : { "Name": "Cerulean Skies 2", "Author": "Midiman", "Version": "pb1", "Link": [
+		"CeruleanSkies" : { "Name": "Cerulean Skies", "Author": "Midiman", "Version": "pb1", "Date": "2008-07-13", "Link": "Cerulean%20Skies%20%28%20Release%20Ver%20%29.rar" },
+		"CeruleanSkies2" : { "Name": "Cerulean Skies 2", "Author": "Midiman", "Version": "pb1", "Link": [
 			{ "Name" : "Public Beta 1", "Date": "2009-11-08", "Link": "CeruleanSkies2-pb1_SM4a4_20091108-1332.zip" },
 			{ "Name" : "v1.1 HotFix", "Date": "2009-07-22", "Link": "tt-CS2-hotfix-1.1.zip" },
+			{ "Name" : "v1.0 HD", "Date": "2009-03-28", "Link": "Cerulean%20Skies%202%20%28%20HD%20Release%20Version%20%29.zip" },
 			{ "Name" : "v1.0", "Date": "2009-03-28", "Link": "tt-CS2-1.0.zip" }
 		] },
 		"d11DX" : { "Name": "dubai 11DX", "Author": "AJ 187", "Link": "dubai11DX.zip" },
@@ -443,6 +445,8 @@
 		"chiprev": {
 			"Name": "Chip.Revolution",
 			"Author": "Orien-S",
+			"HasImages": true,
+			"NumImages": 9,
 			"Link": [
 				{ "Name": "Chip.Revolution (Beta Indef.) LIVE-DEV 3-14-23 (R2)", "Date": "2023-03-14", "Link": "chip.revolution/Chip.Revolution%20LIVE-DEV%203-14-23%20%28R2%29.7z" },
 				{ "Name": "Chip.Revolution (Beta Indef.) RC10", "Date": "2023-03-14", "Link": "chip.revolution/Chip.Revolution%20%28Beta%20Indef.%29%20RC10.zip" },
@@ -845,6 +849,8 @@
 		"Virtua-Steps" : {
 			"Name": "Virtua Steps",
 			"Author": "Ryuto Setsujin",
+			"HasImages": true,
+			"NumImages": 6,
 			"Link": [
 				{ "Name": "Latest (Github)", "Link": "https://github.com/Tiny-Foxes/Virtua-Steps/archive/refs/heads/Release.zip" },
 				{ "Name": "v0.1 - Virtuality", "Date": "2022-08-01", "Link": "virtua-steps/Virtua-Steps-Virtuality-Release.zip" }

@@ -1,5 +1,22 @@
 [
 	{
+		"Date": "4/Dic/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>OutFox</h2>",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=OutFox&ID=Virtua-Steps'>Virtua Steps</a>. Thanks to Ryuto Setsujin for the pictures.",
+					"<h2>StepMania 5</h2>",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=chiprev'>Chip.Revolution</a>. Thanks to wrland for the pictures.",
+					"<h2>StepMania 4</h2>",
+					"Added the <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies'>original Celurian Skies</a> and the HD version of <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies2'>Celurian Skies 2</a>. Huge thanks to velkoon for unearthing these!"
+				]
+			}
+		]
+	},
+	{
 		"Date": "28/Nov/23",
 		"Changes": [
 			{
