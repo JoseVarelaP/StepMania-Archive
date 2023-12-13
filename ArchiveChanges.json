@@ -1,4 +1,54 @@
+
 [
+	{
+		"Date": "13/Dic/23",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 5</h2>",
+					"Thanks to Scrypts for the pictures.",
+					null,
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=SM4Alpha'>StepMania 4 Alpha</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=MithrasGoneWild'>Mithras Gone Wild</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=D3NEX'>D3NEX</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=D3NEXM'>D3NEX MAXIMUM</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=minimalist'>minimalist</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=PDR'>PONY DANCE REVOLUTION -1st Party-</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=spooky_theme'>Simplicity Theme</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=optics'>optics</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=ITG2'>In The Groove 2</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DokiDoki'>Doki Doki Dancing All Night!</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=drunkenshame'>drunken-shame</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Gothic'>GothicTheme</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=SMSuperNova'>StepMania SuperNova V3</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Moonlight'>Moonlight</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=TimeRift'>TimeRift</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Optical'>Optical</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=fiftyone'>Lambda</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=RX'>ResurrecXion Proyect</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Britney'>Britney's Dance Beat</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=otchill'>StepMania: On The Chill</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=miquote'>miquote-adventure</a>.",
+					"<h2>Project OutFox:</h2>",
+					"Added version 0.5 of <a href='../Themes/ThemePreview.php?Category=OutFox&ID=Virtua-Steps'>Virtua Steps</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"<h2><a href='../OtherSims/#DazzleDazzleRealization'>Dazzle Dazzle Realization</a></h2>",
+					"Added <a href='https://objects-us-east-1.dream.io/smothersims/DazzleDazzleRealization/d2r2a1.lzh'>version 2.00 α1</a>. Thanks to Nemi for finding this.",
+					"<h2><a href='../OtherSims/#DietDietRevolution'>Diet Diet Revolution</a></h2>",
+					"Added <a href='https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4'>gameplay footage</a>. More will come for the other entries as I get better VMs setup.",
+					"<h2><a href='../OtherSims/#beatmaniyari'>BEAT魔にやり</a></h2>",
+					"Fixed the release dates for versions 1.08 and 1.10."
+				]
+			}
+		]
+	},
 	{
 		"Date": "4/Dic/23",
 		"Changes": [
@@ -11,7 +61,7 @@
 					"<h2>StepMania 5</h2>",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=chiprev'>Chip.Revolution</a>. Thanks to wrland for the pictures.",
 					"<h2>StepMania 4</h2>",
-					"Added the <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies'>original Celurian Skies</a> and the HD version of <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies2'>Celurian Skies 2</a>. Huge thanks to velkoon for unearthing these!"
+					"Added the <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies'>original Cerulean Skies</a> and the HD version of <a href='../Themes/ThemePreview.php?Category=SM4&ID=CeruleanSkies2'>Cerulean Skies 2</a>. Huge thanks to velkoon for unearthing these!"
 				]
 			}
 		]

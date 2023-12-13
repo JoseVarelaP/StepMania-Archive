@@ -87,7 +87,12 @@ $decoded_data = json_decode($JSONContent, true);
 				function GetTitleOrPageForItem( $Item )
 				{
 					if( !array_key_exists('ID',$Item) )
-						return $Item['Name'];
+					{
+						$Result = $Item['Name'];
+						if( array_key_exists('Key', $Item) )
+							$Result = $Result . "<br><small>" . $Item['Key'] . "</small>";
+						return $Result;
+					}
 
 					return "<a href='BuildChangeLogs.php?Version=" . $Item['ID'] . "'>" . $Item['Name'] . "</a>";
 				}

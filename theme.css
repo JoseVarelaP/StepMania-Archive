@@ -18,6 +18,10 @@ body {
 	border-radius: 8px;
 }
 
+.shortPassed {
+	border: #fff 4px solid;
+}
+
 /* The new version of Center, as it's being deprecated from browsers for whatever reason. */
 .CenterItem {
 	display:block;

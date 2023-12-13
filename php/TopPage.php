@@ -51,6 +51,9 @@ function GetName($Item)
 		<a href="/SMArchive/<?php echo $CurrentPage ?>/"><img src="/SMArchive/Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
 	</div>
     <div class="top-menu" id="top-menu">
+		<!-- <div class="ShortageMessage">
+			<p>The archive's storage bucket is currently experiencing an outage.</p>
+		</div> -->
 		<a href="https://discord.gg/uMkVUrr"><img src="/SMArchive/static/discord_icon.png" id="toprighticon"></a>
 		<a href="https://github.com/JoseVarelaP/StepMania-Archive"><img src="/SMArchive/static/GitHub-Mark-Light-120px-plus.png" id="toprighticon"></a>
 		<div class="PageList">

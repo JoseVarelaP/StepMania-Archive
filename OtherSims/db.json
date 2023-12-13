@@ -111,7 +111,7 @@
     "DazzleDazzleRealization" : {
         "Name": "Dazzle Dazzle Realization",
         "Description": "Seems to be the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleReduplication/d2r.gif",
+        "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleRealization/d2r.gif",
         "Sources" : [
             { "Name": "DDRシミュレータ[Dazzle Dazzle Realization]", "Link": "https://web.archive.org/web/19991007105305/http://gauss.takamatsu-nct.ac.jp:80/~iguchi/ddr/ddr2.htm" }
         ],
@@ -137,7 +137,7 @@
             { "Name": "Dazzle Dazzle Realization β3a", "Date": "1999-01-20" },
             { "Name": "Dazzle Dazzle Realization β4 (FinalBeta)", "Date": "1999-01-25" },
             { "Name": "Dazzle Dazzle Realization v1.00", "Date": "1999-02-27" },
-            { "Name": "Dazzle Dazzle Realization v2.00 α1", "Date": "1999-02-28" },
+            { "Name": "Dazzle Dazzle Realization v2.00 α1", "Date": "1999-02-28", "Windows": "d2r2a1.lzh" },
             { "Name": "Dazzle Dazzle Realization v1.10", "Date": "1999-03-10" },
             { "Name": "Dazzle Dazzle Realization v1.20", "Date": "1999-04-19" },
             { "Name": "Dazzle Dazzle Realization 2ndMIX β1", "Date": "1999-06-18", "Windows": "d2r2b1_Dazzle_Dazzle_2ndMix.lzh" },
@@ -150,6 +150,7 @@
     },
     "DietDietRevolution" : {
 		"Name": "Diet Diet Revolution'99",
+        "Description": "<a href='https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4'>Video Footage</a>",
         "Picture": "https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/ddr99.png",
         "Sources" : [
             { "Name": "Diet Diet Revolution V2.3 User Manual" }
@@ -232,10 +233,10 @@
         ],
         "Listing": [
             { "Name": "Beat魔にやり本体 Ver2.50", "Date": "1999-03-10" },
-            { "Name": "Beat魔にやり本体 Ver1.10", "Date": "1999-11-15", "Windows": [
+            { "Name": "Beat魔にやり本体 Ver1.10", "Date": "1998-11-15", "Windows": [
                 { "Name": "Available<br>(Update Package, needs 1.08 downloaded)", "Link": "BMNY110S.ZIP" }
             ] },
-            { "Name": "Beat魔にやり本体 Ver1.08", "Date": "1999-12-05", "Windows": "BEATM108.ZIP" },
+            { "Name": "Beat魔にやり本体 Ver1.08", "Date": "1998-12-05", "Windows": "BEATM108.ZIP" },
             { "Name": "Beat魔にやり Data help<br>(Writing chart guide)", "Date": "1998-11-12", "Windows": [
                 { "Name": "Help document", "Link": "MANI_H10.ZIP" }
             ] }
