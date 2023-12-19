@@ -119,7 +119,7 @@
         "guilty": { "Name": "guilty", "Author": "Mr.Roob", "Link": "guilty.zip" }
     },
 
-    "SSC": {
+    "SM-SSC": {
         "DefaultIcon": "SMSSC.png",
 		"Name": "SM-SSC",
         "smr": { "Name": "StepMania Revolution", "Author": "VVIzzarT", "Link": "SMR.rar" }

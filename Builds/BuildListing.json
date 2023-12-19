@@ -322,15 +322,23 @@
             },
             { "Icon": "MUN1.png", "Name": "Mungyodance", "Date": "2006-07-30", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance.zip" },
             { "Icon": "MUN3.png", "Name": "Mungyodance 2", "Date": "2007-05-23",
-                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/mgd2_install.exe",
+                "Windows": [
+                    { "Name": "Available", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/mgd2_install.exe" },
+                    { "Name": "Decompiled Package", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Decomp.7z" }
+                ],
                 "Mac": [
-                    { "Name": "Addon Pack 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add01.mgd" }
+                    { "Name": "Addon Pack 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add01.mgd" },
+                    { "Name": "Decompiled Addon Pack 1", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add1-Decomp.7z" }
                 ],
                 "Linux": [
-                    { "Name": "Addon Pack 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add02.mgd" }
+                    { "Name": "Addon Pack 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD%20Addons/add02.mgd" },
+                    { "Name": "Decompiled Addon Pack 2", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add2-Decomp.7z" }
                 ]
             },
-            { "Icon": "MUN3.png", "Name": "Mungyodance 3", "Date": "2008-08-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance%203.rar" },
+            { "Icon": "MUN3.png", "Name": "Mungyodance 3", "Date": "2008-08-23", "Windows": [
+                { "Name": "Available", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Mungyodance%203.rar" },
+                { "Name": "Decompiled Package", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD3/MGD3-Decomp.zip" }
+            ] },
             { "Name": "StepMania 3.9a", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania-3.9a.zip" },
 
             { "Name": "StepmaniaX v5", "Date": "2003-10-17",
@@ -399,7 +407,8 @@
 			{ "Name": "舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)", "Date": "2010-04-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe" },
 			{ "Name": "DSS (Dance Super Station)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar" },
             { "Icon": "SDOX.png", "Name": "Super Dancer Offline Xtreme", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip" },
-            { "Name": "Electronic Beats", "Date": "2010-05-10", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip" }
+            { "Name": "Electronic Beats", "Date": "2010-05-10", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip" },
+            { "Name": "ResurrecXion Proyect 15.03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE" }
         ]
     },
 

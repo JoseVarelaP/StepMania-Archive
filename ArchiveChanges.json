@@ -1,5 +1,18 @@
-
 [
+	{
+		"Date": "19/Dec/23",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added decompiled packages for <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Decomp.7z'>Mungyodance 2</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD3/MGD3-Decomp.zip'>Mungyodance 3</a>.",
+					"Added decompiled packages for the <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add1-Decomp.7z'>Addon 1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add2-Decomp.7z'>Addon 2</a> packages for Mungyodance 2.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE'>ResurrecXion Proyect 15.03</a>."
+				]
+			}
+		]
+	},
 	{
 		"Date": "13/Dic/23",
 		"Changes": [
@@ -26,7 +39,7 @@
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Moonlight'>Moonlight</a>.",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=TimeRift'>TimeRift</a>.",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Optical'>Optical</a>.",
-					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=fiftyone'>Lambda</a>.",
+					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=fiftyOne'>Lambda</a>.",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=RX'>ResurrecXion Proyect</a>.",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Britney'>Britney's Dance Beat</a>.",
 					"Added pictures for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=otchill'>StepMania: On The Chill</a>.",
