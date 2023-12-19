@@ -134,7 +134,10 @@
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Linux/StepMania-3.9-alpha10-linux.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha10-src.tar.gz"
             },
-            { "Name": "StepMania 3.9 Alpha 10a (PNM Test)", "Date": "2003-12-18", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/20031219pnm1.zip" },
+            { "Name": "StepMania 3.9 Alpha 10a (PNM Test)", "Date": "2003-12-18", "Windows": [
+                { "Name": "Available", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/20031219pnm1.zip"},
+                { "Name": "Additional Characters", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/Pop%27n%20Music%20-%20Characters.7z" }
+            ] },
             { "Name": "StepMania 3.9 Alpha 11", "Date": "2003-12-31",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Source/StepMania-3.9-alpha11.exe",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Mac/StepMania-3.9-alpha11-mac.dmg",
@@ -408,7 +411,8 @@
 			{ "Name": "DSS (Dance Super Station)", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar" },
             { "Icon": "SDOX.png", "Name": "Super Dancer Offline Xtreme", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip" },
             { "Name": "Electronic Beats", "Date": "2010-05-10", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip" },
-            { "Name": "ResurrecXion Proyect 15.03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE" }
+            { "Name": "ResurrecXion Proyect 15.03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE" },
+            { "Name": "3DDX 2-D-TECH", "Date": "2007-03-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3DDX%20-%20Stepmania.7z" }
         ]
     },
 

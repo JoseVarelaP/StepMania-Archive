@@ -8,7 +8,19 @@
 				"List": [
 					"Added decompiled packages for <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Decomp.7z'>Mungyodance 2</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD3/MGD3-Decomp.zip'>Mungyodance 3</a>.",
 					"Added decompiled packages for the <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add1-Decomp.7z'>Addon 1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add2-Decomp.7z'>Addon 2</a> packages for Mungyodance 2.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE'>ResurrecXion Proyect 15.03</a>."
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE'>ResurrecXion Proyect 15.03</a>.",
+					null,
+					"Thanks to locuuraa for the following entries.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3DDX%20-%20Stepmania.7z'>3DDX 2-D-TECH</a>.",
+					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/Pop%27n%20Music%20-%20Characters.7z'>character bundle for Pop'n'Mania (PNM Test)</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.9</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=AuditionII'>Audition II</a>. Thanks to locuuraa for this entry."
 				]
 			}
 		]

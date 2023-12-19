@@ -113,7 +113,8 @@
 		"HMEn" : { "Name": "Hopscotch Mix 'Encore'", "HasImages": true, "NumImages": 5, "Author": "Charles Farce (Credesign)", "Link": "Hopscotch_Encore_beta.zip" },
 		"HMEx" : { "Name": "Hopscotch Mix 'Excel'", "HasImages": true, "NumImages": 5, "Author": "Charles Farce (Credesign)", "Link": "Hopscotch_3_Theme.zip" },
 		"Shuffle" : { "Name": "Shuffle", "HasImages": true, "NumImages": 5, "Link": "Shuffle.zip" },
-		"Cobalite" : { "Name": "Cobalite", "HasImages": true, "NumImages": 4, "Link": "Cobalite.smzip" }
+		"Cobalite" : { "Name": "Cobalite", "HasImages": true, "NumImages": 4, "Link": "Cobalite.smzip" },
+		"AuditionII" : { "Name": "Audition II", "Author": "2Shin, .:Tony:.", "Date": "2010-07-14", "Link": "AuditionII.7z" }
 	},
 
 	"SM3.9_Plus" : {
