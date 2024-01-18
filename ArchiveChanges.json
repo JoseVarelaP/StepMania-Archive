@@ -1,5 +1,24 @@
 [
 	{
+		"Date": "18/Jan/24",
+		"Changes": [
+			{
+				"Icon": "OUTFOX.png",
+				"Name": "Project OutFox",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre042-Win64-date-20231225.exe'>Project OutFox Alpha V Playtest Public Build pre042</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added versions 1.6.0 and 2.0.0 of <a href='../Themes/ThemePreview.php?Category=OutFox&ID=Superuser'>superuser</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "19/Dec/23",
 		"Changes": [
 			{

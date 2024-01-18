@@ -1720,7 +1720,24 @@
                 "Linux": [
                     { "Name": "amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-0.4.19-LTS-Linux-amd64-.20.04+.-modern-date-20230415.tar" }
                 ]
+            },
+	    { "Icon": "OUTFOXA5.png", "ID": "OUTFOX5.pre042", "Name": "Project OutFox Alpha V Playtest Public Build pre042", "Date": "2023-12-24",
+                "Windows": [
+                    { "Name": "64Bit", "Link": "https://objects-us-east-1.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre042-Win64-date-20231225.exe" }
+                ],
+                "Mac": [
+                	{ "Name": "Universal", "Link": "https://objects-us-east-1.dream.io/outfox/Mac/OutFox-AlphaV-0.5.0.0-pre042-MacOS-date-20231224.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "amd64-legacy", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-14.04-amd64-legacy-date-20231225.tar.gz" },
+		    { "Name": "amd64-classic", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-amd64-classic-date-20231225" },
+		    { "Name": "nojack-amd64", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-nojack-amd64-classic-nj-date-20231225.tar.gz" },
+		    { "Name": "amd64-modern", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-20.04-amd64-modern-date-20231225.tar.gz" },
+		    { "Name": "amd64-current", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-22.04-amd64-current-date-20231224.tar.gz" },
+		    { "Name": "arm64v8-modern", "Link": "https://objects-us-east-1.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Raspberry-Pi-Linux-18.04-arm64-arm64v8-modern-date-20231225.tar.gz" }
+                ]
             }
+
         ]
     },
 

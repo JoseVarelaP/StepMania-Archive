@@ -840,6 +840,8 @@
 			"NumImages": 4,
 			"HasImages": true,
 			"Link": [
+				{ "Name": "v2.0.0", "Date": "2023-07-14", "Link": "superuser/v2.0.0.zip" },
+				{ "Name": "v1.6.0", "Date": "2023-07-14", "Link": "superuser/v1.6.0.zip" },
 				{ "Name": "v1.5.0", "Date": "2022-10-08", "Link": "superuser/v1.5.0.zip" },
 				{ "Name": "v1.4.0", "Date": "2022-09-21", "Link": "superuser/v1.4.0.zip" },
 				{ "Name": "v1.3.0-hf1", "Date": "2022-07-05", "Link": "superuser/v1.3.0-hf1.zip" },
