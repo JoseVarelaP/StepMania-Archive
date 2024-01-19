@@ -15,6 +15,16 @@
 				"List": [
 					"Added versions 1.6.0 and 2.0.0 of <a href='../Themes/ThemePreview.php?Category=OutFox&ID=Superuser'>superuser</a>."
 				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added three builds of StepP1 Plus:",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta1.zip'>StepP1 Plus v0.9.5 BETA-1</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta2.zip'>StepP1 Plus v0.9.5 BETA-2</a>",
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-1.0.0.zip'>StepP1 Plus v1.0.0</a>"
+				]
 			}
 		]
 	},

@@ -866,6 +866,15 @@
             { "Name": "Twerkout Revolution", "Date": "2015-12-21",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip",
                 "Mac": "https://objects-us-east-1.dream.io/smbuilds/SM5/Mac/MAC%20-%20Twerkout%20Revolution.zip"
+            },
+            { "ID": "SP1Plus095b1", "Icon": "STEPP1.png", "Name": "StepP1 Plus v0.9.5 BETA-1", "Date": "2023-12-23",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta1.zip"
+            },
+            { "Icon": "STEPP1.png", "Name": "StepP1 Plus v0.9.5 BETA-2", "Date": "2023-12-24",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta2.zip"
+            },
+            { "ID": "SP1Plus100", "Icon": "STEPP1.png", "Name": "StepP1 Plus v1.0.0", "Date": "2024-01-12",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-1.0.0.zip"
             }
         ]
     },
