@@ -1,5 +1,54 @@
 [
 	{
+		"Date": "8/Mar/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 5</h2>",
+					"A bunch of themes from Madkat182.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR1st'>DDR 1st</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR2ndMix'>DDR 2nd Mix</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR3rdMix'>DDR 3rd Mix</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR5thKat'>DDR 5th Mix</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDRX'>DDR X</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDREX2'>DDR Extreme 2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDRDDM'>DDR DDM</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Aoi'>Aoi</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR2014'>DDR 2014</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR2013Kat'>DDR 2013</a>.",
+					null,
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=SimplyLove'>Simply Love V5.4.0</a>.",
+					"<h2>Project OutFox:</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=OutFox&ID=starlight-threepointzero'>XX -starlight- 3.0</a>.",
+					null,
+					"<h2>ITGMania</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=ITGM&ID=SimplyLove'>Simply Love (For ITGMania) V5.4.0</a>"
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.8.0-Windows-no-songs.exe'>ITGMania v0.8.0</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "18/Feb/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=HPFEdition'>ITG Happy Feet! Edition</a>. Thanks to Miles DFOX for unearthing this!"
+				]
+			}
+		]
+	},
+	{
 		"Date": "18/Jan/24",
 		"Changes": [
 			{
@@ -437,7 +486,7 @@
 				]
 			}
 		]
-	},	
+	},
 	{
 		"Date": "1/May/23",
 		"Changes": [
@@ -675,7 +724,7 @@
 	},
 	{
 		"Date": "17/Mar/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "ITGM.png",
 				"Name": "ITGmania",
@@ -702,7 +751,7 @@
 	},
 	{
 		"Date": "11/Feb/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SMSSC.png",
 				"Name": "SM-SSC",
@@ -737,7 +786,7 @@
 	},
 	{
 		"Date": "18/Jan/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
@@ -761,7 +810,7 @@
 	},
 	{
 		"Date": "05/Jan/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM164.png",
 				"Name": "DDR PC Edition",
@@ -781,7 +830,7 @@
 	},
 	{
 		"Date": "04/Jan/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.0",
@@ -829,7 +878,7 @@
 	},
 	{
 		"Date": "02/Jan/23",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -841,7 +890,7 @@
 	},
 	{
 		"Date": "29/Dec/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -860,7 +909,7 @@
 	},
 	{
 		"Date": "27/Dec/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -872,7 +921,7 @@
 	},
 	{
 		"Date": "1/Nov/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -884,7 +933,7 @@
 	},
 	{
 		"Date": "29/Oct/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -896,7 +945,7 @@
 	},
 	{
 		"Date": "16/Oct/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
@@ -923,7 +972,7 @@
 	},
 	{
 		"Date": "14/Aug/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
@@ -936,7 +985,7 @@
 	},
 	{
 		"Date": "10/Aug/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
@@ -951,7 +1000,7 @@
 	},
 	{
 		"Date": "3/Aug/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM164.png",
 				"Name": "StepMania 0.9x",
@@ -979,7 +1028,7 @@
 	},
 	{
 		"Date": "23/Jun/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -991,7 +1040,7 @@
 	},
 	{
 		"Date": "12/Jun/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "ITGM.png",
 				"Name": "ITGmania",
@@ -1019,7 +1068,7 @@
 	},
 	{
 		"Date": "20/May/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -1031,7 +1080,7 @@
 	},
 	{
 		"Date": "18/Apr/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Themes Archive",
@@ -1052,7 +1101,7 @@
 	},
 	{
 		"Date": "3/Apr/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1064,7 +1113,7 @@
 	},
 	{
 		"Date": "26/Mar/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1089,7 +1138,7 @@
 	},
 	{
 		"Date": "14/Mar/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "ETT.png",
 				"Name": "Etterna",
@@ -1117,7 +1166,7 @@
 	},
 	{
 		"Date": "20/Feb/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
@@ -1136,7 +1185,7 @@
 	},
 	{
 		"Date": "10/Feb/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1148,7 +1197,7 @@
 	},
 	{
 		"Date": "26/Jan/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Archive Notes",
@@ -1175,7 +1224,7 @@
 	},
 	{
 		"Date": "25/Jan/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "NITG4.png",
 				"Name": "NotITG",
@@ -1187,7 +1236,7 @@
 	},
 	{
 		"Date": "17/Jan/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
@@ -1210,7 +1259,7 @@
 	},
 	{
 		"Date": "13/Jan/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -1229,7 +1278,7 @@
 	},
 	{
 		"Date": "7/Jan/22",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
@@ -1250,7 +1299,7 @@
 	},
 	{
 		"Date": "31/Dec/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Just a message",
@@ -1270,7 +1319,7 @@
 	},
 	{
 		"Date": "10/Dec/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "ETT.png",
 				"Name": "Etterna",
@@ -1282,7 +1331,7 @@
 	},
 	{
 		"Date": "6/Nov/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -1294,7 +1343,7 @@
 	},
 	{
 		"Date": "19-21/Oct/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
@@ -1330,7 +1379,7 @@
 	},
 	{
 		"Date": "9/Oct/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
@@ -1355,7 +1404,7 @@
 	},
 	{
 		"Date": "7/Oct/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1367,7 +1416,7 @@
 	},
 	{
 		"Date": "31/Aug/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1390,7 +1439,7 @@
 	},
 	{
 		"Date": "20/Aug/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM40.png",
 				"Name": "Theme Archive",
@@ -1402,7 +1451,7 @@
 	},
 	{
 		"Date": "12/Aug/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1429,7 +1478,7 @@
 	},
 	{
 		"Date": "5/Aug/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1455,7 +1504,7 @@
 	},
 	{
 		"Date": "23/Jul/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
@@ -1467,7 +1516,7 @@
 	},
 	{
 		"Date": "24-25/Jun/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
@@ -1495,7 +1544,7 @@
 	},
 	{
 		"Date": "3/Jun/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
@@ -1515,7 +1564,7 @@
 	},
 	{
 		"Date": "2/Jun/21",
-		"Changes" : [
+		"Changes": [
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
@@ -1795,7 +1844,7 @@
 			{
 				"Icon": "OUTFOX.png",
 				"Name": "OutFox",
-				"List" : [
+				"List": [
 					"Fixed the <a href='BuildChangeLogs.html?Version=OUTFOX4.9.7'>StepMania OutFox Alpha 4.9.7</a> changelog as it was missing the UTF-8 Charset."
 				]
 			}
@@ -2272,7 +2321,9 @@
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
-				"List": [ "SM 5 Beta 1a has been updated with its installer." ]
+				"List": [
+					"SM 5 Beta 1a has been updated with its installer."
+				]
 			}
 		]
 	},
@@ -2282,22 +2333,30 @@
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
-				"List": [ "SM 5 Beta 1a has been updated with its installer." ]
+				"List": [
+					"SM 5 Beta 1a has been updated with its installer."
+				]
 			},
 			{
 				"Icon": "SMSSC.png",
 				"Name": "SM-SSC",
-				"List": [ "Release Candidate 1 has been updated with its installer." ]
+				"List": [
+					"Release Candidate 1 has been updated with its installer."
+				]
 			},
 			{
 				"Icon": "NITG3.ico",
 				"Name": "OpenITG",
-				"List": [ "NotITG 3.1 has been added." ]
+				"List": [
+					"NotITG 3.1 has been added."
+				]
 			},
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
-				"List": [ "Some links have been updated with SMArchive server archived versions." ]
+				"List": [
+					"Some links have been updated with SMArchive server archived versions."
+				]
 			},
 			{
 				"Icon": "SM39.png",
@@ -2329,7 +2388,9 @@
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
-				"List": [ "XSoft's In The Groove 2 has been added." ]
+				"List": [
+					"XSoft's In The Groove 2 has been added."
+				]
 			}
 		]
 	},
@@ -2339,7 +2400,9 @@
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
-				"List": [ "XSoft's DDR X has been added." ]
+				"List": [
+					"XSoft's DDR X has been added."
+				]
 			}
 		]
 	},
@@ -2349,12 +2412,16 @@
 			{
 				"Icon": "ETT.png",
 				"Name": "Etterna",
-				"List": [ "Initial set of Etterna builds are now being listed." ]
+				"List": [
+					"Initial set of Etterna builds are now being listed."
+				]
 			},
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
-				"List": [ "StepMania 4 Alpha 5 has been added." ]
+				"List": [
+					"StepMania 4 Alpha 5 has been added."
+				]
 			}
 		]
 	},
@@ -2364,7 +2431,9 @@
 			{
 				"Icon": "SM164.png",
 				"Name": "StepMania 1.6x",
-				"List": [ "More builds have been listed, most of them I do not know their release dates." ]
+				"List": [
+					"More builds have been listed, most of them I do not know their release dates."
+				]
 			},
 			{
 				"Icon": "SM5.png",
@@ -2395,12 +2464,16 @@
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
-				"List": [ "StepMania 4.0 Beta 10 has finally been restored and it's back up for download." ]
+				"List": [
+					"StepMania 4.0 Beta 10 has finally been restored and it's back up for download."
+				]
 			},
 			{
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
-				"List": [ "Added Touch Input demonstration video for StepMania AMX Beta 5.9.2." ]
+				"List": [
+					"Added Touch Input demonstration video for StepMania AMX Beta 5.9.2."
+				]
 			},
 			{
 				"Icon": "OUTFOX.png",

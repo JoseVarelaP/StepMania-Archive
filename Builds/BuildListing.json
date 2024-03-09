@@ -1791,7 +1791,15 @@
 				],
                 "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.7.0-Linux-no-songs.tar.gz",
                 "Src": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.7.0.tar.gz"
-            }
+            },
+	    { "ID": "ITGM0.8.0", "Name": "ITGmania v0.8.0", "Date": "2024-03-07",
+		    "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.7.0-Windows-no-songs.exe",
+		    "Mac": [
+			    { "Name": "M1 Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.7.0-macOS-M1-no-songs.exe" },
+			    { "Name": "Intel Chip", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.7.0-macOS-Intel-no-songs.exe" }
+		    ],
+		    "Linux": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.7.0-Linux-no-songs.exe"
+	    }
         ]
     },
 

@@ -344,7 +344,8 @@
 		"Moogle" : { "Name": "Moogle", "HasImages": true, "NumImages": 7, "Link": "MOOOOOOOOOGLE.rar" },
 		"Orange" : { "Name": "Orange", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Orange%20Recolor.rar" },
 		"PurpleDrank" : { "Name": "Purple DRANK", "Explicit": true, "HasImages": true, "NumImages": 8, "Link": "Purple%20DRANK.rar" },
-		"Tribal" : { "Name": "Tribal", "HasImages": true, "NumImages": 8, "Link": "Tribal.rar" }
+		"Tribal" : { "Name": "Tribal", "HasImages": true, "NumImages": 8, "Link": "Tribal.rar" },
+		"HPFEdition": { "Name": "ITG HPF! Edition", "Author": "Happy Feet!", "Link": "ITG_HPF_Edition.rar" }
 	},
 
 	"ITG2PC" : {
@@ -388,7 +389,7 @@
 			]
 		},
 		"CS8S" : {
-			"Name": "Cyberia Style 8 -solid-",
+			"Name": "CyberiaStyle 8 -solid-",
 			"Author": "gl_yukt",
 			"Version": "8.5",
 			"HasImages": true,
@@ -433,7 +434,7 @@
 			]
 		},
 		"CS8LA" : {
-			"Name": "Cyberia Style 8 LAST APPROACH",
+			"Name": "CyberiaStyle LAST APPROACH",
 			"Author": "gl_yukt",
 			"Version": "L-12",
 			"HasImages": true,
@@ -476,10 +477,10 @@
 		"D3NEXM" : { "Name": "D3NEX MAXIMUM", "NumImages": 5, "HasImages": true, "Version": "7", "Link": "D3NEX_MAXIMUM_Theme_20150401.zip" },
 		"DDR2013" : { "Name": "DDR 2013", "Version": "7", "NumImages": 6, "Link": "DDR%202013.zip" },
 		"DDRAKENp" : { "Name": "DDR A (KENP mod)", "Date": "2018-01-15", "Version": "7", "Link": "DDR%20A%20-%20KENP_Mod%2020180115.zip" },
-		"DeltaNEX" : { "Name": "Pump It Up Delta NEX Rebirth", "Author": "RhythmLunatic", "Link": "Delta-NEX-Rebirth.zip" },
+		"DeltaNEX" : { "Name": "Pump It Up Delta NEX Rebirth", "NumImages": 4, "Author": "RhythmLunatic", "Link": "Delta-NEX-Rebirth.zip" },
 		"minimalist": { "Name": "minimalist", "NumImages": 5, "HasImages": true, "Author": "halo", "Date": "2021-03-01", "Link": "minimalist-master.zip" },
 		"PDR": { "Name": "PONY DANCE REVOLUTION -1st Party-", "NumImages": 7, "HasImages": true, "Author": "Retropony", "Date": "2016-08-23", "Link": "PonyDanceRevolution-master.zip" },
-		"ultimate": { "Name":"Ultimate", "Author": "Luizsan", "Date": "2017-08-28", "Link": "ultimate.zip" },
+		"ultimate": { "Name":"Ultimate", "NumImages": 1, "Author": "Luizsan", "Date": "2017-08-28", "Link": "ultimate.zip" },
 		"spooky_theme": { "Name": "Simplicity Theme", "NumImages": 6, "HasImages": true, "Author": "SpoOkyMagician", "Date": "2018-11-23", "Link": "spookys_theme-master.zip" },
 		"optics": { "Name": "optics", "NumImages": 5, "HasImages": true, "Author": "shakesoda", "Date": "2013-10-07", "Link": "optics-master.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
@@ -508,7 +509,7 @@
 				{ "Name": "v1.0.0", "Date": "2023-11-07", "Link": "ITG2-SM5/In-The-Groove2-SM5-1.0.0.zip" }
 			]
 		},
-		"Kuro" : { "Name": "Kuro Project", "Date": "2014-05-27", "Version": "7", "Link": "Kuro%20Project.zip" },
+		"Kuro" : { "Name": "Kuro Project", "NumImages": 4, "Date": "2014-05-27", "Version": "7", "Link": "Kuro%20Project.zip" },
 		"Lazarus" : { "Name": "Lazarus -Arcade Influence System v5- Plus", "HasImages": true, "NumImages": 2, "Date": "2020-10-12", "Author": "Lirodon", "Version": "5", "Link": "Lazarus/LazarusPlus-1.53.zip" },
 		"O2ManiaEX" : { "Name": "O2Mania EX", "Date": "2014-05-27", "Author": "arvinkent098", "Version": "5", "Link": "O2Mania%20EX.zip" },
 		"SIGMA" : { "Name": "SIGMA -The Blue Dasher-", "Author": "Carluz", "Date": "2014-05-27", "Version": "5", "NumImages": 4, "HasImages": true, "Link": "SIGMA%20-The%20Blue%20Dasher-%20v1.0.zip" },
@@ -516,6 +517,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love",
 			"Link": [
+				{ "Name": "Simply-Love-v5.4.0", "Date":"2023-03-07", "Link": "Simply-Love/Simply-Love-v5.4.0.zip"},
 				{ "Name": "Simply-Love-v5.3.0", "Date":"2023-06-18", "Link": "Simply-Love/Simply-Love-v5.3.0.zip"},
 				{ "Name": "Simply-Love-v5.2.1", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1.zip"},
 				{ "Name": "Simply-Love-v5.2.0", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0.zip"},
@@ -560,26 +562,31 @@
 		] },
 		"Trotmania1" : {
 			"Name": "TrotMania",
+			"NumImages": 4,
 			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania.7z"
 		},
 		"Trotmania2" : {
 			"Name": "TrotMania II: Chrystalize",
+			"NumImages": 4,
 			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania2-final%20theme.zip"
 		},
 		"Trotmania3" : {
 			"Name": "TrotMania III: Aeternum Obscurum",
+			"NumImages": 8,
 			"Link": [
 				{ "Name": "v1.6", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20III%20Theme%20v1.6.zip" }
 			]
 		},
 		"Trotmania4" : {
 			"Name": "TrotMania IV: Euphorius",
+			"NumImages": 4,
 			"Link": [
 				{ "Name": "v1.5", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TM4%20Theme%201.5.zip" }
 			]
 		},
 		"Trotmania5" : {
 			"Name": "TrotMania V: Shrive",
+			"NumImages": 4,
 			"Link": [
 				{ "Name": "v1.0.1", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20V%20Theme%201.0.1.zip" }
 			]
@@ -697,15 +704,15 @@
 		},
 		"Jounin": { "Name": "Jounin - SM Creation XXIV", "NumImages": 3, "Author": "Lirodon", "Date": "2016-10-28", "Link": "RX%2017.01.zip" },
 		"RX": { "Name": "ResurrecXion Proyect", "NumImages": 5, "HasImages": true, "Author": "sharechk", "Date": "2017-01-12", "Link": "RX%2017.01.zip" },
-		"RhythmMania": { "Name": "RhythmMania", "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
-		"QuadIIDX": { "Name": "QuadIIDX", "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },
+		"RhythmMania": { "Name": "RhythmMania", "NumImages": 1, "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
+		"QuadIIDX": { "Name": "QuadIIDX", "NumImages": 4, "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },
 		"Britney": { "Name": "Britney's Dance Beat", "NumImages": 6, "HasImages": true, "Author": "MadkaT182", "Date": "2018-06-15", "Link": "Britney%201.0.0.rar" },
 		"Tournament": { "Name": "Tournament", "Author": "MadkaT182", "Date": "2018-12-01", "Link": "Tournament-master.zip", "NumImages": 2 },
 		"Touhou-Hisoutensoku": { "Name": "Touhou-Hisoutensoku", "Author": "Jousway", "Date": "2019-06-14", "Link": "Touhou-Hisoutensoku-master.zip" },
 		"Waterfall" : { "Name": "Waterfall", "Author": "SteeveReen", "Link": "WF_07.zip" },
 		"WFExpanded" : { "Name": "Waterfall Expanded", "Author": "zarzob", "Date": "2022-03-25", "Link": "Waterfall%20Expanded.zip" },
 		"ultralight" : { "Name": "ultralight", "HasImages": true, "NumImages": 5, "Link": "ultralight_20141006-r13.zip" },
-		"paddyco_theme": { "Name": "Stepmania Theme With No Name Yet", "Author": "PaddyCo", "Date": "2018-02-25", "Link": "paddyco-stepmania-theme-master.zip" },
+		"paddyco_theme": { "Name": "Stepmania Theme With No Name Yet", "NumImages": 2, "Author": "PaddyCo", "Date": "2018-02-25", "Link": "paddyco-stepmania-theme-master.zip" },
 		"UPSRT" : { "Name": "UPSRT", "HasImages": true, "NumImages": 5, "Link": "UPSRT.zip" },
 		"XIX.SUPER" : { "Name": "XIX Laconia", "Author": "k//eternal, shakesoda", "HasImages": true, "NumImages": 6, "Date": "2014-09-19", "Link": "XIX.SUPER.zip" },
 		"otchill" : { "Name": "StepMania: On The Chill", "NumImages": 6, "HasImages": true, "Author": "psmay", "Link": "stepmania-on-the-chill-theme.zip" },
@@ -731,10 +738,20 @@
 			]
 		},
 		"MetroQuadX-Ridiculous": {
-			"Name": "MetroQuadX (Ridiculous mod)", "Author": "arcaneAgilmente, Th3_Ov3rHell_3XoduZ", "Link": [
+			"Name": "MetroQuadX (Ridiculous mod)", "NumImages": 4, "Author": "arcaneAgilmente, Th3_Ov3rHell_3XoduZ", "Link": [
 				{ "Name": "Metro Quad X REVISION 7 (Ridiculous mod)", "Date": "2015-11-05", "Link": "MetroQuadX/Metro%20Quad%20REVISION%207%20Ridiculous%20Mod%20%282015.11.5%29.zip" }
 			]
-		}
+		},
+		"DDR1st": { "Name": "DDR 1st", "Author": "MadkaT182", "Link": "DDR1st-master.zip" },
+		"DDR2ndMix": { "Name": "DDR 2nd Mix", "Author": "MadkaT182", "Link": "DDR2ndMix-master.zip" },
+		"DDR3rdMix": { "Name": "DDR 3rd Mix", "Author": "MadkaT182", "Link": "DDR3rdMix-master.zip" },
+		"DDR5thKat": { "Name": "DDR 5th Mix", "Author": "MadkaT182", "Link": "DDR5th-master.zip" },
+		"DDRX": { "Name": "DDR X", "Author": "MadkaT182", "Link": "DDRX-master.zip" },
+		"DDREX2": { "Name": "DDR Extreme 2", "Author": "MadkaT182", "Link": "DDREX2-master.zip" },
+		"DDRDDM": { "Name": "DDR DDM", "Author": "MadkaT182", "Link": "DDRDDM-master.zip" },
+		"Aoi": { "Name": "Aoi", "Author": "MadkaT182", "Link": "Aoi-master.zip" },
+		"DDR2014": { "Name": "DDR 2014", "Author": "MadkaT183", "Link": "DDR2014-master.zip" },
+		"DDR2013Kat": { "Name": "DDR 2013", "Author": "MadkaT183", "Link": "DDR2013-master.zip" }
 	},
 
 	"ETT": {
@@ -811,6 +828,13 @@
 				{ "Name": "XX_-starlight-_V2.0.0", "Date": "2021-11-26", "Link": "XX-starlight-/XX.-STARLiGHT-.twopointzero.v2.0.0.zip" }
 			]
 		},
+		"starlight-threepointzero" : {
+			"Name": "XX -starlight- 3.0",
+			"Author": "silverdragon754, HypnoticMarten77, Inorizushi, black4ever, tertu",
+			"Link": [
+				{ "Name": "XX_-starlight-_V3.0-Beta1", "Date": "2024-02-07", "Link": "XX-starlight-/XX.-STARLiGHT-.threepointzero.v3.0-Beta1.zip" }
+			]
+		},
 		"ITG3Encore" : {
 			"Name": "In The Groove 3 Encore",
 			"Author": "DarkBahamut162",
@@ -874,6 +898,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love (for ITGMania)",
 			"Link": [
+				{ "Name": "Simply-Love-v5.4.0-for-ITGmania", "Date":"2024-03-07", "Link": "Simply-Love/Simply-Love-v5.4.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.3.0-for-ITGmania", "Date":"2023-06-18", "Link": "Simply-Love/Simply-Love-v5.3.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.1-for-ITGmania", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.0-for-ITGmania", "Date":"2023-03-17", "Link": "Simply-Love/Simply-Love-v5.2.0-for-ITGmania.zip"},
