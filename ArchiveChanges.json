@@ -1,5 +1,47 @@
 [
 	{
+		"Date": "2/May/24",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/neonfm_2005.zip'>'final' version of Neon FM: Dance Radio</a>, which Eric Yockey just posted publicly on Rhythm Game Cabs."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.9</h2>",
+					"Added images to the following themes, thanks to ThePlay0987654.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=CS1'>CyberiaStyle</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=CS2'>CyberiaStyle 2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=FFR'>Flash Flash Revolution</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=FB2'>ForeverBlue 2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=CitySc'>CityScape</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=NPREX3'>N.PREX3 NeoStyle</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "8/Apr/24",
+		"Changes": [
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Thanks to ElGFAS for bringing these up!",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.0.zip'>StepP2 V3.0</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.1.zip'>StepP2 V3.1</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.2.zip'>StepP2 V3.2</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.4.zip'>StepP2 V3.4</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "8/Mar/24",
 		"Changes": [
 			{
