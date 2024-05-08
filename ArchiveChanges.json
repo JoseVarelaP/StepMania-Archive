@@ -1,5 +1,17 @@
 [
 	{
+		"Date": "8/May/24",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20DDR%20%2B%20TECHNO%20MOTION%20FULL%20LIBERADO.zip'>A repackaged SM3.9 build by CODE: REBORN</a>, which includes a TechnoMotion based theme and content."
+				]
+			}
+		]
+	},
+	{
 		"Date": "2/May/24",
 		"Changes": [
 			{
