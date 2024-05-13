@@ -8,6 +8,15 @@
 				"List": [
 					"Added OpenSMO to the <a href='../Tools/'>tools archive</a>."
 				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h3>SM3.9</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=SMlp'>Stepmania Pony Mix</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=XIBlack'>XI Black R2+</a>."
+				]
 			}
 		]
 	},
