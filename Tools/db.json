@@ -229,6 +229,49 @@
         ]
     },
 
+    "OpenSMO" : {
+        "Name": "OpenSMO",
+        "Description": "An open source SMO server written in Mono C# by <a href='https://twitter.com/codecatt'>Codecat</a> so you can fire up a StepMania Online server of your own.",
+        "Listing": [
+            {
+                "Name": "Latest Source Master", "Date": "2017-02-23",
+                "Src": "OpenSMO-master-2017-02-23.zip"
+            },
+            {
+                "Name": "OpenSMO_1.04", "Date": "2012-06-06",
+                "Windows": "OpenSMO_1.04.rar"
+            },
+            {
+                "Name": "OpenSMO_1.03", "Date": "2012-04-18",
+                "Windows": [
+                    { "Name": "Installer", "Link": "OpenSMO_1.03_Setup.zip" },
+                    { "Name": "Binaries", "Link": "OpenSMO_1.03.zip" }
+                ]
+            },
+            {
+                "Name": "OpenSMO_1.02", "Date": "2012-04-07",
+                "Windows": [
+                    { "Name": "Installer", "Link": "OpenSMO_1.02_Setup.zip" },
+                    { "Name": "Binaries", "Link": "OpenSMO_1.02.zip" }
+                ]
+            },
+            {
+                "Name": "OpenSMO_1.01", "Date": "2012-04-07",
+                "Windows": [
+                    { "Name": "Installer", "Link": "OpenSMO_1.01_Setup.zip" },
+                    { "Name": "Binaries", "Link": "OpenSMO_1.01.zip" }
+                ]
+            },
+            {
+                "Name": "OpenSMO_1.00", "Date": "2012-04-06",
+                "Windows": [
+                    { "Name": "Installer", "Link": "OpenSMO_1.00_Setup.zip" },
+                    { "Name": "Binaries", "Link": "OpenSMO_1.00.zip" }
+                ]
+            }
+        ]
+    },
+
     "TranslationToolkit" : {
         "Name": "Translation-Toolkit",
         "Description": "This project is intended as a small application to automate some tasks for translators. It is able to parse, analyze and fix the StepMania translation files.",
