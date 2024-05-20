@@ -1,5 +1,34 @@
 [
 	{
+		"Date": "19/May/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>SM3.9</h2>",
+					"Every single theme currently available on the archive for StepMania 3.9 (with the exception of TDR-Mix -Original Edition-) now has screenshots! Thanks to an individual who would like to remain anonymous.",
+					null,
+					"New themes have been added:",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Aoi'>A.O.I</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Aoi-np2'>A.O.I -0.2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=BeatendoV1'>Beatendo V1</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=Cheesemix2'>Cheesemix 2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DDRSN2'>Dance Dance Revolution SuperNOVA 2</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DSFever'>Dancing Stage Fever</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DSMegaMix'>Dancing Stage MegaMix Rev 4.0</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DDR4thPlus'>DDR 4th Mix Plus</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DDRUltramixPlus'>DDR Ultramix Plus 2.9</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=KatzeExtreme'>Katze Extreme</a>.",
+
+					"<h2><a href='#BeatUpMania'>Beat Up Mania</a></h2>",
+					"Created Section.",
+					"Moved <a href='../Themes/ThemePreview.php?Category=BeatUpMania&ID=AuditionII'>Audition II</a> from SM3.9 to this section as its meant for this build."
+				]
+			}
+		]
+	},
+	{
 		"Date": "12/May/24",
 		"Changes": [
 			{
