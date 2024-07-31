@@ -1,5 +1,87 @@
 [
 	{
+		"Date": "31/Jul/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "General Archive Update",
+				"List": [
+					"Hi, sorry I was gone for a bit. Turns out during this time, a lot of links in here have been broken, so this update comes to fix all of them. This is a rolling update, so there will be multiple commits going through the missing items, updating which are broken, missing, moved, etc.",
+					"Huge thanks to Ryuto Setsujin, Edmspack for letting me know about these broken links."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Removed Mac version of StepMania 3.9 Release Candidate 2a, as it wasn't a thing, only RC2 was released for Mac."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"Fixed linux download links for CVS-20060716 and CVS-20080103."
+				]
+			},
+			{
+				"Icon": "SMSSC.png",
+				"Name": "SM-SSC",
+				"List": [
+					"Fixed Windows download link for SM-SSC 1.0 Release Candidate 1."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Fixed Windows download links for both StepMania Event builds.",
+					"Fixed Linux download links for SM5 5.0.8 to 5.0.12.",
+					"Fixed download link for StepPrime Beta 0.94.5.",
+					"STEP MOD 2020's download link has been replaced with the archive's backup."
+				]
+			},
+			{
+				"Icon": "ETT.png",
+				"Name": "Etterna",
+				"List": [
+					"Fixed the rest of the missing links for Mac and Linux builds."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h3>SM3.9 Plus</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=IIDXGold'>IIDX GOLD</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.9_Plus&ID=PXII'>IIDX Gold 14th Style (Project XII)</a>.",
+					null,
+					"<h3>SM3.95</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass'>Glass</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG3Shadow'>In The Groove Shadow 3</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Secks'>Secks</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=SalAndy'>salAndy3.95</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=MB'>Mario_Blue</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Katt'>Katt Theme</a>.",
+					null,
+					"<h3>SM-SSC</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM-SSC&ID=Optical'>Optical</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=SM-SSC&ID=Moonlight'>moonlight</a>.",
+					null,
+					"<h3>StepMania 5</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Jounin'>Jounin - SM Creation XXIV</a>.",
+					null,
+					"<h3>ITGMania</h3>",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=ITGM&ID=simplygen'>Simply-Gensokyo</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=ITGM&ID=simplyitgmania'>Simply-ITGMania</a>.",
+					"Fixed download link for <a href='../Themes/ThemePreview.php?Category=ITGM&ID=simplyitgmania'>Simply Love (for ITGMania) v5.4.0</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=ITGM&ID=SimplyLove'>Simply Love v5.5.0</a>.",
+					"<ul>Quick reminder that Simply Love is now an ITGMania exclusive (which is a shame), so further updates will go to that section.</ul>"
+				]
+			}
+		]
+	},
+	{
 		"Date": "19/May/24",
 		"Changes": [
 			{

@@ -188,7 +188,7 @@
 		"PArS" : { "Name": "Project ArS XV I", "Link": "Projekt%20ArS-XV-l.7z" },
 		"PXII" : { "Name": "IIDX Gold 14th Style (Project XII)", "Link": "projektgold.zip" },
 		"PXIII" : { "Name": "Project XIII+ SECOND STRIKERS", "Link": "Projekt%20XIII%2B%20SECOND%20STRIKERS.zip" },
-		"IIDXGold" : { "Name": "IIDX GOLD", "Link": "solidsnake.zip" },
+		"IIDXGold" : { "Name": "IIDX GOLD", "Link": "solidsnake.7z" },
 		"IIDXLincle" : { "Name": "IIDX Lincle", "Link": "XVIIe2.0.zip" },
 		"IIDXTricoro" : { "Name": "IIDX Tricoro", "Link": "XVIII%20COMPLETE.zip" },
 		"AOI-sapphire" : { "Name": "AOI-sapphire", "Link": "dongsnopw.zip" }
@@ -382,7 +382,7 @@
 		"DefaultIcon": "SMSSC.png",
 		"Delta": { "Name": "PIU Delta", "Date": "2012-04-14", "Author": "Luizsan", "Link": "delta_v3.rar" },
 		"Moonlight" : { "Name": "Moonlight", "Date": "2012-07-11", "Author": "AJ 187", "Link": "moonlight_1.0-final.zip" },
-		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "delta_v3.rar" },
+		"Optical": { "Name": "Optical", "Author": "shakesoda", "Link": "optical-1.00.zip" },
 		"SOMS2": { "Name": "Selling Out Made Simple 2", "Author": "freem", "NumImages": 6 },
 		"IIDX15": { "Name": "IIDX 15", "Date": "2011-10-02", "Author": "DJ.Tony", "Link": "%5BSM5%5D%20IIDX15%20theme%20and%20noteskin%20V1.0.zip" },
 		"Zenith": { "Name": "Zenith", "Date": "2010-04-15", "Author": "Midiman", "Link": "zenith_v1.0.zip", "NumImages": 5 }
@@ -717,7 +717,7 @@
 				{ "Name": "v1.0 RC ", "Date": "2017-08-08", "Link": "smtheme-fiftyOne/v1.0.zip" }
 			]
 		},
-		"Jounin": { "Name": "Jounin - SM Creation XXIV", "NumImages": 3, "Author": "Lirodon", "Date": "2016-10-28", "Link": "RX%2017.01.zip" },
+		"Jounin": { "Name": "Jounin - SM Creation XXIV", "NumImages": 3, "Author": "Lirodon", "Date": "2016-10-28", "Link": "Jounin-0.2-sm5.zip" },
 		"RX": { "Name": "ResurrecXion Proyect", "NumImages": 5, "HasImages": true, "Author": "sharechk", "Date": "2017-01-12", "Link": "RX%2017.01.zip" },
 		"RhythmMania": { "Name": "RhythmMania", "NumImages": 1, "Author": "MadkaT182", "Date": "2018-02-24", "Link": "RhythmMania-master.zip" },
 		"QuadIIDX": { "Name": "QuadIIDX", "NumImages": 4, "Author": "Jousway", "Date": "2016-09-15", "Link": "QuadIIDX-master.zip" },
@@ -913,6 +913,7 @@
 		"SimplyLove" : {
 			"Name": "Simply Love (for ITGMania)",
 			"Link": [
+				{ "Name": "Simply-Love-v5.5.0", "Date":"2024-06-19", "Link": "Simply-Love/Simply-Love-v5.5.0.zip"},
 				{ "Name": "Simply-Love-v5.4.0-for-ITGmania", "Date":"2024-03-07", "Link": "Simply-Love/Simply-Love-v5.4.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.3.0-for-ITGmania", "Date":"2023-06-18", "Link": "Simply-Love/Simply-Love-v5.3.0-for-ITGmania.zip"},
 				{ "Name": "Simply-Love-v5.2.1-for-ITGmania", "Date":"2023-03-23", "Link": "Simply-Love/Simply-Love-v5.2.1-for-ITGmania.zip"},

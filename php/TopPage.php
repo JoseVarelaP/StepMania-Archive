@@ -56,6 +56,7 @@ function GetName($Item)
 		</div> -->
 		<a href="https://discord.gg/uMkVUrr"><img src="/SMArchive/static/discord_icon.png" id="toprighticon"></a>
 		<a href="https://github.com/JoseVarelaP/StepMania-Archive"><img src="/SMArchive/static/GitHub-Mark-Light-120px-plus.png" id="toprighticon"></a>
+		<a href='https://ko-fi.com/josevarela' target='_blank'><img src='/SMArchive/static/kofi-icon.png' id="toprighticon" alt='ko-fi' /></a>
 		<div class="PageList">
 			<?php foreach( $TopPage_LinkList as $Entries ) { ?>
 				<li>
