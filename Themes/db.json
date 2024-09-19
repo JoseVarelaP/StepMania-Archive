@@ -123,7 +123,9 @@
 		"DSMegaMix": { "Name": "Dancing Stage MegaMix Rev 4.0", "Author": "Takuya20", "NumImages": 12, "Date": "2006-09-28", "Link": "Dancing%20Stage%20MegaMix.zip" },
 		"DDR4thPlus": { "Name": "DDR 4th Mix Plus", "Date": "2008-02-17", "NumImages": 10, "Link": "DDR%204th%20mix%20Plus.zip" },
 		"DDRUltramixPlus": { "Name": "DDR Ultramix Plus 2.9", "Author": "NeoMaster", "Date": "2005-03-15", "NumImages": 13, "Link": "DDR%20Ultramix%20Plus%202.9.zip" },
-		"KatzeExtreme": { "Name": "Katze Extreme", "Author": "dieKatze88", "NumImages": 13, "Link": "KatzeExtreme.zip"  }
+		"KatzeExtreme": { "Name": "Katze Extreme", "Author": "dieKatze88", "NumImages": 13, "Link": "KatzeExtreme.zip"  },
+		"DDREncore": { "Name": "StepManiaEncore", "Author": "Myst(^^)v, Razma, Spork", "Date": "2010-03-17", "Link": "Stepmania%20Encore.smzip" },
+		"SMDestroyed": { "Name": "StepMania Destroyed", "Author": "Myst(^^)v, Razma, Spork", "Date": "2007-07-06", "Link": "Stepmania%20Destroyed.smzip" }
 	},
 
 	"BeatUpMania" : {
@@ -203,15 +205,15 @@
 			{ "Name": "Chromatic v2", "Link": "Chromatic%20v2.rar" },
 			{ "Name": "Chromatic", "Link": "Chromatic.rar" }
 		] },
-		"Staiainv2" : { "Name": "Staiainv2", "Link": "Staiainv2.rar" },
+		"Staiainv2" : { "Name": "Staiainv2", "NumImages": 5, "Link": "Staiainv2.rar" },
 		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar", "NumImages": 5 },
-		"Xoon2" : { "Name": "Xoon 2", "Author": "Holystorm", "Link": "Xoon%202.rar" },
-		"Xoon3" : { "Name": "Xoon 3", "Link": "Xoon%203.rar" },
-		"Xoon4" : { "Name": "Xoon 4", "Link": "Xoon%204.rar" },
-		"ITG355" : { "Name": "In The Groove 355", "Link": "ITG355.rar" },
-		"ITGPRO" : { "Name": "In The Groove Pro", "Link": "In%20The%20Groove%20Pro.rar" },
-		"ITG2H4X": { "Name": "In The Groove H4X Edition", "Link": "ITG%20H4X%20Edition.zip" },
-		"ITG2UE" : { "Name": "In The Groove 2 -Ultimate Edition-", "Link": "In%20The%20Groove%202%20-Ultimate%20Edition-.rar" },
+		"Xoon2" : { "Name": "Xoon 2", "NumImages": 5, "Author": "Holystorm", "Link": "Xoon%202.rar" },
+		"Xoon3" : { "Name": "Xoon 3", "NumImages": 6, "Link": "Xoon%203.rar" },
+		"Xoon4" : { "Name": "Xoon 4", "NumImages": 6, "Link": "Xoon%204.rar" },
+		"ITG355" : { "Name": "In The Groove 355", "NumImages": 5, "Link": "ITG355.rar" },
+		"ITGPRO" : { "Name": "In The Groove Pro", "NumImages": 5, "Link": "In%20The%20Groove%20Pro.rar" },
+		"ITG2H4X": { "Name": "In The Groove H4X Edition", "NumImages": 5, "Link": "ITG%20H4X%20Edition.zip" },
+		"ITG2UE" : { "Name": "In The Groove 2 -Ultimate Edition-", "NumImages": 5, "Link": "In%20The%20Groove%202%20-Ultimate%20Edition-.rar" },
 		"ITG2Sub" : { "Name": "In the Groove 2 Sublime", "Link": [
 			{ "Name": "ITG Sublime r2", "Link": "ITG%20Sublime%20r2.rar" },
 			{ "Name": "ITG Sublime", "Link": "ITG%20Sublime.rar" }
@@ -219,10 +221,10 @@
 		"MB" : { "Name": "Mario_Blue", "Link": "Mario_Blue.rar" },
 		"HG2" : { "Name": "Hardcore Groove 2", "Link": "Hardcore%20Groove%202.rar" },
 		"Katt" : { "Name": "Katt Theme", "Link": "Katt-theme.rar" },
-		"SimplyLove" : { "Name": "Simply Love", "Date": "2014-05-11", "Author": "hurtpiggypig & Mad Matt", "Link": "Simply%20Love%20FINAL.zip" },
-		"ITG3" : { "Name": "In The Groove 3", "Link": "In%20The%20Groove%203.rar" },
+		"SimplyLove" : { "Name": "Simply Love", "Date": "2014-05-11", "Author": "hurtpiggypig & Mad Matt", "NumImages": 8, "Link": "Simply%20Love%20FINAL.zip" },
+		"ITG3" : { "Name": "In The Groove 3", "NumImages": 5, "Link": "In%20The%20Groove%203.rar" },
 		"Glass" : { "Name": "Glass", "Author": "nick", "Link": "Glass.rar" },
-		"Glass11" : { "Name": "Glass 1.1 (Edit of Glass)", "Date": "2009-05-19", "Author": "Sargon", "Link": "Glass%201.1.rar" },
+		"Glass11" : { "Name": "Glass 1.1 (Edit of Glass)", "Date": "2009-05-19", "NumImages": 5, "Author": "Sargon", "Link": "Glass%201.1.rar" },
 		"Conductor" : { "Name": "Conductor's Theme", "Author": "conductor", "Link": [
 			{ "Name": "Shahar (Light)", "Date": "2011-10-06", "Link": "Shahar.rar" },
 			{ "Name": "Shalim (Dark)", "Date": "2011-10-06", "Link": "Shalim.rar" }
@@ -235,14 +237,14 @@
 			{ "Name": "Groove 2.1", "Link": "Groove%202.1%20%28ITG%202%20Theme%29.smzip" }
 		] },
 		"ITG3Shadow": { "Name": "In The Groove Shadow 3", "Link": "ITGShadow3.zip" },
-		"ITG3GOLD" : { "Name": "In The Groove 3 GOLD", "Link": "ITG3%20GOLD.rar" },
-		"ITG2Pink" : { "Name": "In The Groove 2 Pink", "Link": "ITG2%20Pink.rar" },
-		"ITG2GOLD" : { "Name": "In The Groove 2 GOLD", "Link": "ITG2%20GOLD.rar" },
+		"ITG3GOLD" : { "Name": "In The Groove 3 GOLD", "NumImages": 6, "Link": "ITG3%20GOLD.rar" },
+		"ITG2Pink" : { "Name": "In The Groove 2 Pink", "NumImages": 6, "Link": "ITG2%20Pink.rar" },
+		"ITG2GOLD" : { "Name": "In The Groove 2 GOLD", "NumImages": 6, "Link": "ITG2%20GOLD.rar" },
 		"ITG500Z" : { "Name": "ITG 500Zb4", "Link": "ITG%20500Zb4.smzip" },
 		"Secks" : { "Name": "Secks", "Link": "secks.zip" },
 		"PINK": { "Name": "PINK", "Link": "PINK.rar" },
 		"SalAndy": { "Name": "salAndy3.95", "Author": "salAndy", "Link": "salAndy3.95.zip" },
-		"PHIL": { "Name": "ITG PHILLLLLLL", "Link": "ITG%20PHILLLLLLL.rar", "Explicit": true }
+		"PHIL": { "Name": "ITG PHILLLLLLL", "Link": "ITG%20PHILLLLLLL.rar", "NumImages": 5, "Explicit": true }
 	},
 
 	"SM4" : {
@@ -761,6 +763,7 @@
 		"DDR2ndMix": { "Name": "DDR 2nd Mix", "Author": "MadkaT182", "Link": "DDR2ndMix-master.zip" },
 		"DDR3rdMix": { "Name": "DDR 3rd Mix", "Author": "MadkaT182", "Link": "DDR3rdMix-master.zip" },
 		"DDR5thKat": { "Name": "DDR 5th Mix", "Author": "MadkaT182", "Link": "DDR5th-master.zip" },
+		"DDR6thMix": { "Name": "DDR 6th mix -DDR MAX-", "Author": "Takuya20 (Ported by Reiaya2DX)", "Link": "Dance%20Dance%20Revolution%206th%20mix%20-DDR%20MAX-%20rev%201.0.rar" },
 		"DDRX": { "Name": "DDR X", "Author": "MadkaT182", "Link": "DDRX-master.zip" },
 		"DDREX2": { "Name": "DDR Extreme 2", "Author": "MadkaT182", "Link": "DDREX2-master.zip" },
 		"DDRDDM": { "Name": "DDR DDM", "Author": "MadkaT182", "Link": "DDRDDM-master.zip" },

@@ -1,5 +1,64 @@
 [
 	{
+		"Date": "19/Sep/24",
+		"Changes": [
+			{
+				"Icon": "OITG.png",
+				"Name": "OpenITG",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.9-UpgradePack.zip'>NotITG v4.9.</a>"
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "StepMania 4",
+				"List": [
+					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX.4.0cvs.itg2.rar'>Added a build of StepManiaX</a> that contains a ITG2 theme and keymaps in it. Appears to the same as the 4.0CVS version, so its added as an option in that same entry."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h3>StepMania 3.9</h3>",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=DDREncore'>StepManiaEncore</a>.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=SMDestroyed'>StepMania Destroyed</a>.",
+					null,
+					"<h3>StepMania 3.95</h3>",
+					"Added screenshots for the following themes:",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Staiainv2'>Staiainv2</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Xoon2'>Xoon2</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Xoon3'>Xoon3</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Xoon4'>Xoon4</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG355'>In The Groove 355</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITGPRO'>In The Groove Pro</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG2H4X'>In The Groove H4X Edition</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG2UE'>In The Groove 2 -Ultimate Edition-</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=SimplyLove'>Simply Love</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG3'>In The Groove 3</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=Glass11'>Glass 1.1</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG3GOLD'>In The Groove 3 GOLD</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG2Pink'>In The Groove 2 Pink</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=ITG2GOLD'>In The Groove 2 GOLD</a>.",
+					"<a href='../Themes/ThemePreview.php?Category=SM3.95&ID=PHIL'>ITG PHILLLLLLL</a>."
+				]
+			}
+		]
+	},
+	{
+		"Date": "15/Aug/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h3>StepMania 5</h3>",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=DDR6thMix'>DDR 6th Mix -DDR MAX-</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "31/Jul/24",
 		"Changes": [
 			{

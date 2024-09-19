@@ -386,6 +386,19 @@ h3 {
 	margin-left: 5%;
 }
 
+.explicitTheme {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 12px;
+	background-color: #B30000;
+	margin-bottom: 8px;
+}
+
+.explicitTheme p {
+	font-weight: 700;
+}
+
 /* NoteSkin archive elements */
 .NoteSkin_Container {
 	display: flex;

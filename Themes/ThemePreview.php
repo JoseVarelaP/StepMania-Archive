@@ -17,6 +17,19 @@ if( is_null($Category) || is_null($ID) )
 
 $Entry = $decoded_data[$Category][$ID];
 
+function CheckForHttp( $convtext, $location )  {
+	$parse = parse_url($convtext);
+	if( array_key_exists('scheme', $parse) ) {
+		if( $parse['scheme'] == "https" || $parse['scheme'] == "http" ) {
+			return $convtext;
+	}
+	} else if( strpos( $convtext, 'Category=' ) !== false ) {
+		return "ThemePreview/?".$convtext;
+	}
+
+	return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
+}
+
 function GetFirstAvailableItem( $Entry )
 {
 	if( !array_key_exists('Link', $Entry) )
@@ -59,6 +72,12 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 		<div class="content-container wide-container">
 			<div class="content" id="BuildListing">
 				<h1 id="HeaderTitle"><?php echo $Entry['Name'] ?></h1>
+				<?php if( array_key_exists( 'Explicit', $Entry ) ) { ?>
+					<div class="explicitTheme">
+						<img src="../static/explicititem.svg" width="32px" title="This theme has explicit content!" alt="This theme has explicit content!">
+						<p>This theme has explicit content!</p>
+					</div>
+				<?php } ?>
 				<div>
 					<?php if( array_key_exists( 'Link', $Entry ) ) { ?>
 						<div class="Download-Theme">

@@ -153,6 +153,11 @@ $decoded_data = json_decode($JSONContent, true);
 					return !array_key_exists('HasImages', $Item) && !array_key_exists('NumImages', $Item);
 				}
 
+				function IsExplicit( $Item )
+				{
+					return array_key_exists('Explicit', $Item);
+				}
+
 				// Sort the data so it's alphabetically sorted.
 				foreach( $decoded_data as $itemCat=>$table ) {
 					uasort( $decoded_data[$itemCat], function($a,$b){
@@ -184,6 +189,9 @@ $decoded_data = json_decode($JSONContent, true);
 												<td>
 													<?php if( NeedsImages($ThemeItem) ) { ?>
 														<img src="../static/missingitem.svg" width="14px" title="This theme listing has no screenshots!" alt="This theme listing has no screenshots!">
+													<?php } ?>
+													<?php if( IsExplicit($ThemeItem) ) { ?>
+														<img src="../static/explicititem.svg" width="14px" title="This theme has explicit content!" alt="This theme has explicit content!">
 													<?php } ?>
 												</td>
 												<td><?php echo $DateEntry ?></td>

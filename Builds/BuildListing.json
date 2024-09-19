@@ -536,6 +536,10 @@
 				]
 			},
             { "ID": "NITG430" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.3.0", "Date": "2022-09-25", "Windows": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.3.0-UpgradePack-EarlyAccess.zip" },
+            { "ID": "NITG49" ,"Icon": "NITG4.png", "Name": "NotITG Version 4.9", "Date": "2024-09-18", "Windows": [
+                { "Name": "Upgrade Pack", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.9-UpgradePack.zip" },
+                { "Name": "QuickStart", "Link": "https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/NotITG-v4.9-QuickStart.zip" }
+            ] },
             { "ID": "OpGr2", "Name": "OpenGroove r2", "Date": "2008-09-22" },
             { "ID": "OpGr3", "Name": "OpenGroove r3", "Date": "2010-04-17" },
             { "ID": "OpGr4", "Name": "OpenGroove r4", "Date": "2010-06-09" },
@@ -561,7 +565,8 @@
         "Listing": [
             { "Name": "StepManiaX v40", "Date": "2012-08-30",
                 "Windows": [
-                    { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX%20v40%20CVS.rar" }
+                    { "Name": "Available for Xbox", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX%20v40%20CVS.rar" },
+                    { "Name": "(With ITG2 and mappings)", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX.4.0cvs.itg2.rar" }
                 ]
             },
 			{ "Name": "舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)", "Date": "2010-08-01", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E8%B7%B3%E8%88%9E%E6%AF%AF_V2.0%E6%96%B0%E7%A8%8B%E5%BA%8F.rar" },
