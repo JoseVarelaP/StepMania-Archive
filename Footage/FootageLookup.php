@@ -63,6 +63,21 @@ function GetItemForFootage( $Item, $ID, $NameItem )
     
     return $DateStr;
 }
+
+function GetVideoLinkSource( $Item, $ID, $Type )
+{
+    $VidArray = ObtainItemFromPossibleArea( $Item, $ID, 'Src' );
+    if( is_null( $VidArray ) )
+        if( $Type == "Link" )
+            return "";
+        else
+            return "?";
+
+    if( !array_key_exists( $Type, $VidArray ) )
+        return "";
+    
+    return $VidArray[$Type];
+}
 ?>
 <head>
     <meta charset="UTF-8">
@@ -84,10 +99,10 @@ function GetItemForFootage( $Item, $ID, $NameItem )
                 <div class="Video-InfoBoard">
                     <h3>Information</h3>
                     <hr>
-                    <p id="Info-Recorded"> Recorded: <? echo GetFootageDate( $VideoContainerPath, $VidID ) ?> </p>
+                    <p id="Info-Recorded"> Recorded: <?php echo GetFootageDate( $VideoContainerPath, $VidID ) ?> </p>
                     <p id="Info-Location"> Location: <?php echo GetItemForFootage( $VideoContainerPath, $VidID, 'Location' ) ?> </p>
                     <p id="Info-Game"> Game: <?php echo GetItemForFootage( $VideoContainerPath, $VidID, 'Game' ) ?></p>
-                    <p id="Info-Source"> Source: <a id="Info-Source-Link"></a> </p>
+                    <p id="Info-Source"> Source: <a id="Info-Source-Link" href="<?=GetVideoLinkSource( $VideoContainerPath, $VidID, 'Link' )?>"><?=GetVideoLinkSource( $VideoContainerPath, $VidID, 'Name' )?></a> </p>
                 </div>
 
                 <p class="video-desc-container" id="VideoDescription">

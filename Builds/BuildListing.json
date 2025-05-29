@@ -413,7 +413,14 @@
             { "Name": "Electronic Beats", "Date": "2010-05-10", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip" },
             { "Name": "ResurrecXion Proyect 15.03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE" },
             { "Name": "3DDX 2-D-TECH", "Date": "2007-03-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3DDX%20-%20Stepmania.7z" },
-            { "Name": "Technomotion AYSA", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20DDR%20%2B%20TECHNO%20MOTION%20FULL%20LIBERADO.zip" }
+            { "Name": "Technomotion AYSA", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20DDR%20%2B%20TECHNO%20MOTION%20FULL%20LIBERADO.zip" },
+            { "Name": "StepMania 3.9 CN Arcade Build 6", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CN%20Arcade%20Build%206.exe" },
+            { "Name": "StepMania 3.9 CVS 9-6-2004", "Date": "2004-09-06", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%209-6-2004.exe" },
+            { "Name": "StepMania 3.9 CVS 01-15-2005", "Date": "2005-01-15", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2001-15-2005.exe" },
+            { "Name": "StepMania 3.9 CVS 08-03-2004 Unofficial", "Date": "2004-08-03", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2008-03-2004%20Unofficial.exe" },
+            { "Name": "StepMania CVS 08-23-2004", "Date": "2004-08-23", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20CVS%2008-23-2004.exe" },
+            { "Name": "StepMania TEST CVS 8-21-2004", "Date": "2004-08-21", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20TEST%20CVS%208-21-2004.exe" },
+            { "Name": "StepMania Unofficial 8-13-2004 CVS", "Date": "2004-08-13", "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20Unofficial%208-13-2004%20CVS.exe" }
         ]
     },
 
@@ -885,6 +892,9 @@
             },
             { "ID": "SP1Plus100", "Icon": "STEPP1.png", "Name": "StepP1 Plus v1.0.0", "Date": "2024-01-12",
                 "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-1.0.0.zip"
+            },
+            { "ID": "SP1Plus100", "Icon": "STEPP1.png", "Name": "StepP1 Plus v2.0.0", "Date": "2024-01-12",
+                "Windows": "https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-2.0.0.zip"
             }
         ]
     },
@@ -1822,6 +1832,18 @@
             },
             { "ID": "SI017", "Name": "In The Groove System Image V0.17", "Date": "2023-06-19",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-17.zip" } ]
+            },
+            { "ID": "SI018", "Name": "In The Groove System Image V0.18", "Date": "2024-03-13",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-18a.zip" } ]
+            },
+            { "ID": "SI019", "Name": "In The Groove System Image V0.19", "Date": "2024-09-08",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-19.zip" } ]
+            },
+            { "ID": "SI020", "Name": "In The Groove System Image V0.20", "Date": "2025-03-23",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-20.zip" } ]
+            },
+            { "ID": "SI022", "Name": "In The Groove System Image V0.22", "Date": "2025-03-27",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-22.zip" } ]
             }
         ]
     }

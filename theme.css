@@ -101,8 +101,19 @@ a:hover { color: #B3AA00; text-decoration: underline; }
 	padding: 10px;
 	order: 2;
 	width: 40%;
+	height: 260px;
+	background-size: contain;
+	background-position-x: 50%;
+	background-repeat: no-repeat;
 	flex-shrink: 0;
 	align-self: flex-start;
+	position: relative;
+}
+
+.ToolImagePreview > a {
+	width: 100%;
+	height: 100%;
+	position: absolute;
 }
 
 .ToolSideFlex{
@@ -453,7 +464,17 @@ only screen and (max-width:1000px) {
 	}
 	.rightBox { display: none; }
 	.NoteSkin_Container #Date { display: none; }
-	.content .ToolImagePreview{ width: 180px; }
+	.content .ToolImagePreview{
+		margin-left: auto;
+		margin-right: auto;
+		width: 210px;
+		max-height: 170px;
+		padding: 0;
+	}
+	.ToolSideFlex{
+		flex-direction: column-reverse;
+		gap: 12px;
+	}
 	.content-Changelog img{ max-width: 60%; margin-top: 8px; margin-bottom: 8px; }
 }
 

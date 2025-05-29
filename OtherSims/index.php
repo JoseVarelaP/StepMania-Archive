@@ -45,6 +45,31 @@ function ReturnDescription( $Item )
     return "";
 }
 
+function GetExtraDownloadsForItem($itemCat)
+{
+    // It's empty, then we can't generate this list.
+    if( !array_key_exists('DownloadExtras',$itemCat) )
+        return "";
+
+    $Final = "<br><h2>Extras:</h2>";
+    
+    foreach( $itemCat['DownloadExtras'] as $Entry ) {
+        if( array_key_exists('Link',$Entry) ){
+            $Final = $Final . "<p id='Download-Area' style='padding: 6px'><img src='../static/download.gif'> <a href='" . $Entry['Link'] . "' id='DownloadButton'>" . $Entry['Name'] . "</a></p>";
+
+            if( array_key_exists('Desc',$Entry) )
+            $Final = $Final . "<p>" . $Entry['Desc'] . "</p>";
+            //$Final = $Final . "<li><a href='" . $Entry['Link'] . "'>" . $Entry['Name'] . "</a></li>";
+            // Temporary
+            //$Final = $Final . "<li><a>" . $Entry['Name'] . "</a></li>";
+        }
+        else
+            $Final = $Final . "<li>". $Entry['Name'] . "</li>";
+    }
+    //$Final = $Final . "</ul>";
+    return $Final;
+}
+
 function GetSourcesForItem($itemCat)
 {
     // It's empty, then we can't generate this list.
@@ -56,6 +81,8 @@ function GetSourcesForItem($itemCat)
     foreach( $itemCat['Sources'] as $Entry ) {
         if( array_key_exists('Link',$Entry) )
             $Final = $Final . "<li><a href='" . $Entry['Link'] . "'>" . $Entry['Name'] . "</a></li>";
+            // Temporary
+            //$Final = $Final . "<li><a>" . $Entry['Name'] . "</a></li>";
         else
             $Final = $Final . "<li>". $Entry['Name'] . "</li>";
     }
@@ -129,10 +156,13 @@ function FindBuildFromKey( $cat,  $Item, $Key )
                         <div class="ToolSideFlex">
                             <div style="margin-right: auto">
                                 <p><?php echo ReturnDescription($itemCat) ?></p>
+                                <?php echo GetExtraDownloadsForItem($itemCat) ?>
                                 <?php echo GetSourcesForItem($itemCat) ?>
                             </div>
                             <?php if( array_key_exists( 'Picture', $itemCat ) ) { ?>
-                                <img class="ToolImagePreview" src="<?php echo $itemCat['Picture'] ?>">
+                                <div class="ToolImagePreview" style="background-image: url('<?php echo $itemCat['Picture'] ?>')">
+                                    <a href="<?php echo $itemCat['Picture'] ?>"></a>
+                                </div>
                             <?php } ?>
                         </div>
                         <?php

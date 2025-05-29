@@ -1,5 +1,88 @@
 [
 	{
+		"Date": "29/May/25",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Footage Archive",
+				"List": [
+					"Fixed up info display when viewing footage.",
+					"Added <a href='../Footage/FootageLookup.php?Category=InTheGroove1&Col=Interviews&ID=ROIStartupGrind2012'>full interview</a> with Anthony Soohoo (Rumpus), Charles Huang (Red Octane) and Sahil Lavingia (Gumroad), which includes a story about Red Octane's involvement with RoXoR, and merger with Activision."
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania Custom Builds",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-20.zip'>In The Groove System Image V0.20</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-22.zip'>In The Groove System Image V0.22</a>."
+				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Other Sims Archive",
+				"List": [
+					"Added section for <a href='../OtherSims/#pocket-ddr'>Pocket DDR</a>.",
+					"Added section for <a href='../OtherSims/#DDRSimulator'>DDR Simulator</a>.",
+					"Added section for <a href='../OtherSims/#AquanBeats'>AQUA'N'BEATS</a>.",
+					"Added gameplay video for <a href='../OtherSims/#beatmaniyari'>BEAT魔にやり</a>, under the Extras section.",
+					"Added gameplay video for <a href='../OtherSims/#DanceParanoia2008'>DANCE PARANOiA 2nd Mix</a>, under the Extras section. This isn't new footage, just backing up the video from NicoNico in case it goes away."
+				]
+			}
+		]
+	},
+	{
+		"Date": "24/Dec/24",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 5</h2>",
+					"Added more versions of <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=CS8LA'>CyberiaStyle LAST APPROACH</a>, thanks to Arcorann.",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=Simplyfication'>SIMPLY-FICATION r3.0</a>, thanks to Arcorann.",
+					null,
+					"<h2>StepMania 3.9</h2>",
+					"Added more versions of <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=CS6'>CyberiaStyle 6 -consciousness to cyber-</a>, thanks to Arcorann.",
+					"Added more versions of <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=CS4'>CyberiaStyle 4</a>, thanks to Arcorann.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=SMBX-PIU'>SMBX-PIU</a>. Thanks to Frondal for bringing this up.",
+					"Added <a href='../Themes/ThemePreview.php?Category=SM3.9&ID=PIUSM'>PIUSM-THEME</a>. Thanks to ElGFAS for bringing this up.",
+					null,
+					"<h2>OpenITG:</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=OITG&ID=goldpiu'>NX Gold</a>. Thanks to emmanu888 for bringing this up."
+				]
+			},
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Thanks to .krtv for these.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%209-6-2004.exe'>StepMania 3.9 CVS 9-6-2004</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2001-15-2005.exe'>StepMania 3.9 CVS 01-15-2005</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2008-03-2004%20Unofficial.exe'>StepMania 3.9 CVS 08-03-2004 Unofficial</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20CVS%2008-23-2004.exe'>StepMania CVS 08-23-2004</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20TEST%20CVS%208-21-2004.exe'>StepMania TEST CVS 8-21-2004</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20Unofficial%208-13-2004%20CVS.exe'>StepMania Unofficial 8-13-2004 CVS</a>."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-2.0.0.zip'>StepP1 Plus v2.0.0</a>"
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania Custom Builds",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-18a.zip'>In The Groove System Image V0.18</a>.",
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-19.zip'>In The Groove System Image V0.19</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "19/Sep/24",
 		"Changes": [
 			{

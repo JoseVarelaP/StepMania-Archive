@@ -745,6 +745,20 @@
                         "Link": "http://news.bbc.co.uk/2/hi/health/6995365.stm"
                     }
                 }
+            },
+            "Interviews" : {
+                "Name": "Interviews",
+                "ROIStartupGrind2012" : {
+                    "Name": "Rumpus, Red Octane, Gumroad, histories at Startup Grind",
+                    "Description": "An un-edited 47 minute interview featuring Anthony Soohoo (Rumpus), Charles Huang (Red Octane) and Sahil Lavingia (Gumroad). Topics are discussed, including how RedOctane got in contact with RoXoR to publish In the Groove, and it's merger with Activision during the Guitar Hero era.",
+                    "VideoLink": "In%20The%20Groove/Startup%20Grind%202012/Anthony%20Soohoo%20%28Rumpus%29%2C%20Charles%20Huang%20%28Red%20Octane%29%20and%20Sahil%20Lavingia%20%28Gumroad%29%20at%20Startup%20Grind%20%5BHRytJb5NAhU%5D.mp4",
+                    "RecordDate": "2012-09-22",
+                    "Game": "Interview",
+                    "Src": {
+                        "Name": "Anthony Soohoo (Rumpus), Charles Huang (Red Octane) and Sahil Lavingia (Gumroad) at Startup Grind [Privated]",
+                        "Link": "https://www.youtube.com/watch?v=HRytJb5NAhU"
+                    }
+                }
             }
         }
     },

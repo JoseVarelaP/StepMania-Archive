@@ -12,9 +12,16 @@
 		"CS3" : { "Name": "CyberiaStyle 3", "Author": "gl_yukt", "Date": "2005-11-29", "NumImages": 13, "Link": "CyberiaStyle%203.rar" },
 		"CS3.1" : { "Name": "CyberiaStyle 3.1", "Author": "gl_yukt", "Date": "2006-02-24", "NumImages": 13, "Link": "cyberiastyle_3_1.smzip" },
 		"CS3.5" : { "Name": "CyberiaStyle 3.5", "Author": "gl_yukt", "NumImages": 12, "Link": "cyberiastyle_3_5.smzip" },
-		"CS4" : { "Name": "CyberiaStyle 4", "Author": "gl_yukt", "NumImages": 13, "Link": "CyberiaStyle%204.zip" },
+		"CS4" : { "Name": "CyberiaStyle 4", "Author": "gl_yukt", "NumImages": 13, "Link": [
+			{ "Name": "CyberiaStyle 4", "Link": "CyberiaStyle%204.zip" },
+			{ "Name": "CyberiaStyle 4.5", "Link": "CyberiaStyle_4_5.smzip" },
+			{ "Name": "CyberiaStyle 4 rev5", "Link": "CyberiaStyle_4%20rev5.smzip" }
+		] },
 		"CS5" : { "Name": "CyberiaStyle 5 -neo cyber-", "Author": "gl_yukt", "Date": "2008-12-24", "NumImages": 13, "Link": "cyberiastyle_5_neo_cyber.zip" },
-		"CS6" : { "Name": "CyberiaStyle 6 -consciousness to cyber-", "Author": "gl_yukt", "NumImages": 5, "Date": "2009-12-30", "Link": "cyberiastyle_6_consciousness_to_cyber.zip" },
+		"CS6" : { "Name": "CyberiaStyle 6 -consciousness to cyber-", "Author": "gl_yukt", "NumImages": 5, "Date": "2009-12-30", "Link": [
+			{ "Name": "r2", "Link": "cyberiastyle_6_consciousness_to_cyber_r2.zip" },
+			{ "Name": "r1", "Link": "cyberiastyle_6_consciousness_to_cyber.zip" }
+		] },
 		"CitySc" : { "Name": "Cityscape", "NumImages": 6, "Link": "Cityscape.smzip" },
 		"D3M" : { "Name": "D3Mania", "HasImages": true, "NumImages": 8, "Link": "D3Mania.smzip" },
 		"D3Mix" : { "Name": "D3MIX COMPLETE", "NumImages": 11, "Link": "D3MIX%20COMPLETE%20%5BSM3.9%5D.zip" },
@@ -125,7 +132,9 @@
 		"DDRUltramixPlus": { "Name": "DDR Ultramix Plus 2.9", "Author": "NeoMaster", "Date": "2005-03-15", "NumImages": 13, "Link": "DDR%20Ultramix%20Plus%202.9.zip" },
 		"KatzeExtreme": { "Name": "Katze Extreme", "Author": "dieKatze88", "NumImages": 13, "Link": "KatzeExtreme.zip"  },
 		"DDREncore": { "Name": "StepManiaEncore", "Author": "Myst(^^)v, Razma, Spork", "Date": "2010-03-17", "Link": "Stepmania%20Encore.smzip" },
-		"SMDestroyed": { "Name": "StepMania Destroyed", "Author": "Myst(^^)v, Razma, Spork", "Date": "2007-07-06", "Link": "Stepmania%20Destroyed.smzip" }
+		"SMDestroyed": { "Name": "StepMania Destroyed", "Author": "Myst(^^)v, Razma, Spork", "Date": "2007-07-06", "Link": "Stepmania%20Destroyed.smzip" },
+		"SMBX-PIU": { "Name": "SMBX-PIU", "Author": "Franco Station Xtreme", "Date": "2007-07-06", "Link": "SMBX-2 PIU.rar" },
+		"PIUSM" : { "Name": "PIUSM THEME", "Author": "Akire-X", "Link": "PIUSM_THEME.smzip" }
 	},
 
 	"BeatUpMania" : {
@@ -362,7 +371,8 @@
 		"Orange" : { "Name": "Orange", "HasImages": true, "NumImages": 8, "Author": "Rynker", "Link": "Orange%20Recolor.rar" },
 		"PurpleDrank" : { "Name": "Purple DRANK", "Explicit": true, "HasImages": true, "NumImages": 8, "Link": "Purple%20DRANK.rar" },
 		"Tribal" : { "Name": "Tribal", "HasImages": true, "NumImages": 8, "Link": "Tribal.rar" },
-		"HPFEdition": { "Name": "ITG HPF! Edition", "Author": "Happy Feet!", "Link": "ITG_HPF_Edition.rar" }
+		"HPFEdition": { "Name": "ITG HPF! Edition", "Author": "Happy Feet!", "Link": "ITG_HPF_Edition.rar" },
+		"goldpiu": { "Name": "NX Gold", "Author": "emmanu888", "Link": "goldpiu.zip" }
 	},
 
 	"ITG2PC" : {
@@ -458,7 +468,17 @@
 			"NumImages": 5,
 			"Link": [
 				{ "Name": "L-12_Rev 37","Date": "2018-03-14", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_037_vL12.zip" },
-				{ "Name": "L-6_Rev 27", "Date": "2016-05-08", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_027_vL06.rar" }
+				{ "Name": "L-9_Rev 30", "Date": "2016-12-17", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_030_vL09.zip" },
+				{ "Name": "L-8_Rev 29", "Date": "2016-08-28", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_029_vL08.zip" },
+				{ "Name": "L-7_Rev 28", "Date": "2016-07-16", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_028_vL07.zip" },
+				{ "Name": "L-6_Rev 26", "Date": "2016-05-01", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_026_vL06.rar" },
+				{ "Name": "L-5_Rev 20", "Date": "2016-03-06", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_020_vL05.zip" },
+				{ "Name": "L-4_Rev 19", "Date": "2016-01-29", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_019_vL04.zip" },
+				{ "Name": "L-3_Rev 14", "Date": "2015-10-14", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_014_vL03.zip" },
+				{ "Name": "L-2_Rev 11", "Date": "2015-08-15", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_011_vL02.zip" },
+				{ "Name": "L-1_Rev 7", "Date": "2015-06-30", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_007_vL01.zip" },
+				{ "Name": "L-1_Rev 4", "Date": "2015-04-17", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_004_vL01.zip" },
+				{ "Name": "L-1_Rev 1", "Date": "2015-04-08", "Link": "CS8LA/CyberiaStyle_LAST_APPROACH_001_vL01.zip" }
 			]
 		},
 		"chiprev": {
@@ -501,7 +521,7 @@
 		"spooky_theme": { "Name": "Simplicity Theme", "NumImages": 6, "HasImages": true, "Author": "SpoOkyMagician", "Date": "2018-11-23", "Link": "spookys_theme-master.zip" },
 		"optics": { "Name": "optics", "NumImages": 5, "HasImages": true, "Author": "shakesoda", "Date": "2013-10-07", "Link": "optics-master.zip" },
 		"DDRA20" : { "Name": "DDR A20 (mod of A)", "Date": "2019-06-08", "Version": "7", "Link": "DDR%20A20%20-%20Mod%2020190608.zip" },
-		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19" },
+		"DDRACurilang": { "Name":"DDR-A (Curilang Edit)", "Author": "Inorizushi, Curilang", "Date": "2021-09-19", "Link": "DDR-A3-release.zip" },
 		"DDRA20Curilang": { "Name":"DDR-A20 (Curilang Edit)", "HasImages": true, "NumImages": 5, "Author": "Inorizushi, Curilang", "Date": "2021-08-02", "Link": "DDR-A20-curilang.zip" },
 		"DDRA3Curilang": { "Name":"DDR-A3 (Curilang Edit)", "NumImages": 6, "Author": "Inorizushi, Curilang, SchneiderAFX, Faye Scarlet, MontyTheDancer, EuvoSound, Luza94, tertu", "Link": [
 			{ "Name": "v2.0.3 (V3)", "Date": "2023-09-11", "Link": "Curilang-A3/DDR.A3.V.2.0.1.zip" },
@@ -769,7 +789,8 @@
 		"DDRDDM": { "Name": "DDR DDM", "Author": "MadkaT182", "Link": "DDRDDM-master.zip" },
 		"Aoi": { "Name": "Aoi", "Author": "MadkaT182", "Link": "Aoi-master.zip" },
 		"DDR2014": { "Name": "DDR 2014", "Author": "MadkaT183", "Link": "DDR2014-master.zip" },
-		"DDR2013Kat": { "Name": "DDR 2013", "Author": "MadkaT183", "Link": "DDR2013-master.zip" }
+		"DDR2013Kat": { "Name": "DDR 2013", "Author": "MadkaT183", "Link": "DDR2013-master.zip" },
+		"Simplyfication": { "Name": "SIMPLY-FICATION r3.0", "Date": "2014-04-04", "Author": "Th3_Ov3rHell_3XoduZ", "Link": "simply_fication__r3_0__by_ov3rhell3xoduz-d7dynyl.rar" },
 	},
 
 	"ETT": {
