@@ -11,6 +11,14 @@
 				]
 			},
 			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>SM5</h2>",
+					"Added <a href='../Themes/ThemePreview.php?Category=StepMania 5&ID=RespectBase'>SM Respect</a>, thanks to stinkerdoo."
+				]
+			},
+			{
 				"Icon": "ITGM.png",
 				"Name": "ITGMania Custom Builds",
 				"List": [

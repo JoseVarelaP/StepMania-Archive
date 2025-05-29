@@ -791,6 +791,7 @@
 		"DDR2014": { "Name": "DDR 2014", "Author": "MadkaT183", "Link": "DDR2014-master.zip" },
 		"DDR2013Kat": { "Name": "DDR 2013", "Author": "MadkaT183", "Link": "DDR2013-master.zip" },
 		"Simplyfication": { "Name": "SIMPLY-FICATION r3.0", "Date": "2014-04-04", "Author": "Th3_Ov3rHell_3XoduZ", "Link": "simply_fication__r3_0__by_ov3rhell3xoduz-d7dynyl.rar" },
+		"RespectBase": { "Name": "SM Respect", "Date": "2020-01-30", "NumImages": 5, "HasImages": true, "Author": "Inorizushi", "Link": "Respect Base.zip" }
 	},
 
 	"ETT": {
