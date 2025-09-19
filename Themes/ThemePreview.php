@@ -106,8 +106,8 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 							<?php } ?>
 						</div>
 					<?php } ?>
-					<p id="Author">By: <? echo $Author; ?></p>
-					<p id="Date">Release Date: <? echo $Date ?></p>
+					<p id="Author">By: <?= $Author; ?></p>
+					<p id="Date">Release Date: <?= $Date ?></p>
 				</div>
 				<center>
 					<?php
@@ -138,23 +138,25 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 			<?php include '../php/Footer.php'?>
 		</div>
 	</div>
-	<script type="text/javascript">
-		var entryData = new Array();
-		<?php foreach( $Entry['Link'] as $Item ) { ?>
-			entryData.push('<?php echo json_encode($Item)?>')
-		<?php } ?>
-		function toggleVersionData( object )
-		{
-			let entry = JSON.parse(entryData[object.selectedIndex])
-			// Since this object exists, as the multiple version table, we need to update the current chooser
-			// so it can update the download button to have the latest version (which is usually stored on top).
-			let Date = document.getElementById("Date")
-			Date.textContent = `Release Date: ${entry.Date || "????-??-??"}`
+	<?php if( gettype($Entry['Link']) == "array" ) { ?>
+		<script type="text/javascript">
+			var entryData = new Array();
+			<?php foreach( $Entry['Link'] as $Item ) { ?>
+				entryData.push('<?php echo json_encode($Item)?>')
+			<?php } ?>
+			function toggleVersionData( object )
+			{
+				let entry = JSON.parse(entryData[object.selectedIndex])
+				// Since this object exists, as the multiple version table, we need to update the current chooser
+				// so it can update the download button to have the latest version (which is usually stored on top).
+				let Date = document.getElementById("Date")
+				Date.textContent = `Release Date: ${entry.Date || "????-??-??"}`
 
-			let Dwn = document.getElementById("DownloadButton")
-			Dwn.style.display = entry.Link ? "inline" : "none"
-			Dwn.href = `https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/${entry.Link}`
-		}
-	</script>
+				let Dwn = document.getElementById("DownloadButton")
+				Dwn.style.display = entry.Link ? "inline" : "none"
+				Dwn.href = `https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/${entry.Link}`
+			}
+		</script>
+	<?php } ?>
 </body>
 </html>

@@ -1,0 +1,19 @@
+---
+title: "In The Groove System Image - Version 0.23"
+source: "https://docs.google.com/document/d/1_lO2ddaYogve08u7CsjC6OojXy36ZfGgo7VCRVkLJhU"
+---
+
+- Update to ITGMania 1.1.0
+- Simply Love updated to 5.7.0
+- Cherry Pick commits:
+    - PacDrive bugfix: https://github.com/itgmania/itgmania/pull/927
+    - MinimaidHID: https://github.com/itgmania/itgmania/pull/946
+    - PumpHID/LXIO support: https://github.com/dinsfire64/itgmania/tree/lxio-hidapi
+        - To enable: set InputDrivers=X11,LinuxJoystick,PumpHID
+        - Save and reboot
+- Updated udev rules to match new hidapi lights backend drivers
+- Bugfix to force ALSA again (Null is now case sensitive in ITGMania due to std::string swap)
+    - Be sure to adjust your offset and volume (Win+V) if it gives you trouble.
+    - Or override start.sh if needed.
+- Ongoing bug with 1.1.0, please do not modify the Preferred Sample Rate option in the settings
+    - See changes and discussion in the PR

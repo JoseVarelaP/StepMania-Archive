@@ -51,9 +51,12 @@ function GetName($Item)
 		<a href="/SMArchive/<?php echo $CurrentPage ?>/"><img src="/SMArchive/Headers/<?php echo $CurrentPage ?>.png" id="logo"></a>
 	</div>
     <div class="top-menu" id="top-menu">
-		<!-- <div class="ShortageMessage">
-			<p>The archive's storage bucket is currently experiencing an outage.</p>
-		</div> -->
+		<!--
+		<div class="ShortageMessage">
+			<p>Hey, the <a href="https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/">Internet Archive is currently suffering a data breach and DDOS attacks</a>. So, for the time being, links that go there have been disabled temporarily.</p>
+			<p>The SMArchive isn't affected by this, but I thought of letting you know that this is happening.</a>
+		</div>
+		-->
 		<a href="https://discord.gg/uMkVUrr"><img src="/SMArchive/static/discord_icon.png" id="toprighticon"></a>
 		<a href="https://github.com/JoseVarelaP/StepMania-Archive"><img src="/SMArchive/static/GitHub-Mark-Light-120px-plus.png" id="toprighticon"></a>
 		<a href='https://ko-fi.com/josevarela' target='_blank'><img src='/SMArchive/static/kofi-icon.png' id="toprighticon" alt='ko-fi' /></a>

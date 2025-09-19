@@ -355,7 +355,7 @@
 		"turquoise": { "Name": "turquoise", "Link": "turquoise.zip" },
 		"Velocity": { "Name": "Velocity", "Link": "Velocity.zip" },
 		"shadow": { "Name": "ITG Shadow", "Link": "shadow.zip" },
-		"ebony": { "Name": "In The Groove 2 - Ebony edition", "Link": "Ebony.zip" },
+		"ebony": { "Name": "In The Groove 2 - Ebony edition", "Author": "Rynker", "Explicit": true, "Date": "2008-11-16", "Link": "Ebony.zip" },
 		"Submetal": { "Name": "ITG Submetal 2.0", "Link": "ITG%20Submetal%202.0.zip" },
 		"REDux": { "Name": "ITG REDux", "Link": "ITG%20REDux.zip" },
 		"ITGAh4x": { "Name": "In The Groove ANOTHER H4X EDITION", "HasImages": true, "NumImages": 7, "Link": "Blue%20rome.rar" },
@@ -669,6 +669,7 @@
 		"SimplySpud": {
 			"Name": "Simply Spud (Potato)",
 			"Author": "48productions",
+			"NumImages": 5,
 			"Link": [
 				{ "Name": "Simply Spud Russet v1.0", "Date": "2022-09-24", "Link":"Simply-Potato/Simply-Potato-SM5-1.0.0.zip"},
 				{ "Name": "Simply Spud Russet v0.8", "Date": "2021-04-07", "Link":"Simply-Potato/Simply-Potato-SM5-0.8.zip"}
@@ -784,13 +785,13 @@
 		"DDR3rdMix": { "Name": "DDR 3rd Mix", "Author": "MadkaT182", "Link": "DDR3rdMix-master.zip" },
 		"DDR5thKat": { "Name": "DDR 5th Mix", "Author": "MadkaT182", "Link": "DDR5th-master.zip" },
 		"DDR6thMix": { "Name": "DDR 6th mix -DDR MAX-", "Author": "Takuya20 (Ported by Reiaya2DX)", "Link": "Dance%20Dance%20Revolution%206th%20mix%20-DDR%20MAX-%20rev%201.0.rar" },
-		"DDRX": { "Name": "DDR X", "Author": "MadkaT182", "Link": "DDRX-master.zip" },
+		"DDRX": { "Name": "DDR X", "Author": "MadkaT182", "NumImages": 5, "Link": "DDRX-master.zip" },
 		"DDREX2": { "Name": "DDR Extreme 2", "Author": "MadkaT182", "Link": "DDREX2-master.zip" },
 		"DDRDDM": { "Name": "DDR DDM", "Author": "MadkaT182", "Link": "DDRDDM-master.zip" },
 		"Aoi": { "Name": "Aoi", "Author": "MadkaT182", "Link": "Aoi-master.zip" },
 		"DDR2014": { "Name": "DDR 2014", "Author": "MadkaT183", "Link": "DDR2014-master.zip" },
 		"DDR2013Kat": { "Name": "DDR 2013", "Author": "MadkaT183", "Link": "DDR2013-master.zip" },
-		"Simplyfication": { "Name": "SIMPLY-FICATION r3.0", "Date": "2014-04-04", "Author": "Th3_Ov3rHell_3XoduZ", "Link": "simply_fication__r3_0__by_ov3rhell3xoduz-d7dynyl.rar" },
+		"Simplyfication": { "Name": "SIMPLY-FICATION r3.0", "Date": "2014-04-04", "Author": "Th3_Ov3rHell_3XoduZ", "NumImages": 5, "Link": "simply_fication__r3_0__by_ov3rhell3xoduz-d7dynyl.rar" },
 		"RespectBase": { "Name": "SM Respect", "Date": "2020-01-30", "NumImages": 5, "HasImages": true, "Author": "Inorizushi", "Link": "Respect Base.zip" }
 	},
 

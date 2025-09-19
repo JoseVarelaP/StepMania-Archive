@@ -184,7 +184,7 @@ $decoded_data = json_decode($JSONContent, true);
 										if( is_array($ThemeItem) ) {
 											// echo $ThemeID;
 											$DateEntry = DecorateDate($ThemeItem);
-											?><tr>
+											?><tr style="<?php if( IsExplicit($ThemeItem) ) { echo "background-color: #400"; } ?>">
 												<td><a href='ThemePreview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
 												<td>
 													<?php if( NeedsImages($ThemeItem) ) { ?>

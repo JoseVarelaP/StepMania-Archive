@@ -1,5 +1,35 @@
 [
 	{
+		"Date": "12/Aug/25",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Just a message",
+				"List": [
+					"Hi! Sorry again for being super distant. I'm currently going through everything that has been sent to me in the past few months, getting them all listed in here. Expect this list to gradually expand in the next few days. But in the meantime, there's some goodies here. - Jose_Varela"
+				]
+			},
+			{
+				"Icon": "NITG4.png",
+				"Name": "NotITG",
+				"List": [
+					"Added the following builds as listing only:",
+					"<a href='BuildChangeLogs.php?Version=OISRT'>ONLINE INTERNET SRT Tournament</a>.",
+					"<a href='BuildChangeLogs.php?Version=CelestialHarbor'>Celestial Harbor</a>.",
+					null,
+					"These builds won't be downloadable upon request of the organizers."
+				]
+			},
+			{
+				"Icon": "ITGM.png",
+				"Name": "ITGMania Custom Builds",
+				"List": [
+					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-23.zip'>In The Groove System Image V0.23</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "29/May/25",
 		"Changes": [
 			{
