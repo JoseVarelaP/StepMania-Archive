@@ -42,7 +42,7 @@ $decoded_data = json_decode($JSONContent, true);
 
 function FindBuildFromKey( $cat,  $Item, $Key )
 {
-    $CategoryLink = "https://objects-us-east-1.dream.io/smtools/" . $cat . "/";
+    $CategoryLink = "https://s3.us-east-005.dream.io/smtools/" . $cat . "/";
 	// First, check if there's an actual data available for this entry.
 	if( !array_key_exists($Key, $Item) )
 		// Nothing, so just return the dash.

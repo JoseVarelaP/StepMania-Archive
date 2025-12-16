@@ -2,7 +2,7 @@
     "DWI" : {
         "Name": "Dance With Intensity",
         "Description": "Dance With Intensity (DWI) is a PC-based simulator of Dance Dance Revolution (DDR) by the Konami company.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DWI/dwi2-game.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DWI/dwi2-game.jpg",
         "Sources": [
             { "Name": "Dance With Intensity - snls library", "Link": "https://web.archive.org/web/20220726114214/http://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/da/Dance_With_Intensity.html" },
             { "Name": "Dance With Intensity - README / User Manual", "Link": "https://web.archive.org/web/20230102202712/http://dwi.ddruk.com/readme.php" }
@@ -95,7 +95,7 @@
         "Sources" : [
             { "Name": "Dance Dance Evolution 486 (The name gets mixed up a lot)", "Link": "https://web.archive.org/web/20010422115309fw_/http://www.rnac.ne.jp/~nekomimi/ddr/dde386.html" }
         ],
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDEvolution386/200img.png",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DDEvolution386/200img.png",
         "Listing": [
             { "Name": "Dance Dance Evolution v1.00", "Date": "1999-01-05" },
             { "Name": "Dance Dance Evolution v1.01", "Date": "1999-01-06" },
@@ -111,7 +111,7 @@
     "DazzleDazzleRealization" : {
         "Name": "Dazzle Dazzle Realization",
         "Description": "Seems to be the earliest known DDR-based simulator, initially worked on just a month after the initial release of DDR on arcades.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DazzleDazzleRealization/d2r.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DazzleDazzleRealization/d2r.gif",
         "Sources" : [
             { "Name": "DDRシミュレータ[Dazzle Dazzle Realization]", "Link": "https://web.archive.org/web/19991007105305/http://gauss.takamatsu-nct.ac.jp:80/~iguchi/ddr/ddr2.htm" }
         ],
@@ -151,9 +151,9 @@
     "DietDietRevolution" : {
 		"Name": "Diet Diet Revolution'99",
         "Description": "",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/ddr99.png",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DietDietRevolution/ddr99.png",
         "DownloadExtras" : [
-            { "Name": "Video Footage", "Desc": "Gameplay footage of Diet Diet Revolution '99.", "Link": "https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4" }
+            { "Name": "Video Footage", "Desc": "Gameplay footage of Diet Diet Revolution '99.", "Link": "https://s3.us-east-005.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4" }
         ],
         "Sources" : [
             { "Name": "Diet Diet Revolution V2.3 User Manual" }
@@ -175,7 +175,7 @@
 	},
 	"DelightDelightReduplication" : {
 		"Name": "Delight Delight Reduplication",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DelightDelightReduplication/cap_ddr_s.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DelightDelightReduplication/cap_ddr_s.jpg",
         "Sources" : [
             { "Name": "Delight Delight Reduplication Support Page", "Link": "https://web.archive.org/web/20200204100821/https://delight.airytail.co/index.html" }
         ],
@@ -212,7 +212,7 @@
     "beatarranger" : {
         "Name": "beatarranger",
         "Description": "Developed by EleGa in 2000. Seems to have been in development alongside working with DiGiX on <a href='#DanceParanoia2008'>DANCE PARANOiA</a>.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/beatarranger/ba01play.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/beatarranger/ba01play.gif",
         "Listing": [
             { "Name": "beat arranger ver0.0" },
             { "Name": "beat arranger ver0.1", "Date": "2000-01-23" },
@@ -231,10 +231,10 @@
         "Name": "BEAT魔にやり",
         "Description": "A beatmania simulator made by Polygon Love International Office in 1998. It uses its own format to play charts. It doesn't come with an editor. The game was built in x86 assembly <a href='https://web.archive.org/web/19990922081253/http://www.fscn.ne.jp/~maniyari/'>according to the support website</a>.",
         "DownloadExtras" : [
-            { "Name": "BEAT魔にやり Song Collection", "Desc": "A collection of songs for the game. Note that some songs require version 1.10 and up to play.", "Link": "https://objects-us-east-1.dream.io/smothersims/beatmaniyari/song/beatmaniyari_Songs.tar.gz" },
-            { "Name": "Video Footage", "Desc": "Gameplay footage of BEAT魔にやり, with the song BRAIN EATER.", "Link": "https://objects-us-east-1.dream.io/smothersims/beatmaniyari/Beatmaniyari.mp4" }
+            { "Name": "BEAT魔にやり Song Collection", "Desc": "A collection of songs for the game. Note that some songs require version 1.10 and up to play.", "Link": "https://s3.us-east-005.dream.io/smothersims/beatmaniyari/song/beatmaniyari_Songs.tar.gz" },
+            { "Name": "Video Footage", "Desc": "Gameplay footage of BEAT魔にやり, with the song BRAIN EATER.", "Link": "https://s3.us-east-005.dream.io/smothersims/beatmaniyari/Beatmaniyari.mp4" }
         ],
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/beatmaniyari/beat_gameplay.png",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/beatmaniyari/beat_gameplay.png",
         "Sources": [
             { "Name": "BEAT魔にやり Support Page", "Link": "https://web.archive.org/web/19990922081253/http://www.fscn.ne.jp/~maniyari/" }
         ],
@@ -252,7 +252,7 @@
     "DDRSimulator" : {
         "Name": "DDR Simulator",
         "Description": "A DDR simulation program. Runs under visual basic. Developed by Tsuneyuki Kimura (koukim).",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRSimulator/ddrsim-gameplay.png",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DDRSimulator/ddrsim-gameplay.png",
         "Listing": [
             { "Name": "ddr_s100", "Date": "1999-05-27", "Windows": "ddr_s100.exe" }
         ]
@@ -260,7 +260,7 @@
     "DanceParanoia" : {
         "Name": "DANCE PARANOiA",
         "Description": "Developed by DiGiX in 1998. It runs its own charting format called DPR. There's no builds available of this game.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia/HC_DANP_2.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DanceParanoia/HC_DANP_2.jpg",
         "Sources": [
             { "Name": "ＤＤＲプレイヤー解説", "Link": "https://web.archive.org/web/20220921172019/http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" }
         ],
@@ -270,13 +270,13 @@
     "DanceParanoia2008" : {
         "Name": "DANCE PARANOiA 2nd Mix",
         "Description": "The successor/sequel to DANCE PARANOiA, it plays Solo files, and includes a built-in editor. We have no builds for this game, or screenshots apart from a <a href='https://www.nicovideo.jp/watch/sm5352455'>single video available in niconico showcasing it</a>.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia2008/videoframe.png",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DanceParanoia2008/videoframe.png",
         "Sources": [
             { "Name": "bemani and Music Game Simulator File Types - AJ187", "Link": "https://web.archive.org/web/20160920190841/http://www.ajworld.net/simfile_types.txt" },
             { "Name": "DANCEPARANOiA online", "Link": "https://web.archive.org/web/20000311224336/http://www.linkclub.or.jp:80/~digix/danpara/index.html" }
         ],
         "DownloadExtras" : [
-            { "Name": "Video Footage", "Desc": "Gameplay footage of DANCE PARANOIA 2nd Mix.", "Link": "https://objects-us-east-1.dream.io/smothersims/DanceParanoia2008/DANCE PARANOiA.mp4" }
+            { "Name": "Video Footage", "Desc": "Gameplay footage of DANCE PARANOIA 2nd Mix.", "Link": "https://s3.us-east-005.dream.io/smothersims/DanceParanoia2008/DANCE PARANOiA.mp4" }
         ],
         "Listing" : [
             { "Name": "DANCE PARANOiA Version 2.00" },
@@ -290,7 +290,7 @@
     },
     "DDRPlay" : {
 		"Name": "DDRPlay",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/DDRPlay/HC_DDRP_1.jpg",
         "Description": "Playback program that reads DDR-based MSD files.",
         "Sources" : [
             { "Name": "ＤＤＲプレイヤー解説", "Link": "https://web.archive.org/web/20220921172019/http://www.interq.or.jp/gold/gen/html/ddr_soft_2.htm" },
@@ -322,7 +322,7 @@
     "AquanBeats": {
         "Name": "AQUA'N'BEATS",
         "Description": "Originally called MacBeat, this is a BMS rhythm game engine developed for MacOS during the PPC to Intel transition period.",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/AquanBeats/ss_big2.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/AquanBeats/ss_big2.jpg",
         "Sources": [
             { "Name": "Website", "Link": "https://web.archive.org/web/20150627204221/http://aquan-beats.matrix.jp/" }
         ],
@@ -361,7 +361,7 @@
     },
     "beats-typer" : {
         "Name": "Beats Type-R",
-        "Picture": "https://objects-us-east-1.dream.io/smothersims/beats-typer/screen.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smothersims/beats-typer/screen.jpg",
         "Description": "A mod of Beats Portable by starrymoon. Features different scroll speeds, a (somewhat broken) rate mod, different combo/judgments, etc.",
         "Listing" : [
             { "Name": "release build", "Linux": "j41w70.apk" }

@@ -12,11 +12,11 @@ $Pack = $_GET["Col"];
 $VidID = $_GET["ID"];
 $VideoContainerPath = $decoded_data[$Category]["Collections"][$Pack];
 
-// https://objects-us-east-1.dream.io/smarchivefootage/In%20The%20Groove/ITGVideoPack1/Chef%20-%20Marathon%20Course%20-%20Far%20East.mp4
+// https://s3.us-east-005.dream.io/smarchivefootage/In%20The%20Groove/ITGVideoPack1/Chef%20-%20Marathon%20Course%20-%20Far%20East.mp4
 if (array_key_exists('Container', $VideoContainerPath))
-    $VideoLink = "https://objects-us-east-1.dream.io/smarchivefootage/" . $VideoContainerPath["Container"] . "/" . $VideoContainerPath[$VidID]["VideoLink"];
+    $VideoLink = "https://s3.us-east-005.dream.io/smarchivefootage/" . $VideoContainerPath["Container"] . "/" . $VideoContainerPath[$VidID]["VideoLink"];
 else
-    $VideoLink = "https://objects-us-east-1.dream.io/smarchivefootage/" . $VideoContainerPath[$VidID]["VideoLink"];
+    $VideoLink = "https://s3.us-east-005.dream.io/smarchivefootage/" . $VideoContainerPath[$VidID]["VideoLink"];
 
 function GetTitle( $Cont, $Path )
 {

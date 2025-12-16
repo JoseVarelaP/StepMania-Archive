@@ -128,7 +128,7 @@ $decoded_data = json_decode($JSONContent, true);
 						return "ThemePreview/?".$convtext;
 					}
 
-					return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
+					return "https://s3.us-east-005.dream.io/smthemes/".$location."/".$convtext;
 				}
 
 				function FindThemeFromKey( $Item, $cat )

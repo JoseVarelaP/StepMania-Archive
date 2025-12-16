@@ -44,7 +44,7 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 	<meta property="og:title" content="<?php echo $Entry['Name'] ?>">
 	<meta property="og:description" content="A theme for <?php echo $decoded_data[$Category]['Name'] ?>.">
 	<?php if( $NumImages > 0 ) { ?>
-		<meta property="og:image" content="https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen1.png">
+		<meta property="og:image" content="https://s3.us-east-005.dream.io/smthemes/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen1.png">
 	<?php } ?>
 </head>
 <body>
@@ -57,7 +57,7 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 					<?php if( array_key_exists( 'Link', $Entry ) ) { ?>
 						<div class="Download-Theme">
 							<?php
-								$DownloadBaseLink = "https://objects-us-east-1.dream.io/smnoteskins/" . $Category . "/";
+								$DownloadBaseLink = "https://s3.us-east-005.dream.io/smnoteskins/" . $Category . "/";
 								if ( array_key_exists('Link', $Entry) ) {
 							?>
 								<p id="Download-Area" style="padding: 6px"><img src="../static/download.gif"> <a href="<?php echo ($DownloadBaseLink . $DownloadItem['Link']) ?>" id="DownloadButton">Download Now</a> <small>Right click to save.</small></p>
@@ -103,8 +103,8 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 							if( $NumImages > 0 )
 								for( $x = 1; $x <= $NumImages; $x++ ) {
 							?>
-								<a href="https://objects-us-east-1.dream.io/smnoteskins/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
-									<img style="order: <?php echo $x ?>" src="https://objects-us-east-1.dream.io/smnoteskins/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+								<a href="https://s3.us-east-005.dream.io/smnoteskins/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
+									<img style="order: <?php echo $x ?>" src="https://s3.us-east-005.dream.io/smnoteskins/<?php echo $Category ?>/Screenshots/<?php echo $ID ?>/screen<?php echo $x ?>.png">
 								</a>
 							<?php } ?>
 					</div>
@@ -128,7 +128,7 @@ $NumImages = array_key_exists('NumImages', $Entry) ? $Entry['NumImages'] : 0;
 
 			let Dwn = document.getElementById("DownloadButton")
 			Dwn.style.display = entry.Link ? "inline" : "none"
-			Dwn.href = `https://objects-us-east-1.dream.io/smthemes/<?php echo $Category ?>/${entry.Link}`
+			Dwn.href = `https://s3.us-east-005.dream.io/smthemes/<?php echo $Category ?>/${entry.Link}`
 		}
 	</script>
 </body>

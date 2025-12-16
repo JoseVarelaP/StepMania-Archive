@@ -22,14 +22,14 @@ $decoded_data = json_decode($JSONContent, true);
                 <h1>Notes</h1>
                 <div class="CenterItem">
                     <p> These can run on every version of StepMania after 3.9 Release Candidate 3.</p>
-                    <p><a href="https://objects-us-east-1.dream.io/smcharacters/Animation%20%2B%20Helper%20Bones.7z">Please ensure you have the appropiate bones installed!</a></p>
+                    <p><a href="https://s3.us-east-005.dream.io/smcharacters/Animation%20%2B%20Helper%20Bones.7z">Please ensure you have the appropiate bones installed!</a></p>
                 </div>
                 <br/>
                 <div class="CharListing" id="CharListing">
                     <?php foreach( $decoded_data as $category=>$itemCat ) {  ?>
                         <div>
-                            <a href="https://objects-us-east-1.dream.io/smcharacters/<?php echo $itemCat['File'] ?>">
-                                <img src="https://objects-us-east-1.dream.io/smcharacters/img/<?php echo $category ?>.png" style="max-height: 96px; padding: 1px 2px;">
+                            <a href="https://s3.us-east-005.dream.io/smcharacters/<?php echo $itemCat['File'] ?>">
+                                <img src="https://s3.us-east-005.dream.io/smcharacters/img/<?php echo $category ?>.png" style="max-height: 96px; padding: 1px 2px;">
                             </a>
                             <br>
                             <?php echo $category ?>

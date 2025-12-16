@@ -2,7 +2,7 @@
     "ArrowVortex" : {
         "Name": "ArrowVortex",
         "Description": "ArrowVortex can be used to create or edit stepfiles for various rhythm games, such as <abbr title='Dance Dance Revolution'>DDR</abbr>, <abbr title='In The Groove'>ITG</abbr>, <abbr title='Pump It Up'>PIU</abbr>, Stepmania, and Osu. It started out as a hobby project by Fietsemaker, aiming to create a modern stepfile editor inspired by the designs of both DDReamStudio and the Stepmania editor.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/ArrowVortex/screenshot-02.png",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/ArrowVortex/screenshot-02.png",
         "Listing": [
             { "Name": "ArrowVortex (Feb 2017)", "Date" : "2017-02-25", "Windows": "ArrowVortex-2017-02-25.rar" }
         ]
@@ -19,7 +19,7 @@
     "stependous" : {
         "Name": "Stependous",
         "Description": "Stependous is a utility which facilitates the creation of <abbr title='Dance With Intensity'>DWI</abbr> files for use in your <abbr title='Dance Dance Revolution'>DDR</abbr> simulator. Its goal is to be an all-in-one solution for creating step files that is easy for anyone to use.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/stependous/stependous.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/stependous/stependous.gif",
         "Listing": [
             { "Name": "Stependous 0.80", "Date" : "2005-08-09", "Windows": "stependous_0.80.zip", "Src": "stependous_0.80_src.zip" },
             { "Name": "Stependous 0.81", "Date" : "2005-08-11", "Windows": "stependous_0.81.zip", "Src": "stependous_0.81_src.zip" },
@@ -29,7 +29,7 @@
     "anyMania" : {
         "Name": "anyMania",
         "Description": "anyMania is a... 'tool'? It's more a auto step generator/player that detects from songs, similar to StepMania's Autogen. Probably one of the only tools to have a paid version. At least it was rated 5 cows on tucows.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/anyMania/snap1.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/anyMania/snap1.gif",
         "Listing": [
             { "Name": "anyMania 0.1", "Date": "2005-05-01", "Windows": "anyMania-0.1.zip" },
             { "Name": "anyMania 0.11", "Date": "2005-05-12", "Windows": "anyMania-0.11.zip" },
@@ -45,7 +45,7 @@
     "DDreamS" : {
         "Name": "DDreamStudio",
         "Description": "DDreamStudio is a stepfile creation tool by Jyris1, free79asia and Jussi Kujala, which had its development from 2004 to 2009. A lot of later versions of this program are missing, so if you happen to have any of the ones listed here without a download link, please contact me on the <a href='../About/index.html'>'About'</a> page.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/DDreamS/ds70.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/DDreamS/ds70.jpg",
         "Listing": [
             { "Name": "DDreamStudio 0.24", "Date": "2004-11-??", "Windows": "ds24.zip" },
             { "Name": "DDreamStudio 0.28 Beta 2", "Date": "2006-07-02", "Windows": "ds28_b2_win32.zip" },
@@ -121,7 +121,7 @@
     "Texture-Font-Generator-2020-Squirrel" : {
         "Name": "Texture Font Generator 2020",
         "Description": "A rework of the texture font generator from <abbr title='Spinal Shark Colective'>SSC</abbr> by Squirrel to support the new font mappings provided by StepMania OutFox. Starting in v0.3, it adds support for legacy font mappings for earlier versions of StepMania.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/Texture-Font-Generator-2020-Squirrel/picturepreview.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/Texture-Font-Generator-2020-Squirrel/picturepreview.gif",
         "Listing": [
             {
                 "Name": "Texture-Font-Generator-2020-Squirrel V0.1",
@@ -275,7 +275,7 @@
     "TranslationToolkit" : {
         "Name": "Translation-Toolkit",
         "Description": "This project is intended as a small application to automate some tasks for translators. It is able to parse, analyze and fix the StepMania translation files.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/TranslationToolkit/toolkit.png",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/TranslationToolkit/toolkit.png",
         "Listing" : [
             { 
                 "Name": "Translation-Toolkit-0.1",
@@ -345,13 +345,13 @@
     "Stepmania-TranslatorViewMaker": {
         "Name": "Stepmania-TranslatorViewMaker",
         "Description": "Have you ever tried to translate a program like Stepmania and wondered <i>\"Hmmmmm, now where can I find that line in the .ini?\"</i> Now there's no need to wonder! This program will make a translator view file for your translation .ini and make you translation job easier.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/Stepmania-TranslatorViewMaker/toolmaker.jpg",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/Stepmania-TranslatorViewMaker/toolmaker.jpg",
         "Listing": []
     },
     "ddrviewer" : {
         "Name": "DDR Step Viewer of DDR",
         "Description": "Utility to view charts from .DDR or .MSD files.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/ddrviewer/menu.gif",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/ddrviewer/menu.gif",
         "Listing": [
             { "Name": "ddrv146", "Date": "1999-11-21",  "Windows": "ddrv146.exe" }
         ] 
@@ -359,7 +359,7 @@
     "Tiny-Webini": {
         "Name": "Tiny-Webini",
         "Description": "Translate Project Moondance with the same style StepMania uses for its translations.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/Tiny-Webini/tinywebini.png",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/Tiny-Webini/tinywebini.png",
         "Listing": [
             {
                 "Name": "Tiny-Webini-0.1",
@@ -445,7 +445,7 @@
     "xstep": {
         "Name": "XStep",
         "Description": "A <abbr title='Dance With Intensity'>DWI</abbr> Chart Creator, not editor. It doesn't have the ability to import <abbr title='Dance With Intensity'>DWI</abbr> simfiles, although it can save and load in its own format (.xstep). Requires Winamp 2.x (Audio playback) and DWI/StepMania (Play testing) to run.",
-        "Picture": "https://objects-us-east-1.dream.io/smtools/xstep/xstepedit.png",
+        "Picture": "https://s3.us-east-005.dream.io/smtools/xstep/xstepedit.png",
         "Listing": [
             { "Name": "XStep 1.0.1", "Date": "", "Windows": "xstep.zip" },
             { "Name": "XStep 1.0", "Date": "" },

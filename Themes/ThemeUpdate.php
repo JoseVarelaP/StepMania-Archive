@@ -71,9 +71,9 @@
 		<td>Theme based on the X2 version of DDR.</td>
 		<td>5 Beta 4</td>
 		<td>
-			<a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/DDR%20X2%20Plus%2010%2013%202014.zip">Original Version</a>
+			<a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/DDR%20X2%20Plus%2010%2013%202014.zip">Original Version</a>
 			<hr>
-			<a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/DDR%20X2%20Plus%20SD15.zip">SD Version (573)</a>
+			<a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/DDR%20X2%20Plus%20SD15.zip">SD Version (573)</a>
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +82,7 @@
 		<td>SteveReen</td>
 		<td>A theme for the ECFA 7 tournament that was originally planned to be in July 2020 but had to be moved due to world events (PREVIEW / Includes NoteSkins).</td>
 		<td>5.0.12+</td>
-		<td><a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/WF_ECFA7.zip">Available</a></td>
+		<td><a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/WF_ECFA7.zip">Available</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Sereni/Simply-Love-SM5-Vertical">Simply Love Vertical</a></td>
@@ -98,7 +98,7 @@
 		<td>Hayoreo</td>
 		<td>Modification of Simply Love with visual/profile tweaks.</td>
 		<td>5.0.12+</td>
-		<td><a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/Digital.Dance.v0.9.5.zip">Available</a></td>
+		<td><a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/Digital.Dance.v0.9.5.zip">Available</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/jordando/Simply-Love-Tweaks">Simply Love Tweaks</a></td>
@@ -121,7 +121,7 @@
 		<td>chaoseater1034</td>
 		<td>Recreation of X2's Arcade build to SM5.</i></td>
 		<td>5.0.12+</td>
-		<td><a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/DanceDanceRevolution%20X2.rar">Available</a></td>
+		<td><a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/DanceDanceRevolution%20X2.rar">Available</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/MadkaT182/DDREX2">DanceDanceRevolution Extreme 2</a></td>
@@ -137,7 +137,7 @@
 		<td>trav358</td>
 		<td>Recreation of DDR A to SM5.</i></td>
 		<td>5.0.12+</td>
-		<td><a href="https://objects-us-east-1.dream.io/smthemes/StepMania%205/DDR%20A%20-%20KENP_Mod%2020180115.zip">Available</a></td>
+		<td><a href="https://s3.us-east-005.dream.io/smthemes/StepMania%205/DDR%20A%20-%20KENP_Mod%2020180115.zip">Available</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/MadkaT182/DDRMarioMix">DDR Mario Mix</a></td>
@@ -247,7 +247,7 @@
 						return "ThemePreview.html?".$convtext;
 					}
 
-					return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
+					return "https://s3.us-east-005.dream.io/smthemes/".$location."/".$convtext;
 				}
 
 				function PrintThemeNameWithLink( $item )

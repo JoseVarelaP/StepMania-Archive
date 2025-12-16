@@ -56,7 +56,7 @@ $decoded_data = json_decode($JSONContent, true);
 						return "ThemePreview/?".$convtext;
 					}
 
-					return "https://objects-us-east-1.dream.io/smthemes/".$location."/".$convtext;
+					return "https://s3.us-east-005.dream.io/smthemes/".$location."/".$convtext;
 				}
 
                 function hasImage( $Item )
@@ -108,7 +108,7 @@ $decoded_data = json_decode($JSONContent, true);
 												</td>
 												<td><a href='Preview.php?Category=<?php echo $category ?>&ID=<?php echo $ThemeID ?>'><?php echo $ThemeItem['Name'] ?></td>
 												<td><?php echo $ThemeItem['Author'] ?? "?" ?></td>
-												<td><a href="https://objects-us-east-1.dream.io/smnoteskins/<?php echo $category ?>/<?php echo $ThemeItem['Link'] ?>">
+												<td><a href="https://s3.us-east-005.dream.io/smnoteskins/<?php echo $category ?>/<?php echo $ThemeItem['Link'] ?>">
 														Download
 												</a></td>
 											</tr>

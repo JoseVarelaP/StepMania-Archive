@@ -11,5 +11,5 @@ The following footage is from a decompiled build, modified to run offline on an 
 Fun little fact: bundled on this executable is the full, all diffs stepfile of Flashback, which was used to sync your steps before you went to play the actual songs.
 
 <video controls style="width: 100%">
-    <source src="https://objects-us-east-1.dream.io/smarchivefootage/NotITG/oisrt-demo-vid.mp4" type="video/mp4">
+    <source src="https://s3.us-east-005.dream.io/smarchivefootage/NotITG/oisrt-demo-vid.mp4" type="video/mp4">
 </video>

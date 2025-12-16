@@ -2,6 +2,31 @@
     "InTheGroove1" : {
         "Name" : "In The Groove",
         "Collections" : {
+            "ASI2005" : {
+                "Name" : "In The Groove at ASI Chicago 2005",
+                "Game": "In The Groove 1",
+                "RecordDate": "2005-03-03",
+                "Location": "McCormick Place Convention Center, Chicago, IL",
+                "Container" : "In%20The%20Groove/ASI 2005",
+
+                "PreBetaSonglist" : {
+                    "Name": "ITG2 PreBeta song list",
+                    "Description": "Quick showcase of the songlist at this point in development.",
+                    "VideoLink": "Day 1/ITG2%20PreBeta%20Songlist.mp4",
+                    "Src": {
+                        "Name": ""
+                    }
+                },
+                
+                "EnergizerDemo" : {
+                    "Name": "Energizer Singles Expert 12",
+                    "Description": "",
+                    "VideoLink": "Day 1/Energizer Singles Expert 12.mp4",
+                    "Src": {
+                        "Name": ""
+                    }
+                }
+            },
             "ITGVP1" : {
                 "Name" : "In the Groove - Video Pack #1",
                 "Game": "In The Groove 1",

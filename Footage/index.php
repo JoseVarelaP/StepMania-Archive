@@ -62,22 +62,22 @@ function FetchFootageInfo( $Entry, $Parent, $ID, $CollectionID )
                     <tr>
                         <td>In The Groove 1</td>
                         <td>695.8MB</td>
-                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove.7z'>Available</td>
+                        <td><a href='https://s3.us-east-005.dream.io/smarchivefootage/BGA/In%20The%20Groove.7z'>Available</td>
                     </tr>
                     <tr>
                         <td>In The Groove 2</td>
                         <td>490.8MB</td>
-                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%202.7z'>Available</td>
+                        <td><a href='https://s3.us-east-005.dream.io/smarchivefootage/BGA/In%20The%20Groove%202.7z'>Available</td>
                     </tr>
                     <tr>
                         <td>In The Groove 3</td>
                         <td>782.5MB</td>
-                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%203.7z'>Available</td>
+                        <td><a href='https://s3.us-east-005.dream.io/smarchivefootage/BGA/In%20The%20Groove%203.7z'>Available</td>
                     </tr>
                     <tr>
                         <td>In The Groove Rebith</td>
                         <td>584.9MB</td>
-                        <td><a href='https://objects-us-east-1.dream.io/smarchivefootage/BGA/In%20The%20Groove%20Rebirth.7z'>Available</td>
+                        <td><a href='https://s3.us-east-005.dream.io/smarchivefootage/BGA/In%20The%20Groove%20Rebirth.7z'>Available</td>
                     </tr>
                 </table>
             </div>

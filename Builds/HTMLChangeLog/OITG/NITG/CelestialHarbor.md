@@ -13,5 +13,5 @@ The following footage is from a decompiled build, modified to run offline on an 
 All songs featured on this tournament are available to download on the [NotITG website's SRT Lore pack](https://cloud.noti.tg/SRTLore.zip).
 
 <video controls style="width: 100%">
-    <source src="https://objects-us-east-1.dream.io/smarchivefootage/NotITG/celestial-harbor-vid.mp4" type="video/mp4">
+    <source src="https://s3.us-east-005.dream.io/smarchivefootage/NotITG/celestial-harbor-vid.mp4" type="video/mp4">
 </video>

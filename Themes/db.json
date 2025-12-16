@@ -252,8 +252,7 @@
 		"ITG500Z" : { "Name": "ITG 500Zb4", "Link": "ITG%20500Zb4.smzip" },
 		"Secks" : { "Name": "Secks", "Link": "secks.zip" },
 		"PINK": { "Name": "PINK", "Link": "PINK.rar" },
-		"SalAndy": { "Name": "salAndy3.95", "Author": "salAndy", "Link": "salAndy3.95.zip" },
-		"PHIL": { "Name": "ITG PHILLLLLLL", "Link": "ITG%20PHILLLLLLL.rar", "NumImages": 5, "Explicit": true }
+		"SalAndy": { "Name": "salAndy3.95", "Author": "salAndy", "Link": "salAndy3.95.zip" }
 	},
 
 	"SM4" : {
@@ -600,32 +599,32 @@
 		"Trotmania1" : {
 			"Name": "TrotMania",
 			"NumImages": 4,
-			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania.7z"
+			"Link": "https://s3.us-east-005.dream.io/smthemes/StepMania%205/trotmania.7z"
 		},
 		"Trotmania2" : {
 			"Name": "TrotMania II: Chrystalize",
 			"NumImages": 4,
-			"Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/trotmania2-final%20theme.zip"
+			"Link": "https://s3.us-east-005.dream.io/smthemes/StepMania%205/trotmania2-final%20theme.zip"
 		},
 		"Trotmania3" : {
 			"Name": "TrotMania III: Aeternum Obscurum",
 			"NumImages": 8,
 			"Link": [
-				{ "Name": "v1.6", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20III%20Theme%20v1.6.zip" }
+				{ "Name": "v1.6", "Link": "https://s3.us-east-005.dream.io/smthemes/StepMania%205/TrotMania%20III%20Theme%20v1.6.zip" }
 			]
 		},
 		"Trotmania4" : {
 			"Name": "TrotMania IV: Euphorius",
 			"NumImages": 4,
 			"Link": [
-				{ "Name": "v1.5", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TM4%20Theme%201.5.zip" }
+				{ "Name": "v1.5", "Link": "https://s3.us-east-005.dream.io/smthemes/StepMania%205/TM4%20Theme%201.5.zip" }
 			]
 		},
 		"Trotmania5" : {
 			"Name": "TrotMania V: Shrive",
 			"NumImages": 4,
 			"Link": [
-				{ "Name": "v1.0.1", "Link": "https://objects-us-east-1.dream.io/smthemes/StepMania%205/TrotMania%20V%20Theme%201.0.1.zip" }
+				{ "Name": "v1.0.1", "Link": "https://s3.us-east-005.dream.io/smthemes/StepMania%205/TrotMania%20V%20Theme%201.0.1.zip" }
 			]
 		},
 		"TKMix" : { "Name": "TK Mix", "HasImages": true, "NumImages": 5, "Link": "TK%20Mix.zip" },

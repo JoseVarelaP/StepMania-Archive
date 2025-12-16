@@ -48,9 +48,9 @@ function GetAuthor($item)
                     </thead>
                     <?php foreach( $decoded_data as $Name=>$Entry ) { ?>
                         <tr>
-                            <td><a href="https://objects-us-east-1.dream.io/smannouncers/<?php echo $Entry['File'] ?>"><?php echo $Name ?></a></td>
+                            <td><a href="https://s3.us-east-005.dream.io/smannouncers/<?php echo $Entry['File'] ?>"><?php echo $Name ?></a></td>
                             <td><?php echo GetAuthor($Entry) ?></td>
-                            <td><a href="https://objects-us-east-1.dream.io/smannouncers/AudioPreview/<?php echo $Name ?>.ogg">Preview</a></td>
+                            <td><a href="https://s3.us-east-005.dream.io/smannouncers/AudioPreview/<?php echo $Name ?>.ogg">Preview</a></td>
                         </tr>
                     <?php } ?>
                 </table>

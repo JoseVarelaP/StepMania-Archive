@@ -12,10 +12,10 @@ function GenCharacterListing()
         const CharLink = document.createElement( "a" );
         const CharImage = document.createElement( "img" );
         
-        // Make them all generate `https://objects-us-east-1.dream.io/smcharacters/`
-        CharLink.href = `https://objects-us-east-1.dream.io/smcharacters/${Version.File}`;
+        // Make them all generate `https://s3.us-east-005.dream.io/smcharacters/`
+        CharLink.href = `https://s3.us-east-005.dream.io/smcharacters/${Version.File}`;
 
-        CharImage.src = `https://objects-us-east-1.dream.io/smcharacters/img/${key}.png`
+        CharImage.src = `https://s3.us-east-005.dream.io/smcharacters/img/${key}.png`
         CharImage.style = "max-height: 96px; padding: 1px 2px;";
         CharLink.appendChild(CharImage)
         table.appendChild(CharLink);

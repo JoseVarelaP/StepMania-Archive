@@ -1,5 +1,37 @@
 [
 	{
+		"Date": "14/Nov/25",
+		"Changes": [
+			{
+				"Icon": "SM40.png",
+				"Name": "Just a message",
+				"List": [
+					"All links for the archive have been updated to use the new storage bucket for the data, so downloads should work again. If there are any that I missed, please do let me know."
+				]
+			}
+		]
+	},
+	{
+		"Date": "18/Sep/25",
+		"Changes": [
+			{
+				"Icon": "SM39.png",
+				"Name": "StepMania 3.9",
+				"List": [
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepXX%20v2.60%20(full).rar'>StepPheonix 1.9</a>."
+				]
+			},
+			{
+				"Icon": "SM5.png",
+				"Name": "StepMania 5",
+				"List": [
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepXX%20v2.60%20(full).rar'>StepXX v2.60</a>, and 2.61 patch.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/PumpSanity%200.95.2%20patch.zip'>PumpSanity 0.95.2</a>."
+				]
+			}
+		]
+	},
+	{
 		"Date": "12/Aug/25",
 		"Changes": [
 			{
@@ -24,7 +56,7 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGMania Custom Builds",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-23.zip'>In The Groove System Image V0.23</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-23.zip'>In The Groove System Image V0.23</a>."
 				]
 			}
 		]
@@ -52,8 +84,8 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGMania Custom Builds",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-20.zip'>In The Groove System Image V0.20</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-22.zip'>In The Groove System Image V0.22</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-20.zip'>In The Groove System Image V0.20</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-22.zip'>In The Groove System Image V0.22</a>."
 				]
 			},
 			{
@@ -95,27 +127,27 @@
 				"Name": "StepMania 3.9",
 				"List": [
 					"Thanks to .krtv for these.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%209-6-2004.exe'>StepMania 3.9 CVS 9-6-2004</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2001-15-2005.exe'>StepMania 3.9 CVS 01-15-2005</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2008-03-2004%20Unofficial.exe'>StepMania 3.9 CVS 08-03-2004 Unofficial</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20CVS%2008-23-2004.exe'>StepMania CVS 08-23-2004</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20TEST%20CVS%208-21-2004.exe'>StepMania TEST CVS 8-21-2004</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/StepMania%20Unofficial%208-13-2004%20CVS.exe'>StepMania Unofficial 8-13-2004 CVS</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%209-6-2004.exe'>StepMania 3.9 CVS 9-6-2004</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2001-15-2005.exe'>StepMania 3.9 CVS 01-15-2005</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%203.9%20CVS%2008-03-2004%20Unofficial.exe'>StepMania 3.9 CVS 08-03-2004 Unofficial</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%20CVS%2008-23-2004.exe'>StepMania CVS 08-23-2004</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%20TEST%20CVS%208-21-2004.exe'>StepMania TEST CVS 8-21-2004</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/StepMania%20Unofficial%208-13-2004%20CVS.exe'>StepMania Unofficial 8-13-2004 CVS</a>."
 				]
 			},
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-2.0.0.zip'>StepP1 Plus v2.0.0</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/stepp1-plus-2.0.0.zip'>StepP1 Plus v2.0.0</a>"
 				]
 			},
 			{
 				"Icon": "ITGM.png",
 				"Name": "ITGMania Custom Builds",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-18a.zip'>In The Groove System Image V0.18</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-19.zip'>In The Groove System Image V0.19</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-18a.zip'>In The Groove System Image V0.18</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-19.zip'>In The Groove System Image V0.19</a>."
 				]
 			}
 		]
@@ -127,14 +159,14 @@
 				"Icon": "OITG.png",
 				"Name": "OpenITG",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.9-UpgradePack.zip'>NotITG v4.9.</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/OPENITG/NotITG-v4.9-UpgradePack.zip'>NotITG v4.9.</a>"
 				]
 			},
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Cross/StepmaniaX.4.0cvs.itg2.rar'>Added a build of StepManiaX</a> that contains a ITG2 theme and keymaps in it. Appears to the same as the 4.0CVS version, so its added as an option in that same entry."
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Cross/StepmaniaX.4.0cvs.itg2.rar'>Added a build of StepManiaX</a> that contains a ITG2 theme and keymaps in it. Appears to the same as the 4.0CVS version, so its added as an option in that same entry."
 				]
 			},
 			{
@@ -318,7 +350,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20DDR%20%2B%20TECHNO%20MOTION%20FULL%20LIBERADO.zip'>A repackaged SM3.9 build by CODE: REBORN</a>, which includes a TechnoMotion based theme and content."
+					"Added a <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/Stepmania%20DDR%20%2B%20TECHNO%20MOTION%20FULL%20LIBERADO.zip'>A repackaged SM3.9 build by CODE: REBORN</a>, which includes a TechnoMotion based theme and content."
 				]
 			}
 		]
@@ -330,7 +362,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/neonfm_2005.zip'>'final' version of Neon FM: Dance Radio</a>, which Eric Yockey just posted publicly on Rhythm Game Cabs."
+					"Added a <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/neonfm_2005.zip'>'final' version of Neon FM: Dance Radio</a>, which Eric Yockey just posted publicly on Rhythm Game Cabs."
 				]
 			},
 			{
@@ -357,10 +389,10 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Thanks to ElGFAS for bringing these up!",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.0.zip'>StepP2 V3.0</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.1.zip'>StepP2 V3.1</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.2.zip'>StepP2 V3.2</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.4.zip'>StepP2 V3.4</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.0.zip'>StepP2 V3.0</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.1.zip'>StepP2 V3.1</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.2.zip'>StepP2 V3.2</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP2/StepP2%20-%20Release%20V3.4.zip'>StepP2 V3.4</a>."
 				]
 			}
 		]
@@ -397,7 +429,7 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGMania",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.8.0-Windows-no-songs.exe'>ITGMania v0.8.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.8.0-Windows-no-songs.exe'>ITGMania v0.8.0</a>."
 				]
 			}
 		]
@@ -421,7 +453,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre042-Win64-date-20231225.exe'>Project OutFox Alpha V Playtest Public Build pre042</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre042-Win64-date-20231225.exe'>Project OutFox Alpha V Playtest Public Build pre042</a>."
 				]
 			},
 			{
@@ -436,9 +468,9 @@
 				"Name": "StepMania 5",
 				"List": [
 					"Added three builds of StepP1 Plus:",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta1.zip'>StepP1 Plus v0.9.5 BETA-1</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta2.zip'>StepP1 Plus v0.9.5 BETA-2</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/stepp1-plus-1.0.0.zip'>StepP1 Plus v1.0.0</a>"
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta1.zip'>StepP1 Plus v0.9.5 BETA-1</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/stepp1-plus-0.9.5-beta2.zip'>StepP1 Plus v0.9.5 BETA-2</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/stepp1-plus-1.0.0.zip'>StepP1 Plus v1.0.0</a>"
 				]
 			}
 		]
@@ -450,13 +482,13 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added decompiled packages for <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Decomp.7z'>Mungyodance 2</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD3/MGD3-Decomp.zip'>Mungyodance 3</a>.",
-					"Added decompiled packages for the <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add1-Decomp.7z'>Addon 1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add2-Decomp.7z'>Addon 2</a> packages for Mungyodance 2.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE'>ResurrecXion Proyect 15.03</a>.",
+					"Added decompiled packages for <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Decomp.7z'>Mungyodance 2</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD3/MGD3-Decomp.zip'>Mungyodance 3</a>.",
+					"Added decompiled packages for the <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add1-Decomp.7z'>Addon 1</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/MGD-Decomp/MGD2/MGD-Add2-Decomp.7z'>Addon 2</a> packages for Mungyodance 2.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/ResurrecXion%20Proyect%2015.03.EXE'>ResurrecXion Proyect 15.03</a>.",
 					null,
 					"Thanks to locuuraa for the following entries.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/3DDX%20-%20Stepmania.7z'>3DDX 2-D-TECH</a>.",
-					"Added a <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Others/Pop%27n%20Music%20-%20Characters.7z'>character bundle for Pop'n'Mania (PNM Test)</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/3DDX%20-%20Stepmania.7z'>3DDX 2-D-TECH</a>.",
+					"Added a <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Others/Pop%27n%20Music%20-%20Characters.7z'>character bundle for Pop'n'Mania (PNM Test)</a>"
 				]
 			},
 			{
@@ -509,9 +541,9 @@
 				"Name": "Other Sims Archive",
 				"List": [
 					"<h2><a href='../OtherSims/#DazzleDazzleRealization'>Dazzle Dazzle Realization</a></h2>",
-					"Added <a href='https://objects-us-east-1.dream.io/smothersims/DazzleDazzleRealization/d2r2a1.lzh'>version 2.00 α1</a>. Thanks to Nemi for finding this.",
+					"Added <a href='https://s3.us-east-005.dream.io/smothersims/DazzleDazzleRealization/d2r2a1.lzh'>version 2.00 α1</a>. Thanks to Nemi for finding this.",
 					"<h2><a href='../OtherSims/#DietDietRevolution'>Diet Diet Revolution</a></h2>",
-					"Added <a href='https://objects-us-east-1.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4'>gameplay footage</a>. More will come for the other entries as I get better VMs setup.",
+					"Added <a href='https://s3.us-east-005.dream.io/smothersims/DietDietRevolution/DDR99-video-footage-2023-12-10.mp4'>gameplay footage</a>. More will come for the other entries as I get better VMs setup.",
 					"<h2><a href='../OtherSims/#beatmaniyari'>BEAT魔にやり</a></h2>",
 					"Fixed the release dates for versions 1.08 and 1.10."
 				]
@@ -623,7 +655,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/ITG_PoWa.rar'>ITG PoWa!</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.95/Windows/ITG_PoWa.rar'>ITG PoWa!</a>.",
 					"Added Changelogs for OpenITG builds Alpha 1 through 7."
 				]
 			},
@@ -644,7 +676,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip'>Twerkout Revolution</a>. Totally forgot this was a thing. Thanks to DancingMaractus for showing me this again."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/PC%20-%20Twerkout%20Revolution.zip'>Twerkout Revolution</a>. Totally forgot this was a thing. Thanks to DancingMaractus for showing me this again."
 				]
 			},
 			{
@@ -663,14 +695,14 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGMania",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.7.0-Windows-no-songs.exe'>ITGMania v0.7.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.7.0-Windows-no-songs.exe'>ITGMania v0.7.0</a>."
 				]
 			},
 			{
 				"Icon": "ITGM.png",
 				"Name": "ITGMania Custom Builds",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-17.zip'>In The Groove System Image V0.17</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-17.zip'>In The Groove System Image V0.17</a>."
 				]
 			}
 		]
@@ -755,7 +787,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip'>Electronic Beats</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/Electronic-Beats.zip'>Electronic Beats</a>."
 				]
 			}
 		]
@@ -776,7 +808,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip'>Super Dancer Offline Xtreme</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Offline%20Xtreme.zip'>Super Dancer Offline Xtreme</a>."
 				]
 			}
 		]
@@ -899,7 +931,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip'>PumpSanity Beta 0.95.1</a>. This is only the base game, you'll have to find the rest of the data."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/PumpSanity-b0.95.1.zip'>PumpSanity Beta 0.95.1</a>. This is only the base game, you'll have to find the rest of the data."
 				]
 			},
 			{
@@ -930,7 +962,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/PumpSanity.zip'>PumpSanity Beta 0.95</a>. This is only the base game, you'll have to find the rest of the data."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/PumpSanity.zip'>PumpSanity Beta 0.95</a>. This is only the base game, you'll have to find the rest of the data."
 				]
 			}
 		]
@@ -942,7 +974,7 @@
 				"Icon": "OUTFOXA4.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.19.LTS-Win64-date-20230414.exe'>Alpha LTS 4.19.0</a>."
+					"Added Project OutFox <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-0.4.19.LTS-Win64-date-20230414.exe'>Alpha LTS 4.19.0</a>."
 				]
 			}
 		]
@@ -961,7 +993,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip'>M4A1-Chan 2023</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/M4A1-Chan%202023.zip'>M4A1-Chan 2023</a>."
 				]
 			}
 		]
@@ -973,7 +1005,7 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGMania",
 				"List": [
-					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-16-final.zip'>v0.16</a>."
+					"Added In The Groove System Image <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-16-final.zip'>v0.16</a>."
 				]
 			},
 			{
@@ -1083,7 +1115,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/STEPMOD__1.2.zip'>STEP MOD 1.2</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/STEPMOD__1.2.zip'>STEP MOD 1.2</a>."
 				]
 			}
 		]
@@ -1202,19 +1234,19 @@
 				"Name": "StepMania 3.0",
 				"List": [
 					"Found more builds from the 3.0 days on CVS. This completes the logging of the transition from 3.0 to 3.9. The following is the list.",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030327a.exe'>20030327a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030420a.exe'>20030420a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030422.exe'>20030422</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030528a.exe'>20030528a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030531a.exe'>20030531a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030611b.exe'>20030611b</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030618a.exe'>20030618a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030623.exe'>20030623</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030630.exe'>20030630</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030715a.exe'>20030715a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030728a.exe'>20030728a</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030731.exe'>20030731</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/StepMania-CVS-20030803.exe'>20030803</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030327a.exe'>20030327a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030420a.exe'>20030420a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030422.exe'>20030422</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030528a.exe'>20030528a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030531a.exe'>20030531a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030611b.exe'>20030611b</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030618a.exe'>20030618a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030623.exe'>20030623</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030630.exe'>20030630</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030715a.exe'>20030715a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030728a.exe'>20030728a</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030731.exe'>20030731</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/StepMania-CVS-20030803.exe'>20030803</a>",
 					"Added date for the final official release of StepMania 3.0 (2002-10-23)."
 				]
 			},
@@ -1232,11 +1264,11 @@
 				"Name": "StepMania 4.0",
 				"List": [
 					"Found more builds for 4.0 on CVS. Possible changelogs were present on the StepMania website, which I'll try to find. The following is the list.",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060621.exe'>(20060621)</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060625.exe'>(20060625)</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060716-mac.zip'>Intermediate (20060716) [mac]</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0-CVS-20060717.exe'>Intermediate (20060717)</a>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060729-mac.zip'>Intermediate (20060729) [mac]</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060621.exe'>(20060621)</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/StepMania-CVS-20060625.exe'>(20060625)</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060716-mac.zip'>Intermediate (20060716) [mac]</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/StepMania-4.0-CVS-20060717.exe'>Intermediate (20060717)</a>",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Mac/StepMania-CVS-20060729-mac.zip'>Intermediate (20060729) [mac]</a>",
 					"Fixed Mac build for StepMania 4.0 CVS (20060613). Mixed up as the source."
 				]
 			}
@@ -1261,14 +1293,14 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.2.7z'>StepP1 V1.0.2</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP1%201.0.2.7z'>StepP1 V1.0.2</a>."
 				]
 			},
 			{
 				"Icon": "ETT.png",
 				"Name": "Etterna",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win64.exe'>Etterna 0.72.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.72.0-win64.exe'>Etterna 0.72.0</a>."
 				]
 			}
 		]
@@ -1280,7 +1312,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepP1%201.0.1.7z'>StepP1 V1.0.1</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepP1%201.0.1.7z'>StepP1 V1.0.1</a>."
 				]
 			}
 		]
@@ -1292,7 +1324,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-64bit-date-20221031.exe'>Alpha LTS 4.18.1</a>."
+					"Added Project OutFox <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-0.4.18.1.LTS-Windows-64bit-date-20221031.exe'>Alpha LTS 4.18.1</a>."
 				]
 			}
 		]
@@ -1304,7 +1336,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe'>Alpha LTS 4.18.0</a>."
+					"Added Project OutFox <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-LTS-0.4.18-Windows-64bit-date-20221026.exe'>Alpha LTS 4.18.0</a>."
 				]
 			}
 		]
@@ -1331,7 +1363,7 @@
 				"Icon": "OITG.png",
 				"Name": "OpenITG",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-v4.3.0-UpgradePack-EarlyAccess.zip'>NotITG v4.3.0 (Early Access).</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/OPENITG/NotITG-v4.3.0-UpgradePack-EarlyAccess.zip'>NotITG v4.3.0 (Early Access).</a>"
 				]
 			}
 		]
@@ -1378,7 +1410,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe'>Alpha 4.16.0.</a>"
+					"Added Project OutFox <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-alpha-0.4.16.0HF2-Windows64bit-date-20220801.exe'>Alpha 4.16.0.</a>"
 				]
 			},
 			{
@@ -1399,7 +1431,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added Project OutFox <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.0-Win32-date-20220614.exe'>Alpha 4.15.0</a> and <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.15.1-Win32-date-20220619.exe'>Alpha 4.15.1.</a>"
+					"Added Project OutFox <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-alpha-0.4.15.0-Win32-date-20220614.exe'>Alpha 4.15.0</a> and <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-alpha-0.4.15.1-Win32-date-20220619.exe'>Alpha 4.15.1.</a>"
 				]
 			}
 		]
@@ -1411,7 +1443,7 @@
 				"Icon": "ITGM.png",
 				"Name": "ITGmania",
 				"List": [
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.5.1-Windows-no-songs.exe'>ITGmania v0.5.1</a> has been released."
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.5.1-Windows-no-songs.exe'>ITGmania v0.5.1</a> has been released."
 				]
 			},
 			{
@@ -1439,7 +1471,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"So L-Tek <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepMania_L-TEK_r1.1.exe'>has made a custom 5.0.12(?)-based build</a> out of nowhere. It was released today, however the compile/cmake date is set to 2021. Currently still investigating the contents inside to describe differences."
+					"So L-Tek <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepMania_L-TEK_r1.1.exe'>has made a custom 5.0.12(?)-based build</a> out of nowhere. It was released today, however the compile/cmake date is set to 2021. Currently still investigating the contents inside to describe differences."
 				]
 			}
 		]
@@ -1472,7 +1504,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.1HF-Win32-date-20220327.exe'>Project OutFox Alpha 4.14.1</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-alpha-0.4.14.1HF-Win32-date-20220327.exe'>Project OutFox Alpha 4.14.1</a>."
 				]
 			}
 		]
@@ -1484,7 +1516,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe'>Project OutFox Alpha 4.14.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-alpha-0.4.14.0-Win32-date-20220325.exe'>Project OutFox Alpha 4.14.0</a>."
 				]
 			},
 			{
@@ -1509,7 +1541,7 @@
 				"Icon": "ETT.png",
 				"Name": "Etterna",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win64.exe'>Etterna 0.71.1</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win64.exe'>Etterna 0.71.2</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.1-win64.exe'>Etterna 0.71.1</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.2-win64.exe'>Etterna 0.71.2</a>."
 				]
 			},
 			{
@@ -1537,7 +1569,7 @@
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
-					"Repackaged versions of StepMania 4 <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip'>Beta 6</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z'>Beta 10</a> have been added."
+					"Repackaged versions of StepMania 4 <a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b6.zip'>Beta 6</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/StepMania-4.0.b10-SMArchiveRepack.7z'>Beta 10</a> have been added."
 				]
 			},
 			{
@@ -1556,7 +1588,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe'>Project OutFox Alpha 4.13.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.13.0-Windows-date-20220209.exe'>Project OutFox Alpha 4.13.0</a>."
 				]
 			}
 		]
@@ -1575,15 +1607,15 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/DSS.rar'>DSS (Dance Super Station)</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E7%B2%BE%E7%AE%80%E7%BB%BF%E8%89%B2%E7%89%88V1.0.exe'>舞状元精简绿色版V1.0 (Dance Champion Lite Green Edition)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/DSS.rar'>DSS (Dance Super Station)</a>"
 				]
 			},
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E8%B7%B3%E8%88%9E%E6%AF%AF_V2.0%E6%96%B0%E7%A8%8B%E5%BA%8F.rar'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Windows/%E8%88%9E%E7%8A%B6%E5%85%83%E8%B7%B3%E8%88%9E%E6%AF%AF_V2.0%E6%96%B0%E7%A8%8B%E5%BA%8F.rar'>舞状元跳舞毯_V2.0新程序 (Dance Champion V2.0)</a>."
 				]
 			}
 		]
@@ -1595,7 +1627,7 @@
 				"Icon": "NITG4.png",
 				"Name": "NotITG",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/NOTITG/MZeroBeta.zip'>MZero</a>. This is an old NITG based game that I worked on back in 2017. It didn't end up going anywhere really."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/NOTITG/MZeroBeta.zip'>MZero</a>. This is an old NITG based game that I worked on back in 2017. It didn't end up going anywhere really."
 				]
 			}
 		]
@@ -1630,7 +1662,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip'>v0.14</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip'>v0.15</a>."
+					"Added In The Groove System Image <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-14.zip'>v0.14</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-15-wip.zip'>v0.15</a>."
 				]
 			},
 			{
@@ -1678,7 +1710,7 @@
 				"Icon": "OUTFOX.png",
 				"Name": "Project OutFox",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.12.0-Win32-date-20211231.exe'>Project OutFox Alpha 4.12.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/outfox/Windows/OutFox-5.3.0-alpha-4.12.0-Win32-date-20211231.exe'>Project OutFox Alpha 4.12.0</a>."
 				]
 			}
 		]
@@ -1690,7 +1722,7 @@
 				"Icon": "ETT.png",
 				"Name": "Etterna",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-win64.exe'>Etterna 0.71.0</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.71.0-win64.exe'>Etterna 0.71.0</a>."
 				]
 			}
 		]
@@ -1728,8 +1760,8 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/CMSMA%20R001.exe'>CMSMA R001 (cesarmades' StepMania AMX)</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z'>Windows-Compiled Arcade build of In The Groove 1</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/CMSMA%20R001.exe'>CMSMA R001 (cesarmades' StepMania AMX)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/2004-08-30%20ITG1%20Arcade%20Final.7z'>Windows-Compiled Arcade build of In The Groove 1</a>."
 				]
 			},
 			{
@@ -1875,7 +1907,7 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Stepmania%20Extreme%20Online%20Project.rar'>StepMania Extreme Online Project v1.00</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/Stepmania%20Extreme%20Online%20Project.rar'>StepMania Extreme Online Project v1.00</a>."
 				]
 			}
 		]
@@ -1887,14 +1919,14 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.95",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe'>Staiain's 3.95 build</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.95/Windows/StepMania%203.95%20%5BStaiain%27s%5D.exe'>Staiain's 3.95 build</a>."
 				]
 			},
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe'>Club Fantastic Season 2.</a>"
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/ClubFantasticSeason2.exe'>Club Fantastic Season 2.</a>"
 				]
 			},
 			{
@@ -1935,14 +1967,14 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.9",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe'>Super Dance Online mania</a>. This release also had a separate version containing just the theme, which has been added to the themes archive."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/Super%20Dancer%20Online%20mania.exe'>Super Dance Online mania</a>. This release also had a separate version containing just the theme, which has been added to the themes archive."
 				]
 			},
 			{
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar'>Step Fex 1.4.1</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/Step_Fex_1_4_1.rar'>Step Fex 1.4.1</a>."
 				]
 			},
 			{
@@ -1967,7 +1999,7 @@
 				"Icon": "OITG.png",
 				"Name": "OpenITG",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe'>In The Groove 3 Encore r5</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe'>In The Groove 3 Encore r35</a>. Both custom ITG3 theme builds that seemed to be distributed back in 2012.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r5.exe'>In The Groove 3 Encore r5</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/OPENITG/Windows/In_The_Groove_3_r35.exe'>In The Groove 3 Encore r35</a>. Both custom ITG3 theme builds that seemed to be distributed back in 2012.",
 					"Added Changelogs for NotITG versions 4, 4.0.1 and 4.2.0.",
 					"The OpenGroove build on the archive has been identified as r5, and other build information has surfaced. Changelogs for them have been added, info of executables for these builds would be appreciated, as the <a href='https://www.facebook.com/groups/43815384856'>Facebook group this project took place in is private.</a>",
 					"As a result of the r5 find for OpenGroove, In The Groove 3 Encore r5 contains the same changelog as OpenGroove r5. It would seem ITG3Encore r5 is the full version of where that executable came from."
@@ -2054,14 +2086,14 @@
 				"Icon": "NITG4.png",
 				"Name": "NotITG",
 				"List": [
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip'>Added NotITG Version 4.2.0</a>."
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/OPENITG/NotITG-4.2.0-Program.zip'>Added NotITG Version 4.2.0</a>."
 				]
 			},
 			{
 				"Icon": "SM40.png",
 				"Name": "StepMania 4",
 				"List": [
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM4/Source/StepMania-CVS-20080103-src.tar.gz'>Added source package for StepMania 4 CVS 20080103</a>. Thanks to HeySora."
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM4/Source/StepMania-CVS-20080103-src.tar.gz'>Added source package for StepMania 4 CVS 20080103</a>. Thanks to HeySora."
 				]
 			},
 			{
@@ -2172,9 +2204,9 @@
 				"Name": "StepMania 3.0",
 				"List": [
 					"Added source code packages for the following builds:<ul>",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz'>StepMania 3.0 Beta 4</a>.",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz'>StepMania 3.0 Beta 5</a>.",
-					"<a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz'>StepMania 3.0 Final</a>."
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/Source/stepmania-300b4.tar.gz'>StepMania 3.0 Beta 4</a>.",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/Source/stepmania-300b5.tar.gz'>StepMania 3.0 Beta 5</a>.",
+					"<a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/Source/stepmania-300-final.tar.gz'>StepMania 3.0 Final</a>."
 				]
 			}
 		]
@@ -2186,10 +2218,10 @@
 				"Icon": "SM39.png",
 				"Name": "StepMania 3.0",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-06-03%20ITG1%20Arcade%20Beta.7z'>In The Groove (June 3rd Beta)</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z'>In The Groove (March 4th Beta)</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z'>In The Groove (January 7th Beta)</a>.",
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z'>In The Groove (July 23rd Alpha)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/2004-06-03%20ITG1%20Arcade%20Beta.7z'>In The Groove (June 3rd Beta)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/2004-03-04%20ITG1%20Arcade%20Beta.7z'>In The Groove (March 4th Beta)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.9/Windows/2004-01-07%20ITG1%20Arcade%20Beta.7z'>In The Groove (January 7th Beta)</a>.",
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM3.0/2003-07-23%20ITG1%20Arcade%20Alpha.7z'>In The Groove (July 23rd Alpha)</a>.",
 					"Added the <a href='BuildChangeLogs.html?Version=ITGA05132003'>May 2003 ITG1 Arcade Alpha build</a>. This is the start of a series of uploads."
 				]
 			}
@@ -2236,7 +2268,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip'>Step Prime Beta 0.94</a>."
+					"Added <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Windows/StepPrime-Beta%200.94.zip'>Step Prime Beta 0.94</a>."
 				]
 			}
 		]
@@ -2248,7 +2280,7 @@
 				"Icon": "SM5.png",
 				"Name": "StepMania 5",
 				"List": [
-					"Added In The Groove System Image <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip'>v0.12</a> and <a href='https://objects-us-east-1.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip'>v0.13</a>."
+					"Added In The Groove System Image <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-12.zip'>v0.12</a> and <a href='https://s3.us-east-005.dream.io/smbuilds/SM5/Linux/ITGSI/itg-v0-13.zip'>v0.13</a>."
 				]
 			}
 		]
