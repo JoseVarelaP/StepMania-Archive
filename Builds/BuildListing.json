@@ -1312,6 +1312,71 @@
                 "Mac": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.72.3-Darwin.dmg",
                 "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.72.3-Linux.tar.gz",
                 "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.72.3.tar.gz"
+            },
+            { "ID": "ETT0.74.0", "Name": "Etterna 0.74.0", "Date": "2024-12-25",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.0-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.0-win64.exe" }
+                ],
+                "Mac": [
+                    { "Name": "Darwin", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.0-Darwin.dmg" },
+                    { "Name": "High-Sierra", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.0-High-Sierra.dmg" },
+                    { "Name": "M1", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.0-M1.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.74.0-Linux.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.74.0.tar.gz"
+            },
+            { "ID": "ETT0.74.1", "Name": "Etterna 0.74.1", "Date": "2024-12-26",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.1-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.1-win64.exe" }
+                ],
+                "Mac": [
+                    { "Name": "Darwin", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.1-Darwin.dmg" },
+                    { "Name": "High-Sierra", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.1-High-Sierra.dmg" },
+                    { "Name": "M1", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.1-M1.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.74.1-Linux.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.74.1.tar.gz"
+            },
+            { "ID": "ETT0.74.2", "Name": "Etterna 0.74.2", "Date": "2024-12-27",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.2-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.2-win64.exe" }
+                ],
+                "Mac": [
+                    { "Name": "Darwin", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.2-Darwin.dmg" },
+                    { "Name": "High-Sierra", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.2-High-Sierra.dmg" },
+                    { "Name": "M1", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.2-M1.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.74.2-Linux.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.74.2.tar.gz"
+            },
+            { "ID": "ETT0.74.3", "Name": "Etterna 0.74.3", "Date": "2025-01-11",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.3-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.3-win64.exe" }
+                ],
+                "Mac": [
+                    { "Name": "Darwin", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.3-Darwin.dmg" },
+                    { "Name": "High-Sierra", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.3-High-Sierra.dmg" },
+                    { "Name": "M1", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.3-M1.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.74.3-Linux.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.74.3.tar.gz"
+            },
+            { "ID": "ETT0.74.4", "Name": "Etterna 0.74.4", "Date": "2025-04-01",
+                "Windows": [
+                    { "Name": "32Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.4-win32.exe" },
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Windows/Etterna-0.74.4-win64.exe" }
+                ],
+                "Mac": [
+                    { "Name": "Darwin", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.4-Darwin.dmg" },
+                    { "Name": "High-Sierra", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.4-High-Sierra.dmg" },
+                    { "Name": "M1", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Mac/Etterna-0.74.4-M1.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/Linux/Etterna-0.74.4-Linux.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/Etterna/src/etterna-0.74.4.tar.gz"
             }
         ]
     },
@@ -1760,7 +1825,7 @@
                     { "Name": "amd64", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-0.4.19-LTS-Linux-amd64-.20.04+.-modern-date-20230415.tar" }
                 ]
             },
-	    { "Icon": "OUTFOXA5.png", "ID": "OUTFOX5.pre042", "Name": "Project OutFox Alpha V Playtest Public Build pre042", "Date": "2023-12-24",
+	        { "Icon": "OUTFOXA5.png", "ID": "OUTFOX5.pre042", "Name": "Project OutFox Alpha V Playtest Public Build pre042", "Date": "2023-12-24",
                 "Windows": [
                     { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre042-Win64-date-20231225.exe" }
                 ],
@@ -1769,14 +1834,29 @@
                 ],
                 "Linux": [
                     { "Name": "amd64-legacy", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-14.04-amd64-legacy-date-20231225.tar.gz" },
-		    { "Name": "amd64-classic", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-amd64-classic-date-20231225" },
-		    { "Name": "nojack-amd64", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-nojack-amd64-classic-nj-date-20231225.tar.gz" },
-		    { "Name": "amd64-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-20.04-amd64-modern-date-20231225.tar.gz" },
-		    { "Name": "amd64-current", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-22.04-amd64-current-date-20231224.tar.gz" },
-		    { "Name": "arm64v8-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Raspberry-Pi-Linux-18.04-arm64-arm64v8-modern-date-20231225.tar.gz" }
+                    { "Name": "amd64-classic", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-amd64-classic-date-20231225" },
+                    { "Name": "nojack-amd64", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-18.04-nojack-amd64-classic-nj-date-20231225.tar.gz" },
+                    { "Name": "amd64-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-20.04-amd64-modern-date-20231225.tar.gz" },
+                    { "Name": "amd64-current", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Linux-22.04-amd64-current-date-20231224.tar.gz" },
+                    { "Name": "arm64v8-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre042-Raspberry-Pi-Linux-18.04-arm64-arm64v8-modern-date-20231225.tar.gz" }
+                ]
+            },
+            { "Icon": "OUTFOXA5.png", "ID": "OUTFOX5.pre043", "Name": "Project OutFox Alpha V Playtest Public Build pre043", "Date": "2025-09-06",
+                "Windows": [
+                    { "Name": "64Bit", "Link": "https://s3.us-east-005.dream.io/outfox/Windows/OutFox-AlphaV-0.5.0.0-pre043-Win64-date-20231225.exe" }
+                ],
+                "Mac": [
+                	{ "Name": "Universal", "Link": "https://s3.us-east-005.dream.io/outfox/Mac/OutFox-AlphaV-0.5.0.0-pre043-MacOS-date-20231224.dmg" }
+                ],
+                "Linux": [
+                    { "Name": "amd64-legacy", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Linux-14.04-amd64-legacy-date-20231225.tar.gz" },
+                    { "Name": "amd64-classic", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Linux-18.04-amd64-classic-date-20231225" },
+                    { "Name": "nojack-amd64", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Linux-18.04-nojack-amd64-classic-nj-date-20231225.tar.gz" },
+                    { "Name": "amd64-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Linux-20.04-amd64-modern-date-20231225.tar.gz" },
+                    { "Name": "amd64-current", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Linux-22.04-amd64-current-date-20231224.tar.gz" },
+                    { "Name": "arm64v8-modern", "Link": "https://s3.us-east-005.dream.io/outfox/Linux/OutFox-alpha-0.5.0-pre043-Raspberry-Pi-Linux-18.04-arm64-arm64v8-modern-date-20231225.tar.gz" }
                 ]
             }
-
         ]
     },
 
@@ -1825,10 +1905,56 @@
             { "ID": "ITGM0.8.0", "Name": "ITGmania v0.8.0", "Date": "2024-03-07",
                 "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.8.0-Windows-no-songs.exe",
                 "Mac": [
-                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.8.0-macOS-M1-no-songs.exe" },
-                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.8.0-macOS-Intel-no-songs.exe" }
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.8.0-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.8.0-macOS-Intel-no-songs.dmg" }
                 ],
-                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.8.0-Linux-no-songs.exe"
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.8.0-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/itgmania-0.8.0.tar.gz"
+            },
+            { "ID": "ITGM0.9.0", "Name": "ITGmania v0.9.0", "Date": "2024-06-19",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-0.9.0-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.9.0-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-0.9.0-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-0.9.0-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v0.9.0.tar.gz"
+            },
+            { "ID": "ITGM1.0.0", "Name": "ITGmania v1.0.0", "Date": "2025-03-13",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.0.0-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.0-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.0-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.0.0-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.0.0.tar.gz"
+            },
+            { "ID": "ITGM1.0.1", "Name": "ITGmania v1.0.1", "Date": "2025-03-26",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.0.1-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.1-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.1-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.0.1-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.0.1.tar.gz"
+            },
+            { "ID": "ITGM1.0.2", "Name": "ITGmania v1.0.2", "Date": "2025-03-26",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.0.2-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.2-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.0.2-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.0.2-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.0.2.tar.gz"
+            },
+            { "ID": "ITGM1.1.0", "Name": "ITGmania v1.1.0", "Date": "2025-06-23",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.1.0-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.1.0-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.1.0-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.1.0-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.1.0.tar.gz"
             }
         ]
     },
