@@ -22,6 +22,14 @@
 				"List": [
 					"Added Project OutFox Alpha V Playtest Public Build pre043."
 				]
+			},
+			{
+				"Icon": "SM40.png",
+				"Name": "Themes Archive",
+				"List": [
+					"<h2>StepMania 3.95:</h2>",
+					"Added Staiain and Staiainv10. Thanks to Rina for sending these out."
+				]
 			}
 		]		
 	},

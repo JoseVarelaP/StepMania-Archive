@@ -214,7 +214,9 @@
 			{ "Name": "Chromatic v2", "Link": "Chromatic%20v2.rar" },
 			{ "Name": "Chromatic", "Link": "Chromatic.rar" }
 		] },
+		"Staiain" : { "Name": "Staiain", "Link": "Staiain.rar" },
 		"Staiainv2" : { "Name": "Staiainv2", "NumImages": 5, "Link": "Staiainv2.rar" },
+		"Staiainv10" : { "Name": "Staiainv10", "Link": "Staiainv10.zip" },
 		"Staiainv12" : { "Name": "Staiainv12", "Link": "Staiainv12.rar", "NumImages": 5 },
 		"Xoon2" : { "Name": "Xoon 2", "NumImages": 5, "Author": "Holystorm", "Link": "Xoon%202.rar" },
 		"Xoon3" : { "Name": "Xoon 3", "NumImages": 6, "Link": "Xoon%203.rar" },
