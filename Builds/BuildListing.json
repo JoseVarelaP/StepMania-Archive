@@ -1955,6 +1955,24 @@
                 ],
                 "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.1.0-Linux-no-songs.tar.gz",
                 "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.1.0.tar.gz"
+            },
+            { "ID": "ITGM1.2.0", "Name": "ITGmania v1.2.0", "Date": "2026-03-19",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.2.0-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.2.0-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.2.0-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.2.0-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.2.0.tar.gz"
+            },
+            { "ID": "ITGM1.2.1", "Name": "ITGmania v1.2.1", "Date": "2026-03-27",
+                "Windows": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Windows/ITGmania-1.2.1-Windows-no-songs.exe",
+                "Mac": [
+                    { "Name": "M1 Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.2.1-macOS-M1-no-songs.dmg" },
+                    { "Name": "Intel Chip", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Mac/ITGmania-1.2.1-macOS-Intel-no-songs.dmg" }
+                ],
+                "Linux": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGmania-1.2.1-Linux-no-songs.tar.gz",
+                "Src": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Source/v1.2.1.tar.gz"
             }
         ]
     },
@@ -1983,6 +2001,9 @@
             },
             { "ID": "SI023", "Name": "In The Groove System Image V0.23", "Date": "2025-07-30",
                 "Linux": [ { "Name": "7ZS Image", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-23.zip" } ]
+            },
+            { "ID": "SI024", "Name": "In The Groove System Image V0.24", "Date": "2026-03-27",
+                "Linux": [ { "Name": "7ZS Image", "Link": "https://s3.us-east-005.dream.io/smbuilds/SM5/ITGMania/Linux/ITGSI/itg-v0-24.zip" } ]
             }
         ]
     }

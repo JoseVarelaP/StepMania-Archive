@@ -106,7 +106,8 @@
 		"Name": "StepMania 3.95",
         "pixel": { "Name": "pixel", "Author": "salAndy", "Link": "pixel.zip" },
         "salandy": { "Name": "salAndy", "Author": "salAndy", "Link": "salAndy.zip" },
-        "mgd": { "Name": "mgd", "Date": "2023-11-10", "Author": "Wanny", "Link": "mgd.7z" }
+        "mgd": { "Name": "mgd", "Date": "2023-11-10", "Author": "Wanny", "Link": "mgd.7z" },
+        "activ": { "Name": "AcTiv", "Date": "2026-04-02", "Author": "lingusbingus", "Link": "AcTiv.zip" }
     },
 
     "SM4": {
